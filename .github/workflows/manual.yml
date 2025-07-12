@@ -8,18 +8,18 @@ on:
 jobs:
     release:
         runs-on: ubuntu-latest
-        name: Generate Adlists2
+        name: "Generate Adlists2"
         steps:
-        - uses: actions/checkout@v2
-          with:
-            fetch-depth: 0
-        - name: Setup Node
-          uses: actions/setup-node@v4
-          with:
-            node-version: lts/*
-        - name: Echoing the tag name
-          run: |
-            node script/index.js
-            git commit -m "$(date +"%Y.%m.%d_%H:%M:%S")"
-            git push -u origin HEAD
-            gh release create $(date +"%Y.%m.%d_%H:%M:%S") --latest=true -t $(date +"%Y.%m.%d_%H:%M:%S")
+            - uses: actions/checkout@v2
+              with:
+                fetch-depth: 0
+            - name: Setup Node
+              uses: actions/setup-node@v4
+              with:
+                node-version: lts/*
+            - name: Echoing the tag name
+              run: |
+                node script/index.js
+                git commit -m "$(date +"%Y.%m.%d_%H:%M:%S")"
+                git push -u origin HEAD
+                gh release create $(date +"%Y.%m.%d_%H:%M:%S") --latest=true -t $(date +"%Y.%m.%d_%H:%M:%S")
