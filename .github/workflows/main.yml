@@ -1,0 +1,24 @@
+name: GenerateAdlists
+
+on:
+    schedule:
+    - cron: "0 */4 * * *"
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    name: Generate Adlists
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Setup Node
+      uses: actions/setup-node@v4
+      with:
+        node-version: lts/*
+    - name: Echoing the tag name
+      run: |
+        node script/index.js
+        git commit -m "$(date +"%Y-%m-%d")"
+        git push -u origin HEAD
+        gh release create $(date +"%Y-%m-%d") --latest=true -t $(date +"%Y-%m-%d")
