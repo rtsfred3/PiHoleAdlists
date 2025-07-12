@@ -20,7 +20,7 @@ jobs:
                 node-version: lts/*
             - name: Echoing the tag name
               run: |
-                npm test
+                npm run test
                 git commit -m "$(date +"%Y.%m.%d_%H:%M:%S")"
                 git push -u origin HEAD
                 gh release create $(date +"%Y.%m.%d_%H:%M:%S") --latest=true -t $(date +"%Y.%m.%d_%H:%M:%S")
