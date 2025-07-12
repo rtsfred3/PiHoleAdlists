@@ -1,0 +1,11 @@
+{
+  "name": "piholeapi-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts/index.js",
+  "scripts": {
+    "test": "node scripts/index.js"
+  },
+  "author": "",
+  "license": "APACHE-2.0"
+}

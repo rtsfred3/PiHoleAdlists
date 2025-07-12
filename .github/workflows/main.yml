@@ -9,7 +9,7 @@ on:
 jobs:
     release:
         runs-on: ubuntu-latest
-        name: "Generate Adlists2"
+        name: "Generate Adlists"
         steps:
             - uses: actions/checkout@v2
               with:
