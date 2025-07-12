@@ -62,7 +62,7 @@ async function generateBlocklistFromEnabledGravityAdlists(url, fileName) {
     }
 }
 
-async function uploadToGist(filesList) {
+async function uploadToGist(token, filesList) {
     var updatedGist = {
         "description": "A combined Adblock list from Pi-Hole",
         "files": {}
@@ -82,7 +82,7 @@ async function uploadToGist(filesList) {
         headers: {
             'Accept': 'application/vnd.github+json',
             'X-GitHub-Api-Version': '2022-11-28',
-            'Authorization': 'Bearer __'
+            'Authorization': `Bearer ${token}`
         },
         body: JSON.stringify(updatedGist)
     };
@@ -100,4 +100,4 @@ generateBlocklistFromEnabledGravityAdlists("https://gist.githubusercontent.com/r
 generateBlocklistFromEnabledGravityAdlists("https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/advertising", "advertising.txt");
 generateBlocklistFromEnabledGravityAdlists("https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/hagezi.native.adlist", "hagezi.native.adblock.txt");
 
-// uploadToGist(['adblock.txt', 'advertising.txt', 'hagezi.native.adblock.txt']);
+// uploadToGist('token', ['adblock.txt', 'advertising.txt', 'hagezi.native.adblock.txt']);

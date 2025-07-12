@@ -19,6 +19,6 @@ jobs:
     - name: Echoing the tag name
       run: |
         node script/index.js
-        git commit -m "$(date +"%Y-%m-%d")"
+        git commit -m "$(date +"%Y.%m.%d_%H:%M:%S")"
         git push -u origin HEAD
-        gh release create $(date +"%Y-%m-%d") --latest=true -t $(date +"%Y-%m-%d")
+        gh release create $(date +"%Y.%m.%d_%H:%M:%S") --latest=true -t $(date +"%Y.%m.%d_%H:%M:%S")
