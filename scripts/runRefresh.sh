@@ -67,7 +67,9 @@ echo "Updated Files"
 
 # uploadToBunnyCDN
 
-# rm $(find abp -type f -size +50M)
+bash scripts/generateCDNMarkdown.sh
+
+rm $(find abp -type f -size +50M)
 
 echo "Pushing to GitHub"
 
