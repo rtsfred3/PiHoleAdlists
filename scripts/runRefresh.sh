@@ -7,7 +7,16 @@ EMAIL="$2"
 API_KEY="$3"
 DATE=$(date -u +'%Y%m%d.%H%M00')
 
-uploadToCloudflare() {
+uploadFileToBunnyCDN() {
+    curl --request PUT \
+            --url https://storage.bunnycdn.com/adlists-rtf/adlist/adblock/$1 \
+            -H "AccessKey: $API_KEY" \
+            -H 'Content-Type: application/octet-stream' \
+            -H 'accept: application/json'  \
+            --data-binary @$DIR/$1
+}
+
+uploadToBunnyCDN() {
     echo "Uploading to BunnyCDN"
 
     FILES=$(find $DIR -type f -name '*.txt' -o -name '*.txt.gz' | sort -u)
@@ -15,12 +24,14 @@ uploadToCloudflare() {
     for FILE in ${FILES[@]}; do
         FILE_NAME="$(echo "$FILE" | cut -d "/" -f2)"
 
-        curl --request PUT \
-            --url https://storage.bunnycdn.com/adlists-rtf/adlist/adblock/$FILE_NAME \
-            -H "AccessKey: $API_KEY" \
-            -H 'Content-Type: application/octet-stream' \
-            -H 'accept: application/json'  \
-            --data-binary @$DIR/$FILE_NAME &
+        uploadFileToBunnyCDN $FILE_NAME
+
+        # curl --request PUT \
+        #     --url https://storage.bunnycdn.com/adlists-rtf/adlist/adblock/$FILE_NAME \
+        #     -H "AccessKey: $API_KEY" \
+        #     -H 'Content-Type: application/octet-stream' \
+        #     -H 'accept: application/json'  \
+        #     --data-binary @$DIR/$FILE_NAME &
     done
 
     wait
@@ -53,7 +64,7 @@ bash scripts/generateAdblockProCombined.sh adlist.adblock.txt https://gist.githu
 
 echo "Updated Files"
 
-# uploadToCloudflare
+# uploadToBunnyCDN
 
 # rm $(find abp -type f -size +50M)
 
@@ -67,4 +78,4 @@ git push origin "$DATE"
 
 echo "Pushed to GitHub"
 
-uploadToCloudflare
+uploadToBunnyCDN
