@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-09-28 07:00:40 UTC
+! Generated at 2025-09-29 07:00:08 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 ! 
@@ -541,6 +541,7 @@
 ||inviso.rampanel.com^
 ||invite.leanlab.co^
 ||ion.btcswe.com^
+||ip.holid.io^
 ||ipmeta.io^
 ||izooto.com^
 ||js.adsaga.se^
