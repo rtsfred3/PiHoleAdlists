@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-09-29 07:00:15 UTC
+! Generated at 2025-09-30 07:00:15 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -2018,6 +2018,7 @@
 ||pri1-id-eu.amazon-adsystem.com^
 ||pri1-id-fe.amazon-adsystem.com^
 ||pri1-id-us.amazon-adsystem.com^
+||primeevents.trafficmanager.net^
 ||privacy.miui.com^
 ||prod-eh-v1-analytics.servicebus.windows.net^
 ||prod-eventhub-analytics.servicebus.windows.net^

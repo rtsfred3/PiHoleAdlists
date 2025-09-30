@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-09-29 07:00:24 UTC
+! Generated at 2025-09-30 07:00:24 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -7330,6 +7330,7 @@
 ||as.wieistmeineip.de^
 ||aswpsdkus.com^
 ||asxxlo.interflora.es^
+||async-px.dynamicyield.com^
 ||as.yomonda.de^
 ||at.360.audion.fm^
 ||a.tactics.com^
@@ -9543,6 +9544,7 @@
 ||collector-px0py5pczn.octopart.com^
 ||collector.quillbot.com^
 ||collector.schibsted.io^
+||collector.spankbang.party^
 ||collector.sspinc.io^
 ||collector.taoxh.life^
 ||collector.t-idr.com^
@@ -9596,6 +9598,7 @@
 ||commonalmanac.com^
 ||commondreams.actonservice.com^
 ||comms.adss.com^
+||comms.bps.org.uk^
 ||comms.cigna.co.uk^
 ||comms.cigna.es^
 ||comms.cignaglobalhealth.com^
@@ -11249,6 +11252,7 @@
 ||data.umfrage.nettokom.de^
 ||data.umfrage.whatsappsim.de^
 ||data.vdi-wissensforum.de^
+||data.vevor.com^
 ||data.vinsolutions.com^
 ||data.volksfreund.de^
 ||data.voyager.dev.cjmadobe.com^
@@ -11277,7 +11281,6 @@
 ||dbbest.actonservice.com^
 ||dbex-tracker-v2.driveback.ru^
 ||dbhbgz.suitableshop.nl^
-||dbhsejcg-meetup-com.cdnjs.network^
 ||dbj.quebecregion.com^
 ||dbl.cadriamarketing.com^
 ||dbmbfe.pegipegi.com^
@@ -27405,6 +27408,7 @@
 ||primary-app.hotdoc.com.au^
 ||primary.hasegawa.jp^
 ||primavera.actonservice.com^
+||primeevents.trafficmanager.net^
 ||prime.net.jumia.co.tz^
 ||priority-app.hotdoc.com.au^
 ||prism.drivingkyoto.com^
@@ -27885,6 +27889,7 @@
 ||quinceimaging.actonservice.com^
 ||quirklogic.actonservice.com^
 ||quirkybliss.com^
+||quirkybodega.com^
 ||quirkysugar.com^
 ||quixoticnebula.com^
 ||quizzicalpartner.com^
@@ -28732,6 +28737,7 @@
 ||rum.azioncdn.net^
 ||rum.azion.com^
 ||rum.ca-central-1.amazonaws.com^
+||rum.cdnpure.com^
 ||rum.condenastdigital.com^
 ||rum.corewebvitals.io^
 ||rum.cronitor.io^
@@ -29491,6 +29497,7 @@
 ||sa.oprah.com^
 ||sapi.tremendous.com^
 ||sappmetrics.sprint.com^
+||sa.recoding.tech^
 ||sa.reebok.co.uk^
 ||sa.scorpion.co^
 ||sasc.solidworks.com^
@@ -30347,6 +30354,7 @@
 ||see.wasteorshare.com^
 ||see.yousoon.com^
 ||sefkal.openapp.link^
+||segapi.whop.com^
 ||segment-api.inrix.com^
 ||segment.lalr.co^
 ||segmentor.snowfox-ai.com^
@@ -37087,6 +37095,7 @@
 ||tags.klove.com^
 ||tags.master-perf-tools.com^
 ||tags.op-palvelut.fi^
+||tags.premiumads.com.br^
 ||tags.pw.adn.cloud^
 ||tags.soloway.ru^
 ||tags.stepstone.com^
@@ -37608,6 +37617,7 @@
 ||telemetry.microsoft.com^
 ||telemetry.moveworks.com^
 ||telemetry.navispherecarrier.com^
+||telemetry.nav.no^
 ||telemetry.owenscorning.com^
 ||telemetry.phenixrts.com^
 ||telemetry.proton.me^
@@ -41398,6 +41408,7 @@
 ||tzgurwizule3.app.cardahealth.com^
 ||tzovkp.aboutyou.at^
 ||u0crsrah75fy.camberlion.com^
+||u1sdata.webullfintech.com^
 ||u.20minutes.fr^
 ||u.20mn.it^
 ||u299.libelle-lekker.be^
@@ -43043,7 +43054,6 @@
 ||wevbgr.vidaxl.it^
 ||wezbvq.heine-shop.nl^
 ||wfmcgd.msccruzeiros.com.br^
-||wf.typesquare.com^
 ||wgeaqi.laredoute.gr^
 ||wgnrrd.culturekings.com^
 ||wgpepw.boatoutfitters.com^
