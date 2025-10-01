@@ -17,6 +17,10 @@ echo $HOST_LIST
 
 DEDUPED_FILE="tmp_${FILE}"
 
+if [ -f "$DIR/$FILE" ]; then
+    rm $DIR/$FILE
+fi
+
 if [ ! -d "$DIR" ]; then
     mkdir $DIR
 fi
@@ -31,8 +35,11 @@ echo "[Adblock Plus]
 
 curl "$HOST_LIST" --silent | sed '/^#/d' | sed -E 's/^[^ #]+[ ]+(.+)$/\1/g' | sort >> $DIR/$FILE
 
+echo "$(cat $DIR/$FILE | sed -E 's/^(0|127)\.0\.0\.(0|1)(	)?//g' | sort)" > $DIR/$FILE
+
 echo "$(cat $DIR/$FILE | sort | sed -E '/^[ 	]+#/d' | sed -E 's/^(.+) #.*$/\1/g' | sed '/^$/d' | sed '/^(0|127)\.0\.0\.(0|1)$/d' | sort -u)" > $DIR/$FILE
-echo "$(cat $DIR/$FILE | sort | sed -E 's/^(.+)$/||\1^/g')" >> $DIR/$DEDUPED_FILE
+echo "$(sed -E 's/^/||/g' $DIR/$FILE | sed -E 's/([|0-9a-z\.\-]+)/\1\^/g' | sort)" >> $DIR/$DEDUPED_FILE
+# echo "$(cat $DIR/$FILE | sort | sed -E 's/^(.+)$/||\1^/g')" >> $DIR/$DEDUPED_FILE
 
 mv $DIR/$DEDUPED_FILE $DIR/$FILE
 

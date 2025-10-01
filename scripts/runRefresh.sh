@@ -52,6 +52,7 @@ if [ ! -d "$DIR" ]; then
     mkdir $DIR
 fi
 
+bash scripts/generateHostToAdblockPro.sh urlhaus.hostfile.adblock.txt https://urlhaus.abuse.ch/downloads/hostfile
 bash scripts/generateHostToAdblockPro.sh frellwits.swedish.adblock.txt https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 bash scripts/generateHostToAdblockPro.sh adaway.adblock.txt https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
 bash scripts/generateHostToAdblockPro.sh ph00lt0.blocklist.adblock.txt https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
