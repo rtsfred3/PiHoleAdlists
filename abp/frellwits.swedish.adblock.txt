@@ -1,11 +1,10 @@
 [Adblock Plus]
-! Generated at 2025-09-30 07:00:08 UTC
+! Generated at 2025-10-01 05:19:26 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 ! 
 ||1221d63988a216e58e8ee4e8bb38598031fdba93e0.nuid.imrworldwide.com^
 ||197654070b0e4b05add9b2994aea3887.js.ubembed.com^
-||1terms.com^
 ||38d9cb358a39997f9864cecf832b8d58884a6e067d.nuid.imrworldwide.com^
 ||4898337.fls.doubleclick.net^
 ||5c2aa979542c05cc40445705ff83e3292ef07b807c.nuid.imrworldwide.com^
@@ -332,7 +331,6 @@
 ||ce15487c31ed84e82d0694948a8889f7e3b1685d54.nuid.imrworldwide.com^
 ||c.eacla.com^
 ||ced.sascdn.com^
-||c.flx1.com^
 ||cintnetworks.com^
 ||cision.com^
 ||cis.schibsted.com^
@@ -1069,7 +1067,6 @@
 ||tradecore.tradehouse.media^
 ||traffic.feedremedy.com^
 ||trafficgateway.research-int.se^
-||tr.apsisforms.com^
 ||t.raptorsmartadvisor.com^
 ||trckr1.nordiskemedier.dk^
 ||trckr.nordiskemedier.dk^
