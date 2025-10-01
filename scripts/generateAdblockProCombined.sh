@@ -34,9 +34,9 @@ while IFS= read -r line; do
     curl "$line" --silent | sed '/^!/d' | sed '/^\[/d' | sed '/^#/d' | sort >> $DIR/$FILE
 done <<< "$SOURCE_URL"
 
-# for run in {1..2}; do
-#     echo "! " >> $DIR/$DEDUPED_FILE
-# done
+for run in {1..1}; do
+    echo "! " >> $DIR/$DEDUPED_FILE
+done
 
 cat $DIR/$FILE | sed '1d' | sed -E 's/^([^\|].*[^\^])$/\|\|\1\^/g' | sort -u >> $DIR/$DEDUPED_FILE
 
