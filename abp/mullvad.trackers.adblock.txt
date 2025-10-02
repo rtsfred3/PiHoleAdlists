@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-01 07:01:07 UTC
+! Generated at 2025-10-02 07:00:42 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -9528,6 +9528,7 @@
 ||collector.betway.com^
 ||collector.cint.com^
 ||collector.clareity.net^
+||collector.dgnet.ltd.uk^
 ||collector-direct.xhamster.com^
 ||collector.ex.co^
 ||collector.fiverr.com^
@@ -9591,6 +9592,7 @@
 ||commanslabdspace.carte-gr.total.fr^
 ||commerce.bing.com^
 ||commerce.edc.ca^
+||commercial-analytics-collector.news.co.uk^
 ||commercial.davey.com^
 ||commercial.equifax.com^
 ||commercial.inform.equifax.com^
@@ -12106,6 +12108,7 @@
 ||domself.de^
 ||d.omsnative.de^
 ||donjigrad.viessmann.rs^
+||do-not-tracker.org^
 ||dopljl.noleggiosemplice.it^
 ||doppler-beacon.cbsivideo.com^
 ||doppler-client-events.cbsivideo.com^
@@ -12608,6 +12611,7 @@
 ||edge.truistmomentum.com^
 ||edge.truistsecurities.com^
 ||edge.wnetwork.com^
+||ediemidnightzombies.com^
 ||ed.large.be^
 ||ed.large.nl^
 ||edm.healthroundtable.org^
@@ -13836,6 +13840,7 @@
 ||evergage1.actonservice.com^
 ||eversource.actonservice.com^
 ||evhvza.sodimac.com.br^
+||eviltracker.net^
 ||e.viously.com^
 ||evkjai.grandado.com^
 ||ev.moneymade.io^
@@ -26857,6 +26862,7 @@
 ||phoenix-content.cresa.com^
 ||phoenix.thexlife.co^
 ||phonecup.com^
+||phoneresult.com^
 ||phonesubmissions.apple.com^
 ||phonetrack.hukumkaikka.in^
 ||photography.hursey.com^
@@ -38657,6 +38663,7 @@
 ||tracker.services.vaix.ai^
 ||tracker.shanon-services.com^
 ||tracker.shopclues.com^
+||trackersimulator.org^
 ||tracker.smartframe.io^
 ||tracker.smartseminar.jp^
 ||tracker.softcube.com^
