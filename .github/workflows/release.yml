@@ -31,4 +31,12 @@ jobs:
           make_latest: true
           body: Blocklists have been updated
           files: |
-            *.gz
+            abp/adaway.adblock.txt.gz
+            abp/adlist.adblock.txt.gz
+            abp/advertising.adblock.txt.gz
+            abp/frellwits.swedish.adblock.txt.gz
+            abp/hagezi.native.adblock.txt.gz
+            abp/mullvad.malware.adblock.txt.gz
+            abp/mullvad.trackers.adblock.txt.gz
+            abp/ph00lt0.blocklist.adblock.txt.gz
+            abp/urlhaus.hostfile.adblock.txt.gz
