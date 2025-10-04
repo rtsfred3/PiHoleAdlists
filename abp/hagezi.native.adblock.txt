@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-03 07:00:28 UTC
+! Generated at 2025-10-04 07:00:23 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -72,6 +72,7 @@
 ||aax-us.amazon-adsystem.amazon.com^
 ||aax-us.amazon-adsystem.com^
 ||aax-us-cpm.amazon-adsystem.amazon.com^
+||aax-us-east-1-ott.amazon-adsystem.amazon.com^
 ||aax-us-east.amazon-adsystem.com^
 ||aax-us-east-dtb.amazon-adsystem.com^
 ||aax-us-east-dtb-mobile.amazon-adsystem.com^
@@ -338,7 +339,6 @@
 ||analytics.msnbc.msn.com^
 ||analytics.msn.com^
 ||analyticspixel.microsoft.com^
-||analytics.pstnhub.microsoft.com^
 ||analytics.roku.com^
 ||analytics-ru.tiktok.com^
 ||analytics.samsungedo.com^
@@ -388,7 +388,6 @@
 ||api.installer.xiaomi.com^
 ||api.jr.mi.com^
 ||api.launcher.intl.miui.com^
-||api.micloud.xiaomi.net^
 ||api.mintbrs.intl.miui.com^
 ||api.miui.security.xiaomi.com^
 ||api.muc.intl.miui.com^
@@ -942,6 +941,7 @@
 ||ffc-word-telemetry.officeapps.live.com^
 ||ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net^
 ||file.cdn.mvideo.xiaomi.com^
+||find.api.micloud.xiaomi.net^
 ||findapi.micloud.xiaomi.net^
 ||finosfin.com^
 ||flash.sec.intl.miui.com^
@@ -2080,6 +2080,7 @@
 ||rtlog-va.tiktokv.com^
 ||rtlog-va-useast2a.tiktokv.com^
 ||rtmpott.pandora.xiaomi.com^
+||ru-album-api.vivoglobal.com^
 ||ru-analyzer-appstore.vivoglobal.com^
 ||ru-api.xmpush.global.xiaomi.com^
 ||ru-commonitor-stsdk.vivoglobal.com^
@@ -2551,6 +2552,7 @@
 ||upgrade.pandora.xiaomi.com^
 ||upu.samsungelectronics.com^
 ||us-ad-lgsmartad-com.aws-prd.net^
+||us.api.micloud.xiaomi.net^
 ||usc-onenote-telemetry.officeapps.live.com^
 ||usc-visio-telemetry.officeapps.live.com^
 ||userdata.dev.sr.roku.com^

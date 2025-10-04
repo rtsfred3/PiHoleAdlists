@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-03 07:00:44 UTC
+! Generated at 2025-10-04 07:00:39 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -3952,6 +3952,7 @@
 ||aax-us.amazon-adsystem.amazon.com^
 ||aax-us.amazon-adsystem.com^
 ||aax-us-cpm.amazon-adsystem.amazon.com^
+||aax-us-east-1-ott.amazon-adsystem.amazon.com^
 ||aax-us-east.amazon-adsystem.com^
 ||aax-us-east-dtb.amazon-adsystem.com^
 ||aax-us-east-dtb-mobile.amazon-adsystem.com^
@@ -4705,6 +4706,7 @@
 ||adpromo.peppynet.com^
 ||ad.quickapp.hybrid.xiaomi.com^
 ||ad.rejichoice.jp^
+||adrsbl.io^
 ||adrtx.net^
 ||ads1.msn.com^
 ||ads2.msn.com^
@@ -5154,6 +5156,7 @@
 ||alias.cloud-marketing.dimensiondata.com^
 ||alibabapizza.openapp.link^
 ||alicat.actonservice.com^
+||a.lifehacker.ru^
 ||alikeaddition.com^
 ||alinks.outcomes4me.com^
 ||a.linkz.ai^
@@ -5729,7 +5732,6 @@
 ||analytics.productreview.com.au^
 ||analytics.propensity.com^
 ||analytics-proxy.springboard.com^
-||analytics.pstnhub.microsoft.com^
 ||analytics.pyksid.com^
 ||analytics.python.org^
 ||analytics.qogita.com^
@@ -6125,7 +6127,6 @@
 ||api.launcher.intl.miui.com^
 ||apilog-web.acfun.cn^
 ||api-metric.gosweb.gosuslugi.ru^
-||api.micloud.xiaomi.net^
 ||api.mintbrs.intl.miui.com^
 ||api.miui.security.xiaomi.com^
 ||api.muc.intl.miui.com^
@@ -14196,6 +14197,7 @@
 ||financialeducation-info.uchicago.edu^
 ||financialservices.nada.org^
 ||financialservices.teranet.ca^
+||find.api.micloud.xiaomi.net^
 ||findapi.micloud.xiaomi.net^
 ||find.api.micloud.xiaomi.net.iberostar.com^
 ||findthetruth.allergyai.com^
@@ -25207,6 +25209,7 @@
 ||my8yyx7wcyyt.dev.monumentmetals-pwa.stgin.com^
 ||mya.actonservice.com^
 ||myakiu.trendhim.ch^
+||myangular.life^
 ||myapp.branch.rocks^
 ||my.bake-club.com^
 ||mybjjg.vlan.be^
@@ -28720,6 +28723,7 @@
 ||rt.whitebridge.ai^
 ||rtxlni.doclasse.com^
 ||rtxpx-a.akamaihd.net^
+||ru-album-api.vivoglobal.com^
 ||ru-analyzer-appstore.vivoglobal.com^
 ||ru-api.xmpush.global.xiaomi.com^
 ||ru-commonitor-stsdk.vivoglobal.com^
@@ -37760,6 +37764,7 @@
 ||test.samsungrm.net^
 ||test-share.glorify-app.com^
 ||test.shigoto-web.com^
+||test.showvid.ws^
 ||test.siriusdecisions.com^
 ||test.smrtp.link^
 ||testsocial.eduthrill.com^
@@ -41746,6 +41751,7 @@
 ||usage.centsdonations.com^
 ||u.salony.com^
 ||usaoptimizedby.increasingly.co^
+||us.api.micloud.xiaomi.net^
 ||us.appbackupapi.micloud.xiaomi.net.iberostar.com^
 ||usaprogrip.actonservice.com^
 ||usb-vna.coppermountaintech.com^
