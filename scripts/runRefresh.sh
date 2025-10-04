@@ -25,13 +25,6 @@ uploadToBunnyCDN() {
         FILE_NAME="$(echo "$FILE" | cut -d "/" -f2)"
 
         uploadFileToBunnyCDN $FILE_NAME
-
-        # curl --request PUT \
-        #     --url https://storage.bunnycdn.com/adlists-rtf/adlist/adblock/$FILE_NAME \
-        #     -H "AccessKey: $API_KEY" \
-        #     -H 'Content-Type: application/octet-stream' \
-        #     -H 'accept: application/json'  \
-        #     --data-binary @$DIR/$FILE_NAME &
     done
 
     wait
@@ -64,6 +57,12 @@ bash scripts/generateAdblockProCombined.sh advertising.adblock.txt https://gist.
 bash scripts/generateAdblockProCombined.sh adlist.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/adlist.abp
 # bash scripts/generateAdblockProCombined.sh nrd14.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd14.abp
 # bash scripts/generateAdblockProCombined.sh nrd30.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd30.abp
+
+# uploadFileToBunnyCDN $DIR/nrd14.txt
+# uploadFileToBunnyCDN $DIR/nrd14.txt.gz
+
+# uploadFileToBunnyCDN $DIR/nrd30.txt
+# uploadFileToBunnyCDN $DIR/nrd30.txt.gz
 
 echo "Updated Files"
 
