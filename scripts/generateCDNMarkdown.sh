@@ -5,11 +5,11 @@ processFile() {
 
 	GH="[GH](https://raw.githubusercontent.com/rtsfred3/Adlists/main/$FILE)"
 	GL="[GL](https://gitlab.com/rtsfred3/Adlists/-/raw/main/$FILE)"
-	JSDELIVR="[JSDelivr](https://cdn.jsdelivr.net/gh/rtsfred3/Adlists@main/$FILE)"
-	STATICALLY="[Statically (GH)](https://cdn.statically.io/gh/rtsfred3/Adlists/main/$FILE)"
-	STATICALLYGITLAB="[Statically (GL)](https://cdn.statically.io/gl/rtsfred3/Adlists/main/$FILE)"
+	JSDELIVR="[Mirror 1](https://cdn.jsdelivr.net/gh/rtsfred3/Adlists@main/$FILE)"
+	STATICALLY="[Mirror 2](https://cdn.statically.io/gh/rtsfred3/Adlists/main/$FILE)"
+	STATICALLYGITLAB="[Mirror 3](https://cdn.statically.io/gl/rtsfred3/Adlists/main/$FILE)"
 
-	echo "| $SHORT_FILE | $GH $GL $JSDELIVR $STATICALLY $STATICALLYGITLAB | $(date -r $FILE "+%Y-%m-%d %H:%M:%S") |" >> CDNs.md
+	echo "| $SHORT_FILE | $GH $GL $JSDELIVR $STATICALLY | $(date -r $FILE "+%Y-%m-%d %H:%M:%S") |" >> CDNs.md
 }
 
 echo "| File | Link | Last Modified |

@@ -12,18 +12,10 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-    #   - name: Create Release
-    #     id: create_release
-    #     uses: actions/create-release@v1
-    #     env:
-    #       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    #     with:
-    #       tag_name: ${{ github.ref }}
-    #       release_name: ${{ github.ref }}
-    #       body: |
-    #         Blocklists have been updated
-    #       draft: false
-    #       prerelease: false
+      - name: Fetching Newly Registered Domains for Previous 14 & 30 Days
+        run: |
+            bash scripts/generateAdblockProCombined.sh nrd14.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd14.abp
+            bash scripts/generateAdblockProCombined.sh nrd30.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd30.abp
       - name: Release
         uses: softprops/action-gh-release@v2
         if: github.ref_type == 'tag'
@@ -40,3 +32,5 @@ jobs:
             abp/mullvad.trackers.adblock.txt.gz
             abp/ph00lt0.blocklist.adblock.txt.gz
             abp/urlhaus.hostfile.adblock.txt.gz
+            abp/nrd14.txt.gz
+            abp/nrd30.txt.gz
