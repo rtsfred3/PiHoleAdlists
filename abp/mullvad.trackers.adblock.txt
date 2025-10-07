@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-06 07:00:33 UTC
+! Generated at 2025-10-07 07:00:37 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -5308,6 +5308,7 @@
 ||analyticcdn.globalmailer.com^
 ||analyticcdn.wlmediahub.com^
 ||analytic.cibc.com^
+||analytic-client.adult-chess.com^
 ||analytic-client.blitzmightyparty.com^
 ||analytic-client.chickgoddess.com^
 ||analytic-client.panowars.com^
@@ -14728,6 +14729,7 @@
 ||gagysn.floward.com^
 ||gahhfg.bobo.com.br^
 ||gak.webtoons.com^
+||galileotelemetry.tencent.com^
 ||gallery.cdn.pandora.xiaomi.com^
 ||gallerysouvlakeri.openapp.link^
 ||galop.leferacheval-saintcloud.com^
