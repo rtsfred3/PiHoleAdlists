@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-08 07:00:42 UTC
+! Generated at 2025-10-09 07:00:42 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -5770,6 +5770,7 @@
 ||analytics.samsungedo.com^
 ||analytics.samsungknox.com^
 ||analytics.sanoma.fi^
+||analytics.sayprimer.com^
 ||analytics.scorpion.co^
 ||analytics-scripts.cablelabs.com^
 ||analytics.seagate.com^
@@ -7924,6 +7925,7 @@
 ||bfvlgp.appstory.co.kr^
 ||b.fxnetworks.com^
 ||bfzikn.l-wine.ru^
+||bgalytics.com^
 ||bgaycm.exvital-shop.de^
 ||b.getmaintainx.com^
 ||b.gett.com^
@@ -26727,6 +26729,7 @@
 ||pc-mon-va.byteoversea.com^
 ||pcm.symantec.com^
 ||pcnphysio-com.ca-eulerian.net^
+||p.codio.com^
 ||pcp.coupert.com^
 ||pc.personalcreations.com^
 ||p.cquotient.com^
