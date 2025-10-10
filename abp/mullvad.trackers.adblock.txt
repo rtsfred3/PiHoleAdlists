@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-09 07:00:42 UTC
+! Generated at 2025-10-10 07:00:43 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4925,6 +4925,7 @@
 ||adx-drru.op.dbankcloud.com^
 ||adx-drru.op.hicloud.com^
 ||ad.xiaomi.com^
+||adxlog-adnet.vivo.com.cn^
 ||adx.tv.mi.com^
 ||adxzju.penti.com^
 ||aebvay.mesinspirationsculinaires.com^
@@ -12229,6 +12230,7 @@
 ||d.sourcepoint.capitalfm.com^
 ||dsoxjxin5jji.controlconceptsusa.com^
 ||dsp-ad-cache-tm.trafficmanager.net^
+||dsplog-adnet.vivo.com.cn^
 ||dspx.tv^
 ||dst05lp2.net.mydays.de^
 ||d-staging.groc.press^
@@ -24909,6 +24911,8 @@
 ||monacobeatles.com^
 ||mon.be.xiaomi.com^
 ||monbk.tiktokv.com^
+||mon-boot.tiktokv.com^
+||mon-boot.tiktokv.com.edgekey.net^
 ||mon.byteoversea.com^
 ||mon-csj-maliva-ios.byteoversea.com^
 ||mon.domdog.io^
@@ -38771,6 +38775,7 @@
 ||tracking.accent-technologies.com^
 ||tracking.acceptance.industrial.omron.eu^
 ||tracking.adalyser.com^
+||tracking-adnet.vivo.com.cn^
 ||tracking.adp.ca^
 ||tracking.adp.com^
 ||tracking.adp-iat.adp.ca^

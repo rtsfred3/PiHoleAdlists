@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-09 07:00:25 UTC
+! Generated at 2025-10-10 07:00:26 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -299,6 +299,7 @@
 ||adx-drru.op.dbankcloud.com^
 ||adx-drru.op.hicloud.com^
 ||ad.xiaomi.com^
+||adxlog-adnet.vivo.com.cn^
 ||adx.tv.mi.com^
 ||agps-location-livenet.trafficmanager.net^
 ||a.hl.mi.com^
@@ -832,6 +833,7 @@
 ||dragate-sg.dc.oppomobile.com^
 ||drm.market.xiaomi.com^
 ||dsp-ad-cache-tm.trafficmanager.net^
+||dsplog-adnet.vivo.com.cn^
 ||dt.dbankcloud.ru^
 ||dt.hicloud.com^
 ||dt.hihonorcloud.com^
@@ -1657,6 +1659,8 @@
 ||mon32-normal-useast1a.tiktokv.com^
 ||mon.be.xiaomi.com^
 ||monbk.tiktokv.com^
+||mon-boot.tiktokv.com^
+||mon-boot.tiktokv.com.edgekey.net^
 ||mon.byteoversea.com^
 ||mon-csj-maliva-ios.byteoversea.com^
 ||mon-hl.snssdk.com^
@@ -2464,6 +2468,7 @@
 ||tracker.ai.xiaomi.com^
 ||tracker.flightview.com.trafficmanager.net^
 ||tracker-preview.ai.xiaomi.com^
+||tracking-adnet.vivo.com.cn^
 ||tracking.americas.business.samsung.com^
 ||tracking.apac.business.samsung.com^
 ||tracking.eu.miui.com^
