@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-10 07:00:26 UTC
+! Generated at 2025-10-11 07:00:24 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -389,6 +389,7 @@
 ||api.installer.xiaomi.com^
 ||api.jr.mi.com^
 ||api.launcher.intl.miui.com^
+||api.micloud.xiaomi.net^
 ||api.mintbrs.intl.miui.com^
 ||api.miui.security.xiaomi.com^
 ||api.muc.intl.miui.com^
@@ -943,7 +944,6 @@
 ||ffc-word-telemetry.officeapps.live.com^
 ||ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net^
 ||file.cdn.mvideo.xiaomi.com^
-||find.api.micloud.xiaomi.net^
 ||findapi.micloud.xiaomi.net^
 ||finosfin.com^
 ||flash.sec.intl.miui.com^
@@ -1993,7 +1993,6 @@
 ||rcm-na.amazon-adsystem.com^
 ||rcm-uk.amazon.co.uk^
 ||rdl.lgtvcommon.com^
-||rdm-trafficmanager-ticketscenter-metrics.trafficmanager.net^
 ||redirect.pandora.xiaomi.com^
 ||redir.metaservices.microsoft.com^
 ||regi.di.atlas.samsung.com^
@@ -2557,7 +2556,6 @@
 ||upgrade.pandora.xiaomi.com^
 ||upu.samsungelectronics.com^
 ||us-ad-lgsmartad-com.aws-prd.net^
-||us.api.micloud.xiaomi.net^
 ||usc-onenote-telemetry.officeapps.live.com^
 ||usc-visio-telemetry.officeapps.live.com^
 ||userdata.dev.sr.roku.com^

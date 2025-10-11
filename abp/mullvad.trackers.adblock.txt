@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-10 07:00:43 UTC
+! Generated at 2025-10-11 07:00:43 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -6130,6 +6130,7 @@
 ||api.launcher.intl.miui.com^
 ||apilog-web.acfun.cn^
 ||api-metric.gosweb.gosuslugi.ru^
+||api.micloud.xiaomi.net^
 ||api.mintbrs.intl.miui.com^
 ||api.miui.security.xiaomi.com^
 ||api.muc.intl.miui.com^
@@ -14202,7 +14203,6 @@
 ||financialeducation-info.uchicago.edu^
 ||financialservices.nada.org^
 ||financialservices.teranet.ca^
-||find.api.micloud.xiaomi.net^
 ||findapi.micloud.xiaomi.net^
 ||find.api.micloud.xiaomi.net.iberostar.com^
 ||findthetruth.allergyai.com^
@@ -25622,6 +25622,7 @@
 ||novarecoverycenter.actonservice.com^
 ||novaseekers.com^
 ||novedades.telecomfibercorp.com.ar^
+||nowaymail.com^
 ||now.catersource.com^
 ||now.cummins.com^
 ||now.cumminsfiltration.com^
@@ -26095,6 +26096,7 @@
 ||omns.murdoch.edu.au^
 ||omn.sonypictures.com^
 ||omn.wholesalehalloweencostumes.com^
+||o.momently.info^
 ||om.owenscorning.com^
 ||ompx.shopbop.com^
 ||ompxs.shopbop.com^
@@ -28068,7 +28070,6 @@
 ||rdfine.camelbrown.com^
 ||rdl.lgtvcommon.com^
 ||rdlrbm.studying.jp^
-||rdm-trafficmanager-ticketscenter-metrics.trafficmanager.net^
 ||rdvxxx.crushj.com^
 ||reach-id.orbit.tm-awx.com^
 ||reach.ironmountain.com^
@@ -41761,7 +41762,6 @@
 ||usage.centsdonations.com^
 ||u.salony.com^
 ||usaoptimizedby.increasingly.co^
-||us.api.micloud.xiaomi.net^
 ||us.appbackupapi.micloud.xiaomi.net.iberostar.com^
 ||usaprogrip.actonservice.com^
 ||usb-vna.coppermountaintech.com^
@@ -42390,7 +42390,6 @@
 ||video-ad-stats.googlesyndication.com^
 ||video-analytics-api.cloudinary.com^
 ||video.bzfd.it^
-||videocdnmetrika.com^
 ||videoevents.outbrain.com^
 ||video.funnelbox.com^
 ||video-intel.pixels.ai^
