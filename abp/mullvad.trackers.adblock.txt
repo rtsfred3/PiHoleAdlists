@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-13 07:00:40 UTC
+! Generated at 2025-10-14 07:00:43 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -27409,6 +27409,7 @@
 ||prepareplanes.com^
 ||presetrabbits.com^
 ||presscoder.com^
+||prettyeasycafe.com^
 ||prettylearning.com^
 ||preview.crm.sms.miui.com^
 ||preview.fi-institutional.com.au^
