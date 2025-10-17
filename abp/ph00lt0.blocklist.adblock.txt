@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-16 07:00:21 UTC
+! Generated at 2025-10-17 07:00:20 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 ! 
@@ -1158,6 +1158,7 @@
 ||aangirewer823.info^
 ||aanmeld-medewerking.nl^
 ||aanwire.com^
+||a.aomeisoftware.com^
 ||aa.online-metrix.net^
 ||aapc.com^
 ||a.apkpure.com^
@@ -1287,6 +1288,7 @@
 ||acc-data-analytics.wearetriple.com^
 ||ac-cdn.azureedge.net^
 ||accedo.tv^
+||accelimedia.com^
 ||accengage.com^
 ||accentapi.com^
 ||accentneglectporter.com^
@@ -3810,6 +3812,7 @@
 ||artoo.nl^
 ||ar.umeng.com^
 ||arxivcu.containers.piwik.pro^
+||aryanjalan.com^
 ||aryel.io^
 ||as49870.net^
 ||asadcdn.com^
@@ -4033,6 +4036,7 @@
 ||augu3yhd485st.com^
 ||aunica.com^
 ||a.union.mi.com^
+||aura-analytics-backend-default-rtdb.europe-west1.firebasedatabase.app^
 ||aura-analytics.com^
 ||auraanalytics.com.au^
 ||aura.com^
@@ -4395,6 +4399,7 @@
 ||bb.tuku.cc^
 ||bbus-static.com^
 ||bc0a.com^
+||bc.anwb.nl^
 ||bcbolt446c5271-a.akamaihd.net^
 ||bcccdn.com^
 ||bcc.livecom.net^
@@ -4967,6 +4972,7 @@
 ||bookshome.net^
 ||bookyourdata.com^
 ||boombangcasino.com^
+||boomerang.dell.com^
 ||booming-games.com^
 ||boomsocial.com^
 ||boomtrain.com^
@@ -5392,6 +5398,7 @@
 ||canadianevergreen.com^
 ||canadiantire.ca^
 ||canalplus.pro^
+||cancelx.com^
 ||canda1.iridion.de^
 ||candac.iridion.de^
 ||candidate-office.s3.amazonaws.com^
@@ -5414,6 +5421,7 @@
 ||capital-cir.com^
 ||capitalonegslbex.com^
 ||capndr.com^
+||capping.lemonde.fr^
 ||captaingrowth.ai^
 ||captcha-display.com^
 ||capten.io^
@@ -6093,6 +6101,7 @@
 ||checkip.synology.com^
 ||checkipv6.synology.com^
 ||checkmarket.com^
+||checkoutanalytics-live.adyen.com^
 ||checkoutpage.co^
 ||check-phone.kiwi.com^
 ||checkr.com^
@@ -6261,6 +6270,7 @@
 ||cl.he9630.com^
 ||cli2020.com^
 ||clic2buy.com^
+||clic2load.fr^
 ||cliccalanovita.it^
 ||cliccateci.it^
 ||click1n.soufun.com^
@@ -8479,6 +8489,7 @@
 ||document360.io^
 ||documenten.me^
 ||doitonlinemedia.nl^
+||dokteronline.nl^
 ||doktoralexander.nkl.de^
 ||doktoralexander.skl.de^
 ||dol.deliver.ifeng.com^
@@ -8713,7 +8724,6 @@
 ||dyspatch.io^
 ||dz3000cdn3.dzone.com^
 ||dzais.com^
-||dzcdn.net^
 ||dzfq4ouujrxm8.cloudfront.net^
 ||dzisou.com^
 ||dzjzg.com^
@@ -10039,6 +10049,7 @@
 ||g.baidu.com^
 ||gb.corp.163.com^
 ||gb-livepoll.firebaseio.com^
+||gblock.app^
 ||gb.net^
 ||g.brothersoft.com^
 ||gcapi.sy.kugou.com^
@@ -10129,6 +10140,7 @@
 ||geolocation.onetrust.com^
 ||geolocation-recommendations.shopifyapps.com^
 ||geolocation-recommendations.shopifycloud.com^
+||geomarktprofiel.nl^
 ||geo.mattel163.com^
 ||geo.moatads.com^
 ||geomobileservices-pa.googleapis.com^
@@ -10197,6 +10209,7 @@
 ||getpixelme.com^
 ||getpocket.cdn.mozilla.net^
 ||getpublica.com^
+||getqonfi.com^
 ||getresponse.com^
 ||getresponse.nl^
 ||getreview.pl^
@@ -10892,6 +10905,7 @@
 ||hospitalitysem.com^
 ||host-care.com^
 ||hosted.okayanalytics.com^
+||hosthavoc.com^
 ||hosting.miarroba.info^
 ||hostingwp.pl^
 ||hot.browser.miui.com^
@@ -12155,7 +12169,6 @@
 ||jing.58.com^
 ||jinghuazhijia.com^
 ||jingling.cn^
-||jio.com^
 ||jioo.com^
 ||jisucn.com^
 ||jiuku.cc^
@@ -14677,6 +14690,10 @@
 ||nilly.io^
 ||nimg.jp^
 ||nimiq.com^
+||nimiq-network.com^
+||nimiqpool.com^
+||nimiq.watch^
+||nimpool.io^
 ||ninebox.cn^
 ||nineto5mac-d.openx.net^
 ||ninja.data.olxcdn.com^
@@ -14765,6 +14782,7 @@
 ||norton.com^
 ||nosto.com^
 ||not-a-tracker.jet-stream.com^
+||notaverage.media^
 ||notes-analytics-events.apple.com^
 ||notice.game.xiaomi.com^
 ||notice.uchome.manyou.com^
@@ -15223,6 +15241,7 @@
 ||optimizeywebs.com^
 ||optimonk.com^
 ||optimove.com^
+||optimus.tech^
 ||optinadserving.com^
 ||optingun.com^
 ||optinly.net^
@@ -15649,7 +15668,6 @@
 ||phonepe.com^
 ||phonesubmissions.apple.com^
 ||photographer.net^
-||photosdata-pa.googleapis.com^
 ||php78mp9v.opposedarrangement.net^
 ||phpad.cqnews.net^
 ||php-infra.oe24.at^
@@ -16102,6 +16120,7 @@
 ||privacyportal.onetrust.com^
 ||privacy-portal.smartclip.net^
 ||privacy-proxy.usercentrics.eu^
+||privacy-sdk.talent-soft.com^
 ||privacy.timeonegroup.com^
 ||privacytools.com.br^
 ||privacy.trustcommander.net^
@@ -17887,6 +17906,7 @@
 ||shorten-url.com^
 ||shortest-route.com^
 ||short.io^
+||shortnim.me^
 ||shortstack.com^
 ||shorturl.at^
 ||shotwithgeforce.com^
@@ -18377,6 +18397,7 @@
 ||springernature.io^
 ||springserve.com^
 ||sprinklecontent.com^
+||sprinklr.com^
 ||sp-server.net^
 ||spt.dictionary.com^
 ||sptrack.trello.com^
@@ -18984,6 +19005,7 @@
 ||susapi.dev.surepush.cn^
 ||susapi.lenovomm.com^
 ||s-usc1f-nss-5520.firebaseio.com^
+||sushipool.com^
 ||su.zoho.eu^
 ||sv06p01ad-ext-cloud.iad.apple.com^
 ||sv.aq.qq.com^
@@ -19831,6 +19853,7 @@
 ||tracking.retailrocket.net^
 ||tracking.rus.miui.com^
 ||tracking-server-prod-1.zenmxapps.com^
+||tracking.swap.fm^
 ||tracking.swogo.net^
 ||tracking.vviinn.com^
 ||tracking.ws-connex.de^
@@ -20243,6 +20266,7 @@
 ||underdogmedia.com^
 ||underlined.nl^
 ||undm.qibulo.com^
+||unequalbrake.com^
 ||unerencontreuneaventure.fr^
 ||unibet.be^
 ||unibet.com^
@@ -20651,6 +20675,7 @@
 ||vi-serve.com^
 ||visionmail.nl^
 ||visiontotalsas.com^
+||visitor.abmatic.ai^
 ||visitor-analytics.io^
 ||visitor.figpii.com^
 ||visitor-scoring-c.marketlinc.com^
