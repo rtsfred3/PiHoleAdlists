@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-19 07:00:26 UTC
+! Generated at 2025-10-20 07:00:23 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 ! 
@@ -14695,6 +14695,7 @@
 ||nimiq.watch^
 ||nimpool.io^
 ||ninebox.cn^
+||ninefornews.nl^
 ||nineto5mac-d.openx.net^
 ||ninja.data.olxcdn.com^
 ||ninthdecimal.com^
