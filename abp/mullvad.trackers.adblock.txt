@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-20 07:00:46 UTC
+! Generated at 2025-10-21 07:00:45 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -8865,6 +8865,7 @@
 ||cdn-channels-pixel.ex.co^
 ||cdn-d.amazon-adsystem.com^
 ||cdn-eu.usefathom.com^
+||cdn-exp-sg-recommend.pt.xiaomi.com^
 ||cdn.exp.xiaomi.com^
 ||cdn.fds.api.xiaomi.com^
 ||cdn.fds-ssl.api.xiaomi.com^
@@ -15908,6 +15909,7 @@
 ||hauixd.halistores.com^
 ||hauzdj.quellogiusto.it^
 ||haxdym.min-breeder.com^
+||haystack.wavve.com^
 ||hazawl.veke.fi^
 ||hazmatworkshop.com^
 ||hbaazk.bukalapak.com^
@@ -22927,6 +22929,7 @@
 ||merchant-app.th3rdwave.coffee^
 ||merchant.libertycarz.com^
 ||merchant-mail.neosurf.com^
+||mercuryace.com^
 ||mercury-sdk.snssdk.com^
 ||meremark.com^
 ||merequartz.com^
@@ -25468,6 +25471,7 @@
 ||nnivvr.zimmo.be^
 ||nnkeoi.timarco.com^
 ||nnkkxb.nuts.com^
+||nnmtools.comthird-party^
 ||nnobek.waschbaer.de^
 ||nnofmj.studiof.com.co^
 ||nnqyed.laredoute.be^
