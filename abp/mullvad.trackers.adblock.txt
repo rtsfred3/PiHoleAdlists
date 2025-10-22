@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-21 07:00:45 UTC
+! Generated at 2025-10-22 07:00:42 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -6094,6 +6094,7 @@
 ||api.miui.security.xiaomi.com^
 ||api.muc.intl.miui.com^
 ||api-rec.stellar.intl.miui.com^
+||api.runestone.samsung.com^
 ||api.ryanyao.design^
 ||apis.4bn.xyz^
 ||api.sae.systems^
@@ -6897,6 +6898,7 @@
 ||appstore.cdn.pandora.xiaomi.com^
 ||appstore.pandora.xiaomi.com^
 ||appstore.ptmi.gitv.tv^
+||appstore-trace-h5sdk.vivo.com.cn^
 ||app.stratfor.com^
 ||app.streaktrivia.com^
 ||app.stressbuoy.com^
@@ -9408,6 +9410,7 @@
 ||cod.bitrec.com^
 ||code.randomhouse.com^
 ||co-domaincfg.vivoglobal.com^
+||co-err-up.vivoglobal.com^
 ||cofactordigital.actonservice.com^
 ||coffeesidehustle.com^
 ||coffeycomm.actonservice.com^
@@ -11412,6 +11415,7 @@
 ||defensevest.com^
 ||defygravity.convio.com^
 ||de-gdpr-err-up.vivoglobal.com^
+||de-gdpr-vcode-od.vivoglobal.com^
 ||de-go.experian.com^
 ||degreechariot.com^
 ||degree.insead.edu^
@@ -11833,6 +11837,7 @@
 ||direct-events-collector.spot.im^
 ||directions.mdanderson.org^
 ||direfuldesk.com^
+||di.runestone.samsung.com^
 ||disagreeabledrop.com^
 ||discover.10play.com.au^
 ||discover2.secureforms.mcafee.com^
@@ -13489,6 +13494,7 @@
 ||etx.indiatimes.com^
 ||etznkn.ec-store.net^
 ||eu-1-id5-sync.com^
+||eu-album-api.vivoglobal.com^
 ||euapp.levi.com^
 ||eu.business.samsung.com^
 ||eubynl.baby-sweets.de^
@@ -13573,6 +13579,7 @@
 ||eurppc-word-telemetry.officeapps.live.com^
 ||eusdbk.philosophyofficial.com^
 ||eu.sharpmarketing.eu^
+||eu-stsdk.vivoglobal.com^
 ||eu-st-sl.vivoglobal.com^
 ||eu-timesync.vivoglobal.com^
 ||eu-vcode-api.vivoglobal.com^
@@ -18948,6 +18955,7 @@
 ||kz-stsdk.vivoglobal.com^
 ||kz-st-sl.vivoglobal.com^
 ||kz-st-sysupgrade.vivoglobal.com^
+||kz-timesync.vivoglobal.com^
 ||kzutbh.takeappeal.com^
 ||kz-vcode-api.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
@@ -38424,6 +38432,7 @@
 ||tr.acd-comexpert.fr^
 ||trace.app-performance.music.amazon.dev^
 ||trace.bluemonkey.jp^
+||trace-h5sdk.vivo.com.cn^
 ||trace.insead.edu^
 ||trace.qq.com^
 ||tracer.autoscout24.ch^
@@ -38522,6 +38531,7 @@
 ||tracker.bt.uol.com.br^
 ||tracker.cauly.co.kr^
 ||tracker.cdnbye.com^
+||trackercollect.ddxq.mobi^
 ||tracker.comagic.ru^
 ||tracker.curama.jp^
 ||tracker.decomworld.com^
@@ -38534,6 +38544,7 @@
 ||tracker.ethicalcorp.com^
 ||tracker.euroweb.net^
 ||tracker.eyeforpharma.com^
+||trackerfeed.ddxq.mobi^
 ||tracker.financialcontent.com^
 ||tracker.flightview.com.trafficmanager.net^
 ||tracker.gamedock.io^
@@ -41605,6 +41616,7 @@
 ||urbanairship.com^
 ||urbanlaurel.com^
 ||ur.b.inhaabit.com^
+||ureca.samsungapps.com^
 ||urehgr.halekulani.com^
 ||ureoaw.netthandelen.no^
 ||ureruadebis.papawash.com^

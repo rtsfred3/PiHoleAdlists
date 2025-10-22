@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-21 07:00:27 UTC
+! Generated at 2025-10-22 07:00:25 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -353,6 +353,7 @@
 ||api.miui.security.xiaomi.com^
 ||api.muc.intl.miui.com^
 ||api-rec.stellar.intl.miui.com^
+||api.runestone.samsung.com^
 ||api-samsung.swypeconnect.com^
 ||api.sec.miui.com^
 ||api.setting.intl.miui.com^
@@ -378,6 +379,7 @@
 ||appstore.cdn.pandora.xiaomi.com^
 ||appstore.pandora.xiaomi.com^
 ||appstore.ptmi.gitv.tv^
+||appstore-trace-h5sdk.vivo.com.cn^
 ||aps.amazon-adsystem.com^
 ||apu.samsungelectronics.com^
 ||arc1.msn.com^
@@ -611,6 +613,7 @@
 ||c.no.msn.com^
 ||co-cota.vivoglobal.com^
 ||co-domaincfg.vivoglobal.com^
+||co-err-up.vivoglobal.com^
 ||collector.azure.cn^
 ||collector.azure.eaglex.ic.gov^
 ||collector.azure.microsoft.cloud^
@@ -717,6 +720,7 @@
 ||dc-stat-in.heytapmobile.com^
 ||dec-visio-telemetry.officeapps.live.com^
 ||de-gdpr-err-up.vivoglobal.com^
+||de-gdpr-vcode-od.vivoglobal.com^
 ||de.pandora.xiaomi.com^
 ||dev-apigw.samsungdmroute.com^
 ||devicelog.samsungcloudsolution.net^
@@ -744,6 +748,7 @@
 ||diagnostics.apple.com.akadns.net^
 ||diagnostics-eudb.office.com^
 ||diagnostics.office.com^
+||di.runestone.samsung.com^
 ||dls-account.di.atlas.samsung.com^
 ||dls-ddc.dqa.samsung.com^
 ||dls-udc.dqa.samsung.com^
@@ -783,6 +788,7 @@
 ||epoch-id.cdo.heytapmobi.com^
 ||err-up.vivoglobal.com^
 ||err.up.vivoglobal.com^
+||eu-album-api.vivoglobal.com^
 ||euc-excel-telemetry.officeapps.live.com^
 ||euc-excel-telemetry.wac.trafficmanager.net^
 ||euc-onenote-telemetry.officeapps.live.com^
@@ -802,6 +808,7 @@
 ||eurppc-excel-telemetry.officeapps.live.com^
 ||eurppc-powerpoint-telemetry.officeapps.live.com^
 ||eurppc-word-telemetry.officeapps.live.com^
+||eu-stsdk.vivoglobal.com^
 ||eu-st-sl.vivoglobal.com^
 ||eu-timesync.vivoglobal.com^
 ||eu-vcode-api.vivoglobal.com^
@@ -1168,6 +1175,7 @@
 ||kz-stsdk.vivoglobal.com^
 ||kz-st-sl.vivoglobal.com^
 ||kz-st-sysupgrade.vivoglobal.com^
+||kz-timesync.vivoglobal.com^
 ||kz-vcode-api.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
 ||kz-vcode-or.vivoglobal.com^
@@ -2336,11 +2344,14 @@
 ||toblog.snssdk.com^
 ||toolbar.msn.com^
 ||trace.app-performance.music.amazon.dev^
+||trace-h5sdk.vivo.com.cn^
 ||traces.dev.sr.roku.com^
 ||traces.sr.roku.com^
 ||traces-us-east-1.dev.sr.roku.com^
 ||traces-us-west-2.dev.sr.roku.com^
 ||tracker.ai.xiaomi.com^
+||trackercollect.ddxq.mobi^
+||trackerfeed.ddxq.mobi^
 ||tracker.flightview.com.trafficmanager.net^
 ||tracker-preview.ai.xiaomi.com^
 ||tracking-adnet.vivo.com.cn^
@@ -2426,6 +2437,7 @@
 ||update.avlyun.sec.miui.com^
 ||upgrade.pandora.xiaomi.com^
 ||upu.samsungelectronics.com^
+||ureca.samsungapps.com^
 ||us-ad-lgsmartad-com.aws-prd.net^
 ||usc-onenote-telemetry.officeapps.live.com^
 ||usc-visio-telemetry.officeapps.live.com^
