@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-24 07:00:26 UTC
+! Generated at 2025-10-25 07:00:22 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -191,6 +191,7 @@
 ||ads-msn-com-profile.trafficmanager.net^
 ||ads.oppomobile.com^
 ||ads.roku.com^
+||ads-service.tiktok.com^
 ||ads-setu-proxy-eu.amazon.com^
 ||ads-sg.tiktok.com^
 ||ads.staging.roku.com^
@@ -500,6 +501,7 @@
 ||browserfiles.heytapmobile.com^
 ||browser.miui.com^
 ||browser-sdk-fr.heytapmobile.com^
+||browser-sdk-in.heytapmobile.com^
 ||browser-sdk-ru.heytapmobile.com^
 ||bsf.sc.heytapmobile.com^
 ||bsp.sasdc.pandora.xiaomi.com^
@@ -792,6 +794,7 @@
 ||euc-excel-telemetry.officeapps.live.com^
 ||euc-excel-telemetry.wac.trafficmanager.net^
 ||euc-onenote-telemetry.officeapps.live.com^
+||eu-cota.vivoglobal.com^
 ||euc-powerpoint-telemetry.officeapps.live.com^
 ||euc-powerpoint-telemetry.wac.trafficmanager.net^
 ||euc-visio-telemetry.officeapps.live.com^
@@ -926,7 +929,6 @@
 ||frontier.tiktokv.us^
 ||fr-register.xmpush.global.xiaomi.com^
 ||fr.resolver.msg.global.xiaomi.net^
-||fsad.trafficmanager.net^
 ||g00.msn.com^
 ||gallery.cdn.pandora.xiaomi.com^
 ||gamebox.sec.intl.miui.com^
@@ -1199,6 +1201,7 @@
 ||location.tiktokw.us^
 ||location-ttp2.us.tiktokv.com^
 ||location.us.tiktokv.com^
+||locationv16-normal-useastred.tiktokv.eu^
 ||location-v6-i18n.tiktokv.com^
 ||location-v6-ru.tiktokv.com^
 ||location-v6-sg.tiktokv.com^
@@ -1916,6 +1919,7 @@
 ||rnd-cbgpas01.huawei.com^
 ||ro-up.vivoglobal.com^
 ||r.sg.sec.miui.com^
+||rtc-logger16-normal-useastred.tiktokv.eu^
 ||rtc-logger-i18n.tiktokv.com^
 ||rtc-logger-ie.tiktokv.eu^
 ||rtc-logger.tiktokv.com^
@@ -2249,6 +2253,7 @@
 ||stsdk.vivoglobal.com^
 ||supportmetrics.apple.com^
 ||supportmetrics.v.aaplimg.com^
+||swiftanalyticsprod.servicebus.windows.net^
 ||sys.intl.xiaomi.com^
 ||sys.tv.india.xiaomi.com^
 ||t15.market.xiaomi.com^

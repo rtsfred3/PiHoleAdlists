@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-24 07:00:43 UTC
+! Generated at 2025-10-25 07:00:40 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4739,6 +4739,7 @@
 ||ads.oppomobile.com^
 ||adspsp.com^
 ||ads.roku.com^
+||ads-service.tiktok.com^
 ||ads-setu-proxy-eu.amazon.com^
 ||ads-sg.tiktok.com^
 ||ads.staging.roku.com^
@@ -8399,6 +8400,7 @@
 ||browser.miui.com^
 ||browser.pipe.aria.microsoft.com^
 ||browser-sdk-fr.heytapmobile.com^
+||browser-sdk-in.heytapmobile.com^
 ||browser-sdk-ru.heytapmobile.com^
 ||browser.sentry-cdn.com^
 ||browser-updater.yandex.net^
@@ -13503,6 +13505,7 @@
 ||eu.cignaglobalhealth.com^
 ||euclid.kuula.co^
 ||euc-onenote-telemetry.officeapps.live.com^
+||eu-cota.vivoglobal.com^
 ||euc-powerpoint-telemetry.officeapps.live.com^
 ||euc-powerpoint-telemetry.wac.trafficmanager.net^
 ||euc-visio-telemetry.officeapps.live.com^
@@ -14524,7 +14527,6 @@
 ||frugalfiestas.com^
 ||frztrk.beaute-test.com^
 ||frztrk.netmums.com^
-||fsad.trafficmanager.net^
 ||fsbozl.dillards.com^
 ||fscareers.epoise.com^
 ||fscareerstest.epoise.com^
@@ -20238,6 +20240,7 @@
 ||location.tiktokw.us^
 ||location-ttp2.us.tiktokv.com^
 ||location.us.tiktokv.com^
+||locationv16-normal-useastred.tiktokv.eu^
 ||location-v6-i18n.tiktokv.com^
 ||location-v6-ru.tiktokv.com^
 ||location-v6-sg.tiktokv.com^
@@ -28564,6 +28567,7 @@
 ||rtb.prod.carbonatixaudio.com^
 ||rt.bunte.de^
 ||rt.cdnmedia.tv^
+||rtc-logger16-normal-useastred.tiktokv.eu^
 ||rtc-logger-i18n.tiktokv.com^
 ||rtc-logger-ie.tiktokv.eu^
 ||rtc-logger.tiktokv.com^
@@ -36813,6 +36817,7 @@
 ||s.wellandtribune.ca^
 ||swellstocking.com^
 ||s.wheels.ca^
+||swiftanalyticsprod.servicebus.windows.net^
 ||swiftintro.com^
 ||swim2000.actonservice.com^
 ||swimfreely.com^
