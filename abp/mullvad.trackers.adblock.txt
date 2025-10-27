@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-25 07:00:40 UTC
+! Generated at 2025-10-27 07:00:47 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -38195,6 +38195,7 @@
 ||t.mynexity.fr^
 ||t.nativendo.de^
 ||t.navysports.com^
+||tnc0-normal-alisg.tiktokv.com^
 ||tnc0-normal-my.tiktokv.com^
 ||tnc0-normal-sg1.tiktokv.com^
 ||tnc0-normal-useast1a.tiktokv.com^
@@ -38221,6 +38222,7 @@
 ||tnc19-normal-no1a.tiktokv.eu^
 ||tnc19-normal-useast5.tiktokv.us^
 ||tnc19-normal-useast8.tiktokv.us^
+||tnc19-normal-useastred.tiktokv.eu^
 ||tnc31-normal-zr-useast1a.tiktokv.com^
 ||tnc31-platform-alisg.tiktokv.com^
 ||tnc31-platform-useast1a.tiktokv.com^
@@ -44040,11 +44042,13 @@
 ||xp.apple.com^
 ||xp.apple.com.edgekey.net^
 ||xp-cdn.apple.com^
+||xp-cdn-lb.itunes-apple.com.akadns.net^
 ||xpcpmr.gsm55.com^
 ||xp.itunes-apple.com.akadns.net^
 ||xps.huk24.de^
 ||xps.huk.de^
 ||xpu.samsungelectronics.com^
+||xp.v.aaplimg.com^
 ||xpygen.unger-fashion.com^
 ||xpzswr.shasa.com^
 ||xqdwwj.medpeer.jp^

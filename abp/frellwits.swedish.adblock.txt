@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-25 07:00:15 UTC
+! Generated at 2025-10-27 07:00:20 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 ! 
@@ -194,6 +194,7 @@
 ||bam.bonad.io^
 ||banner.bet365partners.com^
 ||banners.instaforex.com^
+||banners.jldigital.se^
 ||bannersnack.com^
 ||banners.wsnonline.dk^
 ||bb-pbc.mainroll.com^
@@ -393,6 +394,7 @@
 ||darwin.affiliatewindow.com^
 ||data.adnuntius.com^
 ||data.gblcdn.com^
+||dcl-cdn.digitalcaramel.com^
 ||dc.schibsted.io^
 ||deals.innocode.no^
 ||delivered-by-madington.com^
@@ -686,6 +688,7 @@
 ||platform.bidgear.com^
 ||platform.iteratehq.com^
 ||plausible.webfokus.no^
+||pl.connatix.com^
 ||p.lp4.io^
 ||plus.sharedcount.com^
 ||pm.azerioncircle.com^
