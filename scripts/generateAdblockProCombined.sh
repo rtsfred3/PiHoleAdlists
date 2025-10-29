@@ -42,4 +42,4 @@ cat $DIR/$FILE | sed '1d' | sed -E 's/^([^\|].*[^\^])$/\|\|\1\^/g' | sort -u >> 
 
 mv $DIR/$DEDUPED_FILE $DIR/$FILE
 
-gzip -k -9 -f $DIR/$FILE
+# gzip -k -9 -f $DIR/$FILE

@@ -43,4 +43,4 @@ echo "$(sed -E 's/^/||/g' $DIR/$FILE | sed -E 's/([|0-9a-z\.\-]+)/\1\^/g' | sort
 
 mv $DIR/$DEDUPED_FILE $DIR/$FILE
 
-gzip -k -9 -f $DIR/$FILE
+# gzip -k -9 -f $DIR/$FILE

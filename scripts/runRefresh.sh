@@ -1,30 +1,56 @@
 clear && clear
 
-DIR="abp"
+ADBLOCK_DIR="abp"
+DOMAINS_DIR="domains"
+
+BUNNYCDN_ADBLOCK_DIR="adblock"
+BUNNYCDN_DOMAIN_DIR="$DOMAINS_DIR"
 
 USERNAME="$1"
 EMAIL="$2"
 API_KEY="$3"
 DATE=$(date -u +'%Y%m%d.%H%M00')
 
+copyToDomainFormat() {
+    OLD_FILE=$1
+    NEW_FILE=$(echo "$OLD_FILE" | sed -E 's/adblock\.txt/domain\.txt/g')
+
+    if [ -f "$ADBLOCK_DIR/$OLD_FILE" ]; then
+        NEW_BODY=$(cat $ADBLOCK_DIR/$OLD_FILE | sed '/^# /d; /^\[/d; /^$/d' | sed -E 's/!/#/g' | sed -E 's/^\|\|//g' | sed -E 's/\^$//g') # | sort -u)
+        echo "$NEW_BODY" > $DOMAINS_DIR/$NEW_FILE
+    fi
+}
+
 uploadFileToBunnyCDN() {
     curl --request PUT \
-            --url https://storage.bunnycdn.com/adlists-rtf/adlist/adblock/$1 \
+            --url https://storage.bunnycdn.com/adlists-rtf/adlist/$3/$1 \
             -H "AccessKey: $API_KEY" \
             -H 'Content-Type: application/octet-stream' \
             -H 'accept: application/json'  \
-            --data-binary @$DIR/$1
+            --data-binary @$2/$1
 }
 
 uploadToBunnyCDN() {
     echo "Uploading to BunnyCDN"
 
-    FILES=$(find $DIR -type f -name '*.txt' -o -name '*.txt.gz' | sort -u)
+    echo "Uploading $ADBLOCK_DIR"
+    FILES=$(find $ADBLOCK_DIR -type f -name '*.txt' -o -name '*.txt.gz' | sort -u)
 
     for FILE in ${FILES[@]}; do
         FILE_NAME="$(echo "$FILE" | cut -d "/" -f2)"
 
-        uploadFileToBunnyCDN $FILE_NAME
+        uploadFileToBunnyCDN $FILE_NAME $ADBLOCK_DIR $BUNNYCDN_ADBLOCK_DIR
+    done
+
+    echo "
+    Uploading $DOMAINS_DIR
+    "
+    FILES=$(find $DOMAINS_DIR -type f -name '*.txt' -o -name '*.txt.gz' | sort -u)
+
+    for FILE in ${FILES[@]}; do
+        FILE_NAME="$(echo "$FILE" | cut -d "/" -f2)"
+
+        uploadFileToBunnyCDN $FILE_NAME $DOMAINS_DIR $BUNNYCDN_DOMAIN_DIR
     done
 
     wait
@@ -37,12 +63,28 @@ git config user.email "$EMAIL"
 
 git pull
 
-if [ -d "$DIR" ]; then
-    rm $DIR/*
+if [ -d "$ADBLOCK_DIR" ]; then
+    rm $ADBLOCK_DIR/*
 fi
 
-if [ ! -d "$DIR" ]; then
-    mkdir $DIR
+if [ ! -d "$ADBLOCK_DIR" ]; then
+    mkdir $ADBLOCK_DIR
+fi
+
+if [ -d "$ADBLOCK_DIR" ]; then
+    rm $ADBLOCK_DIR/*.gz
+fi
+
+if [ -d "$DOMAINS_DIR" ]; then
+	rm "$DOMAINS_DIR/*"
+fi
+
+if [ ! -d "$DOMAINS_DIR" ]; then
+    mkdir $DOMAINS_DIR
+fi
+
+if [ -d "$DOMAINS_DIR" ]; then
+	rm "$DOMAINS_DIR/*.gz"
 fi
 
 bash scripts/generateHostToAdblockPro.sh urlhaus.hostfile.adblock.txt https://urlhaus.abuse.ch/downloads/hostfile
@@ -56,13 +98,36 @@ bash scripts/generateAdblockProCombined.sh mullvad.trackers.adblock.txt https://
 bash scripts/generateAdblockProCombined.sh advertising.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/advertising.abp
 bash scripts/generateAdblockProCombined.sh adlist.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/adlist.abp
 # bash scripts/generateAdblockProCombined.sh nrd14.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd14.abp
+# bash scripts/generateAdblockProCombined.sh nrd28.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd28.abp
 # bash scripts/generateAdblockProCombined.sh nrd30.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd30.abp
 
-# uploadFileToBunnyCDN $DIR/nrd14.txt
-# uploadFileToBunnyCDN $DIR/nrd14.txt.gz
+echo "Copy to $DOMAINS_DIR"
 
-# uploadFileToBunnyCDN $DIR/nrd30.txt
-# uploadFileToBunnyCDN $DIR/nrd30.txt.gz
+TXT_FILES=(mullvad.malware.adblock.txt mullvad.trackers.adblock.txt ph00lt0.blocklist.adblock.txt urlhaus.hostfile.adblock.txt nrd14.txt nrd28.txt)
+
+for FILE in ${TXT_FILES[@]}; do
+    copyToDomainFormat $FILE
+done
+
+echo "Copied to $DOMAINS_DIR"
+
+gzip -k -9 -f $ADBLOCK_DIR/*.txt
+gzip -k -9 -f $DOMAINS_DIR/*.txt
+
+ls -1 $ADBLOCK_DIR/ | wc -l
+ls -1 $DOMAINS_DIR/ | wc -l
+
+# uploadFileToBunnyCDN nrd14.txt $ADBLOCK_DIR $BUNNYCDN_ADBLOCK_DIR
+# uploadFileToBunnyCDN nrd14.txt.gz $ADBLOCK_DIR $BUNNYCDN_ADBLOCK_DIR
+
+# uploadFileToBunnyCDN nrd14.txt $DOMAINS_DIR $BUNNYCDN_DOMAIN_DIR
+# uploadFileToBunnyCDN nrd14.txt.gz $DOMAINS_DIR $BUNNYCDN_DOMAIN_DIR
+
+# uploadFileToBunnyCDN nrd28.txt $ADBLOCK_DIR $BUNNYCDN_ADBLOCK_DIR
+# uploadFileToBunnyCDN nrd28.txt.gz $ADBLOCK_DIR $BUNNYCDN_ADBLOCK_DIR
+
+# uploadFileToBunnyCDN nrd28.txt $DOMAINS_DIR $BUNNYCDN_DOMAIN_DIR
+# uploadFileToBunnyCDN nrd28.txt.gz $DOMAINS_DIR $BUNNYCDN_DOMAIN_DIR
 
 echo "Updated Files"
 
@@ -71,6 +136,7 @@ echo "Updated Files"
 bash scripts/generateCDNMarkdown.sh
 
 rm $(find abp -type f -size +50M)
+rm $(find domains -type f -size +50M)
 
 echo "Pushing to GitHub"
 
