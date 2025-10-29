@@ -1,12 +1,11 @@
 [Adblock Plus]
-! Generated at 2025-10-29 11:56:37 UTC
+! Generated at 2025-10-29 11:56:44 UTC
 ! 
 ! Sources:
 ! https://small.oisd.nl
 ! https://v.firebog.net/hosts/AdguardDNS.txt
-! https://raw.githubusercontent.com/rtsfred3/Adlists/main/abp/frellwits.swedish.adblock.txt
+! https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 ! 
-
 ||0-02.net^
 ||0.myikas.com^
 ||0.www.cheetahhowevertowardsfrom.com^

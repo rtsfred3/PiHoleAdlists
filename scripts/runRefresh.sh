@@ -16,7 +16,7 @@ copyToDomainFormat() {
     NEW_FILE=$(echo "$OLD_FILE" | sed -E 's/adblock\.txt/domain\.txt/g')
 
     if [ -f "$ADBLOCK_DIR/$OLD_FILE" ]; then
-        NEW_BODY=$(cat $ADBLOCK_DIR/$OLD_FILE | sed '/^# /d; /^\[/d; /^$/d' | sed -E 's/!/#/g' | sed -E 's/^\|\|//g' | sed -E 's/\^$//g') # | sort -u)
+        NEW_BODY=$(cat $ADBLOCK_DIR/$OLD_FILE | sed '/^# /d; /^\[/d; /^$/d' | sed -E 's/!/#/g' | sed -E 's/^\|\|//g' | sed -E 's/\^//g') # | sort -u)
         echo "$NEW_BODY" > $DOMAINS_DIR/$NEW_FILE
     fi
 }
@@ -101,9 +101,11 @@ bash scripts/generateAdblockProCombined.sh adlist.adblock.txt https://gist.githu
 # bash scripts/generateAdblockProCombined.sh nrd28.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd28.abp
 # bash scripts/generateAdblockProCombined.sh nrd30.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd30.abp
 
+bash scripts/generateMullvardAdvertising.sh
+
 echo "Copy to $DOMAINS_DIR"
 
-TXT_FILES=(mullvad.malware.adblock.txt mullvad.trackers.adblock.txt ph00lt0.blocklist.adblock.txt urlhaus.hostfile.adblock.txt nrd14.txt nrd28.txt)
+TXT_FILES=(mullvad.advertising.adblock.txt mullvad.malware.adblock.txt mullvad.trackers.adblock.txt ph00lt0.blocklist.adblock.txt urlhaus.hostfile.adblock.txt nrd14.txt nrd28.txt)
 
 for FILE in ${TXT_FILES[@]}; do
     copyToDomainFormat $FILE
