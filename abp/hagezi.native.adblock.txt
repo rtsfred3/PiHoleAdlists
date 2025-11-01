@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-10-31 07:00:22 UTC
+! Generated at 2025-11-01 07:00:24 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -564,6 +564,7 @@
 ||c.fr.msn.com^
 ||c.gr.msn.com^
 ||channelusa.samsung.com^
+||ch-asimov-leafs-events-data.trafficmanager.net^
 ||child.sec.miui.com^
 ||c.hk.msn.com^
 ||chong.sec.miui.com^
@@ -718,6 +719,7 @@
 ||dc.applicationinsights.azure.us^
 ||dc.di.atlas.samsung.com^
 ||dc.dqa.samsung.com^
+||dc.heytapmobile.com^
 ||dcintl.push.heytapmobi.com^
 ||dc.services.visualstudio.com^
 ||dc-stat-in.heytapmobile.com^
@@ -1007,6 +1009,7 @@
 ||hisearch-drru.dt.dbankcloud.com^
 ||hizonetech.com^
 ||hk-tracker.trafficmanager.net^
+||hme-live-loganalytics-namespace.servicebus.windows.net^
 ||h.msn.com^
 ||homeprv.lgtvcommon.com^
 ||honorsearch-dra.hiboard.hihonorcloud.com^
@@ -1106,6 +1109,7 @@
 ||in-os-config-appstore.vivoglobal.com^
 ||in-pnrt-stsdk.vivoglobal.com^
 ||in-protect-dev.sec.intl.miui.com^
+||in-prt-stsdk.vivoglobal.com^
 ||insights.cloud.microsoft^
 ||insights.video.a2z.com^
 ||internalcheck.apple.com^
@@ -1188,6 +1192,7 @@
 ||lgads.tv^
 ||lg.api.xmpush.xiaomi.com^
 ||lg-bgp-misc.pandora.xiaomi.com^
+||live.applicationinsights.azure.cn^
 ||live.miphone.pandora.xiaomi.com^
 ||live-video-log16-normal-alisg.tiktokv.com^
 ||ln-ring-fallback.msedge.net^
@@ -1734,13 +1739,11 @@
 ||obus-dctech-in.heytapmobile.com^
 ||obus-dctech-sg.heytapmobile.com^
 ||obus-dc-us.heytapmobile.com^
-||obus-in.dc.heytapmobile.com^
 ||obus-jssdk-cn.heytapmobi.com^
 ||obus-jssdk-fr.heytapmobile.com^
 ||obus-jssdk-in.heytapmobile.com^
 ||obus-jssdk-sg.heytapmobile.com^
 ||obus-jssdk-us.heytapmobile.com^
-||obus-sg.dc.heytapmobile.com^
 ||oca.microsoft.com^
 ||odin-signals.apple.com^
 ||office-events-data.trafficmanager.net^
@@ -2402,6 +2405,7 @@
 ||transfer.sec.miui.com^
 ||tr-cota.vivoglobal.com^
 ||tr-domaincfg.vivoglobal.com^
+||tr-err-up.vivoglobal.com^
 ||tr-gdpr-vgc-datacenter.vivoglobal.com^
 ||t-ring-fallback.msedge.net^
 ||t-ring-fallbacks1.msedge.net^
