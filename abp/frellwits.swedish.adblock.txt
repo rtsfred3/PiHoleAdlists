@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-11-02 07:00:15 UTC
+! Generated at 2025-11-03 08:00:28 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 ! 
@@ -704,9 +704,7 @@
 ||publish-int.se^
 ||publish.ne.cision.com^
 ||pushcrew.com^
-||pushnice.com^
 ||push-notifications.top^
-||pushwhy.com^
 ||pxl.host^
 ||r1.ddlnk.net^
 ||rabble-res.cloudinary.com^
@@ -734,7 +732,6 @@
 ||richmediastudio.com^
 ||richmetrics.com^
 ||ridsport.adhost.se^
-||rotarb.bid^
 ||rotator.riedta.com^
 ||route.carambo.la^
 ||royapp.com^
@@ -1103,7 +1100,6 @@
 ||websdk.appsflyer.com^
 ||web-sdk.smartlook.com^
 ||webstats.100procent.com^
-||west.statisticplatform.com^
 ||widget.cdn.citygate.se^
 ||widget.citygate.se^
 ||widget.lifeinside.io^

@@ -1,4 +1,4 @@
-# Generated at 2025-11-02 07:00:17 UTC
+# Generated at 2025-11-03 08:00:30 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -2593,6 +2593,7 @@ adzerk.net
 ad.zhangyue.com
 adzooma.com
 adzouk.com
+adzymic.co
 adz.zwee.ly
 ae.bdstatic.com
 aee3fcf685f8e11e7ace80a8c8421731-1535716790.ap-southeast-2.elb.amazonaws.com
@@ -2859,6 +2860,7 @@ alertcarolina.unc.edu
 alerts.lidlplus.com
 alerts.thedailystar.net
 alescodata.com
+alexa.auth.switch-bot.com
 alexa.com
 alexametrics.com
 alfa145.com
@@ -3038,6 +3040,7 @@ analytics-acc.cjib.nl
 analytics.adjust.world
 analytics.a-f.io
 analytics.agoda.com
+analytics.ahrefs.com
 analytics.amiunique.org
 analytics.amplitude.com
 analytics.analytics-egain.com
@@ -5027,6 +5030,7 @@ boyfriendlive.com
 boyxu.cn
 bpapi.apple.com
 bp.blogspot.com
+bplslb.com
 bp.mobad.ijinshan.com
 bpmonline.com
 bpremium.de
@@ -6657,7 +6661,6 @@ coinzilla.io
 coinzillatag.com
 coi-prod.azureedge.net
 co.la.welt.de
-coles.com.au
 col.hztags.net
 colisprive.com
 colissimo.fr
@@ -6673,6 +6676,7 @@ collector.funnel.io
 collector-gikzvs7cfa-ew.a.run.app
 collector.githubapp.com
 collector.github.com
+collector.leadinfo.net
 collector-px1uglztko.px-cdn.net
 collector-px1uglztko.pxchk.net
 collector-px1uglztko.px-cloud.net
@@ -8260,6 +8264,7 @@ diablo3.com
 diagassets.apple.com
 diagassets.g.aaplimg.com
 diagassets-lb.apple.com.akadns.net
+diagnostic.degiro.nl
 diagnostics.apple.com
 diagnostics.apple.com.akadns.net
 diagnostics-eudb.office.com
@@ -9070,6 +9075,7 @@ enviso.io
 envs.net
 en.webmecanik.com
 en.yeahmobi.com
+enzymic.co
 eomail6.com
 eoopersed.one
 ep00.epimg.net
@@ -9624,6 +9630,7 @@ firesprinklersinc.com
 fireworkapi.com
 fireworktv.com
 firmalyzer.com
+firstbeatanalytics.com
 first.iovation.com
 firstpromoter.com
 firststat.ru
@@ -9745,6 +9752,7 @@ foq.youreurope.europa.eu
 foragerwild.best
 foragerwildfood.sa.com
 forbesviz.com
+force24.co.uk
 forensicsguru.com
 foreoab.my.salesforce.com
 foreplay.co
@@ -10192,6 +10200,7 @@ get.gotomypc.com
 gethypervisual.com
 get.incogni.io
 getinsights.io
+getkoala.com
 getlasso.co
 get-latest.convrse.media
 getlucky.nl
@@ -10222,6 +10231,7 @@ getsmartlook.com
 getsocial.io
 getsocialmediafame.com
 get.s-onetag.com
+getsquirrel.co
 get.surfshark.net
 get.swoogo.com
 get.thefile.me
@@ -11824,6 +11834,7 @@ insticator.com
 insticator-localhost-products.s3.amazonaws.com
 insticator-review-products.s3.amazonaws.com
 instiengage.com
+instituutorshof.be
 instreamatic.com
 instreet.cn
 instrument-ofgod.com
@@ -13555,6 +13566,7 @@ marketing.skiff.org
 marketingsolutions.yahoo.com
 marketing.utrinskivesnik.mk
 marketing.wordstream.com
+marketing.workbooks.com
 marketinsightsassets.funda.nl
 marketinsights.funda.io
 marketizator.com
@@ -14388,6 +14400,7 @@ m.vsxet.com
 mw.adwo.com
 m.weeklyad.target.com
 mwlucuvbyrff.com
+mwm2.com
 mwm2.nl
 m.wnxcg.com
 m.wrating.com
@@ -14472,6 +14485,7 @@ n.ads-adnow.com
 nagich.com
 nahovitsyn.com
 nai.cpxkvc.com
+nakanohito.jp
 namai.tv
 namecheap.pxf.io
 namedq.com
@@ -16248,6 +16262,7 @@ proxy.sec.miui.com
 proxy-skadnetwork.apple.com
 proxy.speechkit.io
 proyalz.nl
+prppr.nl
 prtl.co
 prw.lenovomm.com
 psb.lenovomm.com
@@ -16354,7 +16369,6 @@ purelocalmedia.de
 purevpn.com
 purevpn.com.cdn.cloudflare.net
 purplebrain.com
-purpledshub.com
 purr.nytimes.com
 push.126.net
 push.air-matters.com
@@ -19091,6 +19105,8 @@ system1.com
 s.ysxufeng.com
 sys.zhangyue.com
 sytcyf.com
+syte.ai
+syteapi.com
 sytech-consultants.com
 s.ytimg.com
 sytsr.com
@@ -19169,6 +19185,7 @@ tag.getdrip.com
 tagging.bergmanclinics.nl
 tagging.elektrobode.nl
 tagging.kieskeurig.nl
+tagging.stas.nl
 tagging.toeleveringonline.nl
 tagging.utwente.nl
 tagging.versaantafel.nl
@@ -19179,6 +19196,7 @@ taginspector.com
 tagmanager.becop.nl
 tagmanager.google.com
 tagmanager.smartadserver.com
+tagmanager.top
 tag-manager.yle.fi
 tagman.britishairways.com
 tag.marinsm.com
@@ -19536,6 +19554,7 @@ themoneytizer.com
 thenewco.it
 theokex.com
 theoptimizer.io
+the-ozone-project.com
 thepointyspritesclub.com
 therapist.net
 theraptormedia.com
@@ -19812,6 +19831,7 @@ trackify.am
 tracking.aapcwebinar.com
 tracking.aatkit.com
 tracking.admobsphere.com
+tracking-api.g2.com
 tracking-api.squarelovin.com
 tracking.atreemo.com
 tracking.audio.thisisdax.com
@@ -19860,6 +19880,7 @@ tracking.ws-connex.de
 trackjs.com
 track.leanlab.co
 trackles.com
+track.list-finder.jp
 tracklog.58.com
 track.mailerlite.com
 trackmaven.com
@@ -21494,7 +21515,9 @@ yea.uploadimagex.com
 yee.js.cn
 yeelight.com
 yeelyn.com
+yellow.ai
 yellow.co-operativebank.co.uk
+yellowmessenger.com
 yellowpages.com
 yellowpageseu.net
 yellowpages.pl
@@ -21586,6 +21609,7 @@ youle55.com
 youmi.net
 yourbrand.com
 yourdailyhealthpack.com
+yourwoo.com
 yousee.com
 youthsight.com
 youtube.112.2o7.net
