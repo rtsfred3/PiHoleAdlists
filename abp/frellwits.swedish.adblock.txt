@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-11-04 08:00:20 UTC
+! Generated at 2025-11-05 08:00:26 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 ! 
@@ -909,6 +909,7 @@
 ||t.fastcmp.com^
 ||t.fml.rip^
 ||t.gatorleads.co.uk^
+||ti.tradetracker.net^
 ||tm.tradetracker.net^
 ||t.myvisitors.se^
 ||to.getnitropack.com^
