@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-11-05 08:00:48 UTC
+! Generated at 2025-11-06 08:00:45 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -5138,6 +5138,7 @@
 ||allrisks.actonservice.com^
 ||a.lls.org^
 ||allstarfg.actonservice.com^
+||alltypo.com^
 ||alluringbucket.com^
 ||allvideometrika.com^
 ||almalasers.actonservice.com^
@@ -18691,6 +18692,7 @@
 ||just.playvici.com^
 ||justsayyes.infor.com^
 ||justwebcards.com^
+||justwowjars.com^
 ||juzqsq.finanzcheck.de^
 ||jvbvng.notino.it^
 ||jviyau.pelicanwater.com^
@@ -26628,6 +26630,7 @@
 ||partnerdev.extasy.com^
 ||partner.haru-shop.jp^
 ||partner.hubinternational.com^
+||partnerhut.com^
 ||partner.librarius.com.ua^
 ||partnerlinks.io^
 ||partner.miso.kr^
@@ -30791,6 +30794,7 @@
 ||simg.yemeksepeti.com^
 ||simple.avaya.com^
 ||simplenaming.com^
+||simplesafari.com^
 ||simplesidewalk.com^
 ||simple.siegelgale.com^
 ||simpletopay.americanexpress.com^
@@ -30855,6 +30859,7 @@
 ||siusmv.coraltravel.pl^
 ||six9e.canal.fr^
 ||sixauthority.com^
+||sixpants.com^
 ||sixscissors.com^
 ||sizcsi.eobuv.cz^
 ||sizybn.shipsltd.co.jp^
@@ -42673,6 +42678,7 @@
 ||watson.officeint.microsoft.com^
 ||wave.getonthewave.com^
 ||waveinverter.com^
+||wavesimple.com^
 ||wavesmachine.com^
 ||wa.vodafone.cz^
 ||wa.vodafone.de^
