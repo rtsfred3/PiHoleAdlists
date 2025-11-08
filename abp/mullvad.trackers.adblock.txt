@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-11-07 08:00:43 UTC
+! Generated at 2025-11-08 08:00:47 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4170,6 +4170,7 @@
 ||absentairport.com^
 ||absinfo.eagle.org^
 ||absoft.actonservice.com^
+||absolutering.com^
 ||absorbingband.com^
 ||absorbingprison.com^
 ||abs.proxistore.com^
@@ -7870,7 +7871,6 @@
 ||bewilderedblade.com^
 ||beyond.bluewolf.com^
 ||bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au^
-||bf-analytics-tracker-tm.trafficmanager.net^
 ||bfeagv.chicwish.com^
 ||bfg.loanzify.app^
 ||bfjoyp.plus.nl^
@@ -8413,6 +8413,7 @@
 ||brpayless.eccocar.com^
 ||br.potato1.influitive.com^
 ||br.probablecausesolutions.com^
+||br-p.vivoglobal.com^
 ||brqory.notino.sk^
 ||brquazzar.eccocar.com^
 ||brquikly.eccocar.com^
@@ -8499,7 +8500,6 @@
 ||bugreport.pt.xiaomi.com^
 ||bugreport.xiaomi.net^
 ||bugs.firebat.prime-video.amazon.dev^
-||bugsnag.appstore.a2z.com^
 ||bugsnag-event.monitor.core.app.alexa.a2z.com^
 ||bugsnag-session.monitor.core.app.alexa.a2z.com^
 ||bugsnag.shopbop.amazon.dev^
@@ -8619,7 +8619,6 @@
 ||c4cm.actonservice.com^
 ||c4contexture.actonservice.com^
 ||c4dv.copinesdevoyage.com^
-||c4.pandora.xiaomi.com^
 ||c6lc.pandasuite.io^
 ||c917.pandasuite.io^
 ||caamcs.julipet.it^
@@ -8946,6 +8945,7 @@
 ||cgwebmetrics.capgroup.com^
 ||ch0p.darty.com^
 ||chademocharge.com^
+||chaindisc.com^
 ||chaireggnog.com^
 ||chairscrack.com^
 ||chairsdonkey.com^
@@ -15504,6 +15504,7 @@
 ||go.rex-bac-t.com^
 ||gorgeousedge.com^
 ||go.ridgid.emerson.com^
+||gorillapage.com^
 ||go.riosalado.edu^
 ||go.robertsonbuildings.com^
 ||go.rochesterknighthawks.com^
@@ -17159,6 +17160,7 @@
 ||inbound-analytics.pixlee.co^
 ||in.brilliant.org^
 ||in-business.vodafone.com^
+||in-cfg-stsdk.vivoglobal.com^
 ||incisive.actonservice.com^
 ||incomehippo.com^
 ||incompetentjoke.com^
@@ -19974,6 +19976,7 @@
 ||links.swazzen.com^
 ||links.sweet.io^
 ||link.stabilitas.io^
+||linkstable.com^
 ||link.staff.notab.com^
 ||link.stage.easy.me^
 ||link-staging.bestest.io^
@@ -24818,7 +24821,6 @@
 ||mobil.hry.yt^
 ||mobilize.tupinambaenergia.com.br^
 ||mob.pandora.xiaomi.com^
-||mob.tv.pandora.xiaomi.com^
 ||mobwars-alternate.kano.link^
 ||mobwars.kano.link^
 ||modularmental.com^
@@ -27876,6 +27878,7 @@
 ||quietknowledge.com^
 ||quillkick.com^
 ||quiltquick.com^
+||quiltruler.com^
 ||quinceimaging.actonservice.com^
 ||quirklogic.actonservice.com^
 ||quirkybliss.com^
@@ -27945,6 +27948,7 @@
 ||radar.imgsmail.ru^
 ||radarsubmissions.apple.com^
 ||radarsubmissions.apple.com.akadns.net^
+||radexports.com^
 ||radiantcanopy.com^
 ||radiantlullaby.com^
 ||radiateprose.com^
@@ -28519,7 +28523,6 @@
 ||rmp4.destinia.uy^
 ||r.msn.com^
 ||rmxhti.zpacks.com^
-||rnd-aresocean-commercial.huawei.com^
 ||rnd-cbgpas01.huawei.com^
 ||rnffgv.wemakeprice.com^
 ||r.niwepa.com^
@@ -37667,7 +37670,6 @@
 ||test-ad.mens-lucia.com^
 ||test.admin.xmpush.xiaomi.com^
 ||testadmiral.com^
-||test-api.xmpush.xiaomi.com^
 ||test-app.getgifted.com^
 ||test-applink.batterii.com^
 ||test-app.popsa.com^
@@ -37873,6 +37875,7 @@
 ||themangotea.com^
 ||theme.echovisuals.com^
 ||themepicker.com^
+||thepixelpioneer.com^
 ||thepowerstones.com^
 ||thequickbooksteam.intuit.ca^
 ||therapeuticcars.com^
@@ -42314,7 +42317,6 @@
 ||vfw-eu-gamma.amazon-adsystem.com^
 ||vfw-gamma.amazon-adsystem.com^
 ||vfw-us.amazon-adsystem.com^
-||vfw-us-gamma.amazon-adsystem.com^
 ||vfw-us-west.amazon-adsystem.com^
 ||vfw-us-west-gamma.amazon-adsystem.com^
 ||vg247-uk.vg247.com^
@@ -43036,6 +43038,7 @@
 ||wernerelectric.actonservice.com^
 ||wesbgz.travel.co.jp^
 ||westevents.presidio.com^
+||westus-0.in.applicationinsights.azure.com.drandts.co.uk^
 ||weus2watcab01.blob.core.windows.net^
 ||weus2watcab02.blob.core.windows.net^
 ||wevbgr.vidaxl.it^
@@ -44438,6 +44441,7 @@
 ||zakelijkemarkt.vattenfall.nl^
 ||zakelijke-oplossingen-nld.americanexpress.nl^
 ||za.qeeq.com^
+||zasc-cota.vivoglobal.com^
 ||zatong.icaniwill.se^
 ||zaventemdijleland.viessmann.be^
 ||za.zalo.me^

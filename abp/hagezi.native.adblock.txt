@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-11-07 08:00:29 UTC
+! Generated at 2025-11-08 08:00:32 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -467,7 +467,6 @@
 ||beacon.shazam.com^
 ||beacons.trafficmanager.net^
 ||beacons.xboxlive.com^
-||bf-analytics-tracker-tm.trafficmanager.net^
 ||bgp.fe01.c3.xiaomi.com^
 ||bgp.tv.pandora.xiaomi.com^
 ||bigdata-lbs-pri-c3.alb.xiaomi.com^
@@ -504,6 +503,7 @@
 ||browser-sdk-fr.heytapmobile.com^
 ||browser-sdk-in.heytapmobile.com^
 ||browser-sdk-ru.heytapmobile.com^
+||br-p.vivoglobal.com^
 ||bsf.sc.heytapmobile.com^
 ||bsp.sasdc.pandora.xiaomi.com^
 ||bss.pandora.xiaomi.com^
@@ -512,7 +512,6 @@
 ||bugreport.pt.xiaomi.com^
 ||bugreport.xiaomi.net^
 ||bugs.firebat.prime-video.amazon.dev^
-||bugsnag.appstore.a2z.com^
 ||bugsnag-event.monitor.core.app.alexa.a2z.com^
 ||bugsnag-session.monitor.core.app.alexa.a2z.com^
 ||bugsnag.shopbop.amazon.dev^
@@ -522,7 +521,6 @@
 ||c3.api.xmpush.xiaomi.com^
 ||c3-bgp.pandora.xiaomi.com^
 ||c3mini.pandora.xiaomi.com^
-||c4.pandora.xiaomi.com^
 ||cache.datamart.windows.com^
 ||cac-visio-telemetry.officeapps.live.com^
 ||calculator-api-fr.allawnos.com^
@@ -1084,6 +1082,7 @@
 ||in-apport-stsdk.vivoglobal.com^
 ||in-apppnrt-stsdk.vivoglobal.com^
 ||in-appprt-stsdk.vivoglobal.com^
+||in-cfg-stsdk.vivoglobal.com^
 ||in-cota.vivoglobal.com^
 ||in-ctdbonrt-stsdk.vivoglobal.com^
 ||in-ctdbort-stsdk.vivoglobal.com^
@@ -1544,7 +1543,6 @@
 ||mobileanalytics.us-east-1.amazonaws.com^
 ||mobileleads.msn.com^
 ||mob.pandora.xiaomi.com^
-||mob.tv.pandora.xiaomi.com^
 ||mon15-checkout-alisg.tiktokv.com^
 ||mon15-checkout.tiktokv.com^
 ||mon15-checkout-useast1a.tiktokv.com^
@@ -1942,7 +1940,6 @@
 ||rmads.eu.msn.com^
 ||rmads.msn.com^
 ||r.msn.com^
-||rnd-aresocean-commercial.huawei.com^
 ||rnd-cbgpas01.huawei.com^
 ||ro-up.vivoglobal.com^
 ||r.sg.sec.miui.com^
@@ -2307,7 +2304,6 @@
 ||temai.snssdk.com^
 ||tenmax-ads.trafficmanager.net^
 ||test.admin.xmpush.xiaomi.com^
-||test-api.xmpush.xiaomi.com^
 ||testit.miui.com^
 ||test.samsungrm.net^
 ||tgtus1-excel-telemetry-vip.officeapps.live.com^
@@ -2503,7 +2499,6 @@
 ||vfw-eu-gamma.amazon-adsystem.com^
 ||vfw-gamma.amazon-adsystem.com^
 ||vfw-us.amazon-adsystem.com^
-||vfw-us-gamma.amazon-adsystem.com^
 ||vfw-us-west.amazon-adsystem.com^
 ||vfw-us-west-gamma.amazon-adsystem.com^
 ||vhs.wwstat.com^
@@ -2536,6 +2531,7 @@
 ||wayfinderanalytics.servicebus.windows.net^
 ||weather-analytics-events.apple.com^
 ||web-mon-useast2a.byteoversea.com^
+||westus-0.in.applicationinsights.azure.com.drandts.co.uk^
 ||weus2watcab01.blob.core.windows.net^
 ||weus2watcab02.blob.core.windows.net^
 ||win10-trt.msedge.net^
@@ -2583,6 +2579,7 @@
 ||xpu.samsungelectronics.com^
 ||xp.v.aaplimg.com^
 ||ypu.samsungelectronics.com^
+||zasc-cota.vivoglobal.com^
 ||zen-core-fr.allawnos.com^
 ||zen-core-in.allawnos.com^
 ||zen-core-sg.allawnos.com^
