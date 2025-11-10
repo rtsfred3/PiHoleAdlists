@@ -1,4 +1,4 @@
-# Generated at 2025-11-09 08:00:20 UTC
+# Generated at 2025-11-10 08:00:18 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -2671,6 +2671,7 @@ aff.marathonbet.com
 affplus.com
 aff.svjump.com
 afgis.de
+afgr1.com
 afi-b.com
 a.fiksu.com
 afiliados.hostgator.com.br
@@ -3053,6 +3054,7 @@ analytics.apphq.co
 analytics.archive.org
 analyticsaura.com
 analytics.aweber.com
+analytics.bamigo.com
 analytics.bit.admin.ch
 analytics.bitchute.com
 analytics.bitsighttech.com
@@ -3240,6 +3242,7 @@ android-quinoa-config-prod.sense360eng.com
 androidrepo.com
 androidtvchannels-pa.googleapis.com
 andromedae-b.com
+a.newsadoo.com
 anexia-it.com
 ane.yahoo.co.jp
 an.facebook.com
@@ -4045,7 +4048,6 @@ aura.com
 aura-dsp.com
 auryc.com
 ausgezeichnet.org
-ausha.co
 auspost-input.com
 auspost-record.com
 aussievitamin.com
@@ -5756,7 +5758,6 @@ cdn.gigya.com
 cdn-gl.imrworldwide.com
 cdn-gl.nmrodam.com
 cdngslb.com
-cdn.gumlet.com
 cdn.harvest.graindata.com
 cdn.headwayapp.co
 cdn.heapanalytics.com
@@ -5998,6 +5999,7 @@ cf.eip.telegraph.co.uk
 cfernandes.com.br
 cferw.com
 cfglobal.com.au
+cfgr1.com
 cf.iadsdk.apple.com
 c.fingerprint.com
 cfjump.com
@@ -6632,6 +6634,7 @@ codomaza.com
 c.office.com
 coglilaffare.it
 cognigy.ai
+cognigy.com
 cognism.com
 cognitivemarketing.tid.es
 cognitivlabs.com
@@ -8538,6 +8541,7 @@ doubleclick.com
 doubleclick.de
 doubleclick.net
 doubleclick.tv002.com
+doublepimp.com
 doubleplay-conf-yql.media.yahoo.com
 doubleverify.com
 douceepopee.fr
@@ -9160,6 +9164,7 @@ estream.to
 estrelladelfuturo.es
 estrongs.com
 esurveyapi.asus.com
+etahub.com
 eterno.com
 eteun.cn
 etg.containers.piwik.pro
@@ -9236,6 +9241,7 @@ events.api.secureserver.net
 events.appsflyer.com
 events.bizzabo.com
 events.blendle.com
+events.bsky.app
 events.cid.samba.tv
 events.data.microsoft.com
 events-external.blendle.com
@@ -10097,6 +10103,7 @@ geforce.com
 geforcenow.com
 geili.co
 geistm.com
+gelacy.app
 geldanforderung-hennrike.de
 geldloterijen.nl
 geller-pa.googleapis.com
@@ -10239,6 +10246,7 @@ gettingurl.com
 gettrackify.com
 getui.com
 getvero.com
+getwoohoo.com
 gewinnabfrage.at
 gewuwen.com
 g.ezodn.com
@@ -10614,7 +10622,6 @@ guidelines.lt.acemlna.com
 guide-piscine.fr
 gum.criteo.com
 gumgum.com
-gumlet.com
 gummyadvertising.com.mt
 guohead.com
 guomob.com
@@ -11089,6 +11096,8 @@ ia.51.la
 iabacorenaganotonic.best
 iab.com
 iabtechlab.com
+iabtechlab.github.io
+iabtechnologylab.com
 iad2d1-cmws.iad.apple.com
 iad2d1-feed.iad.apple.com
 iad2d1.iad.apple.com
@@ -11933,6 +11942,7 @@ ip-adress.com
 ipapi.co
 ip-api.com
 ipapi.com
+ip.bsky.app
 ipcheck.tmgrup.com.tr
 ipdata.co
 ipecho.net
@@ -15669,6 +15679,7 @@ pfpip.sina.com
 pfp.sina.com.cn
 pftk.temu.com
 pg.com
+pg.dpgmedia.net
 pgdt.gtimg.cn
 pgdt.gtimg.com
 pgdt.ugdtimg.com
@@ -16573,6 +16584,7 @@ questionpro.com
 questionstar.com
 questpass.pl
 queue-it.com
+quickcep.com
 quickconnect.to
 quick-esteemed.usefathom.com
 quicklyemailsend77.com
@@ -17219,6 +17231,7 @@ rutracker.org
 ruxianke.com
 rv-gateway.supersonicads.com
 rvgms.io
+r.wdfl.co
 r.w.inmobi.com
 rwjfs.com
 rxengage.app
@@ -17728,6 +17741,7 @@ sentry-next.wixpress.com
 sentry.odysee.tv
 sentry.openbook.social
 sentry.ovhcloud.com
+sentry.quodari.com
 sentry-reporter.ente.io
 sentry.scaleway.com
 sentry-ssl-462500017.us-east-1.elb.amazonaws.com
@@ -17737,6 +17751,7 @@ sentry.tools.element.io
 sentry.uncinc.nl
 sentry.voipgrid.nl
 sentry.wearetriple.com
+sentry.wikipower.dev
 seoab.io
 seohub.digital
 seoindia.today
@@ -18031,6 +18046,7 @@ siteintercept.qualtrics.com
 site-manager.eu
 sitemeter.com
 sitemobia.com
+siteperformancetest.net
 site-production.anwb.bloomreach.cloud
 sitescout.com
 sitesearch360.com
@@ -18101,6 +18117,7 @@ smarketingcloud.com
 smarsh.com
 smartadserver.com
 smartadserver.ru
+smartagent.app
 smartasset.com
 smart-bdash.com
 smartboulevard.co.uk
@@ -18993,6 +19010,7 @@ surfmerchants.com
 surfmerchants.net
 surfplezier.nl
 survalyzer.com
+survalyzer.swiss
 survey.apple.com
 surveybot.io
 survey.clevelandclinic.org
@@ -19740,6 +19758,7 @@ toourbb.com
 top10casino.nl
 top267.com
 topadblocker.net
+topbuytips.store
 topcams.life
 top-casino.nl
 top.evolok.net
@@ -20254,7 +20273,6 @@ ulink.cc
 ulog.imap.baidu.com
 u.l.qq.com
 ultimatebet.com
-ultimedia.com
 ultracart.com
 ultriva.com
 ulyvjty4rd.com
