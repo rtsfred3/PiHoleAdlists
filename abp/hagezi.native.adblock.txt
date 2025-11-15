@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-11-14 08:00:15 UTC
+! Generated at 2025-11-15 08:00:17 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -461,6 +461,8 @@
 ||axp.amazon-adsystem.com^
 ||az667904.vo.msecnd.net^
 ||az.appstore.vivo.com.cn^
+||azurewatson.microsoft.com^
+||azurewatsontest.microsoft.com^
 ||b2banalytics.samsungknox.com^
 ||bat.bing.com^
 ||bds.snssdk.com^
@@ -992,7 +994,6 @@
 ||h4g3z1-native.vivo.web.app^
 ||h4g3z1-native.winoffice.web.app^
 ||h4g3z1-native.xiaomi.web.app^
-||h5-ru.video.intl.xiaomi.com^
 ||h5.tv.mi.com^
 ||h6.msn.com^
 ||haohuo.snssdk.com^
@@ -1063,7 +1064,6 @@
 ||image.box.xiaomi.com^
 ||image.cdn.mvideo.xiaomi.com^
 ||image.cdn.pandora.xiaomi.com^
-||images.b2bindia.samsung.com^
 ||images.chbusiness.samsung.com^
 ||images.frbusiness.samsung.com^
 ||images.it.business.samsung.com^
@@ -2052,7 +2052,6 @@
 ||ru-vcode-od.vivoglobal.com^
 ||ru-vcode-or.vivoglobal.com^
 ||ruvideo.cdn.pandora.intl.xiaomi.com^
-||ru.video.intl.xiaomi.com^
 ||s3-dub-ww.cf.videorolls.row.aiv-cdn.net^
 ||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 ||s.amazon-adsystem.com^
@@ -2506,6 +2505,7 @@
 ||vhs.wwstat.com.eo.dnse0.com^
 ||vhs.wwstat.com.eo.unicomcdn.com.cn^
 ||video-ads.a2z.com^
+||video.intl.xiaomi.com^
 ||video.kts.g.mi.com^
 ||video.market.xiaomi.com^
 ||vip-api.xmpush.global.xiaomi.com^

@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-11-14 08:00:31 UTC
+! Generated at 2025-11-15 08:00:32 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -7649,6 +7649,8 @@
 ||azscgj.penningtons.com^
 ||azuremystique.com^
 ||azurestealth.com^
+||azurewatson.microsoft.com^
+||azurewatsontest.microsoft.com^
 ||azveac.pearl.ch^
 ||azwucq.locservice.fr^
 ||azwxpp.nequittezpas.jp^
@@ -9271,6 +9273,7 @@
 ||clohzp.hifi.lu^
 ||cloisteredcurve.com^
 ||c.lolamarket.com^
+||cloudchickens.com^
 ||cloud.diagral.fr^
 ||cloudfront-labs.amazonaws.com^
 ||cloudguppy.com^
@@ -12065,6 +12068,7 @@
 ||doh.cq0.co^
 ||dohmen.actonservice.com^
 ||dollardelta.com^
+||dollarthrill.com^
 ||dolphin.deliver.ifeng.com^
 ||dolrfm.fotoregistro.com.br^
 ||domainbntest.branchcustom.xyz^
@@ -12151,6 +12155,7 @@
 ||dragate-in-dc.heytapmobile.com^
 ||dragate-sg.dc.heytapmobi.com^
 ||dragate-sg.dc.oppomobile.com^
+||dragonbats.com^
 ||drainpaste.com^
 ||dramaticdirection.com^
 ||drau.viessmann.si^
@@ -12264,6 +12269,7 @@
 ||dyghye.fashionesta.com^
 ||dynamic-content.croquetteland.com^
 ||dynamic.ziftsolutions.com^
+||dynatrace.att.com^
 ||dyqebg.aboutyou.hr^
 ||dysbvu.bodyandfit.com^
 ||dyzmpx.speedway.fr^
@@ -12619,7 +12625,6 @@
 ||efadyz.smartbuyglasses.co.nz^
 ||efbenj.adorebeauty.com.au^
 ||e.fdm.dk^
-||effect.habr.com^
 ||effervescentcoral.com^
 ||effervescentvista.com^
 ||efficiency.nl.visma.com^
@@ -14311,6 +14316,7 @@
 ||fokbrd.impo.ch^
 ||followborder.com^
 ||foodbrochure.advancedtech.com^
+||foodczar.com^
 ||foodfunfestivals.com^
 ||food.informaengage.com^
 ||foodpackaging.kpfilms.com^
@@ -14496,6 +14502,7 @@
 ||franticroof.com^
 ||fr-api.xmpush.global.xiaomi.com^
 ||fraudandcyberawareness.safeguard.hsbc.com^
+||fraysystems.com^
 ||frbdzc.goguynet.jp^
 ||frbmdx.fwrd.com^
 ||fr.contact.alphabet.com^
@@ -15888,7 +15895,6 @@
 ||h559.stamfordadvocate.com^
 ||h5.analytics.126.net^
 ||h5log.zongheng.com^
-||h5-ru.video.intl.xiaomi.com^
 ||h5.tv.mi.com^
 ||h6.msn.com^
 ||hacx60.com^
@@ -28792,7 +28798,6 @@
 ||ru-vcode-or.vivoglobal.com^
 ||ruvdkw.turk.net^
 ||ruvideo.cdn.pandora.intl.xiaomi.com^
-||ru.video.intl.xiaomi.com^
 ||ruw.roanokeunderwriting.com^
 ||rvbqze.albamoda.de^
 ||rverxn.autosphere.fr^
@@ -29795,6 +29800,7 @@
 ||seadform.net^
 ||seahorseinfo.agilent.com^
 ||sealingdev.actonservice.com^
+||sealtravels.com^
 ||seamarketny.actonservice.com^
 ||seao.business.samsung.com^
 ||searchads.apple.com^
@@ -42379,6 +42385,7 @@
 ||videoevents.outbrain.com^
 ||video.funnelbox.com^
 ||video-intel.pixels.ai^
+||video.intl.xiaomi.com^
 ||video.kts.g.mi.com^
 ||video.market.xiaomi.com^
 ||videoplayerhub.com^
