@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-11-15 08:00:13 UTC
+! Generated at 2025-11-16 08:00:18 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 ! 
@@ -16829,6 +16829,7 @@
 ||refr.cc^
 ||region1.app-measurement.com^
 ||region1.google-analytics.com^
+||regionalserver.com^
 ||registration.gimbal.com^
 ||reglement-info-netflix.com^
 ||reg.tiscali.cz^
