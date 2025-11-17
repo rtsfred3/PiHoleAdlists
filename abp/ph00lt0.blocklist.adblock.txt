@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-11-17 08:00:14 UTC
+! Generated at 2025-11-17 22:56:28 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 ! 
@@ -5970,6 +5970,7 @@
 ||cellebrite.com^
 ||celtra.com^
 ||celtraidentity.com^
+||cemcostruzioni.net^
 ||cengage.com^
 ||censia.com^
 ||census-app.scorecardresearch.com^
@@ -9313,7 +9314,6 @@
 ||exdynsrv.com^
 ||exe.bid^
 ||execs.com^
-||execute-api.us-east-1.amazonaws.com^
 ||exelator.com^
 ||exepto.ru^
 ||exitbee.com^
@@ -12747,6 +12747,7 @@
 ||lcscards-klantnr-49289182.com^
 ||lcs.dev.surepush.cn^
 ||lcs.naver.com^
+||ldf-df.com^
 ||ld.kuaigames.com^
 ||ld.paddle.com^
 ||lds.lenovomm.com^
@@ -13487,6 +13488,7 @@
 ||mailjet.com^
 ||maillist-manage.com^
 ||maillist-manage.eu^
+||mailmeisters.nl^
 ||mailmunch.co^
 ||mailmunch.com^
 ||mailperformance.com^
@@ -21251,6 +21253,7 @@
 ||wpcc.io^
 ||wp.hit.gemius.pl^
 ||wpmlorg.s3.amazonaws.com^
+||wp-renewal.com^
 ||wpsandwatch.com^
 ||wps.cn^
 ||wpsweb-dc.wps.cn^
