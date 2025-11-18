@@ -1,4 +1,4 @@
-# Generated at 2025-11-17 22:56:28 UTC
+# Generated at 2025-11-18 08:00:14 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -9006,6 +9006,7 @@ emercury.net
 emerse.com
 emetriq.com
 em-frame.securitytrfx.com
+emg.io
 emizexpi.today
 emjcd.com
 emlmkt.com
@@ -11020,6 +11021,7 @@ huimee.net
 hui.sohu.com
 hulkapps.com
 hulkprod.anm.co.uk
+humandetect.digital
 humanding.com
 human-id.org
 hu-manity.co
