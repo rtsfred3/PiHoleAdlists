@@ -1,4 +1,4 @@
-# Generated at 2025-11-18 08:00:14 UTC
+# Generated at 2025-11-19 08:00:16 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -3912,6 +3912,7 @@ astatic.org
 asteriresearch.com
 astionserts.gay
 a.storyblok.com
+astralis-7.com
 as.trklinklog.com
 astrokam.com
 astro-selections.com
@@ -4063,6 +4064,10 @@ authoritylabs.com
 authorized.by
 authorize.net
 autience.com
+autobegan17.com
+autobegan18.com
+autobegan21.com
+autobegan30.com
 autobild.com.mx
 autoclicker.org
 autocommerce.io
@@ -6353,6 +6358,7 @@ clicks.benu.nl
 clicks.careerbits.com
 clickserve.dartsearch.net
 click.simba.taobao.com
+clicks.jumbo.com
 clickskeks.at
 clickskekssys.at
 clicks.mlsend2.com
@@ -8725,6 +8731,7 @@ dynamic-tracking.com
 dynamic-yield.com
 dynamicyield.com
 dynamiteduweb.fr
+dynamoagency1984.com
 dynataprivacy.com
 dynatrace.com
 dynatrace.schwarz
@@ -9596,6 +9603,7 @@ files.acrobat.com
 files.adform.net
 files.cdn.leadfamly.com
 files-shpf.mageworx.com
+filetozip.com
 filetransit.com
 filmbase.com
 filosofie.nl
@@ -11817,6 +11825,7 @@ inskinad.com
 inskinmedia.com
 inskin.vo.llnwd.net
 inspera.com
+inspiratie.jumbo.com
 inspirationclan.com
 inspiration.org
 inst.360safe.com
@@ -12720,6 +12729,7 @@ lashou1000.com
 lasmaravillasdelweb.es
 lasmegas.de
 lasteventf-tm.everesttech.net
+latestdatabase.com
 latoiledoree.com
 lattice.com
 latuachance.it
@@ -13364,6 +13374,7 @@ luctoretemergo.nl
 ludoking.com
 lufax.com
 luikenkarstens.nl
+lumiforge-6.com
 luminati.io
 lumtest.com
 lunamedia.io
@@ -13498,6 +13509,7 @@ mailrabobank.email
 mail.secondhome.nl
 mailspice.com
 mailssenders.com
+mailsuite.com
 mailuserskyc.com
 mailws.zoho.eu
 mailzgbaag.mail.webpower.eu
@@ -14473,6 +14485,7 @@ mypurecloud.de
 mypursuit.shop
 mypython.xyz
 myqcloud.com
+myrton20.com
 my.surveypal.com
 mytanwan.com
 my.tealiumiq.com
@@ -14663,6 +14676,7 @@ new.zhqiu.com
 nex.163.com
 nexac.com
 nexage.com
+nex-bridge3.com
 nex.corp.163.com
 nexd.com
 nextcps.com
@@ -15749,6 +15763,7 @@ pingshetrip.com
 pingstart.com
 pingtcss.qq.com
 pingvp.com
+pinnacleservices4673.com
 pinpoint.us-east-1.amazonaws.com
 pinpoll.com
 pioggiadiofferte.it
@@ -17046,6 +17061,7 @@ rmads.eu.msn.com
 rmads.msn.com
 r.mail.163.com
 r.mailjet.com
+rmailroute.net
 r.mail.ru
 rmcxw.cn
 rm.ra.icast.cn
@@ -18508,6 +18524,7 @@ sscefsol.com.cn
 sscict.piwik.prisma-it.com
 ss.cnnic.cn
 ssdaili.com
+ssdiam.in
 ssdk.adkmob.com
 s.search.naver.com
 ss.he9630.com
@@ -20699,6 +20716,7 @@ vimeo-realtime-presence-prod-default-rtdb.firebaseio.com
 vincentnijman.nl
 vindercasino.dk
 vindstort.dk
+vinodelikatess.se
 vionservices.com
 vip.51.la
 vipads.cn
@@ -21728,6 +21746,7 @@ zebet.nl
 zebrawin.de
 zedge.net
 zedo.com
+zedrox.app
 zeit.met.vgwort.de
 zemanta.com
 zenaps.com
