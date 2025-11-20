@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-11-19 08:00:20 UTC
+! Generated at 2025-11-20 08:00:20 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -1326,6 +1326,7 @@
 ||logtrace.snssdk.com^
 ||logupdate.avlyun.sec.miui.com^
 ||log.us.tiktokv.com^
+||log-v2-boot.capcutapi.com^
 ||log-va.tiktokv.com^
 ||log-va-useast2a.tiktokv.com^
 ||lp.americas.business.samsung.com^
@@ -1375,6 +1376,7 @@
 ||mcs-ttp2.us.tiktok.com^
 ||mcs.us.tiktok.com^
 ||mcs.us.tiktokv.com^
+||mcs-v2-boot.capcutapi.com^
 ||mcs-va.tiktok.com^
 ||mcs-va.tiktokv.com^
 ||mcs-va-useast2a.tiktokv.com^
@@ -1556,6 +1558,7 @@
 ||mon16-normal-c-useast1a.tiktokv.com^
 ||mon16-normal-c-useast2a.tiktokv.com^
 ||mon16-normal-no1a.tiktokv.eu^
+||mon16-normal-no1a.tiktokv.eu.station^
 ||mon16-normal-sg.capcutapi.com^
 ||mon16-normal.tiktokv.com^
 ||mon16-normal-useast1a.tiktokv.com^
@@ -1603,6 +1606,7 @@
 ||mon.tiktokv.eu^
 ||mon-useast2a.tiktokv.com^
 ||mon.us.tiktokv.com^
+||mon-v2-boot.capcutapi.com^
 ||mon-va.byteoversea.com^
 ||mon-va.tiktokv.com^
 ||mon-va-useast2a.byteoversea.com^
@@ -1616,6 +1620,8 @@
 ||msg.ptqy.gitv.tv^
 ||msg.video.ptqy.gitv.tv^
 ||mshopbugsnag.irm.amazon.dev^
+||mssdk16-normal.capcutapi.com^
+||mssdk16-normal-sg.capcutapi.com^
 ||mssdk16-normal.tiktokv.com^
 ||mssdk16-normal-useastred.tiktokw.eu^
 ||mssdk16-normal-us-ttp.capcutapi.us^
@@ -1641,6 +1647,8 @@
 ||mssdk24-normal-useast2a.tiktokv.com^
 ||mssdk31-normal-zr-alisg.tiktokv.com^
 ||mssdk31-normal-zr-useast1a.tiktokv.com^
+||mssdk32-normal.capcutapi.com^
+||mssdk32-normal-sg.capcutapi.com^
 ||mssdk32-normal-zr-alisg.tiktokv.com^
 ||mssdk32-normal-zr-useast1a.tiktokv.com^
 ||mssdk-boot.capcutapi.com^
@@ -1664,6 +1672,7 @@
 ||mssdk.tiktokw.us^
 ||mssdk.us.tiktok.com^
 ||mssdk.us.tiktokv.com^
+||mssdk-v2-boot.capcutapi.com^
 ||mssdk-va.byteoversea.com^
 ||mssdk-va.tiktok.com^
 ||mssdk-va.tiktokv.com^
@@ -1782,6 +1791,7 @@
 ||pc-mon-boot.capcutapi.com^
 ||pc-mon-normal-sg.capcutapi.com^
 ||pc-mon.snssdk.com^
+||pc-mon-v2-boot.capcutapi.com^
 ||pc-mon-va.byteoversea.com^
 ||performance-partners.apple.com^
 ||pgtbr1-excel-telemetry-vip.officeapps.live.com^
@@ -2367,6 +2377,7 @@
 ||tnc-boot.capcutapi.com^
 ||tnc-boot.tiktokv.com^
 ||tnc-sg.capcutapi.com^
+||tnc-v2-boot.capcutapi.com^
 ||tnc-va.capcutapi.com^
 ||tnc-va-us-looki.capcutapi.com^
 ||tobapplog.snssdk.com^
