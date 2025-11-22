@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-11-21 08:00:39 UTC
+! Generated at 2025-11-22 08:00:38 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -3996,6 +3996,7 @@
 ||abgghj.moustakastoys.gr^
 ||a.bigtennetwork.com^
 ||abilityscale.com^
+||abilitytoucan.com^
 ||abjectattempt.com^
 ||abjkfy.muuu.com^
 ||abjtuq.exoticca.com^
@@ -7946,6 +7947,7 @@
 ||bi-metrics.aramuz.net^
 ||biminibliss.rwbimini.com^
 ||binarycrest.com^
+||binarykite.com^
 ||bingads.microsoft.com^
 ||bingads.trafficmanager.net^
 ||binocule21c.merriam-webster.com^
@@ -8507,6 +8509,7 @@
 ||bugreport.pt.xiaomi.com^
 ||bugreport.xiaomi.net^
 ||bugs.firebat.prime-video.amazon.dev^
+||bugsnag.appstore.a2z.com^
 ||bugsnag-event.monitor.core.app.alexa.a2z.com^
 ||bugsnag-session.monitor.core.app.alexa.a2z.com^
 ||bugsnag.shopbop.amazon.dev^
@@ -9060,6 +9063,7 @@
 ||citizenship.quantresear.ch^
 ||c.it.msn.com^
 ||citrixanalyticseh2-alias.servicebus.windows.net^
+||citrixanalyticseh2.servicebus.windows.net^
 ||citrixanalyticseh-alias.servicebus.windows.net^
 ||citrixanalyticsehaps-alias.servicebus.windows.net^
 ||citrixanalyticsehaps.servicebus.windows.net^
@@ -9869,7 +9873,6 @@
 ||conn-service-us-05.allawnos.com^
 ||conn-service-us-07.allawnos.com^
 ||conn-service-us-08.allawnos.com^
-||conn-v2.samsung.japps.cn^
 ||consciouscheese.com^
 ||conseils.dotbase.com^
 ||conseil.seicgland.ch^
@@ -12681,6 +12684,7 @@
 ||eicyds.qoo10.jp^
 ||eifeou.pandahall.com^
 ||eiftfa.fashionette.de^
+||eightgreens.com^
 ||eikwax.marmot.com^
 ||eimcqw.dickies.com^
 ||e-img.hover.to^
@@ -15906,6 +15910,7 @@
 ||h559.stamfordadvocate.com^
 ||h5.analytics.126.net^
 ||h5log.zongheng.com^
+||h5-ru.video.intl.xiaomi.com^
 ||h5.tv.mi.com^
 ||h6.msn.com^
 ||hacx60.com^
@@ -24875,7 +24880,6 @@
 ||mon16-normal-c-useast1a.tiktokv.com^
 ||mon16-normal-c-useast2a.tiktokv.com^
 ||mon16-normal-no1a.tiktokv.eu^
-||mon16-normal-no1a.tiktokv.eu.station^
 ||mon16-normal-sg.capcutapi.com^
 ||mon16-normal.tiktokv.com^
 ||mon16-normal-useast1a.tiktokv.com^
@@ -25802,6 +25806,7 @@
 ||objecthero.com^
 ||objectpartners.actonservice.com^
 ||objectsnetwork.com^
+||oblivionfleet.com^
 ||o.bluewin.ch^
 ||obnrap.neimanmarcus.com^
 ||obooom.robinmaybag.com^
@@ -28324,7 +28329,6 @@
 ||reports.sdiapi.com^
 ||reports-tsi.tangerine.io^
 ||reports.tunein.com^
-||report-v2.samsung.japps.cn^
 ||reppify.actonservice.com^
 ||reqssx.centerparcs.fr^
 ||request.idangels.org^
@@ -28822,6 +28826,7 @@
 ||ru-vcode-or.vivoglobal.com^
 ||ruvdkw.turk.net^
 ||ruvideo.cdn.pandora.intl.xiaomi.com^
+||ru.video.intl.xiaomi.com^
 ||ruw.roanokeunderwriting.com^
 ||rvbqze.albamoda.de^
 ||rverxn.autosphere.fr^
@@ -30871,7 +30876,6 @@
 ||sipulo.katies.com.au^
 ||sis8.premieremoisson.com^
 ||sisdtb.climatempo.com.br^
-||sis-v2.samsung.japps.cn^
 ||site24x7rum.eu^
 ||site2.emarketer.com^
 ||site.att.com^
@@ -35421,7 +35425,6 @@
 ||stat.i3.dmm.com^
 ||static.fengkongcloud.com^
 ||static.game.xiaomi.com^
-||static.geek.miui.com^
 ||static.osalta.eu^
 ||static.ptqy.gitv.tv^
 ||static-tracking.klaviyo.com^
@@ -36549,6 +36552,7 @@
 ||storedl5f.nearme.com.cn^
 ||store.echovisuals.com^
 ||store.esquirrel.at^
+||stormgate.production.raptive.com^
 ||stormwind.actonservice.com^
 ||stormyflower.com^
 ||s.toronto.com^
@@ -42367,6 +42371,8 @@
 ||vfw-eu.amazon-adsystem.com^
 ||vfw-eu-gamma.amazon-adsystem.com^
 ||vfw-gamma.amazon-adsystem.com^
+||vfwm.amazon-adsystem.com^
+||vfws.amazon-adsystem.com^
 ||vfw-us.amazon-adsystem.com^
 ||vfw-us-west.amazon-adsystem.com^
 ||vfw-us-west-gamma.amazon-adsystem.com^
@@ -42411,7 +42417,6 @@
 ||videoevents.outbrain.com^
 ||video.funnelbox.com^
 ||video-intel.pixels.ai^
-||video.intl.xiaomi.com^
 ||video.kts.g.mi.com^
 ||video.market.xiaomi.com^
 ||videoplayerhub.com^

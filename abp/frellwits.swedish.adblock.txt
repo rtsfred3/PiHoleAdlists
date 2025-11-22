@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-11-21 08:00:15 UTC
+! Generated at 2025-11-22 08:00:18 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 ! 
@@ -697,6 +697,7 @@
 ||prd-collector-platform.ex.co^
 ||premium.analys.cloud^
 ||prg.smartadserver.com^
+||proad-cdn.relevant-digital.com^
 ||protagcdn.com^
 ||proxyas.com^
 ||pubads.g.doubleclick.net^
@@ -712,6 +713,7 @@
 ||redistats.com^
 ||region1.google-analytics.com^
 ||regstat.se^
+||relevant-digital.com^
 ||rentia.se^
 ||rentify.se^
 ||rentler.se^

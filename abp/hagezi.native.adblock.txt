@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-11-21 08:00:25 UTC
+! Generated at 2025-11-22 08:00:24 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -514,6 +514,7 @@
 ||bugreport.pt.xiaomi.com^
 ||bugreport.xiaomi.net^
 ||bugs.firebat.prime-video.amazon.dev^
+||bugsnag.appstore.a2z.com^
 ||bugsnag-event.monitor.core.app.alexa.a2z.com^
 ||bugsnag-session.monitor.core.app.alexa.a2z.com^
 ||bugsnag.shopbop.amazon.dev^
@@ -574,6 +575,7 @@
 ||c.in.msn.com^
 ||c.it.msn.com^
 ||citrixanalyticseh2-alias.servicebus.windows.net^
+||citrixanalyticseh2.servicebus.windows.net^
 ||citrixanalyticseh-alias.servicebus.windows.net^
 ||citrixanalyticsehaps-alias.servicebus.windows.net^
 ||citrixanalyticsehaps.servicebus.windows.net^
@@ -661,7 +663,6 @@
 ||conn-service-us-05.allawnos.com^
 ||conn-service-us-07.allawnos.com^
 ||conn-service-us-08.allawnos.com^
-||conn-v2.samsung.japps.cn^
 ||console.admin.xmpush.xiaomi.com^
 ||controller.india.xiaomi.com^
 ||co-onrt-stsdk.vivoglobal.com^
@@ -994,6 +995,7 @@
 ||h4g3z1-native.vivo.web.app^
 ||h4g3z1-native.winoffice.web.app^
 ||h4g3z1-native.xiaomi.web.app^
+||h5-ru.video.intl.xiaomi.com^
 ||h5.tv.mi.com^
 ||h6.msn.com^
 ||haohuo.snssdk.com^
@@ -1558,7 +1560,6 @@
 ||mon16-normal-c-useast1a.tiktokv.com^
 ||mon16-normal-c-useast2a.tiktokv.com^
 ||mon16-normal-no1a.tiktokv.eu^
-||mon16-normal-no1a.tiktokv.eu.station^
 ||mon16-normal-sg.capcutapi.com^
 ||mon16-normal.tiktokv.com^
 ||mon16-normal-useast1a.tiktokv.com^
@@ -1944,7 +1945,6 @@
 ||report.n.xiaomi.com^
 ||report-sg.opay.heytapmobile.com^
 ||report-sg.uc.heytapmobile.com^
-||report-v2.samsung.japps.cn^
 ||resolver.gslb.mi-idc.com^
 ||resolver.mi.xiaomi.com^
 ||rmads.eu.msn.com^
@@ -2062,6 +2062,7 @@
 ||ru-vcode-od.vivoglobal.com^
 ||ru-vcode-or.vivoglobal.com^
 ||ruvideo.cdn.pandora.intl.xiaomi.com^
+||ru.video.intl.xiaomi.com^
 ||s3-dub-ww.cf.videorolls.row.aiv-cdn.net^
 ||s3-iad-ww.cf.videorolls.row.aiv-cdn.net^
 ||s.amazon-adsystem.com^
@@ -2227,7 +2228,6 @@
 ||sidebar-apps-in.allawnos.com^
 ||sidebar-apps-sg.allawnos.com^
 ||si.ptqy.gitv.tv^
-||sis-v2.samsung.japps.cn^
 ||slb-apisnd-in.heytapmobile.com^
 ||smartcard.apps.coloros.com^
 ||smartcard-apps-in.allawnos.com^
@@ -2261,7 +2261,6 @@
 ||st.amazon-adsystem.com^
 ||stat.browser.heytapmobi.com^
 ||static.game.xiaomi.com^
-||static.geek.miui.com^
 ||static.ptqy.gitv.tv^
 ||stat.miui.com^
 ||stat.pandora.xiaomi.com^
@@ -2508,6 +2507,8 @@
 ||vfw-eu.amazon-adsystem.com^
 ||vfw-eu-gamma.amazon-adsystem.com^
 ||vfw-gamma.amazon-adsystem.com^
+||vfwm.amazon-adsystem.com^
+||vfws.amazon-adsystem.com^
 ||vfw-us.amazon-adsystem.com^
 ||vfw-us-west.amazon-adsystem.com^
 ||vfw-us-west-gamma.amazon-adsystem.com^
@@ -2516,7 +2517,6 @@
 ||vhs.wwstat.com.eo.dnse0.com^
 ||vhs.wwstat.com.eo.unicomcdn.com.cn^
 ||video-ads.a2z.com^
-||video.intl.xiaomi.com^
 ||video.kts.g.mi.com^
 ||video.market.xiaomi.com^
 ||vip-api.xmpush.global.xiaomi.com^
