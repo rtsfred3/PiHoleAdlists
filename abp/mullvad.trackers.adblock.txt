@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-11-28 08:00:41 UTC
+! Generated at 2025-11-29 08:00:46 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -8761,6 +8761,7 @@
 ||c.aquaservice.com^
 ||car-a8.tabirai.net^
 ||caradonna.actonservice.com^
+||carbongarden.net^
 ||carburanalyticsspace.carte-gr.total.fr^
 ||carburez-a-l-emotion.carte-gr.total.fr^
 ||cardexchanges.carte-gr.total.fr^
@@ -14313,6 +14314,7 @@
 ||flushingbeast.com^
 ||flutteringfireman.com^
 ||fly.caljetelite.com^
+||flystranger.com^
 ||flznib.weblio.jp^
 ||fma7.aegon.es^
 ||fmbankva.actonservice.com^
@@ -16070,6 +16072,7 @@
 ||helpcollar.com^
 ||helpdesk.thinkhdi.com^
 ||helpflame.com^
+||helpingbits.com^
 ||hemblx.vans.cl^
 ||herbgreencolumn.com^
 ||herpes2.pa-ruit.jp^
@@ -22577,6 +22580,7 @@
 ||maws-aax-apse-rtb.amazon-adsystem.com^
 ||maws-aax-eu-rtb-adx.amazon-adsystem.com^
 ||maws-aax-eu-rtb.amazon-adsystem.com^
+||maws-aax-fe-sin.amazon-adsystem.com^
 ||maws-aax-us-east-rtb-adx.amazon-adsystem.com^
 ||maws-aax-us-east-rtb.amazon-adsystem.com^
 ||maws-aax-us-east-test4.amazon-adsystem.com^
@@ -27444,6 +27448,7 @@
 ||premiumapp.byjus.com^
 ||prenesi-mojm.mercator.si^
 ||prepareplanes.com^
+||prepaymint.net^
 ||presetrabbits.com^
 ||presscoder.com^
 ||prettyeasycafe.com^
@@ -29239,6 +29244,7 @@
 ||sams.11freunde.de^
 ||sams.spiegel.de^
 ||samsungacr.com^
+||samsungadhub.com^
 ||samsungads.adsmeasurement.com^
 ||samsungads.com^
 ||samsungafrica.demdex.net^
@@ -37219,6 +37225,7 @@
 ||t.ao.consumerfinancereport.com^
 ||t.ao.walletjoy.com^
 ||tap.carling.com^
+||tapi.kaufda.de^
 ||t.appsflyer.com^
 ||t.appstatesports.com^
 ||t.app.xiaomi.com^
@@ -42392,6 +42399,7 @@
 ||vfw-eu-gamma.amazon-adsystem.com^
 ||vfw-gamma.amazon-adsystem.com^
 ||vfwm.amazon-adsystem.com^
+||vfwm-us.amazon-adsystem.com^
 ||vfws.amazon-adsystem.com^
 ||vfw-us.amazon-adsystem.com^
 ||vfw-us-west.amazon-adsystem.com^

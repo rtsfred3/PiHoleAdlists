@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-11-28 08:00:17 UTC
+! Generated at 2025-11-29 08:00:22 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -1352,6 +1352,7 @@
 ||maws-aax-apse-rtb.amazon-adsystem.com^
 ||maws-aax-eu-rtb-adx.amazon-adsystem.com^
 ||maws-aax-eu-rtb.amazon-adsystem.com^
+||maws-aax-fe-sin.amazon-adsystem.com^
 ||maws-aax-us-east-rtb-adx.amazon-adsystem.com^
 ||maws-aax-us-east-rtb.amazon-adsystem.com^
 ||maws-aax-us-east-test4.amazon-adsystem.com^
@@ -2069,6 +2070,7 @@
 ||sam.msn.com^
 ||samples.voice.cti.roku.com^
 ||samsungacr.com^
+||samsungadhub.com^
 ||samsungads.adsmeasurement.com^
 ||samsungads.com^
 ||samsungafrica.demdex.net^
@@ -2508,6 +2510,7 @@
 ||vfw-eu-gamma.amazon-adsystem.com^
 ||vfw-gamma.amazon-adsystem.com^
 ||vfwm.amazon-adsystem.com^
+||vfwm-us.amazon-adsystem.com^
 ||vfws.amazon-adsystem.com^
 ||vfw-us.amazon-adsystem.com^
 ||vfw-us-west.amazon-adsystem.com^
