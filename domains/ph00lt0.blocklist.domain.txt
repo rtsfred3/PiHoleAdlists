@@ -1,4 +1,4 @@
-# Generated at 2025-11-29 08:00:18 UTC
+# Generated at 2025-11-30 08:00:13 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -1080,7 +1080,6 @@ a1tb.com
 a1.vdolady.com
 a1webstats.com
 a1.yuuedu.com
-a2320460149.cdn.optimizely.com
 a248.e.akamai.net
 a24help.ru
 a2a5c7f9-3fa0-4182-889a-15aa61acf59b.edge.permutive.app
@@ -2540,6 +2539,7 @@ ad.video.51togic.com
 adviesvanons.com
 adview.cn
 adview.com
+adviksoft.com
 advimg.ad-mapps.com
 advisible.com
 advmob.cn
@@ -3717,6 +3717,7 @@ apptrace.com
 apptracker.stream
 app.trengo.eu
 app.truconversion.com
+apptus.cloud
 app.ubertags.com
 app-us1.com
 app.usercentrics.eu
@@ -5473,6 +5474,7 @@ care-a-lot.nl
 carebuild.best
 carecart.io
 careers-analytics.recruitee.com
+care-mail.nl
 carglassfraws.com
 ca-richimage.com
 carid.com
@@ -10247,7 +10249,6 @@ getbread.com
 getbring.com
 getbutton.io
 getbuzzmonitor.com
-getbynder.com
 getcake.com
 getchat.app
 getclicky.com
@@ -17895,6 +17896,7 @@ serimika.nl
 serpyou.com
 serrano.hardwareheaven.com
 serve.albacross.com
+servedbyadbutler.com
 servedby-buysellads.com
 servedby.flashtalking.com
 servedby.keygamesnetwork.com
@@ -18953,6 +18955,7 @@ stats.live-video.net
 statslogger.rocket.persgroep.cloud
 stats.lt
 stats.macosicons.com
+stats.maglr.com
 stats.mainroll.com
 stats.medeastcloud.com
 stats.misterdev.it
@@ -19629,6 +19632,7 @@ terminus.com
 terminusplatform.com
 terminus.services
 termly.io
+termsfeed.com
 ternair.bnnvara.nl
 ternair.com
 ternairsoftware.com
