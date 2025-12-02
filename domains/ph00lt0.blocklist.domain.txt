@@ -1,4 +1,4 @@
-# Generated at 2025-12-01 08:00:18 UTC
+# Generated at 2025-12-02 08:00:15 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -2471,6 +2471,7 @@ adtrace.io
 adtracker.ch
 adtrack.ucweb.com
 adtraction.com
+adtrafficquality.google
 adtrial.com
 adtriba.com
 adtrk.me
@@ -3113,6 +3114,7 @@ analytics.infomaniak.com
 analytics-ingestion.production-public.tubi.io
 analytics-ingress-global.bitmovin.com
 analytics.init.de
+analytics.innologica.com
 analytics.keepassxc.org
 analytics.knmp.nl
 analytics.languagetoolplus.com
@@ -3332,6 +3334,7 @@ apachecon.com
 apeagle.io
 a.pemsrv.com
 apester.com
+apexcash.online
 apexlink.to
 api.0.0.0.0.cn
 api1r3f4.redirectweburl.com
@@ -6382,6 +6385,7 @@ click.simba.taobao.com
 clicks.jumbo.com
 clickskeks.at
 clickskekssys.at
+clicks.mailplus.nl
 clicks.mlsend2.com
 clicks.mlsend.com
 clicks.re
@@ -6479,6 +6483,7 @@ cloud.notification-naviextras.com
 cloudpush.iqiyi.com
 cloud.realme.com
 cloud.roistat.com
+cloudsbase.online
 cloud-seek-com-au-1839719694.ap-southeast-2.elb.amazonaws.com
 cloud.seekda.com
 cloudservice22.kingsoft-office-service.com
@@ -6684,6 +6689,7 @@ coinmarketcap.com
 coinmedia.tk
 coinminerz.com
 coinnebula.com
+coinsexchange.site
 coinside.ru
 cointraffic.io
 coinwidget.com
@@ -7479,6 +7485,7 @@ cyad1.nate.com
 cyad.cc
 cyad.nate.com
 cybba.solutions
+cyberawareness.top
 cyberflow.com
 cybergal.com
 cyberlink.com
@@ -8037,6 +8044,7 @@ datastreams.io
 dataterminus.com
 datatrics.com
 dataunlocker.com
+datavare.com
 data.vgl.org
 dataview.nl
 data.vod.itc.cn
@@ -8341,6 +8349,7 @@ digitalcx.com
 digitaleast.mobi
 digitalfirstretail.com
 digitalid.santanderbank.com
+digitalmarketers.site
 digitalpfizer.com
 digitalriver.com
 digitalstores.net
@@ -8860,6 +8869,7 @@ ecmb.bdimg.com
 ecmc.bdimg.com
 ecmdevlprs.com
 ecmntservice.com
+ecolives.online
 ecologi.com
 ecomengine.com
 ecommdo.com
@@ -8977,6 +8987,7 @@ elfsight.com
 eligibility-panelresearch.googlevideo.com
 elink.io
 elitechnology.com
+elite-finance.online
 elite-names.com
 e.livekit.io
 elizabethnewlife.org
@@ -9190,7 +9201,6 @@ eshopboard24.nl
 eshopboard.nl
 esi.edge.permutive.app
 e.simyo.nl
-es.io
 eskimi.com
 esnchocco.com
 esogetics.com
@@ -10106,6 +10116,7 @@ gate.hockeyapp.net
 gatekeeperconsent.com
 gate.rapidsec.net
 gateway.answerscloud.com
+gatewayentry.com
 gateway.foresee.com
 gateway.fortunelounge.com
 gateway.hobbii.com
@@ -10819,6 +10830,7 @@ heefwozhlxgz.com
 hefan365.com
 heib10.top
 heib12.top
+heim.cn
 heimspiel.de
 hejban.youwatch.org
 hejingroup.cn
@@ -11065,6 +11077,7 @@ huayi65.com
 hub5btmain.sandai.net
 hub5emu.sandai.net
 hub5pn.wap.sandai.net
+hubfront.hushly.com
 hub.ndcmediagroep.nl
 hub.npo-data.nl
 hubojd.com
@@ -11848,7 +11861,6 @@ innity.net
 innocraft.cloud
 innovid.com
 inoptimaformavolendam.nl
-inoreader.com
 inovarcontabilidade.net
 inovatik.com
 inputs.alooma.com
@@ -13926,6 +13938,7 @@ merchantfabricsbd.com
 merchantpool1.linkedin.com
 me.reviewshake.com
 mergelsbergverlag.de
+merikskaimen.top
 merittrac.com
 merkle.com
 merkur24.com
@@ -13990,6 +14003,7 @@ metrics.mzstatic.com
 metrics.n-tv.de
 metrics.nu.nl
 metrics.plex.tv
+metrics.plus.nl
 metrics.prismad.psi.uni-bamberg.de
 metrics.roblox.com
 metrics.three.co.uk
@@ -14560,6 +14574,7 @@ myhug.cn
 mykajabi.com
 mylotto.co.nz
 mylottoy.com
+mymap.ai
 mymarketinsight.com
 myname.club
 myndossier.cloud
@@ -14785,6 +14800,7 @@ nexus-websocket-a.intercom.io
 nexx360.io
 nfcube.com
 nfsi.vip
+nftpoker.online
 ngame.com
 ngastatic.com
 ngc.nvidia.com
@@ -16805,6 +16821,7 @@ ransomwaretracker.abuse.ch
 rantandrave.com
 rantandrave.co.uk
 rantcasino.com
+rapidcredit.online
 rapide.com
 rapide.co.uk
 rapidplay.me
@@ -17186,6 +17203,7 @@ robloxlabs.com
 robly.com
 ro.boldapps.net
 robotime.cn
+robotzone.site
 robscholtemuseum.nl
 rock5rice.com
 rockerbox.com
@@ -17507,7 +17525,6 @@ sanalytics.tbs.com
 san.aq
 sandsiv.com
 sangxi.top
-sanity.io
 sanskrit.com
 sansprimary.com
 sanya1.com
@@ -18658,6 +18675,7 @@ ssl.vungle.com
 ssl-youtube.2cnt.net
 ss.missyouxi.com
 s.so.360.cn
+ss.oleandsteen.co.uk
 ssp.0531kt.com
 ssp1.dmpdsp.com
 ssp.86str.com
@@ -19246,6 +19264,7 @@ sync.teads.tv
 sync.tidaltv.com
 sync-tm.everesttech.net
 syndetics.com
+syndicatedsearch.goog
 syndication1.viraladnetwork.net
 syndication.jsadapi.com
 syndication.nzherald.co.nz
@@ -19353,6 +19372,7 @@ tagging.versaantafel.nl
 tagging.wetransfer.com
 taggrs.io
 taggstar.com
+tag.hushly.com
 taginspector.com
 tagmanager.becop.nl
 tagmanager.google.com
@@ -20062,6 +20082,7 @@ tractionnext.com
 tracxn.com
 tradeccl.com
 tradedoubler.com
+tradeprime.online
 trader.olxgroup.com
 tradetracker.net
 trading212.com
@@ -21580,6 +21601,7 @@ xjidian.com
 xjq.jxmqkj.com
 xk2012.com
 xkwfao.com
+xlgmedia.com
 x.ligatus.com
 xlivrdr.com
 xlmc.sandai.net
@@ -21625,6 +21647,7 @@ xstar.cc
 xtgreat.com
 xtip.de
 xtracloud.net
+xtraffic.plus
 xtxa.net
 xtzxmy.com
 xuanmeiguoji.com
@@ -21788,6 +21811,7 @@ yourbrand.com
 yourdailyhealthpack.com
 yourwoo.com
 yousee.com
+youstarsbuilding.com
 youthsight.com
 youtube.112.2o7.net
 youtube.2cnt.net

@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-12-01 08:00:45 UTC
+! Generated at 2025-12-02 08:00:50 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -13506,6 +13506,7 @@
 ||esqxrp.bonprix-fl.be^
 ||esri.nl.actonservice.com^
 ||es-sa.siemensplmevents.com^
+||essaygiants.com^
 ||essayspin.com^
 ||es.sharpmarketing.eu^
 ||essmnx.edreams.ch^
@@ -14171,6 +14172,7 @@
 ||fiduciaryfirst.actonservice.com^
 ||fieldconfig.com^
 ||fight.offtherecord.com^
+||figsprotein.com^
 ||fiimox.lebenskraftpur.de^
 ||filament-stats.herokuapp.com^
 ||filbrandtco.actonservice.com^
@@ -15758,6 +15760,7 @@
 ||graylog.prod.cams.run^
 ||grayoranges.com^
 ||grayreceipt.com^
+||grayscaleart.com^
 ||gr-business.vodafone.com^
 ||grc2.secureforms.mcafee.com^
 ||grc.openapp.link^
@@ -26256,6 +26259,7 @@
 ||onlineshop.ricoh.pl^
 ||online.siteboosters.de^
 ||online.spsglobal.com^
+||onlinestarten.net^
 ||onlinevacationcenter.actonservice.com^
 ||onlywoofs.com^
 ||onmlkjiion.carte-gr.total.fr^
@@ -26360,6 +26364,7 @@
 ||oregonstate.actonservice.com^
 ||organiccdn.io^
 ||organizations.stratfor.com^
+||orgbackups.com^
 ||orhdev.com^
 ||orientedargument.com^
 ||originblocks.com^
@@ -29854,6 +29859,7 @@
 ||sealingdev.actonservice.com^
 ||sealtravels.com^
 ||seamarketny.actonservice.com^
+||seamlesssalon.com^
 ||seao.business.samsung.com^
 ||searchads.apple.com^
 ||searchads.apple.com.edgesuite.net^
@@ -30988,6 +30994,7 @@
 ||slewvr.gp.se^
 ||s.lexusfinancial.com^
 ||slickcontent.com^
+||slimesupplies.net^
 ||slinksuggestion.com^
 ||slipstream.skyscanner.net^
 ||s.logsss.com^
@@ -35447,7 +35454,6 @@
 ||stat.glaze.ai^
 ||stat.gomastercard.com.au^
 ||stat.guiasjuridicas.es^
-||stat.i3.dmm.com^
 ||static.fengkongcloud.com^
 ||static.game.xiaomi.com^
 ||static.osalta.eu^
@@ -43266,6 +43272,7 @@
 ||wotasia2.login.wargaming.net.iberostar.com^
 ||wotasia3.login.wargaming.net.iberostar.com^
 ||woutkw.type.jp^
+||wowfunnow.com^
 ||wowrdm.stepstone.at^
 ||wozdcc.vidaxl.at^
 ||w.pandora.xiaomi.com^
