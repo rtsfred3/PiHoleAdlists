@@ -1,4 +1,4 @@
-# Generated at 2025-12-02 08:00:50 UTC
+# Generated at 2025-12-03 08:00:48 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4697,6 +4697,7 @@ ads2.msn.com
 ads-aka-us-east-1.delivery.roku.com
 ads-aka-us-west-2.delivery.roku.com
 ads-api.tiktok.com
+ads-api.vivo.com
 ads-bdapi-my.heytapmobile.com
 ads-bdapi-ph.heytapmobile.com
 ads-bdapi-th.heytapmobile.com
@@ -44534,6 +44535,7 @@ zakelijkemarkt.vattenfall.nl
 zakelijke-oplossingen-nld.americanexpress.nl
 za.qeeq.com
 zasc-cota.vivoglobal.com
+zasc-vcode-od.vivoglobal.com
 zatong.icaniwill.se
 zaventemdijleland.viessmann.be
 za.zalo.me
