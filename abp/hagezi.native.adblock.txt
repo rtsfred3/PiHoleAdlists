@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-12-05 08:00:28 UTC
+! Generated at 2025-12-06 08:00:23 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -205,6 +205,7 @@
 ||ads-ttp2.tiktokw.eu^
 ||ads-ttp2.us.tiktok.com^
 ||ads-us-east-1.delivery.roku.com^
+||ads-useast2a.tiktok.com^
 ||ads-us-east-2.delivery.roku.com^
 ||ads.us.tiktok.com^
 ||ads-us-west-2.delivery.roku.com^
@@ -264,6 +265,7 @@
 ||ad.xiaomi.com^
 ||adxlog-adnet.vivo.com.cn^
 ||adx.tv.mi.com^
+||aec-visio-telemetry.officeapps.live.com^
 ||agps-location-livenet.trafficmanager.net^
 ||a.hl.mi.com^
 ||aic.ads.lgtvcommon.com^
@@ -1519,7 +1521,6 @@
 ||migc.g.mi.com^
 ||migcreport.g.mi.com^
 ||milink.pandora.xiaomi.com^
-||mina.xmpush.xiaomi.com^
 ||minerva.devices.a2z.com^
 ||misc.pandora.xiaomi.com^
 ||mis.g.mi.com^
@@ -1642,8 +1643,6 @@
 ||mssdk22-normal-zr-alisg.tiktokv.com^
 ||mssdk22-normal-zr.tiktokv.com^
 ||mssdk22-normal-zr-useast1a.tiktokv.com^
-||mssdk23-normal-zr-alisg.tiktokv.com^
-||mssdk23-normal-zr-useast1a.tiktokv.com^
 ||mssdk24-normal-alisg.tiktokv.com^
 ||mssdk24-normal.tiktokv.com^
 ||mssdk24-normal-useast1a.tiktokv.com^
@@ -1917,11 +1916,7 @@
 ||rad.microsoft.com^
 ||rads.msn.com^
 ||raka.bing.com^
-||ravm-qa-e.data.roku.com^
-||ravm-qa-w.data.roku.com^
 ||ravm-staging.data.roku.com^
-||ravm-staging-e.data.roku.com^
-||ravm-staging-w.data.roku.com^
 ||ravm.tv^
 ||rawtelemetry-east.servicebus.windows.net^
 ||rawtelemetry-west.servicebus.windows.net^
@@ -2418,6 +2413,8 @@
 ||t-ring-fallback.msedge.net^
 ||t-ring-fallbacks1.msedge.net^
 ||t-ring-fallback-s2.msedge.net^
+||t-ring-fallbacks2.msedge.net^
+||t-ring-fdv2.msedge.net^
 ||t-ring.msedge.net^
 ||t-ring-s2.msedge.net^
 ||t-ring-s.msedge.net^

@@ -1,4 +1,4 @@
-# Generated at 2025-12-05 08:00:49 UTC
+# Generated at 2025-12-06 08:00:45 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4760,6 +4760,7 @@ ads-trk.vidible.tv
 ads-ttp2.tiktokw.eu
 ads-ttp2.us.tiktok.com
 ads-us-east-1.delivery.roku.com
+ads-useast2a.tiktok.com
 ads-us-east-2.delivery.roku.com
 ads.us.tiktok.com
 ads-us-west-2.delivery.roku.com
@@ -4897,6 +4898,7 @@ aecid.santanderbank.com
 ae.cobweb.com
 aec-target.base.be
 aec-target.telenet.be
+aec-visio-telemetry.officeapps.live.com
 aeewjq.dr-vegefru.com
 aegis.trovo.live
 ae-go.experian.com
@@ -11883,6 +11885,7 @@ directions.mdanderson.org
 direfuldesk.com
 di.runestone.samsung.com
 disagreeabledrop.com
+discopond.com
 discover.10play.com.au
 discover2.secureforms.mcafee.com
 discover.absciex.com
@@ -14251,6 +14254,7 @@ flashplayerfeedback.adobe.com
 flash.sec.intl.miui.com
 flash.sec.miui.com
 flashstats.libsyn.com
+flashtexting.com
 flavors.firmenich.com
 fldoai.municipal.com
 fleetbegin.com
@@ -18062,6 +18066,7 @@ inqueritos-qa.cp.pt
 inquisitiveice.com
 inquisitiveinvention.com
 ins.connatix.com
+insectmacros.com
 insight.aon.com
 insight.autovistagroup.com
 insight.boomer.com
@@ -24668,7 +24673,6 @@ mi.miliboo.es
 mi.miliboo.it
 mi.miliboo.lu
 mimosamajor.com
-mina.xmpush.xiaomi.com
 mindfulgem.com
 mindlessmark.com
 mineinvoice.com
@@ -24952,6 +24956,7 @@ monitoring.iraiser.eu
 monitor.music.qq.com
 monitor.scf.pt.xiaomi.com
 monitor-stsdk.vivoglobal.com
+monkeyapes.com
 monkeystyping.com
 mon.n.xiaomi.com
 monorail-edge.shopifysvc.com
@@ -25102,8 +25107,6 @@ mssdk22-normal-useast2a.tiktokv.com
 mssdk22-normal-zr-alisg.tiktokv.com
 mssdk22-normal-zr.tiktokv.com
 mssdk22-normal-zr-useast1a.tiktokv.com
-mssdk23-normal-zr-alisg.tiktokv.com
-mssdk23-normal-zr-useast1a.tiktokv.com
 mssdk24-normal-alisg.tiktokv.com
 mssdk24-normal.tiktokv.com
 mssdk24-normal-useast1a.tiktokv.com
@@ -28072,11 +28075,7 @@ ratings-events.standardandpoors.com
 r.atlasearth.com
 rat.rakuten.co.jp
 raven.adeptmind.ai
-ravm-qa-e.data.roku.com
-ravm-qa-w.data.roku.com
 ravm-staging.data.roku.com
-ravm-staging-e.data.roku.com
-ravm-staging-w.data.roku.com
 ravm.tv
 rawtelemetry-east.servicebus.windows.net
 rawtelemetry-west.servicebus.windows.net
@@ -40276,6 +40275,8 @@ tr.info.webikeo.fr
 t-ring-fallback.msedge.net
 t-ring-fallbacks1.msedge.net
 t-ring-fallback-s2.msedge.net
+t-ring-fallbacks2.msedge.net
+t-ring-fdv2.msedge.net
 t-ring.msedge.net
 t-ring-s2.msedge.net
 t-ring-s.msedge.net
