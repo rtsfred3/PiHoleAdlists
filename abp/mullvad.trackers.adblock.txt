@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-12-10 08:00:51 UTC
+! Generated at 2025-12-11 08:00:54 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -3989,6 +3989,7 @@
 ||abc.bayer04.de^
 ||abcd.coderays.com^
 ||abclegal.actonservice.com^
+||ab.dns-finder.com^
 ||abdpac.williamsshoes.com.au^
 ||abdrjm.eurostarshotels.de^
 ||abemms.atp-autoteile.de^
@@ -26787,6 +26788,7 @@
 ||pcm.symantec.com^
 ||pcnphysio-com.ca-eulerian.net^
 ||p.codio.com^
+||p.controld.com^
 ||pcp.coupert.com^
 ||pc.personalcreations.com^
 ||p.cquotient.com^
