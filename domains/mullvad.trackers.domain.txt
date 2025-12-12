@@ -1,4 +1,4 @@
-# Generated at 2025-12-11 08:00:54 UTC
+# Generated at 2025-12-12 08:00:44 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -37695,6 +37695,7 @@ telemetry.jivosite.com
 telemetry-lcp.trafficmanager.net
 telemetry.marketscope.com
 telemetry.microsoft.com
+telemetry.microsoft.us
 telemetry.moveworks.com
 telemetry.navispherecarrier.com
 telemetry.nav.no
