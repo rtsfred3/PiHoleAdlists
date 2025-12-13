@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-12-12 08:00:44 UTC
+! Generated at 2025-12-13 08:00:46 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -127,6 +127,7 @@
 ||3plworldwide.actonservice.com^
 ||3p-udc.yahoo.com^
 ||3rdspacetech.com^
+||3rdupgrade.pandora.xiaomi.com^
 ||3skickasurf.tre.se^
 ||3wn3w3skxpym.round.t3.gg^
 ||40caidaylimpia.catzolab.net^
@@ -5294,7 +5295,10 @@
 ||analytics00.meride.tv^
 ||analytics.163.com^
 ||analytics16-normal-alisg.tiktok.com^
+||analytics16-normal-no1a.tiktokw.eu^
 ||analytics16-normal.tiktok.com^
+||analytics16-normal-useast5.tiktokw.us^
+||analytics16-normal-useast8.tiktokw.us^
 ||analytics16-normal-useastred.tiktokw.eu^
 ||analytics.1800contacts.com^
 ||analytics-1.cavai.com^
@@ -7938,6 +7942,7 @@
 ||bigdata.clarin.com^
 ||bigdata-lbs-pri-c3.alb.xiaomi.com^
 ||bigdata.ssp.samsung.com^
+||bigfishapparel.com^
 ||bigworldfashion.com^
 ||b.iheart.southwest.com^
 ||bi.heyloyalty.com^
@@ -8054,6 +8059,7 @@
 ||bluemarblepayroll.actonservice.com^
 ||bluemountains.actonservice.com^
 ||blue.nbc4i.com^
+||bluenest.net^
 ||blueoceanpharma.actonservice.com^
 ||blueoyster.click^
 ||blue-rocket.actonservice.com^
@@ -9666,6 +9672,7 @@
 ||compare.easyviaggio.com^
 ||compare.easyviajar.com^
 ||comparereaction.com^
+||compilework.com^
 ||complexpixel.com^
 ||compliance.coniferhealth.com^
 ||compliance.govdocs.com^
@@ -11662,6 +11669,7 @@
 ||dialogue.nl.mazda.be^
 ||diamages.carte-gr.total.fr^
 ||diboji.class101.net^
+||dicecandies.com^
 ||dicemoments.com^
 ||didzrr.nutraholic.com^
 ||difficultfog.com^
@@ -23072,6 +23080,7 @@
 ||meteachugood.holdmybeerconsulting.com^
 ||meter.bref.sh^
 ||methodofpay-ads.web.roku.com^
+||metis.truecaller.com^
 ||met.jasperforge.org^
 ||metok.sys.miui.com^
 ||metric.1035thearrow.com^
@@ -42420,6 +42429,7 @@
 ||vfwm-us.amazon-adsystem.com^
 ||vfws.amazon-adsystem.com^
 ||vfw-us.amazon-adsystem.com^
+||vfw-us-gamma.amazon-adsystem.com^
 ||vfw-us-west.amazon-adsystem.com^
 ||vfw-us-west-gamma.amazon-adsystem.com^
 ||vg247-uk.vg247.com^
@@ -44187,6 +44197,7 @@
 ||xlmc.sec.miui.com^
 ||xlog16-normal-c-useast1a.tiktokv.com^
 ||xlog16-normal-c-useast2a.tiktokv.com^
+||xlog16-normal-no1a.tiktokv.eu^
 ||xlog16-normal-useast8.us.tiktokv.com^
 ||xlog16-platform-useast5.us.tiktokv.com^
 ||xlog16-platform-ycru.tiktokv.com^

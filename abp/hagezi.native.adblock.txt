@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-12-12 08:00:21 UTC
+! Generated at 2025-12-13 08:00:24 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -19,6 +19,7 @@
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
 ||0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
 ||11-c3.bigdata.ctc.neo.xiaomi.com^
+||3rdupgrade.pandora.xiaomi.com^
 ||5-c3.bigdata.ctc.neo.xiaomi.com^
 ||a0.app.xiaomi.com^
 ||a4.bing.com^
@@ -279,7 +280,10 @@
 ||alt1-3ps.amazon-adsystem.com^
 ||a.market.xiaomi.com^
 ||analytics16-normal-alisg.tiktok.com^
+||analytics16-normal-no1a.tiktokw.eu^
 ||analytics16-normal.tiktok.com^
+||analytics16-normal-useast5.tiktokw.us^
+||analytics16-normal-useast8.tiktokw.us^
 ||analytics16-normal-useastred.tiktokw.eu^
 ||analytics-api.samsunghealthcn.com^
 ||analytics-attribution.tiktok.com^
@@ -2512,6 +2516,7 @@
 ||vfwm-us.amazon-adsystem.com^
 ||vfws.amazon-adsystem.com^
 ||vfw-us.amazon-adsystem.com^
+||vfw-us-gamma.amazon-adsystem.com^
 ||vfw-us-west.amazon-adsystem.com^
 ||vfw-us-west-gamma.amazon-adsystem.com^
 ||vhs.wwstat.com^
@@ -2570,6 +2575,7 @@
 ||xlmc.sec.miui.com^
 ||xlog16-normal-c-useast1a.tiktokv.com^
 ||xlog16-normal-c-useast2a.tiktokv.com^
+||xlog16-normal-no1a.tiktokv.eu^
 ||xlog16-normal-useast8.us.tiktokv.com^
 ||xlog16-platform-useast5.us.tiktokv.com^
 ||xlog16-platform-ycru.tiktokv.com^
