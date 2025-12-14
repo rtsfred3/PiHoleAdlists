@@ -1,4 +1,4 @@
-# Generated at 2025-12-13 08:00:46 UTC
+# Generated at 2025-12-14 08:00:44 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -7785,6 +7785,7 @@ bcsjcj.nasdaq.com
 bcwljq.batteryempire.de
 bcybka.deinetuer.de
 bcytwb.student.com
+bdapi-ads-sg.heytapmobile.com
 bde.beformance.com
 bderbn.foxtrot.com.ua
 bdickh.globalgolf.com
@@ -9133,6 +9134,8 @@ clb.yahoo.co.jp
 cl.canva.com
 clck.dzen.ru
 clcktrax.com
+cldata-ads-fr.heytapmobile.com
+cldata-ads-ru.heytapmobile.com
 cleanhaircut.com
 cleanservices.actonservice.com
 clearbitscripts.com
@@ -34091,6 +34094,7 @@ smqzbr.proozy.com
 smrt.as
 sms.3.se
 sms-ads-in.heytapmobile.com
+sms-ads-ru.heytapmobile.com
 sms.ajopharmabeta.riteaid.com
 sms.apac.coca-cola.com
 sms.cf.labanquepostale.fr
@@ -36530,6 +36534,7 @@ st.fahrkartenshop2-bahn.de
 stfynw.esprit.be
 stg-apigw.samsungdmroute.com
 stg-bnc-papago.naver.com
+stgdata-ads-fr.heytapmobile.com
 stg-data-collector.playbuzz.com
 stg-deeplink.ring.md
 st.hbrd.io

@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-12-13 08:00:24 UTC
+! Generated at 2025-12-14 08:00:21 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -472,6 +472,7 @@
 ||azurewatsontest.microsoft.com^
 ||b2banalytics.samsungknox.com^
 ||bat.bing.com^
+||bdapi-ads-sg.heytapmobile.com^
 ||bds.snssdk.com^
 ||beacon.shazam.com^
 ||beacons.trafficmanager.net^
@@ -601,6 +602,8 @@
 ||classify-app-sg.allawnos.com^
 ||classify-app-us.allawnos.com^
 ||c.latam.msn.com^
+||cldata-ads-fr.heytapmobile.com^
+||cldata-ads-ru.heytapmobile.com^
 ||clientapi-samsung.dtignite.com^
 ||c.live.com^
 ||cloudi-in.browser.heytapmobile.com^
@@ -2241,6 +2244,7 @@
 ||smetrics.samsung.com.cn^
 ||smoot-feedback.v.aaplimg.com^
 ||sms-ads-in.heytapmobile.com^
+||sms-ads-ru.heytapmobile.com^
 ||spynet2.microsoft.com^
 ||spynetalt.microsoft.com^
 ||sq-tungsten-ts.amazon-adsystem.com^
@@ -2275,6 +2279,7 @@
 ||stat.xiaomi.com^
 ||stat.youpin.mi.com^
 ||stg-apigw.samsungdmroute.com^
+||stgdata-ads-fr.heytapmobile.com^
 ||sticker-service-in.allawnos.com^
 ||stjjp.msn.com^
 ||stocks-analytics-events.apple.com^
