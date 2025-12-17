@@ -1,4 +1,4 @@
-# Generated at 2025-12-15 08:00:42 UTC
+# Generated at 2025-12-17 08:00:46 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -3863,7 +3863,6 @@ aa-metrics.salonboard.com
 aa-metrics.s-lms.net
 aa-metrics.tabroom.jp
 aa-metrics.trip-ai.jp
-aamt.msnbc.com
 aamt.nbcnews.com
 aamt.newsapp.telemundo.com
 aamt.today.com
@@ -5125,6 +5124,7 @@ ali8.alinea.fr
 aliasanvil.com
 alias.cloud-marketing.dimensiondata.com
 alibabapizza.openapp.link
+alib.nine.com.au
 alicat.actonservice.com
 a.lifehacker.ru
 alikeaddition.com
@@ -5411,6 +5411,7 @@ analytics.codeskulptor.org
 analytics.codigo.se
 analytics.cognyte.com
 analytics-coletor-site.ojc.com.br
+analytics-collect.karakuri.ai
 analytics.combatefreestyle.com
 analytics.competitoor.com
 analytics.conad.it
@@ -5503,6 +5504,7 @@ analytics.genial.ly
 analytics.geoutletstore.com
 analytics.gestore.com
 analytics.getshogun.com
+analytics.getsnworks.com
 analytics.gewaterheater.com
 analytics.glance.inmobi.com
 analytics.global.sky.com
@@ -10059,6 +10061,7 @@ co-ort-stsdk.vivoglobal.com
 cooyxg.tennis-point.de
 copilot-telemetry.githubusercontent.com
 co-pnrt-stsdk.vivoglobal.com
+copperstills.net
 copycarpenter.com
 copyfranchise.com
 copyrightaccesscontrols.com
@@ -10166,6 +10169,7 @@ co-vcode-od.vivoglobal.com
 co-vcode-or.vivoglobal.com
 covenant.psjhealth.org
 coverlayer.com
+cowbelltime.com
 cowhmc.docmorris.de
 coyizl.embracon.com.br
 cozydusk.com
@@ -12707,6 +12711,7 @@ eicyds.qoo10.jp
 eifeou.pandahall.com
 eiftfa.fashionette.de
 eightgreens.com
+eighthlayer.net
 eikwax.marmot.com
 eimcqw.dickies.com
 e-img.hover.to
@@ -13487,6 +13492,7 @@ era.easyvoyage.com
 erb.tremblant.ca
 e.replacementdevicelawsuit.com
 erepublic.actonservice.com
+e.revenue.cat
 ergrbp.hobidunya.com
 ermiph.petermanningnyc.com
 eroar.lionsclubs.org
@@ -16103,6 +16109,7 @@ hesprh.sony.jp
 heuida.shopafrm.com
 hevqaz.submarino.com.br
 heyaxr.fashiondays.bg
+heycomputers.com
 heyue.xiaomi.com
 hfc195b.com
 hf.forevernetworks.com
@@ -16489,6 +16496,7 @@ icota-service-eu.allawnos.com
 icota-service-in.allawnos.com
 icslearn.actonsoftware.com
 ictrjw.barcastores.com
+icywinter.com
 id.a-mx.com
 id-analyzer-appstore.vivoglobal.com
 idbkfy.kango-roo.com
@@ -20924,6 +20932,7 @@ maddeningpowder.com
 madebyintent.com
 madisoncres.actonservice.com
 madlysuccessful.com
+madoverrice.com
 madrid.report.botm.transparentedge.io
 mads.amazon-adsystem.com
 mads.amazon.com
@@ -38964,6 +38973,8 @@ tracking.care.salinasvalleyhealth.com
 tracking.carsales.com.au
 tracking.cat898.com
 tracking.cdiscount.com
+tracking.cds.dmm.co.jp
+tracking.cds.dmm.com
 tracking.cello-square.com
 tracking.cengage.com
 tracking.cenomicenters.com
@@ -42355,6 +42366,7 @@ vapxga.sieh-an.de
 varys.asongofzandc.xyz
 vas-hl-x.snssdk.com
 vatrack.hinet.net
+vault.gostatera.com
 vazulp.graniph.com
 vbe.voyage-prive.be
 vbkryy.pasonacareer.jp
@@ -43187,6 +43199,7 @@ whispermeeting.com
 whitepapers.blackboard.com
 whitepapers.rockwellautomation.com
 whoami.akamai.net.iberostar.com
+wholepagecache.com
 whoogled.com
 whqkyq.leasingmarkt.de
 whwiab.pamono.it
