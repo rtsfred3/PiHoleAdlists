@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-12-17 08:00:46 UTC
+! Generated at 2025-12-18 08:00:44 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -3884,6 +3884,7 @@
 ||aa.pacificdentalservices.com^
 ||aa.paramountplus.com^
 ||a-api.skz.dev^
+||a.apkeditor.io^
 ||aa.popculture.com^
 ||aa.poptv.com^
 ||aa.postbank.de^
@@ -5146,6 +5147,7 @@
 ||allrisks.actonservice.com^
 ||a.lls.org^
 ||allstarfg.actonservice.com^
+||allsunflowers.com^
 ||alltypo.com^
 ||alluringbucket.com^
 ||allvideometrika.com^
@@ -8051,6 +8053,7 @@
 ||blog.myomnipod.com^
 ||blog.tagcentral.fr^
 ||blog.trinityconsultants.com^
+||bloomsend.com^
 ||blsoof.wirwinzer.de^
 ||bl-test.curatedplanet.com^
 ||bluebusiness.actonservice.com^
@@ -16009,6 +16012,7 @@
 ||hauixd.halistores.com^
 ||hauzdj.quellogiusto.it^
 ||haxdym.min-breeder.com^
+||hayweb.net^
 ||hazawl.veke.fi^
 ||hazmatworkshop.com^
 ||hbaazk.bukalapak.com^
@@ -16136,6 +16140,7 @@
 ||highfalutinhoney.com^
 ||highlights-schadenmanager.schwacke.de^
 ||highlights-schwackenet.schwacke.de^
+||highnoongear.com^
 ||hightouch-events.com^
 ||highway.cablecar.sph.com.sg^
 ||hi.hellobar.com^
@@ -18759,6 +18764,7 @@
 ||jufhxk.audienhearing.com^
 ||juicebard.com^
 ||juiceblocks.com^
+||juicingoasis.com^
 ||jujtcq.amnibus.com^
 ||jumbo.zomato.com^
 ||jumpstartinc.actonservice.com^
@@ -25175,6 +25181,7 @@
 ||m.suda.io^
 ||msufcu.actonservice.com^
 ||ms.vk.com^
+||ms.vk.ru^
 ||msz3.destinia.cn^
 ||mt48.net^
 ||mtag.mman.kr^
@@ -28323,6 +28330,7 @@
 ||rentinfinity.com^
 ||renting.aldautomotive.es^
 ||rent.mgrc.com^
+||rentpenny.com^
 ||repdata.12newsnow.com^
 ||repdata.9news.com^
 ||repdata.app.com^
@@ -42566,6 +42574,7 @@
 ||vitalimages.actonservice.com^
 ||vitalmedia.actonservice.com^
 ||vitals.cgddrd.me^
+||vitals.flyingpress.com^
 ||viu.actonservice.com^
 ||viu.viubyhub.com^
 ||vividcanopy.com^
