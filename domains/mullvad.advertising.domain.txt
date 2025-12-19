@@ -1,4 +1,4 @@
-# Generated at 2025-12-18 08:01:30 UTC
+# Generated at 2025-12-19 08:01:30 UTC
 # 
 # Sources:
 # https://small.oisd.nl
@@ -87538,6 +87538,7 @@ sdkconfig.pulse.m10s.io
 sdkconfig.pulse.schibsted.io
 sdkconfig.video.qq.com
 sdk.conscent.in
+sdkc.vervegroupinc.net
 sdk.hzsanjiaomao.com
 sdkl.info
 sdk-log.airbridge.io
