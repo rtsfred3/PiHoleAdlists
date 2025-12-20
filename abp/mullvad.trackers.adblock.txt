@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-12-19 08:00:42 UTC
+! Generated at 2025-12-20 08:00:44 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4768,7 +4768,6 @@
 ||ads-us-east-2.delivery.roku.com^
 ||ads.us.tiktok.com^
 ||ads-us-west-2.delivery.roku.com^
-||adsyndication.msn.com^
 ||ad.takasu.co.jp^
 ||adtarget.barcainnovationhub.com^
 ||adtarget.fcbarcelona.cat^
@@ -8587,6 +8586,7 @@
 ||buttonladybug.com^
 ||buyer.okiela.com^
 ||buzzaoutlet.com^
+||buzzfry.com^
 ||buzz.logility.com^
 ||buzz.neilsonmarketing.com^
 ||buzz.vocus.com^
@@ -9400,6 +9400,7 @@
 ||cname-ade.shachihata.biz^
 ||cname-ali-asia-stsdk.vivoglobal.com^
 ||cname-asia02-stsdk.vivoglobal.com^
+||cname-asia-comonrt-stsdk.vivoglobal.com^
 ||cname-asia-st-exappupgrade.vivoglobal.com^
 ||cname-asia-stsdk09.vivoglobal.com^
 ||cname.crank-in.net^
@@ -9715,6 +9716,7 @@
 ||confiant.msn.com^
 ||confidencetalks.com^
 ||configchain.com^
+||configcontrol.com^
 ||configure.adlermode.com^
 ||conf-in-dc.heytapdl.com^
 ||conf-in-dc.heytapmobile.com^
@@ -10052,6 +10054,7 @@
 ||cookies.siemens.com^
 ||cookies.siemens-energy.com^
 ||cookies.siemens-healthineers.com^
+||cookiestorybook.com^
 ||cookies.wpcarey.com^
 ||cookie.sync.usonar.jp^
 ||cookietracking.eatonpowersource.com^
@@ -10070,6 +10073,7 @@
 ||copycarpenter.com^
 ||copyfranchise.com^
 ||copyrightaccesscontrols.com^
+||copytweaks.com^
 ||copyvibes.com^
 ||coralcranes.com^
 ||coralreverie.com^
@@ -12316,6 +12320,7 @@
 ||dyqebg.aboutyou.hr^
 ||dysbvu.bodyandfit.com^
 ||dyzmpx.speedway.fr^
+||dz1dt3wqswdezgx4j2ryem5iad.apple.com^
 ||dzbbzg.carfinance247.co.uk^
 ||dzforp.buscape.com.br^
 ||dzgwautxzdtn9.cloudfront.net^
@@ -20599,6 +20604,7 @@
 ||log.worldsoft-cms.info^
 ||logx-experimentation.iherb.com^
 ||logx.optimizely.com^
+||log.zcool.com.cn^
 ||log.zdnet.co.kr^
 ||log.zongheng.com^
 ||lokalwerben.t-online.de^
@@ -23097,7 +23103,6 @@
 ||metc.banfield.com^
 ||meteachugood.holdmybeerconsulting.com^
 ||meter.bref.sh^
-||methodofpay-ads.web.roku.com^
 ||metis.truecaller.com^
 ||met.jasperforge.org^
 ||metok.sys.miui.com^
@@ -28839,6 +28844,7 @@
 ||rum.azion.com^
 ||rum.ca-central-1.amazonaws.com^
 ||rum.cdnpure.com^
+||rum-collector.leaderint.workers.dev^
 ||rum.condenastdigital.com^
 ||rum.corewebvitals.io^
 ||rum.cronitor.io^
@@ -37742,6 +37748,7 @@
 ||telemetry.soundcloud.com^
 ||telemetry.stryker.com^
 ||telemetry.stytch.com^
+||telemetry.svc.transifex.net^
 ||telemetry.tableausoftware.com^
 ||telemetry.tradingview.com^
 ||telemetry.transcend.io^
@@ -38107,8 +38114,6 @@
 ||tj1-new.scf.pt.xiaomi.com^
 ||tj1.payment.pt.xiaomi.com^
 ||tj1.scf.pt.xiaomi.com^
-||tj1.staging.fintech.pt.xiaomi.com^
-||tj1.staging.fund.pt.xiaomi.com^
 ||tj1.staging.ins.pt.xiaomi.com^
 ||tj1.staging.mifi.pt.xiaomi.com^
 ||tj1.staging.nfcpay.xiaomi.com^
@@ -43133,6 +43138,7 @@
 ||web.ulta.com^
 ||web.usautosupply.com^
 ||webvitals.luxnet.ua^
+||web-vitals-script.leaderint.workers.dev^
 ||web.vonazon.com^
 ||web.wearejust.co.uk^
 ||web.web.tomasiauto.com^
@@ -43409,6 +43415,7 @@
 ||wttd.madeleine.gr^
 ||wttd.madeleine-mode.at^
 ||wttd.madeleine-mode.ch^
+||wttwebsiteprodapi-liveevents.trafficmanager.net^
 ||wt.vhb.de^
 ||wt.viagogo.net^
 ||wucvvh.surpricenow.com^
