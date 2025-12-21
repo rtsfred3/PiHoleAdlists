@@ -1,4 +1,4 @@
-# Generated at 2025-12-20 08:00:18 UTC
+# Generated at 2025-12-21 08:00:20 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -1147,6 +1147,7 @@ a.admob.com
 a.ads1.msn.com
 a.ads2.msn.com
 a-ads.com
+aadswebsite.nl
 a.adwolf.ru
 aaemc.nl
 aafp.net
@@ -2913,6 +2914,7 @@ aliunion.cn.yahoo.com
 alive5.com
 aliveachiever.com
 alive.github.com
+alive.nl
 a.livesportmedia.eu
 aliyuncs.com
 aliyuncss.com
@@ -3281,6 +3283,7 @@ anm.co.uk
 an.m.liebao.cn
 ann5.net
 annefrank.containers.piwik.pro
+annekehemmer.nl
 announcekit.app
 announcem.xyz
 annuaire-web-france.com
@@ -3814,6 +3817,7 @@ areyouwatchingthis.com
 argosdata.io
 argus.arcot.com
 argusplatform.com
+arhqmtcy.com
 aries.mzres.com
 arisawaonline.com
 ariva-services.de
@@ -4835,6 +4839,8 @@ bioclear.nl
 bioplantsolutions.nl
 biorxiv.org
 biostabil.net
+biotensor.eu
+biotensorgids.nl
 birdguides-cdn.com
 birdingtop500.com
 birdnavy.com
@@ -5306,8 +5312,6 @@ buyverticals.com
 buzinessware.ir
 buzz.app
 buzzdigicon.com
-buzzfeed2.map.fastly.net
-buzzfeed.com
 buzzoola.com
 buzzvil.atlassian.net
 buzzvil.com
@@ -5329,6 +5333,7 @@ bydata.com
 by.dm5.com
 bydonline.com
 byinspired.com
+byjantine.nl
 b.yjtag.jp
 bynder.com
 bypbwm.cn
@@ -5513,11 +5518,13 @@ carebuild.best
 carecart.io
 careers-analytics.recruitee.com
 care-mail.nl
+caretwice.nl
 carglassfraws.com
 ca-richimage.com
 carid.com
 carnalpleasure.co.uk
 caroda.io
+carolina-janssen.nl
 carpediem.fr
 carrierzone.com
 carromking.com
@@ -6302,6 +6309,7 @@ classliving.lpages.co
 classroom.relay.school
 classtime.com
 classyschema.org
+claudyschonis.nl
 clcknads.pro
 clck.ru
 clcktrax.com
@@ -6676,6 +6684,7 @@ cnzzlink.com
 cnzz.net
 co2ok.eco
 co4.telecommand.telemetry.microsoft.com
+coachingwithjoy.nl
 co.akadns.net
 cobanoir.site
 cobrowse.bnpparibasfortis.be
@@ -7549,6 +7558,7 @@ czpush.com
 czpwm.com
 czx5eyk0exbhwp43ya.biz
 czxiangyue.com
+czxv.nl
 d00.sina.com.cn
 d096.theweek.co.uk
 d0.xcar.com.cn
@@ -7932,6 +7942,7 @@ dailydeals.lubbockonline.com
 dailydeals.onlineathens.com
 dailydeals.savannahnow.com
 dailyfindings.co.uk
+dailyinspirations.nl
 dailyvideo.securejoin.com
 daima123.cc
 daima.23yy.com
@@ -7954,6 +7965,7 @@ da.mmarket.com
 dandan11.top
 dandan13.top
 dandan15.top
+danielsnutrigeneeskunde.nl
 danishlaw.biz
 d.annarbor.com
 dannysimmonsjr.com
@@ -7972,6 +7984,7 @@ dap.digitalgov.gov
 dapp-radar.info
 dapresy.com
 daraz.com
+darman.nl
 dart.clearchannel.com
 das.api.youku.com
 da-services.ch
@@ -8180,7 +8193,6 @@ de17a.com
 de2pmm85odupd.cloudfront.net
 de8of677fyt0b.cloudfront.net
 deadlinefunnel.com
-de.akamaized.net
 dealerinspire.com
 deals.ledgertranscript.com
 dealtale.com
@@ -8210,6 +8222,7 @@ definemedia.de
 definitivehc.com
 de.fr
 defybrick.com
+degoudsbloem.be
 dehelendereisindepraktijk.nl
 deinchatbot-speech.azurewebsites.net
 deinneueszuhause.de
@@ -8251,6 +8264,7 @@ demo.tagdiv.com
 demo-web.matomo.org
 demoworkbench.iad.apple.com
 denaamloterij.nl
+deneitherapeut.nl
 denkis.nl
 dentsu.com
 dentsu.de
@@ -8259,6 +8273,7 @@ depeiling.eenvandaag.nl
 deployads.com
 deploy.mopinion.com
 deployteq.net
+depoldersjamaan.nl
 de.rayjump.com
 derby25.dk
 deroockspeelautomaten.nl
@@ -8324,6 +8339,7 @@ devscope.io
 dev.tg.wan.360.cn
 dev.visualwebsiteoptimizer.com
 dezfu.com
+dezoninjou.nl
 df3n43m.com
 df45ay5pw60dy.cloudfront.net
 df77.com
@@ -9031,6 +9047,7 @@ efsa.containers.piwik.pro
 e.fstaw.com
 egiodev.com
 egrow.io
+egtwendy.nl
 e.hellomingpian.com
 ehelp.prometric.com
 ehg-youtube.hitbox.com
@@ -9060,6 +9077,7 @@ elandefolie.fr
 elandefraicheu.fr
 elandenouveautes.fr
 elasticemail.com
+elavissers.nl
 eldersrealestate.com.au
 electro.demdex.net
 electrosim.click
@@ -9173,8 +9191,10 @@ endoftheinternet.org
 endorsal.io
 endpoint2.collection.sumologic.com
 enepal.net
+energetischhuis.nl
 energokst.kz
 energyarts.com
+energymind.nl
 e.nexac.com
 engagebay.com
 engagement.ai
@@ -9274,6 +9294,7 @@ ernxdgt.com
 e.romgv.com
 eroterest.net
 erpafends.shop
+erpsoftwareblog.com
 error-analytics-sessions-production.shopifysvc.com
 errors.figma.com
 errors.serverius.net
@@ -9293,6 +9314,7 @@ e.simyo.nl
 eskimi.com
 esnchocco.com
 esogetics.com
+esoterischewebwinkel.nl
 espaceducoeur.com
 e-spirit.com
 esputnik.com
@@ -9848,6 +9870,7 @@ flowmailer.com
 flowmailer.net
 flowmailer.pure-energie.nl
 flowpros.com
+flowremedies.nl
 flowsense.com
 flowsense.com.br
 flowsparks.com
@@ -10739,7 +10762,6 @@ gou.wps.cn
 gouzhibao.cn
 govgift.com
 govids.net
-go-vip.net
 govmetric.com
 govor.elkander.nl
 govservices.org
@@ -10937,6 +10959,7 @@ hardrockcasino.nl
 hardware.metrics.mozilla.com
 harga-xiaomi.com
 harlingfordhotel.com
+harmooniaal.nl
 harnessdigitalmarketing.com
 harvardbusinessrevie.tt.omtrdc.net
 harvard.edu.sc.omtrdc.net
@@ -11001,6 +11024,9 @@ heavenmedia.v3g4s.com
 hedgehog.fightforthefuture.org
 heefwozhlxgz.com
 heelacupunctuur.com
+heelbron.nl
+heelhuus.nl
+heel-jij.nl
 hefan365.com
 heib10.top
 heib12.top
@@ -11083,6 +11109,7 @@ hightouch.com
 higverse.com
 hike.com
 hilabel.nl
+hildaterpstra.nl
 hilltopads.net
 hill-will.com.es
 hinet.net
@@ -11147,6 +11174,8 @@ hockeyapp.net
 hokenstore.com
 holdet.dk
 holidayaccommodation4u.com
+holistik.nl
+holistischcentrum-brabant.nl
 hollandcasino.nl
 hollandfantasticpromo.nl
 hollandfantaticpromo.nl
@@ -11184,6 +11213,8 @@ hooks.slack.com
 hootsuite.com
 hoplink.ksosoft.com
 hopto.org
+horizonopleidingen.nl
+horsecomplete.nl
 hospedagemdesites.ws
 hospitalitysem.com
 host-care.com
@@ -12061,6 +12092,7 @@ inmobi.us
 inmoment.com
 inneractive.com
 inner-active.mobi
+innerlijkwetenonline.nl
 innertrends.com
 innerway.ca
 innity.com
@@ -12069,6 +12101,7 @@ innocraft.cloud
 innovid.com
 inoptimaformavolendam.nl
 inovarcontabilidade.net
+inovasites.com.br
 inovatik.com
 inputs.alooma.com
 inq.com
@@ -12139,6 +12172,7 @@ insticator-localhost-products.s3.amazonaws.com
 insticator-review-products.s3.amazonaws.com
 instiengage.com
 instituutorshof.be
+instituutvoorneienbewustzijn.nl
 instreamatic.com
 instreet.cn
 instrument-ofgod.com
@@ -12217,6 +12251,7 @@ invkvk.nl
 invt.io
 inx.lv
 inzicht.cz.nl
+inzichtdoorcoaching.be
 in.zog.link
 ioactive.com
 ioam.de
@@ -12512,6 +12547,7 @@ jean.live
 jebe.renren.com
 jebe.xnimg.cn
 jelevouloir.fr
+jeliefsteleven.nl
 jellyblast.com
 jellyfish.com
 jellyfish.pandora.xiaomi.com
@@ -12566,6 +12602,7 @@ jinghuazhijia.com
 jingling.cn
 jioo.com
 jisucn.com
+jitzke.nl
 jiuku.cc
 jiu.njdkgm.com
 jivochat.com
@@ -12591,6 +12628,7 @@ jnsdkjzs.com
 jnsz.net.cn
 jnyngg.cn
 jobsfe.funshion.com
+jochtom.nl
 johnston.grapeshot.co.uk
 johnvktraders.com
 johtzj.com
@@ -12602,6 +12640,7 @@ joinowow.fun
 joinsherpa.io
 jointreport-switch.com
 jokerstar.de
+jolandavleugel.nl
 jonathanbreedveld.com
 jooble.com
 jooule.com
@@ -12744,6 +12783,7 @@ junubos.org
 jusha.com
 justanswer.com
 justdunnebaking.co.uk
+justflow.nl
 justpremium.com
 justtag.com
 justuno.com
@@ -12882,6 +12922,7 @@ kiirkasiino.ee
 kikaloterij.nl
 kimberlite.io
 kimblegroup.com
+kimjoosten.nl
 kinderattraktie.nl
 kindly.ai
 kindlycdn.com
@@ -13289,6 +13330,7 @@ life.imagepix.org
 lifesight.io
 lifestreet.com
 lift-ai-js.marketlinc.com
+liftme-up.nl
 liftoff.io
 ligatus.com
 lightcars.de
@@ -13317,6 +13359,7 @@ limurol.com
 linaopenx.com.br
 linapay.io
 lindaevenhuis.nl
+lindahes.nl
 lindis.es
 line-apps.com
 lineclearexpress.com
@@ -13424,6 +13467,7 @@ livehelperchat.com
 livehelpnow.net
 live.icecat.biz
 liveintent.com
+livelifewell.nl
 liveline.at
 livelook.com
 live.net
@@ -13859,6 +13903,7 @@ magento-recs-sdk.adobe.net
 mageworx.com
 magicears.shop
 magicwindow.cn
+magieshop.nl
 magisto.com
 maglit.me
 magnetic.t.domdex.com
@@ -14004,6 +14049,7 @@ marketresponse.nl
 markitondemand.com
 mark.reevoo.com
 markteffect.nl
+marleenneitherapie.nl
 maropost.com
 marquiz.ru
 mars.com
@@ -14416,6 +14462,7 @@ mimg.126.net
 mimibazar.cz
 mindful.ly
 mindlytix.com
+mindpiece.nl
 mindrocketsapis.com
 mindtake.com
 mindtickle.com
@@ -14622,6 +14669,7 @@ money.qz828.com
 mongo77usr.urlredirect.net
 mongo87a.sweet-water.org
 mongom5sxk8fr6.extractsight.com
+moniquebooijink.nl
 mon.isnssdk.com
 monitor.azure.com
 monitor.clickcease.com
@@ -14949,6 +14997,7 @@ naqigs.com
 narendramodiapp.com
 narrativ.com
 nasamlinkes.nl
+nasma.be
 nationale-loterij.be
 national-lottery.co.uk
 nationallottery.co.za
@@ -15015,7 +15064,15 @@ neexii.su
 nefl.com
 negate.io
 neiacademy.nl
+neipraktijkwendy.nl
+neipraktijkzon.nl
 neirong.baidu.com
+neisterk.nl
+nei-therapie.com
+neitherapie.eu
+neitherapienicole.nl
+neitherapienoordholland.nl
+neitherapieuden.nl
 nellie.booking.com
 nelreports.net
 nend.net
@@ -15771,6 +15828,7 @@ origin-nvidia.org
 origin-nvidia.pl
 origin-nvidia.ru
 origin-nvidia.tw
+orion-natuurgeneeskunde.nl
 orit-zilberman.com
 orjq.net
 orthofyto.com
@@ -16525,8 +16583,25 @@ practivate.adobe.com
 pragmaticplay.com
 pragmaticplay.net
 pragmaticplayphp.com
+praktijkbruis.nl
+praktijkcharlotte.nl
+praktijkcynergie.nl
+praktijkdevlindertuin.nl
+praktijkegtmiranda.nl
+praktijkholistichealing.nl
+praktijkinnerlijkegroei.nl
+praktijkjosje.nl
 praktijklichtpunt.nu
+praktijkmagistraal.nl
+praktijkmeergeluk.nl
+praktijkmiriam.nl
+praktijk-patricia.nl
+praktijktamaravanoers.nl
 praktijktcg.nl
+praktijkviaversa.nl
+praktijkvivre.nl
+praktijkyentegevers.nl
+praktijkyourinnerflow.nl
 pranagoodenergy.nl
 pr.co
 prc.rjje4.com
@@ -16668,6 +16743,7 @@ productsup.com
 producttesting.us
 prod-ue1-metrics.hingeprod.net
 prod-us-west-2.csp-report.marketing.aws.dev
+professionele-biosensor.com
 profile-counter.glitch.me
 profiledynamics.com
 profiledynamics.nl
@@ -17313,6 +17389,7 @@ refer.wordpress.com
 refiner.io
 refinery89.com
 reflect.se
+reflexologiepraktijklisette.nl
 refr.cc
 region1.app-measurement.com
 region1.google-analytics.com
@@ -17810,6 +17887,7 @@ saasquatch.com
 s.abcache.com
 sa.berty.tech
 sabinejurgens.nl
+sabineneicoaching.nl
 sac.ayads.co
 sachsenlotto.de
 sa.com
@@ -17876,6 +17954,7 @@ sanalytics.disneyplus.com
 sanalytics.spreadshirt.com
 sanalytics.tbs.com
 san.aq
+sandraschouten.com
 sandsiv.com
 sangxi.top
 sanskrit.com
@@ -19405,6 +19484,7 @@ st-hatena.com
 s.thebrighttag.com
 st.holalauncher.com
 st.holaworld.cn
+stichting-itcm.nl
 stickyadstv.com
 sticky-cart.uplinkly-static.com
 stimmwissenschaften.de
@@ -19467,6 +19547,7 @@ stroomvoorbedrijven.com
 strossle.com
 st-static.asos.com
 studio-gong.de
+studionei.nl
 studio.nws.ai
 studiorific.com
 stuff.202m.com
@@ -20219,6 +20300,7 @@ tivan.naver.com
 tivo.bet
 tivolicasino.dk
 tj.ali213.net
+tjalliencoaching.nl
 tjekditnet.dk
 tj.kugou.com
 tjlog.easou.com
@@ -20681,6 +20763,7 @@ turn.com
 turnip.cdn.turner.com
 t.urs.microsoft.com
 tusdk.com
+tussendierenmens.nl
 tutanoto.com
 tutela.com
 tutucloud.com
@@ -21129,6 +21212,7 @@ vast.cloudmobi.net
 vatrack.hinet.net
 vat-search.eu
 vaytiennhanh20.com
+vbag.nl
 v.baidu.com
 vbet.nl
 vbout.com
@@ -21168,10 +21252,12 @@ vendor1.fitschigogerl.com
 venpath.net
 ventdeplaisir.fr
 venteexclusive.be
+veradebever.nl
 veransys.kr
 verbeterthuis.nl
 vercel-insights.com
 verdict.abc.go.com
+verhoevennatuurgeneeskunde.nl
 verifid.ac.uk
 verifid.com.au
 verifypass.com
@@ -21289,6 +21375,7 @@ visto.li
 visualdna.com
 visualwebsiteoptimizer.com
 visx.net
+vita-energetica.nl
 vitaepro.nl
 vitakruid.nl
 vitals.app
@@ -21296,6 +21383,7 @@ vitals.co
 vitals.vercel-insights.com
 vitaminesperpost.nl
 vitaminstore.nl
+vitaproducten.nl
 vitastyle.nl
 viteezy.nl
 vitrado.de
@@ -21351,6 +21439,7 @@ voonix.net
 voqally.com
 vortex.data.microsoft.com
 vortex.data.microsoft.com.akadns.net
+vortexflow.nl
 vortex-win.data.microsoft.com
 vostrouvailles.fr
 votecompany.com
@@ -22392,6 +22481,7 @@ zohoinsights.com
 zohotagmanager.cdn.pagesense.io
 zonmw.containers.piwik.pro
 zonnebloem.nl
+zonnevlecht.nl
 zonos.com
 zoom121.site
 zoomanalytics.co
@@ -22419,6 +22509,7 @@ ztxbd.com
 zuaq4uywadlj75qqkfns3bmoom0xpaiz.lambda-url.us-east-1.on.aws
 zuche321.com
 zuiceshi.net
+zuiverenpuurpraktijk.nl
 zuko.io
 zwanoo.org
 zweeler.com
