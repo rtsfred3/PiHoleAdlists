@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-12-22 08:00:26 UTC
+! Generated at 2025-12-23 08:00:27 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -940,6 +940,8 @@
 ||frc-visio-telemetry.officeapps.live.com^
 ||fr.feedback.xmpush.global.xiaomi.com^
 ||frontier.byteoversea.com^
+||frontier.capcutw.us^
+||frontier.capcutw.us.edgesuite.net^
 ||frontier.tiktokv.com^
 ||frontier.tiktokv.us^
 ||fr-register.xmpush.global.xiaomi.com^
