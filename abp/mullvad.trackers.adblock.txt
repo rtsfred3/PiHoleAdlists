@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-12-26 08:00:43 UTC
+! Generated at 2025-12-27 08:00:49 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -14667,6 +14667,7 @@
 ||fuicmy.hana-mail.jp^
 ||fujifilmdb.fujifilmdiosynth.com^
 ||fullerton-app.hotdoc.com.au^
+||fullrestore.net^
 ||fulmar.net.anwalt.de^
 ||fumblingform.com^
 ||functionalcrown.com^
@@ -16174,6 +16175,7 @@
 ||hines.actonservice.com^
 ||hipizza.openapp.link^
 ||hipkqt.contorion.de^
+||hippojump.com^
 ||hirsung.de^
 ||hisearch-dra.dt.dbankcloud.com^
 ||hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn^
@@ -18289,6 +18291,7 @@
 ||invite.youmail.com^
 ||inv.mksp.io^
 ||invoice.netroam.mihome.xiaomi.net^
+||invoicetick.com^
 ||in-vpushonrt-stsdk.vivoglobal.com^
 ||in-vpushort-stsdk.vivoglobal.com^
 ||inx-corp.actonservice.com^
@@ -18429,6 +18432,7 @@
 ||is.lg.com^
 ||is-log.furunavi.jp^
 ||ism-telemetry.trafficmanager.net^
+||i.snssdk.com^
 ||isoplexis.actonservice.com^
 ||isovav.akomeya.jp^
 ||i.spyn.co^
@@ -28150,7 +28154,6 @@
 ||rcm.amazon.com^
 ||rcm-eu.amazon-adsystem.com^
 ||rcm-fe.amazon-adsystem.com^
-||rcm-images.amazon.com^
 ||rcm-it.amazon.it^
 ||rcm-jp.amazon.co.jp^
 ||rcm-na.amazon-adsystem.com^

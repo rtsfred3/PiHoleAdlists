@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2025-12-26 08:00:19 UTC
+! Generated at 2025-12-27 08:00:25 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -1164,6 +1164,7 @@
 ||i-sg01a.ocloud.heytapmobi.com^
 ||i-sg.browser.heytapmobile.com^
 ||ism-telemetry.trafficmanager.net^
+||i.snssdk.com^
 ||item-tracking.dev.sr.roku.com^
 ||i-th.browser.heytapmobile.com^
 ||i-vn.browser.heytapmobile.com^
@@ -1933,7 +1934,6 @@
 ||rcm.amazon.com^
 ||rcm-eu.amazon-adsystem.com^
 ||rcm-fe.amazon-adsystem.com^
-||rcm-images.amazon.com^
 ||rcm-it.amazon.it^
 ||rcm-jp.amazon.co.jp^
 ||rcm-na.amazon-adsystem.com^
