@@ -1,4 +1,4 @@
-# Generated at 2025-12-31 08:00:45 UTC
+# Generated at 2026-01-01 08:00:43 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -6124,6 +6124,7 @@ api.sec.miui.com
 apisensor.actonservice.com
 api.setting.intl.miui.com
 api.sms.intl.miui.com
+apitiny.net
 api.us-east-1.aiv-delivery.net
 api.us-west-2.aiv-delivery.net
 api.vip.miui.com
@@ -10065,6 +10066,7 @@ cookiex.ngd.yahoo.com
 cooking-app.lkk.com
 coolestcatcare.com
 coolguesthouse.com
+coolkidsdistrict.com
 co-onrt-stsdk.vivoglobal.com
 coop.vmware.com
 coordinatedcoat.com
@@ -12039,7 +12041,6 @@ dl.shopwell.com
 dl-stage.6tst.com
 dl-stage.zola.com
 dls-udc.dqa.samsung.com
-dlswbr.baidu.com
 dl.tablelist.com
 dl-test.4buy.net
 dl-test.boutiqat.com
@@ -20653,6 +20654,7 @@ loveseashore.com
 love.vidora.su
 lowercases.com
 lowermybills.actonsoftware.com
+lowerthewatts.net
 lowgxl.yokumoku.jp
 lozano.net.anwalt.de
 lozjnq.stateandliberty.com
@@ -20865,6 +20867,7 @@ luaqlg.blissy.com
 lub-links.eyecue.io
 lucanet.actonservice.com
 lucid.mjhassoc.com
+luckyshelf.com
 ludicrousarch.com
 luegnh.sneakercage.gr
 lujaqg.e-blooming.com
@@ -20880,6 +20883,7 @@ lumpygnome.com
 lumpylumber.com
 lumpywood.com
 lumtjt.plumbingonline.ca
+lunarcave.com
 lunchroomlock.com
 l.unfy.ai
 luptbq.lampsplus.com
@@ -20971,6 +20975,7 @@ maddeningpowder.com
 madebyintent.com
 madisoncres.actonservice.com
 madlysuccessful.com
+madnessbuzz.com
 madoverrice.com
 madrid.report.botm.transparentedge.io
 mads.amazon-adsystem.com
@@ -24695,7 +24700,6 @@ mhrkxi.thetrybe.com.au
 mhwbhn.tohapi.fr
 mhz-design.actonservice.com
 mi4crawler.pandora.xiaomi.com
-miao.baidu.com
 mibi.api.xiaomi.com
 mibi.xiaomi.com
 michiganrobotflower.com
@@ -25302,6 +25306,7 @@ mx-ort-stsdk.vivoglobal.com
 mxpdsu.bhv.fr
 mx-pnrt-stsdk.vivoglobal.com
 mx-p.vivoglobal.com
+mxradon.com
 mx-romsp-unifyconfig.vivoglobal.com
 mx-stsdk.vivoglobal.com
 mx-st-sl.vivoglobal.com
@@ -27117,6 +27122,7 @@ pixel.tuko.co.ke
 pixelvariety.com
 pixel.veritone-ce.com
 pixel.videohub.tv
+pixel.visitiq.io
 pixel.web.roku.com
 pixel.wetracked.io
 pixel.wp.com
@@ -34638,6 +34644,7 @@ spaces.martela.se
 spain.thomsonreuters.com
 spam.carte-gr.total.fr
 spamtitan.actonservice.com
+spaning.creavite.co
 sp-app.fixly.pl
 spareapp.com
 sparkgoal.com
