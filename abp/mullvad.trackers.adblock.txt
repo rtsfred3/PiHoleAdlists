@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-01-02 08:00:43 UTC
+! Generated at 2026-01-03 08:00:48 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4194,7 +4194,6 @@
 ||abxslg.jollyroom.fi^
 ||ac2.msn.com^
 ||ac-3.mix.tokyo^
-||ac3.msn.com^
 ||ac9kpxbans1l.staging.unstoppabledomains.com^
 ||academics.academicsuperstore.com^
 ||acadian-asset.actonservice.com^
@@ -9340,6 +9339,7 @@
 ||cl.t3n.de^
 ||cltgtstor001.blob.core.windows.net^
 ||cltr.irlmail.org^
+||cltr.willhaben.at^
 ||cltxxq.cruises.united.com^
 ||clumsycar.com^
 ||cl-vcode-od.vivoglobal.com^
@@ -11335,7 +11335,6 @@
 ||dcclaa.slowlyveggie.de^
 ||dc.di.atlas.samsung.com^
 ||dc.dqa.samsung.com^
-||dc.heytapmobile.com^
 ||dcinfos-cache.abtasty.com^
 ||dcintl.push.heytapmobi.com^
 ||dc.kfz-steuercheck.de^
@@ -15895,6 +15894,7 @@
 ||gtm.lercio.it^
 ||gtm.mandesager.dk^
 ||gtm.wise.com^
+||gtm.xtb.com^
 ||gtreus.aliexpress.com^
 ||gtrk.s3.amazonaws.com^
 ||gtzpic.opodo.co.uk^
@@ -16282,7 +16282,6 @@
 ||hmlvxk.julian-fashion.com^
 ||hmoctt.leboutique.com^
 ||hmpfja.up-t.jp^
-||h.msn.com^
 ||hmvbmf.vidaxl.es^
 ||hmyjoj.5-fifth.com^
 ||hmziwy.yearbookordercenter.com^
@@ -17340,7 +17339,6 @@
 ||info.americas.coca-cola.com^
 ||info.americas.mizuhogroup.com^
 ||info.amperecomputing.com^
-||info.analysis.kp.sec.miui.com^
 ||info.anglianwaterbusiness.co.uk^
 ||info.apac.coca-cola.com^
 ||info.apbspeakers.com^
@@ -21097,6 +21095,8 @@
 ||mantrafox.com^
 ||mantual.pandora.xiaomi.com^
 ||manufacturing.autodeskcommunications.com^
+||manydiamonds.com^
+||manyfishes.com^
 ||ma.pasco.com^
 ||mapbasin.com^
 ||mapcommand.com^
@@ -22613,6 +22613,7 @@
 ||marrowleaves.com^
 ||marsh.actonservice.com^
 ||marshinsurance.actonservice.com^
+||marsnextdoor.com^
 ||marsupial.roleup.com^
 ||martech.condenastdigital.com^
 ||martech.wavenet.com.tw^
@@ -24801,6 +24802,7 @@
 ||mixomniture.rbs.com^
 ||mixpanel-proxy.coingecko.com^
 ||mixpanel-proxy.ted.com^
+||mixplays.com^
 ||mixxuo.sportys.gr^
 ||m.jarvisinvest.com^
 ||mjca-yijws.global.ssl.fastly.net^
@@ -25942,11 +25944,13 @@
 ||obus-dctech-in.heytapmobile.com^
 ||obus-dctech-sg.heytapmobile.com^
 ||obus-dc-us.heytapmobile.com^
+||obus-in.dc.heytapmobile.com^
 ||obus-jssdk-cn.heytapmobi.com^
 ||obus-jssdk-fr.heytapmobile.com^
 ||obus-jssdk-in.heytapmobile.com^
 ||obus-jssdk-sg.heytapmobile.com^
 ||obus-jssdk-us.heytapmobile.com^
+||obus-sg.dc.heytapmobile.com^
 ||oca.microsoft.com^
 ||o.carmax.com^
 ||o.catalyst.com.sa^

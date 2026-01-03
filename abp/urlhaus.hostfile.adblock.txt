@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-01-02 08:00:11 UTC
+! Generated at 2026-01-03 08:00:15 UTC
 ! 
 ! Sources: https://urlhaus.abuse.ch/downloads/hostfile
 ! 
@@ -23,8 +23,6 @@
 ||92803df9-8cd5-43dd-811b-f2840cdabc14.random.tsrv1.ws^
 ||a012a656-f566-48a1-afad-3dcc46018380.random.tsrv1.ws^
 ||abissnet.net^
-||abrababa.xyz^
-||acaviationsupplies.com^
 ||access.dragongolf.com^
 ||access.skaparade.com^
 ||acc.jiangsujiaxue.com^
@@ -43,6 +41,7 @@
 ||antvietnam.com^
 ||app.appzcvb.com^
 ||apple-service93.ru^
+||aqcszh.com^
 ||areyouready.co.za^
 ||artacom.com.br^
 ||artscreenstudio.ru^
@@ -57,6 +56,7 @@
 ||b6bc745a-7b5c-4d56-ab6c-0dd2982cb122.random.tsrv1.ws^
 ||backupso.com^
 ||bankgarantia.ru^
+||barrel-horseracing.com^
 ||bbb.xfrwu.cn^
 ||bfacollege.co.in^
 ||bikolsa.com^
@@ -74,9 +74,9 @@
 ||brightworks.cz^
 ||buckscountytaxattorney.com^
 ||bvaco.com^
-||c2.mc-live.online^
 ||cambodiatouristservice.com^
 ||cardflix.co^
+||castroycontadores.com^
 ||catbaparadisehotel.com.vn^
 ||cat.xiaoshabi.nl^
 ||cdn.file6.goodid.com^
@@ -90,6 +90,7 @@
 ||chezvouscuisine.co.uk^
 ||chinaapper.com^
 ||chiptune.com^
+||chmod0777kk.com^
 ||chuguadventures.co.tz^
 ||classroomseven.com^
 ||clipaid.app^
@@ -106,9 +107,9 @@
 ||connects-magiceden.io^
 ||continentalgroup.net.in^
 ||cpanel.tsrv1.ws^
-||crimefreesoftware.com^
 ||crobel3.floresagapanto.cfd^
 ||crystalpvp.ru^
+||cs.go.kg^
 ||csk.vietnamddns.com^
 ||ct3-24.ru^
 ||d.14yaa.com^
@@ -149,7 +150,6 @@
 ||download.pdf00.com^
 ||download.suxiazai.com^
 ||down.pcclear.com^
-||down.qqfarmer.com.cn^
 ||dowonline.ru^
 ||dreamwatchevent.com^
 ||drive-security-cloud.io^
@@ -162,6 +162,7 @@
 ||elisans.novayonetim.com^
 ||embedone.com^
 ||energy63.ru^
+||en.taichuan.com^
 ||epanpano.com^
 ||estudio.ythan.com.br^
 ||evangroup.ru^
@@ -176,12 +177,10 @@
 ||filezilla.cc^
 ||first-security-verden.de^
 ||flyingmutts.com^
-||friendsofsclarc.org^
 ||ftp.ywxww.net^
 ||fullstacknir.com^
 ||fvia.id.vn^
 ||fz.tiansys.cn^
-||g9zj25k4.spikeslavage.ru^
 ||gabyagozetim.com^
 ||galerisenimutiara.com^
 ||game19.flash-myanmar.com^
@@ -189,18 +188,14 @@
 ||getvelocity.lol^
 ||glaustralia.com^
 ||globaltechbilling.com^
-||gobiotechpestcontrol.com^
 ||goboadvertising.autodealertech.co^
 ||googletagamnager.com^
 ||gordon-and-son.com^
-||gp0k9bqe.spikeslavage.ru^
 ||grafar.floresagapanto.cfd^
 ||grikom.info^
 ||gutando.com^
-||haisolarery.top^
 ||hasalltalent.com^
 ||help.tsrv1.ws^
-||hi.admini.website^
 ||hitman-pro.ru^
 ||hitstation.nl^
 ||hobobot.net^
@@ -208,10 +203,12 @@
 ||hotellacastellana.com.uy^
 ||hqweb.id.vn^
 ||hseda.com^
+||ibnbatutta.pk^
 ||icoffeecloud.com^
 ||id3basketball.com^
 ||igra123.com^
 ||iiiconstruction.net^
+||imtoken8.cc^
 ||injectroblox.ru^
 ||innaflux.com^
 ||intelligentopennetworkingawards.com^
@@ -222,7 +219,6 @@
 ||itssprout.com^
 ||itsurmoney.org^
 ||jakestrack.com^
-||jasm72mf.vagusbra.ru^
 ||jawaratekno.com^
 ||jkshaonv.com^
 ||joyeriatauro.com^
@@ -232,6 +228,7 @@
 ||kalyanmatka.world^
 ||kamin-premium.ru^
 ||karoonpc.com^
+||kavacanada.ca^
 ||khavar.com^
 ||khoancatbetong89.vn^
 ||kimyen.net^
@@ -242,11 +239,9 @@
 ||kuzina-teatr.ru^
 ||landonirwin.com^
 ||la-pan-adventures.com^
-||latinashosting.com^
 ||launcher1.muonliness6.com^
 ||ldplaycn.com^
 ||libwaresourcewsd.com^
-||life-captcha.com^
 ||lindenappliances.co.za^
 ||lindnerelektroanlagen.de^
 ||local-update.com^
@@ -258,10 +253,7 @@
 ||mail.cambodiatouristservice.com^
 ||mail.tsrv1.ws^
 ||main.dsn.ovh^
-||make.mydaymakemyday.info^
 ||mandarin.net.au^
-||marketingsolutionbd.com^
-||masgraves.dev^
 ||mastertv.mx^
 ||m.bal-stroi.ru^
 ||merctransfers.gradycares.com^
@@ -276,18 +268,17 @@
 ||modulowinapp.com^
 ||mogimall.com^
 ||mundocarnes.cl^
-||muriaspetin.es^
 ||muzzumilruheel.com^
 ||ncxps.com^
 ||ndown2.ra2ol.com^
 ||nelees.com^
 ||noithaticon.vn^
 ||nstools.tsrv1.ws^
-||nusatoyota.co.id^
 ||ny.lshdw.cc^
 ||o24o.ru^
 ||ojang.pe.kr^
 ||okhan.net^
+||oknoplastik.sk^
 ||onfiltre.com.tr^
 ||online-gebuehrenzaehler.de^
 ||onlinetanecni.cz^
@@ -323,19 +314,16 @@
 ||pizzabyte.com.au^
 ||planetariumobil.ro^
 ||planmenpunval.floresixia.cfd^
-||play.mclighthouse.ir^
 ||pns.org.pk^
 ||pobedastaff.ru^
 ||polonyauniversiteleri.com.tr^
 ||presinfer.florescrinum.cfd^
 ||proship.ae^
-||protherapycenter.com^
 ||public.demo.securecloudsandbox.com^
 ||pvsa.gxfugy.cn^
 ||qiniuyunxz.yxflzs.com^
 ||qlqd5zqefmkcr34a.onion.sh^
 ||quanlyphongnet.com^
-||qzf73dvm.vagusbra.ru^
 ||ramactools.net^
 ||ramirex.ro^
 ||ransokk.de^
@@ -353,7 +341,6 @@
 ||reusable-flex.com^
 ||rheddh.com^
 ||riderspin.com^
-||riseonid.com^
 ||robertrowe.com^
 ||royalindiancurryclub.com^
 ||rxquickpay.com^
@@ -365,23 +352,22 @@
 ||schenckel.com.br^
 ||scrowinnal.floresflorestrela.cfd^
 ||sdvgpro.ru^
-||security-teamz.com^
 ||sec.xiaoshabi.nl^
 ||server.mikompa.sch.id^
-||setupeurope.eu^
 ||sfa.com.ar^
 ||sffacoglobal.com^
 ||sg123.net^
 ||shaderm.com^
 ||shop.mediasova.ru^
 ||shqdown.ggzuhao.com^
-||sigdalokanolkas.com^
 ||simbhaolisugars.in^
 ||sk-comtel.com^
 ||skillnorequired.cc^
 ||smtp.tsrv1.ws^
 ||soft.110route.com^
+||softcatalog.ru^
 ||solutelco.com^
+||spoar.org.in^
 ||spst.hqup.in^
 ||src1.minibai.com^
 ||static.ilclock.com^
@@ -404,7 +390,6 @@
 ||tehnomag.rs^
 ||telegramcn.co^
 ||temirtau-adm.ru^
-||tengfeidn.cn^
 ||teslasuit.to^
 ||test.peperoncinochepassione.it^
 ||tests.yjzj.org^
@@ -412,6 +397,7 @@
 ||theholidayroads.com^
 ||theoremaoliveoil.com^
 ||thtp2.volamngayxua.net^
+||ticpc8a.com^
 ||toolshare.com.tr^
 ||topmedsolution.com^
 ||transparenciacanaa.com.br^
@@ -429,13 +415,13 @@
 ||upsinfo2025.com^
 ||vagler.ru^
 ||valkas.top^
-||vcc-library.uk^
 ||versaclean.com.br^
 ||veryboys.com^
 ||vgd.vg^
 ||vincentdemiero.com^
 ||visam.info^
 ||visualwikicloud.com^
+||vitoturizm.com.tr^
 ||vizyonuniversitesi.com.tr^
 ||warkopshopfb138.cc^
 ||website.mypetapp.co.za^
@@ -448,7 +434,6 @@
 ||www.astenterprises.com.pk^
 ||www.automobile-bk.de^
 ||www.backupallfresh2030.com^
-||www.benshamcentre.co.uk^
 ||www.blackhattoolz.com^
 ||www.bratusferramentas.grupomoltz.com.br^
 ||www.cambodiatouristservice.com^
@@ -459,14 +444,15 @@
 ||www.first-security-verden.de^
 ||www.flybirdexpbd.com^
 ||www.hostingcloud.science^
-||www.hotelrhousecuscoperu.com^
 ||www.hseda.com^
 ||www.intelligradeeducation.vicentecisnerospub.com^
 ||www.jozefinskiatelje.si^
 ||www.khavar.com^
 ||www.konsor.ru^
+||www.koukaki.moonwp.fr^
 ||www.luuk-lifestyle.eu^
 ||www.medises.co.kr^
+||www.messias.org.br^
 ||www.mixturro.com^
 ||www.mobimpex.ro^
 ||www.myvcart.com^
@@ -524,3 +510,4 @@
 ||zenglobalenerji.com^
 ||zhigao5191.com^
 ||zycdjz.com^
+||zyhunkenya.co.ke^

@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-01-02 08:00:19 UTC
+! Generated at 2026-01-03 08:00:24 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -102,7 +102,6 @@
 ||abroad.api.comm.intl.miui.com^
 ||abtest-ch.snssdk.com^
 ||ac2.msn.com^
-||ac3.msn.com^
 ||acfeedbackws.icloud.com^
 ||acr0.samsungcloudsolution.com^
 ||acr-au-prd.samsungcloud.tv^
@@ -730,7 +729,6 @@
 ||dc.applicationinsights.azure.us^
 ||dc.di.atlas.samsung.com^
 ||dc.dqa.samsung.com^
-||dc.heytapmobile.com^
 ||dcintl.push.heytapmobi.com^
 ||dc.services.visualstudio.com^
 ||dc-stat-in.heytapmobile.com^
@@ -1024,7 +1022,6 @@
 ||hizonetech.com^
 ||hk-tracker.trafficmanager.net^
 ||hme-live-loganalytics-namespace.servicebus.windows.net^
-||h.msn.com^
 ||homeprv.lgtvcommon.com^
 ||honorsearch-dra.hiboard.hihonorcloud.com^
 ||honorsearch-drcn.hiboard.hihonorcloud.com^
@@ -1113,7 +1110,6 @@
 ||inference-app-gateway.northeurope.cloudapp.azure.com^
 ||inference-location-livenet.trafficmanager.net^
 ||inf.miui.com^
-||info.analysis.kp.sec.miui.com^
 ||ingest.appcenter.ms^
 ||in-miuilog.sms.intl.xiaomi.com^
 ||in-monitor-stsdk.vivoglobal.com^
@@ -1758,11 +1754,13 @@
 ||obus-dctech-in.heytapmobile.com^
 ||obus-dctech-sg.heytapmobile.com^
 ||obus-dc-us.heytapmobile.com^
+||obus-in.dc.heytapmobile.com^
 ||obus-jssdk-cn.heytapmobi.com^
 ||obus-jssdk-fr.heytapmobile.com^
 ||obus-jssdk-in.heytapmobile.com^
 ||obus-jssdk-sg.heytapmobile.com^
 ||obus-jssdk-us.heytapmobile.com^
+||obus-sg.dc.heytapmobile.com^
 ||oca.microsoft.com^
 ||odin-signals.apple.com^
 ||office-events-data.trafficmanager.net^
