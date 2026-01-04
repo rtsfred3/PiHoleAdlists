@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-01-03 08:00:15 UTC
+! Generated at 2026-01-04 08:00:19 UTC
 ! 
 ! Sources: https://urlhaus.abuse.ch/downloads/hostfile
 ! 
@@ -23,6 +23,7 @@
 ||92803df9-8cd5-43dd-811b-f2840cdabc14.random.tsrv1.ws^
 ||a012a656-f566-48a1-afad-3dcc46018380.random.tsrv1.ws^
 ||abissnet.net^
+||acaviationsupplies.com^
 ||access.dragongolf.com^
 ||access.skaparade.com^
 ||acc.jiangsujiaxue.com^
@@ -58,8 +59,8 @@
 ||bankgarantia.ru^
 ||barrel-horseracing.com^
 ||bbb.xfrwu.cn^
+||beak.in^
 ||bfacollege.co.in^
-||bikolsa.com^
 ||blaiz.me^
 ||blessdayservices.org^
 ||blogs.sokun.jp^
@@ -76,7 +77,6 @@
 ||bvaco.com^
 ||cambodiatouristservice.com^
 ||cardflix.co^
-||castroycontadores.com^
 ||catbaparadisehotel.com.vn^
 ||cat.xiaoshabi.nl^
 ||cdn.file6.goodid.com^
@@ -87,11 +87,8 @@
 ||chat-server.maverickpreviews.com^
 ||checkfivem.com^
 ||checkinetverifk.com^
-||chezvouscuisine.co.uk^
 ||chinaapper.com^
 ||chiptune.com^
-||chmod0777kk.com^
-||chuguadventures.co.tz^
 ||classroomseven.com^
 ||clipaid.app^
 ||cloudstay168.com^
@@ -101,7 +98,6 @@
 ||cnc.504.su^
 ||coach.028csc.com^
 ||community.tsrv1.ws^
-||complaint-forms.com^
 ||compuserviceonline.com.br^
 ||computersupportexperts.com^
 ||connects-magiceden.io^
@@ -116,7 +112,6 @@
 ||d166ab3b-91ab-410f-a50d-c702fa55858d.random.tsrv1.ws^
 ||d38c6492-db8a-468e-9680-b62c6443b8b0.random.tsrv1.ws^
 ||dansorium.gr^
-||dariksky.bg^
 ||darkside.cy^
 ||data.yhydl.com^
 ||dcrun.co.uk^
@@ -150,9 +145,9 @@
 ||download.pdf00.com^
 ||download.suxiazai.com^
 ||down.pcclear.com^
+||down.qqfarmer.com.cn^
 ||dowonline.ru^
 ||dreamwatchevent.com^
-||drive-security-cloud.io^
 ||duratechsol.com^
 ||dusttv.com^
 ||d.wanyouxi7.com^
@@ -162,7 +157,6 @@
 ||elisans.novayonetim.com^
 ||embedone.com^
 ||energy63.ru^
-||en.taichuan.com^
 ||epanpano.com^
 ||estudio.ythan.com.br^
 ||evangroup.ru^
@@ -184,8 +178,6 @@
 ||gabyagozetim.com^
 ||galerisenimutiara.com^
 ||game19.flash-myanmar.com^
-||geeconglobal.com^
-||getvelocity.lol^
 ||glaustralia.com^
 ||globaltechbilling.com^
 ||goboadvertising.autodealertech.co^
@@ -196,10 +188,10 @@
 ||gutando.com^
 ||hasalltalent.com^
 ||help.tsrv1.ws^
+||hi.admini.website^
 ||hitman-pro.ru^
 ||hitstation.nl^
 ||hobobot.net^
-||hotel-access4812.com^
 ||hotellacastellana.com.uy^
 ||hqweb.id.vn^
 ||hseda.com^
@@ -254,26 +246,29 @@
 ||mail.tsrv1.ws^
 ||main.dsn.ovh^
 ||mandarin.net.au^
+||masgrave.com^
 ||mastertv.mx^
 ||m.bal-stroi.ru^
 ||merctransfers.gradycares.com^
 ||metrics.gocloudmaps.com^
 ||m-global.hksty.net^
-||mhw.codes^
 ||microsoft-analyse.com^
 ||microsoft-telemetry.at^
 ||microsoft-telemetry.cc^
+||mindworksfoundation.com.au^
 ||mitreart.com^
 ||mobshah.com^
 ||modulowinapp.com^
 ||mogimall.com^
 ||mundocarnes.cl^
 ||muzzumilruheel.com^
+||mvmconstructores.com^
 ||ncxps.com^
 ||ndown2.ra2ol.com^
 ||nelees.com^
 ||noithaticon.vn^
 ||nstools.tsrv1.ws^
+||nusatoyota.co.id^
 ||ny.lshdw.cc^
 ||o24o.ru^
 ||ojang.pe.kr^
@@ -307,7 +302,6 @@
 ||palharesinformatica.com.br^
 ||paololucchesi.it^
 ||parmisbuilding.com^
-||pay.aqiu6.com^
 ||pcupd.com^
 ||pegasustour.ru^
 ||pid.fly160.com^
@@ -370,11 +364,13 @@
 ||spoar.org.in^
 ||spst.hqup.in^
 ||src1.minibai.com^
+||ssl-host.com^
 ||static.ilclock.com^
 ||static.topxgun.com^
 ||static.youdm.cn^
 ||stdown.dinju.com^
 ||stltpweavzg.tsrv1.ws^
+||stonecradle.com^
 ||supercleanspb.ru^
 ||support.clz.kr^
 ||support.tsrv1.ws^
@@ -390,6 +386,7 @@
 ||tehnomag.rs^
 ||telegramcn.co^
 ||temirtau-adm.ru^
+||tengfeidn.cn^
 ||teslasuit.to^
 ||test.peperoncinochepassione.it^
 ||tests.yjzj.org^
@@ -397,9 +394,7 @@
 ||theholidayroads.com^
 ||theoremaoliveoil.com^
 ||thtp2.volamngayxua.net^
-||ticpc8a.com^
 ||toolshare.com.tr^
-||topmedsolution.com^
 ||transparenciacanaa.com.br^
 ||treinamento.convenio.to.gov.br^
 ||trtmyanmar.com^
@@ -415,16 +410,17 @@
 ||upsinfo2025.com^
 ||vagler.ru^
 ||valkas.top^
+||vcc-library.uk^
 ||versaclean.com.br^
 ||veryboys.com^
 ||vgd.vg^
 ||vincentdemiero.com^
 ||visam.info^
 ||visualwikicloud.com^
-||vitoturizm.com.tr^
 ||vizyonuniversitesi.com.tr^
 ||warkopshopfb138.cc^
 ||website.mypetapp.co.za^
+||weendugroup.com^
 ||windomstatetheater.com^
 ||wok.gooning.su^
 ||writerartist.com^
@@ -434,6 +430,7 @@
 ||www.astenterprises.com.pk^
 ||www.automobile-bk.de^
 ||www.backupallfresh2030.com^
+||www.benshamcentre.co.uk^
 ||www.blackhattoolz.com^
 ||www.bratusferramentas.grupomoltz.com.br^
 ||www.cambodiatouristservice.com^
@@ -453,6 +450,7 @@
 ||www.luuk-lifestyle.eu^
 ||www.medises.co.kr^
 ||www.messias.org.br^
+||www.mevetlab.cl^
 ||www.mixturro.com^
 ||www.mobimpex.ro^
 ||www.myvcart.com^
@@ -510,4 +508,3 @@
 ||zenglobalenerji.com^
 ||zhigao5191.com^
 ||zycdjz.com^
-||zyhunkenya.co.ke^

@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-01-03 08:00:17 UTC
+! Generated at 2026-01-04 08:00:20 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 ! 
@@ -12,7 +12,6 @@
 ||a.adroll.com^
 ||ab.fastighetsvarlden.se^
 ||acceptable.a-ads.com^
-||accesslnk.com^
 ||acdn.adnxs.com^
 ||ad.360yield.com^
 ||ad.doubleclick.net^
@@ -819,7 +818,6 @@
 ||s.skimresources.com^
 ||ssl.webserviceaward.com^
 ||ssp.api.tappx.com^
-||ssp-nj.webtradehub.com^
 ||st.adrecord.com^
 ||stat03.stat.cliche.se^
 ||stat.alltforforaldrar.se^
