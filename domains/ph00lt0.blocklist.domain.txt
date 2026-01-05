@@ -1,4 +1,4 @@
-# Generated at 2026-01-04 08:00:23 UTC
+# Generated at 2026-01-05 08:00:18 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -1237,7 +1237,6 @@ a.beilamusi.com
 abeille-assurances.fr
 a.benshiw.net
 abgemea.com
-a.bildstatic.de
 abjectionremarksdisarm.com
 abla.io
 ablestar.app
@@ -3142,6 +3141,7 @@ analytics.localytics.com
 analytics.mobile.yandex.net
 analytics.museum.nl
 analytics.mysynchrony.com
+analytics.naproxy.com
 analytics.natlawreview.com
 analytics.newsifier.nl
 analytics.nicknick.nl
@@ -4440,6 +4440,7 @@ bbstatic.pcmag.com
 bb.tuku.cc
 bbus-static.com
 bc0a.com
+bc3ts.net
 bc.anwb.nl
 bcbolt446c5271-a.akamaihd.net
 bcccdn.com
@@ -4678,6 +4679,7 @@ betatraining.eu
 betcity.net
 betcity.nl
 beterlot.nl
+betervoelen.nl
 betfair.com
 betfair.dk
 betfindr.com
@@ -5114,6 +5116,7 @@ brandmatchers.nl
 brandmatchers.tech
 brandmaxima.com
 brandmetrics.com
+brandonbays.de
 brandquiz.io
 brandshow.58.com
 brand.sogou.com
@@ -5892,7 +5895,6 @@ cdn.opecloud.com
 cdn.opencmp.net
 cdn.opstatics.com
 cdn.optable.co
-cdn.optimizely.com
 cdn.optmn.cloud
 cdn.optoutadvertising.com
 cdn.oryxgaming.com
@@ -5903,7 +5905,6 @@ cdnpark.com
 cdn.parsely.com
 cdn-path.com
 cdn-payhelm.s3.amazonaws.com
-cdn-pci.optimizely.com
 cdn.pdst.fm
 cdn.pendo.io
 cdn.performax.cz
@@ -6233,6 +6234,7 @@ chooinkya.com
 choozle.com
 choshu.co.jp
 chromatec.ru
+chrome-stats.com
 chronopost-relivraison.fr
 chtbl.com
 churchrez.org
@@ -6291,6 +6293,7 @@ ck.page
 c.la1-c1-frf.salesforceliveagent.com
 c.la1-c1-lo3.salesforceliveagent.com
 c.la1-c1-par.salesforceliveagent.com
+clackamasares.com
 clanker-events.squarespace.com
 clansmansites.nl
 clario.cloud
@@ -6347,6 +6350,8 @@ cleverreach.com
 clevertap.com
 clevertap-prod.com
 cleverwebserver.com
+clevguard.com
+clevguard.org
 cl.he9630.com
 cli2020.com
 clic2buy.com
@@ -8209,6 +8214,7 @@ decide.mixpanel.com
 decipherinc.com
 decirkelvankansen.be
 decision.flagship.io
+decoarte.hu
 de-config.sensic.net
 decouvertesurlenet.fr
 decoymail.com
@@ -8638,6 +8644,7 @@ doomdns.oom
 doomdns.org
 doopoll.co
 doorbell.io
+doorsprong.nl
 dopa.com
 dorthin.com
 dosvak.com
@@ -8911,6 +8918,7 @@ eap.big5.enorth.com.cn
 eap.enorth.com.cn
 e.apsalar.com
 ea.pstmrk.it
+earenmind.be
 early-birds.fr
 earlyiq.com
 earlyparrot.com
@@ -9099,6 +9107,7 @@ e-lotto.be
 elqtrk.intel.com
 eltiempo.es
 emag.ro
+email2.oxxio.nl
 email-abnamro.nl
 email-address-validator.us.greenhouse.io
 emailanalytics.com
@@ -10362,6 +10371,7 @@ gemius.pl
 generalmobi.com
 genesis.malwarebytes.com
 genesys-chat-production.cap.endurance.com
+genezendvermogen.nl
 genflow.com
 geniee.co.jp
 genieegroup.com
@@ -12122,6 +12132,7 @@ insight.rapid7.com
 insights.checkyourlink.com
 insights-collector.gog.com
 insights-collector.newrelic.com
+insights.evc-net.com
 insights.hotjar.com
 insights.jumper.ai
 insightsoftware.com
@@ -12214,7 +12225,6 @@ interfax.com
 interfax.net
 intergient.com
 internal-analytics.odoo.com
-internal-api.monzo.com
 internalcheck.apple.com
 internaltestego.netlify.com
 internationalexecutivesearch.net
@@ -12649,6 +12659,8 @@ jossuer.net
 jotform.com
 jougids.nl
 journeeepoustouflante.fr
+journeytherapiedebron.nl
+journeytherapie.nl
 journey.vogue.com
 jouwhorizon.be
 jouwstartonline.nl
@@ -12979,6 +12991,7 @@ klenty.com
 kleurenpunctuur.nl
 kliken.com
 klik.nrc.nl
+kliksafe.nl
 kliksysteem.duckdns.org
 klipfolio.com
 kljei27asdkj.nl
@@ -13232,6 +13245,7 @@ leak.360.cn
 leananalytics.io
 leanlab.co
 leanplum.com
+learn.optimizely.com
 lebowski.wetransfer.com
 lecocktaildunet.fr
 lecoeurdelexcellence.fr
@@ -13255,6 +13269,7 @@ lele999.com
 lemiglioriproposte.it
 lemiglioriscelte.it
 lemlist.com
+lemon8-app.com
 lemon.com
 lemondederahul.fr
 lencyclopedieduweb.com
@@ -14281,7 +14296,6 @@ mellowtel.dev
 meltwater.com
 membrana.media
 membre.20minutes.fr
-mem.gfx.ms
 m.emgwq.com
 memo2.nl
 mempay.com
@@ -14438,6 +14452,7 @@ mijnics-actualisatie.com
 mijnoverheid.hopp.to
 mijnoverheid.ozto.com
 mijnovh91026.me
+mijn.plus.nl
 mijnpostcode.nl
 mijnuniekeselectie.be
 miles-research.com
@@ -15196,12 +15211,14 @@ nicequest.com
 nicereply.com
 nice-team.net
 nichibenren.or.jp
+nickalper.com
 nicorette.co.kr
 nicovideo.jp
 niekvangulik.nl
 nielsen.app
 nielsen.com
 nieuwe-casinos.net
+nieuwsbrief.ah.nl
 nieuwsbriefsysteem.nl
 nieuwsbriefsysteem-static.nl
 niferstall.de
@@ -15537,6 +15554,7 @@ official.tools
 offline-adv.oray.com
 ogt.jp
 ogury.com
+ohmobile.shop
 ohmy.bid
 o.if.qidian.com
 oikxlcv.wang
@@ -15773,7 +15791,6 @@ optimix.cn
 optimizationguide-pa.googleapis.com
 optimized-by.rubiconproject.com
 optimizelyapis.com
-optimizely.com
 optimizely.techtarget.com
 optimize.net
 optimizeywebs.com
@@ -16013,6 +16030,7 @@ papajia55.com
 paqle.dk
 parametre.online
 pardot.com
+parentaler.com
 parentingwithouttears.com
 parimatch.com
 parisvegasclub.de
@@ -17729,6 +17747,7 @@ rsms.me
 rs.sinajs.cn
 r.stripe.com
 rsys1.com
+rt3-t.offer.renault.com
 rta2.inews.co.uk
 rta2.metro.co.uk
 rta2.newzit.com
@@ -18913,6 +18932,7 @@ sparenergi.dk
 spark.cloud.funkedigital.de
 sparklane-group.com
 sparkloop.app
+sparkpostmail.com
 spartoo.nl
 spa.spicegems.com
 spatialbuzz.com
@@ -19668,6 +19688,7 @@ svtrd.com
 swa.bol.com
 swa.gtimg.com
 swebanalytics.krak.dk
+sweetanalytics.com
 sweet-water.org
 swetrix.com
 swetsins.com
@@ -20217,6 +20238,7 @@ thetradedesk.com
 thetruth7.com
 thewhizmarketing.com
 thewildlifesurveyunit.co.uk
+theytpremiumapk.com
 thimatic-apps.com
 things.hicloud.com
 thinkific.com
@@ -20256,6 +20278,7 @@ tidio.co
 tifbs.net
 tigerspin.de
 ti.hornbach.nl
+tijdvoortrauma.nl
 tiktokcdn.com
 tiktokcdn-us.com
 tiktok.com
@@ -20659,6 +20682,7 @@ truconversion.com
 truecaller.com
 truedata.co
 truehits.in.th
+trueinsight.nl
 truendo.com
 truenorth.io
 truepublish.de
@@ -20982,6 +21006,7 @@ universdestendances.be
 universeletrend.nl
 unless.com
 unlitui.com
+unlp.nl
 unmetric.com
 unruly.co
 unrulymedia.com
@@ -21528,6 +21553,7 @@ wan.sohu.com
 wantaico.com
 wantfour.com
 wan.youku.com
+waonapp.com
 wap001.bytravel.cn
 wap.114so.cn
 wap3.ucweb.com
@@ -21544,6 +21570,7 @@ watchman.na-backend.odysee.com
 watcho.com
 waterfall.com
 waterstons.info
+watracker.app
 watson.microsoft.com
 watson.telemetry.microsoft.com
 wavedesign.cmail20.com
@@ -21557,6 +21584,7 @@ wbgaf.com
 wbgtp.com
 wblake.net
 wbpctips.mobile.sina.cn
+wbpwr.eu
 wcfbc.net
 wchat.freshchat.com
 wclc.com
@@ -21724,6 +21752,7 @@ whafwl.com
 whale.camera
 whalecloud.com
 whatagraph.com
+whatracker.net
 whatrocks.co
 whatrunswhere.com
 whats-app-vote.ru
@@ -21927,6 +21956,7 @@ ws.batch.com
 ws.clickup.com
 ws.colissimo.fr
 ws-connex.de
+wsd.hu
 wsdk.rokt.com
 ws-eu.amazon-adsystem.com
 ws-eu.pusher.com
@@ -21982,6 +22012,7 @@ w.xiaopiaoyou.com
 wxsnsdythumb.wxs.qq.com
 wxsnsdy.wxs.qq.com
 wx.xwjqr.com
+wyattmattersshow.com
 wyhzzy.com
 wyolotto.com
 wyttech.cn
