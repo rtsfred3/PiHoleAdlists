@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-01-06 08:00:27 UTC
+! Generated at 2026-01-08 08:00:23 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -968,6 +968,7 @@
 ||gpm-mon-va.byteoversea.com^
 ||gpm-mon-va-useast1a.byteoversea.com^
 ||gpm-mon-va-useast2a.byteoversea.com^
+||graffiti-tags.apple.com^
 ||grs.dbankcloud.asia^
 ||grs-dbankcloud-asia-dra.appacc.dbankedge.cn^
 ||grs-dbankcloud-asia-dra.appacc-region.dbankedge.cn^
@@ -2204,6 +2205,7 @@
 ||sec-cdn.static.xiaomi.net^
 ||sec.resource.xiaomi.net^
 ||securemetrics.apple.com^
+||securemetrics.apple.com.cn^
 ||securemetrics.v.aaplimg.com^
 ||securemvt.apple.com^
 ||securemvt.v.aaplimg.com^
