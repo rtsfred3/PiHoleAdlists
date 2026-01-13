@@ -2,6 +2,7 @@ clear && clear
 
 ADBLOCK_DIR="abp"
 DOMAINS_DIR="domains"
+UNBOUND_DIR="unbound"
 
 BUNNYCDN_ADBLOCK_DIR="adblock"
 BUNNYCDN_DOMAIN_DIR="$DOMAINS_DIR"
@@ -18,6 +19,19 @@ copyToDomainFormat() {
     if [ -f "$ADBLOCK_DIR/$OLD_FILE" ]; then
         NEW_BODY=$(cat $ADBLOCK_DIR/$OLD_FILE | sed '/^# /d; /^\[/d; /^$/d' | sed -E 's/!/#/g' | sed -E 's/^\|\|//g' | sed -E 's/\^//g') # | sort -u)
         echo "$NEW_BODY" > $DOMAINS_DIR/$NEW_FILE
+    fi
+}
+
+copyToUnboundFormat() {
+    OLD_FILE=$(echo "$1" | sed -E 's/adblock\.txt/domain\.txt/g')
+    NEW_FILE=$(echo "$OLD_FILE" | sed -E 's/domain\.txt/unbound\.txt/g')
+
+    echo "Input File: $OLD_FILE"
+    echo "Output File: $NEW_FILE"
+
+    if [ -f "$DOMAINS_DIR/$OLD_FILE" ]; then
+        echo "server:" > $UNBOUND_DIR/$NEW_FILE;
+        cat $DOMAINS_DIR/$OLD_FILE | sed -E 's/^([^#].*)$/local-zone: "\1" refuse/g' >> $UNBOUND_DIR/$NEW_FILE;
     fi
 }
 
@@ -87,6 +101,18 @@ if [ -d "$DOMAINS_DIR" ]; then
 	rm "$DOMAINS_DIR/*.gz"
 fi
 
+if [ -d "$UNBOUND_DIR" ]; then
+	rm "$UNBOUND_DIR/*"
+fi
+
+if [ ! -d "$UNBOUND_DIR" ]; then
+    mkdir $UNBOUND_DIR
+fi
+
+if [ -d "$UNBOUND_DIR" ]; then
+	rm "$UNBOUND_DIR/*.gz"
+fi
+
 bash scripts/generateHostToAdblockPro.sh urlhaus.hostfile.adblock.txt https://urlhaus.abuse.ch/downloads/hostfile
 bash scripts/generateHostToAdblockPro.sh frellwits.swedish.adblock.txt https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 bash scripts/generateHostToAdblockPro.sh adaway.adblock.txt https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
@@ -109,15 +135,18 @@ TXT_FILES=(mullvad.advertising.adblock.txt mullvad.malware.adblock.txt mullvad.t
 
 for FILE in ${TXT_FILES[@]}; do
     copyToDomainFormat $FILE
+    copyToUnboundFormat $FILE
 done
 
 echo "Copied to $DOMAINS_DIR"
 
 gzip -k -9 -f $ADBLOCK_DIR/*.txt
 gzip -k -9 -f $DOMAINS_DIR/*.txt
+gzip -k -9 -f $UNBOUND_DIR/*.txt
 
 ls -1 $ADBLOCK_DIR/ | wc -l
 ls -1 $DOMAINS_DIR/ | wc -l
+ls -1 $UNBOUND_DIR/ | wc -l
 
 # uploadFileToBunnyCDN nrd14.txt $ADBLOCK_DIR $BUNNYCDN_ADBLOCK_DIR
 # uploadFileToBunnyCDN nrd14.txt.gz $ADBLOCK_DIR $BUNNYCDN_ADBLOCK_DIR
