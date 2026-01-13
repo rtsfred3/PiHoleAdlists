@@ -31,7 +31,7 @@ copyToUnboundFormat() {
 
     if [ -f "$DOMAINS_DIR/$OLD_FILE" ]; then
         echo "server:" > $UNBOUND_DIR/$NEW_FILE;
-        cat $DOMAINS_DIR/$OLD_FILE | sed -E 's/^([^#].*)$/local-zone: "\1." always_null/g' >> $UNBOUND_DIR/$NEW_FILE;
+        cat $DOMAINS_DIR/$OLD_FILE | sed '/^#/d' | sed -E 's/^([^#].*)$/local-zone: "\1." always_null/g' >> $UNBOUND_DIR/$NEW_FILE;
     fi
 }
 
@@ -135,7 +135,7 @@ TXT_FILES=(mullvad.advertising.adblock.txt mullvad.malware.adblock.txt mullvad.t
 
 for FILE in ${TXT_FILES[@]}; do
     copyToDomainFormat $FILE
-    copyToUnboundFormat $FILE
+    # copyToUnboundFormat $FILE
 done
 
 echo "Copied to $DOMAINS_DIR"
