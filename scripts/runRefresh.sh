@@ -31,7 +31,7 @@ copyToUnboundFormat() {
 
     if [ -f "$DOMAINS_DIR/$OLD_FILE" ]; then
         echo "server:" > $UNBOUND_DIR/$NEW_FILE;
-        cat $DOMAINS_DIR/$OLD_FILE | sed -E 's/^([^#].*)$/local-zone: "\1" refuse/g' >> $UNBOUND_DIR/$NEW_FILE;
+        cat $DOMAINS_DIR/$OLD_FILE | sed -E 's/^([^#].*)$/local-zone: "\1." always_null/g' >> $UNBOUND_DIR/$NEW_FILE;
     fi
 }
 
