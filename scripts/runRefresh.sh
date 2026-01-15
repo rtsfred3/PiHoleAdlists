@@ -24,14 +24,12 @@ copyToDomainFormat() {
 
 copyToUnboundFormat() {
     OLD_FILE=$(echo "$1" | sed -E 's/adblock\.txt/domain\.txt/g')
-    NEW_FILE=$(echo "$OLD_FILE" | sed -E 's/domain\.txt/unbound\.txt/g')
-
-    echo "Input File: $OLD_FILE"
-    echo "Output File: $NEW_FILE"
+    NEW_FILE=$(echo "$OLD_FILE" | sed -E 's/domain\.txt/unbound\.conf/g')
 
     if [ -f "$DOMAINS_DIR/$OLD_FILE" ]; then
-        echo "server:" > $UNBOUND_DIR/$NEW_FILE;
-        cat $DOMAINS_DIR/$OLD_FILE | sed '/^#/d' | sed -E 's/^([^#].*)$/local-zone: "\1." always_null/g' >> $UNBOUND_DIR/$NEW_FILE;
+        cat $DOMAINS_DIR/$OLD_FILE | grep '^#' > $UNBOUND_DIR/$NEW_FILE;
+        echo "server:" >> $UNBOUND_DIR/$NEW_FILE;
+        cat $DOMAINS_DIR/$OLD_FILE | grep '^[^#]' | sed -E 's/^([^#].*)/    local-zone: "\1." always_null/g' >> $UNBOUND_DIR/$NEW_FILE;
     fi
 }
 
@@ -135,14 +133,17 @@ TXT_FILES=(mullvad.advertising.adblock.txt mullvad.malware.adblock.txt mullvad.t
 
 for FILE in ${TXT_FILES[@]}; do
     copyToDomainFormat $FILE
-    # copyToUnboundFormat $FILE
+
+    if [[ "$FILE" != "urlhaus.hostfile.adblock.txt" ]]; then
+        copyToUnboundFormat $FILE
+    fi
 done
 
 echo "Copied to $DOMAINS_DIR"
 
 gzip -k -9 -f $ADBLOCK_DIR/*.txt
 gzip -k -9 -f $DOMAINS_DIR/*.txt
-gzip -k -9 -f $UNBOUND_DIR/*.txt
+gzip -k -9 -f $UNBOUND_DIR/*.conf
 
 ls -1 $ADBLOCK_DIR/ | wc -l
 ls -1 $DOMAINS_DIR/ | wc -l
