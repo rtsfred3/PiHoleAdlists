@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-01-14 08:00:47 UTC
+! Generated at 2026-01-15 08:01:05 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -11192,6 +11192,7 @@
 ||data.mailtest.lexmei.online^
 ||data.main-ding.de^
 ||data.mainpost.de^
+||data.manga-passion.de^
 ||data.mapp.com^
 ||data.markadsmal.islandsbanki.is^
 ||data.marketing.aeptest.a.intuit.com^
@@ -30031,6 +30032,7 @@
 ||sc.coutts.com^
 ||sc.cvent.com^
 ||sc.disneylandparis.com^
+||scdn.literatur-couch.de^
 ||sc.doctorwho.tv^
 ||scenicapparel.com^
 ||scenicchicago.com^
@@ -30041,6 +30043,7 @@
 ||schinnerer.actonservice.com^
 ||sc.hl.co.uk^
 ||sc.hm.com^
+||scholarloop.com^
 ||sc.holtsmilitarybank.co.uk^
 ||schwacke.autovistagroup.com^
 ||schwaebischhall.efscle.com^
@@ -30778,6 +30781,7 @@
 ||seedscissors.com^
 ||seek.intel.com^
 ||seekmyshop.com^
+||seekremote.com^
 ||seek.uwa.edu.au^
 ||seenvault.com^
 ||seespice.com^
@@ -38286,6 +38290,7 @@
 ||tfuodg.memolife.de^
 ||t.fuzeon.com^
 ||tg-ad-lgsmartad-com.aws-prd.net^
+||t.gazetteer.co^
 ||t.gazyva.com^
 ||tgbfha.lily-brw.com^
 ||t.gene.com^
