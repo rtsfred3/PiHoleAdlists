@@ -1,4 +1,4 @@
-# Generated at 2026-01-15 08:00:34 UTC
+# Generated at 2026-01-16 08:00:23 UTC
 # 
 # Sources: https://urlhaus.abuse.ch/downloads/hostfile
 # 
@@ -11,7 +11,6 @@
 215be44b-06b4-4bfd-8b66-92003bd7fe54.random.tsrv1.ws
 225c2cd6-cbd3-4ac2-8464-cc7686273c9c.random.tsrv1.ws
 226b8f14-a155-4dbb-88f2-b146941c2fc9.random.tsrv1.ws
-2fourty4.co.za
 3746c740-22d8-4bc2-9f60-c6c8db13ee88.random.tsrv1.ws
 450d4a71-458d-4d35-bd01-b075cdb0d900.random.tsrv1.ws
 53e2e72e-92ec-45bd-b5bf-5230e35c1564.random.tsrv1.ws
@@ -25,7 +24,6 @@ abissnet.net
 acaviationsupplies.com
 access.dragongolf.com
 access.skaparade.com
-accesstelematics.com
 acc.jiangsujiaxue.com
 ace-project.org
 acms.saleseos.com
@@ -36,10 +34,13 @@ adobehelp.net
 adver.com.br
 advustech.com
 aerconditionat-arges.ro
+aggrowtlh.com
 alarmline.com.br
 alineeleuterio.com.br
+aliyundunupdate.xyz
 allendostmen.com
 allister.ee
+almacensantangel.com
 antvietnam.com
 app.appzcvb.com
 apple-service93.ru
@@ -62,20 +63,17 @@ bbb.xfrwu.cn
 bfacollege.co.in
 binannce-uberprufung.com
 blaiz.me
-blessdayservices.org
 blogs.sokun.jp
 blog.tsrv1.ws
 bmdcompany.com
 bombayonline.in
 book.rollingvideogames.com
-botnet.rehannnap.my.id
 bracell.latitude.net.br
 bridgeroad.maverickpreviews.com
 brightworks.cz
 buckscountytaxattorney.com
 burger-cx-free-work.fun
 bvaco.com
-c2.mc-live.online
 cambodiatouristservice.com
 catbaparadisehotel.com.vn
 cat.dashabi.in
@@ -85,13 +83,14 @@ cdn.file6.goodid.com
 cdn.tmooc.cn
 cegelecinfo.fr
 celebratingseniors.net
-cfeca.win
+cerkery.com
 changemyseat.com
 chat-server.maverickpreviews.com
 checkfivem.com
 checkinetverifk.com
 chinaapper.com
 chiptune.com
+chuguadventures.co.tz
 classroomseven.com
 clipaid.app
 clisi.digifors.de
@@ -107,28 +106,23 @@ computersupportexperts.com
 connects-magiceden.io
 continentalgroup.net.in
 corelis.ro
-couchtalk.co.za
 cpanel.tsrv1.ws
-cryoshield.co.za
 crystalpvp.ru
 csg-app.com
-cs.go.kg
 csk.vietnamddns.com
 ct3-24.ru
-cybergeex.co.za
 d.14yaa.com
 d166ab3b-91ab-410f-a50d-c702fa55858d.random.tsrv1.ws
 d38c6492-db8a-468e-9680-b62c6443b8b0.random.tsrv1.ws
+daili.1756520.xyz
 dansorium.gr
 darkside.cy
 data.yhydl.com
 dcrun.co.uk
 dcwblida.dz
-ddafrica.co.za
 de91e0c0-23c2-457f-9d5d-21e0ce13ac57.random.tsrv1.ws
 delp-heizungsbau.de
 derekludlow.com
-designdynamix.co.za
 destinyalts.xyz
 device.redirec.com
 devilnet.xyz
@@ -136,17 +130,16 @@ dexios.co.za
 dezcom.com
 dfmtjmptskr.tsrv1.ws
 dhnconstrucciones.com.ar
-dicapolyp.com
+dialkwik.in
 disk.accord1key.cn
 divvanews.com
 dl.1003b.56a.com
 dl.aginjector.com
 dl.asis.io
 dl.dzqzd.com
+dl.natgo.cn
 dl.packetstormsecurity.net
 docs.tsrv1.ws
-documentvip.cybergeex.co.za
-docupsign.cybergeex.co.za
 donkeytourscroatia.com
 down.54nb.com
 down.fwqlt.com
@@ -172,12 +165,9 @@ elisans.novayonetim.com
 emartinez.gamer.gd
 embedone.com
 energy63.ru
-en.taichuan.com
 epanpano.com
-erassociates.co.za
 estudio.ythan.com.br
 evangroup.ru
-evite.cybergeex.co.za
 fakers.co.jp
 farschid.de
 fd8a7ef9-faae-4c3c-814a-376eb024783e.random.tsrv1.ws
@@ -185,6 +175,7 @@ file.blackint3.com
 file.edunet.ac
 filerit.com
 files.5modapk.com
+file.uhsea.com
 filezilla.cc
 first-security-verden.de
 flyingmutts.com
@@ -193,11 +184,12 @@ fullstacknir.com
 fvia.id.vn
 fz.tiansys.cn
 galerisenimutiara.com
+gecopakistan.com
 gistpad.com
 glaustralia.com
 globaltechbilling.com
-gobiotechpestcontrol.com
 goboadvertising.autodealertech.co
+googletagamnager.com
 gordon-and-son.com
 grikom.info
 gutando.com
@@ -206,7 +198,7 @@ help.tsrv1.ws
 hi.admini.website
 hitman-pro.ru
 hitstation.nl
-hobobot.net
+hostealo.com
 hotellacastellana.com.uy
 hqweb.id.vn
 hseda.com
@@ -216,7 +208,6 @@ id3basketball.com
 igra123.com
 iiiconstruction.net
 imtoken8.cc
-incredibletadoba.com
 injectroblox.ru
 innaflux.com
 intelligentopennetworkingawards.com
@@ -228,7 +219,6 @@ itssprout.com
 izocab.com
 izogard.com
 jakestrack.com
-jalebel7abeb.com
 jawaratekno.com
 jkshaonv.com
 joyeriatauro.com
@@ -238,7 +228,6 @@ kalyanmatka.world
 kamin-premium.ru
 khoancatbetong89.vn
 kimyen.net
-kka.co.za
 konsor.ru
 kpq.at
 kramersmarionnettes.com
@@ -246,7 +235,6 @@ kuzina-teatr.ru
 landonirwin.com
 la-pan-adventures.com
 launcher1.muonliness6.com
-laundryandtextiles.com
 lindenappliances.co.za
 lindnerelektroanlagen.de
 local-update.com
@@ -258,8 +246,10 @@ mail.cambodiatouristservice.com
 mail.tsrv1.ws
 main.dsn.ovh
 mandarin.net.au
+marsalek.cy
 masuraturbo.com
 m.bal-stroi.ru
+meeller.com
 merctransfers.gradycares.com
 metrics.gocloudmaps.com
 m-global.hksty.net
@@ -274,7 +264,9 @@ mundocarnes.cl
 muzzumilruheel.com
 ncxps.com
 ndirection.kr
+neccgroup.com
 nelees.com
+news4me.xyz
 node.seedtobig.com
 noithaticon.vn
 nstools.tsrv1.ws
@@ -285,6 +277,7 @@ ojang.pe.kr
 okhan.net
 oknoplastik.sk
 onfiltre.com.tr
+onlineappdownload.507.net.cn
 online-gebuehrenzaehler.de
 onlinetanecni.cz
 onyxarmorcrypt.de
@@ -306,8 +299,6 @@ onyxsentinelx.de
 onyxshieldcore.de
 onyxstealthnet.de
 openaigrok.com
-optrn.com
-oracle.cloudkanahost.biz.id
 osamasabir.com
 owlcity.ru
 p3.zbjimg.com
@@ -324,8 +315,8 @@ pns.org.pk
 pobedastaff.ru
 polonyauniversiteleri.com.tr
 posts-luxs.com
-potential-memory.cc
 prntsrcn.com
+proestimating.us
 proship.ae
 proxy.zhalenmsl.biz.id
 public.demo.securecloudsandbox.com
@@ -340,7 +331,6 @@ ramirex.ro
 ransokk.de
 rdm.91yunma.cn
 reauthenticator.com
-receiver.cy
 records.dennisign.se
 redlk.com
 refrigeracion.delmondexpress.com
@@ -368,6 +358,7 @@ sg123.net
 shaderm.com
 shop.mediasova.ru
 shqdown.ggzuhao.com
+sifi.co.in
 simbhaolisugars.in
 skanswers.com
 sk-comtel.com
@@ -376,7 +367,6 @@ smtp.tsrv1.ws
 soft.110route.com
 softcatalog.ru
 solutelco.com
-spoar.org.in
 spst.hqup.in
 src1.minibai.com
 static.ilclock.com
@@ -384,12 +374,15 @@ static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
 steam66.cn
+step-ksa.org
 stltpweavzg.tsrv1.ws
+stonecradle.com
 supercleanspb.ru
 support.clz.kr
 support.tsrv1.ws
 support.viewpoint.fr
 svirtual.sanviatorperu.edu.pe
+swiftfusion.tech
 tajalrayhan.com
 talentrecruitments.com
 tanscarattorneys.co.tz
@@ -401,7 +394,6 @@ tehnomag.rs
 telegramcn.co
 temirtau-adm.ru
 tengfeidn.cn
-teslasuit.to
 tesllamacapp.com
 test.peperoncinochepassione.it
 tests.yjzj.org
@@ -436,6 +428,7 @@ visam.info
 visualwikicloud.com
 vizyonuniversitesi.com.tr
 warkopshopfb138.cc
+wearjora.com
 website.mypetapp.co.za
 windomstatetheater.com
 wittenhorst.eu
@@ -445,10 +438,10 @@ www.ardguisser.com
 www.astenterprises.com.pk
 www.automobile-bk.de
 www.backupallfresh2030.com
+www.benshamcentre.co.uk
 www.blackhattoolz.com
 www.bratusferramentas.grupomoltz.com.br
 www.cambodiatouristservice.com
-www.cippe.com.cn
 www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
@@ -463,8 +456,10 @@ www.jozefinskiatelje.si
 www.konsor.ru
 www.koukaki.moonwp.fr
 www.luuk-lifestyle.eu
+www.marketing.bebe9mayotte.com
 www.medises.co.kr
 www.messias.org.br
+www.mevetlab.cl
 www.mixturro.com
 www.mobimpex.ro
 www.myvcart.com
@@ -492,7 +487,6 @@ www.udobrit.ru
 www.universalgroup.com.vc
 www.uralmetalloprokat.ru
 www.usaayurveda.com
-www.valfanto.com
 www.vexium.vip
 www.vuelaviajero.com
 www.websitedesigningindia.biz
@@ -520,3 +514,4 @@ zapchast-gazkotel.ru
 zenglobalenerji.com
 zhigao5191.com
 zycdjz.com
+zyhunkenya.co.ke

@@ -1,4 +1,4 @@
-# Generated at 2026-01-15 08:01:05 UTC
+# Generated at 2026-01-16 08:01:06 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -14723,13 +14723,33 @@ froglytics.eventfrog.ch
 frogsfinds.com
 frog.yuanfudao.com
 fromhttptohttps.atea.fi
+frontier100-normal-alisg.tiktokv.com
+frontier100-normal-useast1a.tiktokv.com
+frontier16-normal-no1a.tiktokv.eu
+frontier16-normal-no1a.tiktokv.eu.edgesuite.net
+frontier16-normal-useastred.tiktokv.eu
+frontier16-normal-useastred.tiktokv.eu.edgesuite.net
+frontier23-normal-alisg.tiktokv.com
+frontier23-normal-alisg.tiktokv.com.bpgslb.com
+frontier23-normal-useast1a.tiktokv.com
 frontier.byteoversea.com
 frontier.capcutw.us
 frontier.capcutw.us.edgesuite.net
 frontierconsul02.tsunagaru-office.com
+frontier-i18n.tiktokv.com
 frontiermetal.actonservice.com
+frontier-my2.tiktokv.com
+frontier-ru.tiktokv.com
+frontier-ru.tiktokv.com.edgekey.net
 frontier.tiktokv.com
+frontier.tiktokv-eu.com
+frontier.tiktokv-eu.com.edgesuite.net
+frontier.tiktokv-eu.com.ttdns3.com
 frontier.tiktokv.us
+frontier.tiktokv.us.edgesuite.net
+frontier-ttp2.tiktokv.us
+frontier-ttp2.tiktokv.us.edgesuite.net
+frontier-va.tiktokv.com
 fronttoad.com
 frostnsullivan.advancedtech.com
 frostpocket.com
@@ -25399,6 +25419,8 @@ mssdk32-normal-sg.capcutapi.com
 mssdk32-normal-zr-alisg.tiktokv.com
 mssdk32-normal-zr-useast1a.tiktokv.com
 mssdk-boot.capcutapi.com
+mssdk-boot.tiktokv.com
+mssdk-boot.tiktokv.com.edgekey.net
 mssdk-bu.snssdk.com
 mssdk.capcutapi.us
 mssdk-i18n.tiktok.com
