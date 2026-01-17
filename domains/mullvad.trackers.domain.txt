@@ -1,4 +1,4 @@
-# Generated at 2026-01-16 08:01:06 UTC
+# Generated at 2026-01-17 08:00:44 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -5338,6 +5338,7 @@ analytics.amakings.com
 analytics.americanfunds.com
 analytics.amig.com
 analytics.andrewsmith.com.au
+analytics.animexx.de
 analytics-api.gemcommerce.com
 analytics.api.justeattakeaway.com
 analytics-api.klickly.com
@@ -5887,6 +5888,7 @@ analytics.verizon.com
 analytics.verizonwireless.com
 analytics.vgtimes.com
 analytics.villagehouse.jp
+analytics.vinovo.si
 analytics.virginaustralia.com
 analytics.virginmobileusa.com
 analytics.visible.com
@@ -9512,6 +9514,7 @@ cnpxwl.cheapcaribbean.com
 cnsecurity.actonservice.com
 cns-service.actonservice.com
 cnstats.cdev.eu
+cnstrc.com
 cnt.3dmy.net
 cntccc.publicrec.com
 cnt.hd21.com
@@ -11416,6 +11419,7 @@ dcclaa.meine-familie-und-ich.de
 dcclaa.slowlyveggie.de
 dc.di.atlas.samsung.com
 dc.dqa.samsung.com
+dc.heytapmobile.com
 dcinfos-cache.abtasty.com
 dcintl.push.heytapmobi.com
 dc.kfz-steuercheck.de
@@ -13655,6 +13659,7 @@ estadonline.publiguias.cl
 estore.biscoind.com
 eswpwi.xlmoto.pl
 e.synchronybank.com
+eta.animenewsnetwork.com
 et-ad-lgsmartad-com.aws-prd.net
 etc.lxhausys.com
 et.educationdynamics.com
@@ -16658,6 +16663,7 @@ iazwzp.lyst.com
 ibamolecular.actonservice.com
 ibbmfq.decameron.com
 ibbmly.moneymetals.com
+ibclick.stream
 ibf.smrtp.link
 ibkups.rci.com
 i.blinds.ca
@@ -26204,13 +26210,11 @@ obus-dctech-cn.heytapmobi.com
 obus-dctech-in.heytapmobile.com
 obus-dctech-sg.heytapmobile.com
 obus-dc-us.heytapmobile.com
-obus-in.dc.heytapmobile.com
 obus-jssdk-cn.heytapmobi.com
 obus-jssdk-fr.heytapmobile.com
 obus-jssdk-in.heytapmobile.com
 obus-jssdk-sg.heytapmobile.com
 obus-jssdk-us.heytapmobile.com
-obus-sg.dc.heytapmobile.com
 oca.microsoft.com
 o.carmax.com
 o.catalyst.com.sa
@@ -31090,6 +31094,7 @@ sharedev.passportpower.app
 share-dev.perchwell.com
 shared.jodel.com
 share.drinki.com
+sharedswap.com
 share.dunzo.in
 share.dusk.app
 share.eleph.app
@@ -31192,6 +31197,7 @@ shgcdn3.com
 shhoix0fuonj0hz6.net.fidor.de
 shinypond.com
 shipsmarter.idrivelogistics.com
+shirtseasons.com
 shirtsidewalk.com
 shiveringspot.com
 shiverscissors.com
@@ -31380,6 +31386,7 @@ skosgrill.openapp.link
 sk-sanasport.m-shop.me
 sk-topgal.m-shop.me
 skullmagnets.com
+skullteeth.com
 skxbbj.clasic.jp
 skylightdata.com
 slackb.com
@@ -35077,6 +35084,7 @@ sqtivj.vidaxl.hr
 sq-tungsten-ts.amazon-adsystem.com
 sq-tungsten-ts-eu.amazon-adsystem.com
 sq-tungsten-ts-fe.amazon-adsystem.com
+squadtee.net
 squalidscrew.com
 squarecamel.com
 squeakzinc.com
