@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-01-17 08:00:44 UTC
+! Generated at 2026-01-18 08:00:51 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -22937,28 +22937,50 @@
 ||mckiey.thun.com^
 ||m.communications.ihmvcu.org^
 ||mcs16-normal-no1a.tiktokw.eu^
+||mcs16-normal-no1a.tiktokw.eu.edgesuite.net^
 ||mcs16-normal-useastred.tiktokw.eu^
+||mcs16-normal-useastred.tiktokw.eu.edgesuite.net^
 ||mcs16-normal-us-ttp.capcutapi.us^
 ||mcs16-normal-ycru.tiktok.com^
 ||mcs.capcutapi.us^
 ||mcs-i18n.tiktok.com^
+||mcs-i18n.tiktok.com.edgekey.net^
 ||mcs-ie2.tiktokw.eu^
+||mcs-ie2.tiktokw.eu.edgesuite.net^
+||mcs-ie2.tiktokw.eu.ttdns3.com^
 ||mcs-ie.tiktokw.eu^
+||mcs-ie.tiktokw.eu.ttdns3.com^
 ||mcs-normal-sg.capcutapi.com^
 ||mcs-sg.tiktok.com^
+||mcs-sg.tiktok.com.edgekey.net^
+||mcs-sg.tiktok.com.ttdns2.com^
 ||mcs-sg.tiktokv.com^
+||mcs-sg.tiktokv.com.edgekey.net^
 ||mcs.snssdk.com^
 ||mcs-tiktok.byteoversea.net^
+||mcs.tiktok-row.net^
 ||mcs.tiktokv.us^
+||mcs.tiktokv.us.edgesuite.net^
 ||mcs.tiktokw.us^
+||mcs.tiktokw.us.edgesuite.net^
 ||mcs-ttp2.tiktokv.us^
+||mcs-ttp2.tiktokv.us.edgesuite.net^
 ||mcs-ttp2.us.tiktok.com^
+||mcs-ttp2.us.tiktok.com.edgesuite.net^
 ||mcs.us.tiktok.com^
+||mcs.us.tiktok.com.edgesuite.net^
 ||mcs.us.tiktokv.com^
+||mcs.us.tiktokv.com.edgesuite.net^
 ||mcs-v2-boot.capcutapi.com^
 ||mcs-va.tiktok.com^
+||mcs-va.tiktok.com.edgekey.net^
+||mcs-va.tiktok.com.ttdns2.com^
 ||mcs-va.tiktokv.com^
+||mcs-va.tiktokv.com.edgekey.net^
+||mcs-va.tiktokv.com.ttdns2.com^
 ||mcs-va-useast2a.tiktokv.com^
+||mcs-va-useast2a.tiktokv.com.edgekey.net^
+||mcs-va-useast2a.tiktokv.com.ttdns2.com^
 ||mcs.zijieapi.com^
 ||mcw.actonservice.com^
 ||mc.webvisor.com^
