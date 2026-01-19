@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-01-18 08:00:18 UTC
+! Generated at 2026-01-19 08:00:16 UTC
 ! 
 ! Sources: https://urlhaus.abuse.ch/downloads/hostfile
 ! 
@@ -34,15 +34,13 @@
 ||adobehelp.net^
 ||adver.com.br^
 ||advustech.com^
-||agent188menyala.shop^
+||aerconditionat-arges.ro^
 ||agent188portal.live^
 ||agentportal188.work^
-||ahnbbd.com^
 ||alarmline.com.br^
 ||alineeleuterio.com.br^
 ||allendostmen.com^
 ||allister.ee^
-||altamoorgoods.com^
 ||antvietnam.com^
 ||app.appzcvb.com^
 ||apple-service93.ru^
@@ -51,7 +49,6 @@
 ||artacom.com.br^
 ||artscreenstudio.ru^
 ||asdad.florpeter.xyz^
-||asdetinweb.xyz^
 ||asl-company.ru^
 ||at0micwallets.com^
 ||atasapka.com.tr^
@@ -66,6 +63,7 @@
 ||bfacollege.co.in^
 ||blaiz.me^
 ||blessdayservices.org^
+||blit.co.za^
 ||blogs.sokun.jp^
 ||blog.tsrv1.ws^
 ||bmdcompany.com^
@@ -92,12 +90,12 @@
 ||chinaapper.com^
 ||chiptune.com^
 ||chromium.report.tech.b55081fa-9cd1-48c2-95d4-efe.crashnotify.org^
+||chuguadventures.co.tz^
 ||classroomseven.com^
 ||clipaid.app^
 ||clisi.digifors.de^
 ||cloudstay168.com^
 ||clubdetiroelpicarcho.com^
-||clystracapfin.com^
 ||cmp5itpp9h30577inogg.tsrv1.ws^
 ||coach.028csc.com^
 ||co-emas.com^
@@ -106,10 +104,9 @@
 ||computersupportexperts.com^
 ||connects-magiceden.io^
 ||continentalgroup.net.in^
-||copresco.com^
 ||corelis.ro^
-||coreylinkservices.com^
 ||cpanel.tsrv1.ws^
+||cpc188.day^
 ||crystalpvp.ru^
 ||csg-app.com^
 ||ct3-24.ru^
@@ -130,7 +127,6 @@
 ||dezcom.com^
 ||dfmtjmptskr.tsrv1.ws^
 ||dhnconstrucciones.com.ar^
-||dialkwik.in^
 ||disk.accord1key.cn^
 ||divvanews.com^
 ||dl.1003b.56a.com^
@@ -139,8 +135,6 @@
 ||dl.dzqzd.com^
 ||dl.natgo.cn^
 ||dl.packetstormsecurity.net^
-||dm.pminer.top^
-||docsmoonstudioclayworks.site^
 ||docs.tsrv1.ws^
 ||donkeytourscroatia.com^
 ||down.54nb.com^
@@ -190,8 +184,8 @@
 ||galerisenimutiara.com^
 ||glaustralia.com^
 ||globaltechbilling.com^
+||gobiotechpestcontrol.com^
 ||goboadvertising.autodealertech.co^
-||googletagamnager.com^
 ||gordon-and-son.com^
 ||grikom.info^
 ||gutando.com^
@@ -203,6 +197,7 @@
 ||hi.admini.website^
 ||hitman-pro.ru^
 ||hitstation.nl^
+||hobobot.net^
 ||hotellacastellana.com.uy^
 ||hqweb.id.vn^
 ||hseda.com^
@@ -215,6 +210,7 @@
 ||injectroblox.ru^
 ||innaflux.com^
 ||inomailerhe.net^
+||interdashboard.mom^
 ||invoice-simplee.com^
 ||ircftp.net^
 ||isiore.com.co^
@@ -223,15 +219,12 @@
 ||izocab.com^
 ||izogard.com^
 ||jakestrack.com^
-||jawaratekno.com^
 ||jlwz.cn^
 ||joyeriatauro.com^
 ||js.byxly.vip^
 ||jxhuyhoang.com^
 ||jyothishmathi.in^
-||kalyanmatka.world^
 ||kamin-premium.ru^
-||kavacanada.ca^
 ||khoancatbetong89.vn^
 ||kimyen.net^
 ||kms.com.bd^
@@ -264,7 +257,6 @@
 ||mobshah.com^
 ||modulowinapp.com^
 ||mogimall.com^
-||muller.help^
 ||mundocarnes.cl^
 ||muzzumilruheel.com^
 ||ncxps.com^
@@ -281,6 +273,7 @@
 ||oelgaard.dk^
 ||ojang.pe.kr^
 ||okhan.net^
+||oknoplastik.sk^
 ||onfiltre.com.tr^
 ||onlineappdownload.507.net.cn^
 ||online-gebuehrenzaehler.de^
@@ -305,6 +298,7 @@
 ||onyxstealthnet.de^
 ||openaigrok.com^
 ||osamasabir.com^
+||osn.lunxe.live^
 ||owlcity.ru^
 ||p3.zbjimg.com^
 ||palharesinformatica.com.br^
@@ -312,11 +306,7 @@
 ||pay.aqiu6.com^
 ||pcupd.com^
 ||pegasustour.ru^
-||pid.fly160.com^
 ||planetariumobil.ro^
-||play-apps.ads-analitics-cdn.digital^
-||play-apps.cdnreversconnect.world^
-||play-apps.mx-maps.digital^
 ||pns.org.pk^
 ||pobedastaff.ru^
 ||polonyauniversiteleri.com.tr^
@@ -341,13 +331,12 @@
 ||reifenquick.de^
 ||resourceedge.org^
 ||reusable-flex.com^
-||rheddh.com^
 ||riderspin.com^
 ||robertrowe.com^
-||rosewoodlaminates.com^
 ||royalindiancurryclub.com^
 ||rxquickpay.com^
 ||sabungkingbet189.com^
+||samuelramachandran.com^
 ||sancaktepekombiservis.com^
 ||save.jnrsmcu.com^
 ||scainseto.com.br^
@@ -358,15 +347,15 @@
 ||sec.xiaoshabi.nl^
 ||sfa.com.ar^
 ||sg123.net^
-||shaderm.com^
 ||shop.mediasova.ru^
+||shqdown.ggzuhao.com^
 ||simbhaolisugars.in^
+||skanswers.com^
 ||sk-comtel.com^
 ||skillnorequired.cc^
 ||smtp.tsrv1.ws^
 ||soft.110route.com^
 ||softcatalog.ru^
-||softwarez.site^
 ||solutelco.com^
 ||spoar.org.in^
 ||spst.hqup.in^
@@ -384,14 +373,12 @@
 ||support.tsrv1.ws^
 ||support.viewpoint.fr^
 ||svirtual.sanviatorperu.edu.pe^
-||swiftfusion.tech^
 ||tajalrayhan.com^
 ||talentrecruitments.com^
 ||tanscarattorneys.co.tz^
 ||tapestryoftruth.com^
 ||teacoffeepremix.in^
 ||techauto.net^
-||techhkonnectt.top^
 ||tecunonline.com^
 ||tehnomag.rs^
 ||telegramcn.co^
@@ -422,7 +409,6 @@
 ||uploadtree.com^
 ||upsinfo2025.com^
 ||vagler.ru^
-||vcc-library.uk^
 ||versaclean.com.br^
 ||veryboys.com^
 ||vgd.vg^
@@ -432,13 +418,9 @@
 ||vizyonuniversitesi.com.tr^
 ||waatheqinv.com^
 ||warkopshopfb138.cc^
-||web04zoom.im.web04zoom.us^
 ||website.mypetapp.co.za^
-||weendugroup.com^
 ||windomstatetheater.com^
 ||wittenhorst.eu^
-||wok.gooning.su^
-||wwtalk.cyou^
 ||www.ardguisser.com^
 ||www.astenterprises.com.pk^
 ||www.automobile-bk.de^
@@ -461,6 +443,7 @@
 ||www.longfeng188.com^
 ||www.luuk-lifestyle.eu^
 ||www.medises.co.kr^
+||www.messias.org.br^
 ||www.mixturro.com^
 ||www.mobimpex.ro^
 ||www.myvcart.com^
@@ -471,7 +454,7 @@
 ||www.okhan.net^
 ||www.opolis.io^
 ||www.playtown.co.za^
-||www.r57shell.net^
+||www.rbcfort.com^
 ||www.reifenquick.de^
 ||www.saf-oil.ru^
 ||www.salonmarketing.ca^
