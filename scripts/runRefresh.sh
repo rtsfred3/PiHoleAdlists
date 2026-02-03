@@ -214,8 +214,8 @@ logMessage "Pushing to GitHub"
 git add .
 git commit -m "Updated Adlists @ $DATE"
 git tag "$DATE"
-# git push
-# git push origin "$DATE"
+git push
+git push origin "$DATE"
 
 logMessage "Pushed to GitHub"
 
