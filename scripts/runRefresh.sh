@@ -99,41 +99,41 @@ git pull
 logMessage "Pulled Latest from Git"
 logMessage "Cleaning Up Previous Run"
 
-# if [ -d "$ADBLOCK_DIR" ]; then
-#     rm $ADBLOCK_DIR/*
-# fi
+if [ -d "$ADBLOCK_DIR" ]; then
+    rm $ADBLOCK_DIR/*
+fi
 
-# if [ ! -d "$ADBLOCK_DIR" ]; then
-#     mkdir $ADBLOCK_DIR
-# fi
+if [ ! -d "$ADBLOCK_DIR" ]; then
+    mkdir $ADBLOCK_DIR
+fi
 
-# if [ -d "$ADBLOCK_DIR" ]; then
-#     rm $ADBLOCK_DIR/*.gz
-# fi
+if [ -d "$ADBLOCK_DIR" ]; then
+    rm $ADBLOCK_DIR/*.gz
+fi
 
-# if [ -d "$DOMAINS_DIR" ]; then
-# 	rm "$DOMAINS_DIR/*"
-# fi
+if [ -d "$DOMAINS_DIR" ]; then
+	rm "$DOMAINS_DIR/*"
+fi
 
-# if [ ! -d "$DOMAINS_DIR" ]; then
-#     mkdir $DOMAINS_DIR
-# fi
+if [ ! -d "$DOMAINS_DIR" ]; then
+    mkdir $DOMAINS_DIR
+fi
 
-# if [ -d "$DOMAINS_DIR" ]; then
-# 	rm "$DOMAINS_DIR/*.gz"
-# fi
+if [ -d "$DOMAINS_DIR" ]; then
+	rm "$DOMAINS_DIR/*.gz"
+fi
 
-# if [ -d "$UNBOUND_DIR" ]; then
-# 	rm "$UNBOUND_DIR/*"
-# fi
+if [ -d "$UNBOUND_DIR" ]; then
+	rm "$UNBOUND_DIR/*"
+fi
 
-# if [ ! -d "$UNBOUND_DIR" ]; then
-#     mkdir $UNBOUND_DIR
-# fi
+if [ ! -d "$UNBOUND_DIR" ]; then
+    mkdir $UNBOUND_DIR
+fi
 
-# if [ -d "$UNBOUND_DIR" ]; then
-# 	rm "$UNBOUND_DIR/*.gz"
-# fi
+if [ -d "$UNBOUND_DIR" ]; then
+	rm "$UNBOUND_DIR/*.gz"
+fi
 
 logMessage "Cleaned Up Previous Run"
 logMessage "Pulling Latest Blocklists"
@@ -171,10 +171,13 @@ for FILE in ${TXT_FILES[@]}; do
 done
 
 logMessage "Copied to $DOMAINS_DIR"
+logMessage "Compressing Files"
 
 gzip -k -9 -f $ADBLOCK_DIR/*.txt
 gzip -k -9 -f $DOMAINS_DIR/*.txt
 gzip -k -9 -f $UNBOUND_DIR/*.conf
+
+logMessage "Compressed Files"
 
 ls -1 $ADBLOCK_DIR/ | wc -l
 ls -1 $DOMAINS_DIR/ | wc -l
