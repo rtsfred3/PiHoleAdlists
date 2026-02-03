@@ -12,13 +12,28 @@ EMAIL="$2"
 API_KEY="$3"
 DATE=$(date -u +'%Y%m%d.%H%M00')
 
+currDate() {
+    date -u +'%Y-%m-%d %H:%M:%S%3'
+    return 0
+}
+
+logMessage() {
+    local message=$1
+    echo "$(currDate) | $message"
+    return 0
+}
+
 copyToDomainFormat() {
     OLD_FILE=$1
     NEW_FILE=$(echo "$OLD_FILE" | sed -E 's/adblock\.txt/domain\.txt/g')
 
     if [ -f "$ADBLOCK_DIR/$OLD_FILE" ]; then
+        logMessage "Creating $NEW_FILE"
+
         NEW_BODY=$(cat $ADBLOCK_DIR/$OLD_FILE | sed '/^# /d; /^\[/d; /^$/d' | sed -E 's/!/#/g' | sed -E 's/^\|\|//g' | sed -E 's/\^//g') # | sort -u)
         echo "$NEW_BODY" > $DOMAINS_DIR/$NEW_FILE
+        
+        logMessage "Created $NEW_FILE"
     fi
 }
 
@@ -27,9 +42,13 @@ copyToUnboundFormat() {
     NEW_FILE=$(echo "$OLD_FILE" | sed -E 's/domain\.txt/unbound\.conf/g')
 
     if [ -f "$DOMAINS_DIR/$OLD_FILE" ]; then
+        logMessage "Creating $NEW_FILE"
+
         cat $DOMAINS_DIR/$OLD_FILE | grep '^#' > $UNBOUND_DIR/$NEW_FILE;
         echo "server:" >> $UNBOUND_DIR/$NEW_FILE;
         cat $DOMAINS_DIR/$OLD_FILE | grep '^[^#]' | sed -E 's/^([^#].*)/    local-zone: "\1." always_null/g' >> $UNBOUND_DIR/$NEW_FILE;
+
+        logMessage "Created $NEW_FILE"
     fi
 }
 
@@ -70,46 +89,54 @@ uploadToBunnyCDN() {
     echo "Uploaded to BunnyCDN"
 }
 
+logMessage "Pulling Latest from Git"
+
 git config user.name "$USERNAME"
 git config user.email "$EMAIL"
 
 git pull
 
-if [ -d "$ADBLOCK_DIR" ]; then
-    rm $ADBLOCK_DIR/*
-fi
+logMessage "Pulled Latest from Git"
+logMessage "Cleaning Up Previous Run"
 
-if [ ! -d "$ADBLOCK_DIR" ]; then
-    mkdir $ADBLOCK_DIR
-fi
+# if [ -d "$ADBLOCK_DIR" ]; then
+#     rm $ADBLOCK_DIR/*
+# fi
 
-if [ -d "$ADBLOCK_DIR" ]; then
-    rm $ADBLOCK_DIR/*.gz
-fi
+# if [ ! -d "$ADBLOCK_DIR" ]; then
+#     mkdir $ADBLOCK_DIR
+# fi
 
-if [ -d "$DOMAINS_DIR" ]; then
-	rm "$DOMAINS_DIR/*"
-fi
+# if [ -d "$ADBLOCK_DIR" ]; then
+#     rm $ADBLOCK_DIR/*.gz
+# fi
 
-if [ ! -d "$DOMAINS_DIR" ]; then
-    mkdir $DOMAINS_DIR
-fi
+# if [ -d "$DOMAINS_DIR" ]; then
+# 	rm "$DOMAINS_DIR/*"
+# fi
 
-if [ -d "$DOMAINS_DIR" ]; then
-	rm "$DOMAINS_DIR/*.gz"
-fi
+# if [ ! -d "$DOMAINS_DIR" ]; then
+#     mkdir $DOMAINS_DIR
+# fi
 
-if [ -d "$UNBOUND_DIR" ]; then
-	rm "$UNBOUND_DIR/*"
-fi
+# if [ -d "$DOMAINS_DIR" ]; then
+# 	rm "$DOMAINS_DIR/*.gz"
+# fi
 
-if [ ! -d "$UNBOUND_DIR" ]; then
-    mkdir $UNBOUND_DIR
-fi
+# if [ -d "$UNBOUND_DIR" ]; then
+# 	rm "$UNBOUND_DIR/*"
+# fi
 
-if [ -d "$UNBOUND_DIR" ]; then
-	rm "$UNBOUND_DIR/*.gz"
-fi
+# if [ ! -d "$UNBOUND_DIR" ]; then
+#     mkdir $UNBOUND_DIR
+# fi
+
+# if [ -d "$UNBOUND_DIR" ]; then
+# 	rm "$UNBOUND_DIR/*.gz"
+# fi
+
+logMessage "Cleaned Up Previous Run"
+logMessage "Pulling Latest Blocklists"
 
 bash scripts/generateHostToAdblockPro.sh urlhaus.hostfile.adblock.txt https://urlhaus.abuse.ch/downloads/hostfile
 bash scripts/generateHostToAdblockPro.sh frellwits.swedish.adblock.txt https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
@@ -121,15 +148,19 @@ bash scripts/generateAdblockProCombined.sh mullvad.malware.adblock.txt https://g
 bash scripts/generateAdblockProCombined.sh mullvad.trackers.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/mullvad.trackers.abp
 bash scripts/generateAdblockProCombined.sh advertising.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/advertising.abp
 bash scripts/generateAdblockProCombined.sh adlist.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/adlist.abp
-# bash scripts/generateAdblockProCombined.sh nrd14.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd14.abp
-# bash scripts/generateAdblockProCombined.sh nrd28.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd28.abp
+bash scripts/generateAdblockProCombined.sh nrd14.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd14.abp
+bash scripts/generateAdblockProCombined.sh nrd28.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd28.abp
 # bash scripts/generateAdblockProCombined.sh nrd30.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd30.abp
 
+logMessage "Generating Mullvard Blocklists"
 bash scripts/generateMullvardAdvertising.sh
+logMessage "Generated Mullvard Blocklists"
 
-echo "Copy to $DOMAINS_DIR"
+logMessage "Pulled Latest Blocklists"
 
-TXT_FILES=(mullvad.advertising.adblock.txt mullvad.malware.adblock.txt mullvad.trackers.adblock.txt ph00lt0.blocklist.adblock.txt urlhaus.hostfile.adblock.txt nrd14.txt nrd28.txt)
+logMessage "Copy to $DOMAINS_DIR"
+
+TXT_FILES=(mullvad.advertising.adblock.txt mullvad.malware.adblock.txt mullvad.trackers.adblock.txt ph00lt0.blocklist.adblock.txt urlhaus.hostfile.adblock.txt nrd14.adblock.txt nrd28.adblock.txt)
 
 for FILE in ${TXT_FILES[@]}; do
     copyToDomainFormat $FILE
@@ -139,7 +170,7 @@ for FILE in ${TXT_FILES[@]}; do
     fi
 done
 
-echo "Copied to $DOMAINS_DIR"
+logMessage "Copied to $DOMAINS_DIR"
 
 gzip -k -9 -f $ADBLOCK_DIR/*.txt
 gzip -k -9 -f $DOMAINS_DIR/*.txt
@@ -161,23 +192,28 @@ ls -1 $UNBOUND_DIR/ | wc -l
 # uploadFileToBunnyCDN nrd28.txt $DOMAINS_DIR $BUNNYCDN_DOMAIN_DIR
 # uploadFileToBunnyCDN nrd28.txt.gz $DOMAINS_DIR $BUNNYCDN_DOMAIN_DIR
 
-echo "Updated Files"
+logMessage "Updated Files"
 
 # uploadToBunnyCDN
 
+logMessage "Updating Markdown"
 bash scripts/generateCDNMarkdown.sh
+logMessage "Updated Markdown"
 
+logMessage "Removing Large Files"
 rm $(find abp -type f -size +50M)
 rm $(find domains -type f -size +50M)
+rm $(find unbound -type f -size +50M)
+logMessage "Removed Large Files"
 
-echo "Pushing to GitHub"
+logMessage "Pushing to GitHub"
 
 git add .
 git commit -m "Updated Adlists @ $DATE"
 git tag "$DATE"
-git push
-git push origin "$DATE"
+# git push
+# git push origin "$DATE"
 
-echo "Pushed to GitHub"
+logMessage "Pushed to GitHub"
 
-uploadToBunnyCDN
+# uploadToBunnyCDN
