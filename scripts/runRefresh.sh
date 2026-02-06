@@ -153,8 +153,8 @@ bash scripts/generateAdblockProCombined.sh mullvad.malware.adblock.txt https://g
 bash scripts/generateAdblockProCombined.sh mullvad.trackers.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/mullvad.trackers.abp
 bash scripts/generateAdblockProCombined.sh advertising.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/advertising.abp
 bash scripts/generateAdblockProCombined.sh adlist.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/adlist.abp
-bash scripts/generateAdblockProCombined.sh nrd14.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd14.abp
-bash scripts/generateAdblockProCombined.sh nrd28.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd28.abp
+# bash scripts/generateAdblockProCombined.sh nrd14.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd14.abp
+# bash scripts/generateAdblockProCombined.sh nrd28.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd28.abp
 # bash scripts/generateAdblockProCombined.sh nrd30.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd30.abp
 
 logMessage "Generating Mullvard Blocklists"
@@ -209,9 +209,9 @@ bash scripts/generateCDNMarkdown.sh
 logMessage "Updated Markdown"
 
 logMessage "Removing Large Files"
-rm $(find abp -type f -size +50M)
-rm $(find domains -type f -size +50M)
-rm $(find unbound -type f -size +50M)
+rm $(find abp -type f -size +40M)
+rm $(find domains -type f -size +40M)
+rm $(find unbound -type f -size +40M)
 logMessage "Removed Large Files"
 
 logMessage "Pushing to GitHub"
@@ -219,8 +219,8 @@ logMessage "Pushing to GitHub"
 git add .
 git commit -m "Updated Adlists @ $DATE"
 git tag "$DATE"
-# git push
-# git push origin "$DATE"
+git push
+git push origin "$DATE"
 
 logMessage "Pushed to GitHub"
 
