@@ -12,6 +12,11 @@ EMAIL="$2"
 API_KEY="$3"
 DATE=$(date -u +'%Y%m%d.%H%M00')
 
+if ! ping -c 1 -W 20 8.8.8.8 &> /dev/null; then
+    echo "Error: No internet connection. Exiting script." >&2
+    exit 1
+fi
+
 currDate() {
     date -u +'%Y-%m-%d %H:%M:%S%3'
     return 0
@@ -214,8 +219,8 @@ logMessage "Pushing to GitHub"
 git add .
 git commit -m "Updated Adlists @ $DATE"
 git tag "$DATE"
-git push
-git push origin "$DATE"
+# git push
+# git push origin "$DATE"
 
 logMessage "Pushed to GitHub"
 
