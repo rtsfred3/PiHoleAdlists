@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-02-06 14:54:01 UTC
+! Generated at 2026-02-08 12:42:48 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -148,7 +148,6 @@
 ||ad.intl.xiaomi.com.ksyna.net^
 ||ad.lgsmartad.com^
 ||ad.mi.com^
-||admin-advertising.roku.com^
 ||ad.msn.com^
 ||ad.prod.rpay.int.roku.com^
 ||ad.quickapp.hybrid.xiaomi.com^
@@ -305,6 +304,7 @@
 ||analytics-exp-i18n.tiktok.com^
 ||analytics-exp-ru.tiktok.com^
 ||analytics-exp-sg.tiktok.com^
+||analytics-exp-ttp2.tiktokw.eu^
 ||analytics-exp.us.tiktok.com^
 ||analytics.ff.avast.sec.miui.com^
 ||analytics-i18n.tiktok.com^
@@ -569,7 +569,6 @@
 ||bugs.firebat.prime-video.amazon.dev^
 ||bugsnag.appstore.a2z.com^
 ||bugsnag-event.monitor.core.app.alexa.a2z.com^
-||bugsnag-session.monitor.core.app.alexa.a2z.com^
 ||bugsnag.shopbop.amazon.dev^
 ||business-api.tiktok.com^
 ||business.samsungusa.com^
@@ -1574,6 +1573,7 @@
 ||maws-aax-apse-rtb.amazon-adsystem.com^
 ||maws-aax-eu-rtb-adx.amazon-adsystem.com^
 ||maws-aax-eu-rtb.amazon-adsystem.com^
+||maws-aax-fe.amazon-adsystem.com^
 ||maws-aax-fe-sin.amazon-adsystem.com^
 ||maws-aax-us-east-rtb-adx.amazon-adsystem.com^
 ||maws-aax-us-east-rtb.amazon-adsystem.com^
@@ -2614,6 +2614,7 @@
 ||storedl4f.nearme.com.cn^
 ||storedl5f.nearme.com.cn^
 ||streamback.ff.avast.sec.miui.com^
+||stream.snssdk.com^
 ||stsdk.vivoglobal.com^
 ||supportmetrics.apple.com^
 ||supportmetrics.v.aaplimg.com^
@@ -2864,6 +2865,7 @@
 ||vaes-na-preprod.amazon-adsystem.com^
 ||vas-hl-x.snssdk.com^
 ||vc-ad-lgsmartad-com.aws-prd.net^
+||vcl-brain.snssdk.com^
 ||ve-ad-lgsmartad-com.aws-prd.net^
 ||ve.lgsmartad.com^
 ||vfw.amazon-adsystem.com^
@@ -2874,6 +2876,7 @@
 ||vfw-gamma.amazon-adsystem.com^
 ||vfwm.amazon-adsystem.com^
 ||vfwm-us.amazon-adsystem.com^
+||vfwm-us-west.amazon-adsystem.com^
 ||vfws.amazon-adsystem.com^
 ||vfw-us.amazon-adsystem.com^
 ||vfw-us-gamma.amazon-adsystem.com^

@@ -1,4 +1,4 @@
-# Generated at 2026-02-06 14:54:22 UTC
+# Generated at 2026-02-08 12:43:06 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4585,7 +4585,6 @@ admeasure.hh-online.jp
 admetrics.events
 ad.mi.com
 admin.academyforconsciousleadership.net
-admin-advertising.roku.com
 adminer.com
 administrator.pnclassaction.com
 admin.net.fidorbank.uk
@@ -5493,6 +5492,7 @@ analytics.evo.co.uk
 analytics-exp-i18n.tiktok.com
 analytics-exp-ru.tiktok.com
 analytics-exp-sg.tiktok.com
+analytics-exp-ttp2.tiktokw.eu
 analytics-exp.us.tiktok.com
 analytics.faceitanalytics.com
 analytics.faprika.net
@@ -8600,7 +8600,6 @@ bugreport.xiaomi.net
 bugs.firebat.prime-video.amazon.dev
 bugsnag.appstore.a2z.com
 bugsnag-event.monitor.core.app.alexa.a2z.com
-bugsnag-session.monitor.core.app.alexa.a2z.com
 bugsnag.shopbop.amazon.dev
 build.1tap.tax
 build.bildgta.ca
@@ -22930,6 +22929,7 @@ maws-aax-apse-rtb-adx.amazon-adsystem.com
 maws-aax-apse-rtb.amazon-adsystem.com
 maws-aax-eu-rtb-adx.amazon-adsystem.com
 maws-aax-eu-rtb.amazon-adsystem.com
+maws-aax-fe.amazon-adsystem.com
 maws-aax-fe-sin.amazon-adsystem.com
 maws-aax-us-east-rtb-adx.amazon-adsystem.com
 maws-aax-us-east-rtb.amazon-adsystem.com
@@ -37166,6 +37166,7 @@ streamback.ff.avast.sec.miui.com
 stream.corporatefinanceinstitute.com
 stream-log.dditscdn.com
 streams.cablecar.sph.com.sg
+stream.snssdk.com
 streamstats.prd.dlive.tv
 streetsort.com
 stretchsister.com
@@ -42915,6 +42916,7 @@ vbtdzb.fyndiq.se
 vc-ad-lgsmartad-com.aws-prd.net
 v.cameo.com
 vch.voyage-prive.ch
+vcl-brain.snssdk.com
 vcs.kensington.my
 v.ctrl.blog
 vde1.voyage-prive.de
@@ -42985,6 +42987,7 @@ vfw-eu-gamma.amazon-adsystem.com
 vfw-gamma.amazon-adsystem.com
 vfwm.amazon-adsystem.com
 vfwm-us.amazon-adsystem.com
+vfwm-us-west.amazon-adsystem.com
 vfws.amazon-adsystem.com
 vfw-us.amazon-adsystem.com
 vfw-us-gamma.amazon-adsystem.com
