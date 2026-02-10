@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-02-09 08:00:44 UTC
+! Generated at 2026-02-10 08:00:44 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -161,6 +161,7 @@
 ||6519114.mktg.almosafer.com^
 ||6519114.mktg.tajawal.com^
 ||6677648.reddoorz.com^
+||66hao.cc^
 ||66jo.societegenerale.fr^
 ||671c.pandasuite.io^
 ||68-175.net.jumia.co.ke^
@@ -5474,6 +5475,7 @@
 ||analytics.dvidshub.net^
 ||analytics.dv.socure.io^
 ||analytics.edgekey.net^
+||analytics.editorialedomani.it^
 ||analytics.egdata.app^
 ||analytics.egernsund.com^
 ||analytics.egernsund.de^
@@ -9125,6 +9127,7 @@
 ||chivalrouscord.com^
 ||c.hk.msn.com^
 ||ch.lgsmartad.com^
+||chloro.trip.com^
 ||c.holmesmind.com^
 ||chong.sec.miui.com^
 ||choose.adelaide.edu.au^
@@ -11194,6 +11197,7 @@
 ||data.inswa.coca-cola.com^
 ||data.investing.questrade.com^
 ||data.janvanderstorm.de^
+||data.jaytuckwell.com^
 ||data.jerkmate.com^
 ||data.jp-email.princess.com^
 ||data.jp-guest.princess.com^
@@ -14723,6 +14727,7 @@
 ||franksfloral.com^
 ||frankwatching.actonservice.com^
 ||franoppnetwork.actonservice.com^
+||fran.pro^
 ||franticroof.com^
 ||fr-api.xmpush.global.xiaomi.com^
 ||fraudandcyberawareness.safeguard.hsbc.com^
@@ -15383,6 +15388,7 @@
 ||go.4010.ru^
 ||go.4sq.com^
 ||go5.global.toshiba^
+||go.absolventa.de^
 ||go.accredible.com^
 ||goaccredited.actonservice.com^
 ||go.accumaxglobal.com.au^
@@ -15420,6 +15426,7 @@
 ||go.azets.no^
 ||go.azets.se^
 ||goazlf.mytoys.de^
+||go.azubi.de^
 ||go.backtest.io^
 ||go.bandits.com^
 ||go.bayshoresystems.com^
@@ -19361,6 +19368,7 @@
 ||la.idgenterprise.com^
 ||lakerspreferences.gleague.nba.com^
 ||lakerspreferences.nba.com^
+||lakesecure.com^
 ||lameletters.com^
 ||lammico.actonservice.com^
 ||lamplow.com^
@@ -24953,6 +24961,7 @@
 ||metric.worldcat.org^
 ||metric.yardhouse.com^
 ||metrika.kontur.ru^
+||metrik.freitag.de^
 ||metrix.511tactical.com^
 ||metrix.avon.uk.com^
 ||metrix.emagister.com^
@@ -28049,6 +28058,7 @@
 ||promotions.stationcasinos.com^
 ||promotions.thermofisher.com^
 ||promo.tops.co.th^
+||prop.astonvillanews.co.uk^
 ||propay.actonservice.com^
 ||properties.insiterealestate.com^
 ||property.aon.com^
@@ -28495,6 +28505,7 @@
 ||radiateprose.com^
 ||radiometer.actonservice.com^
 ||radio.moodybible.org^
+||radiosfax.com^
 ||rad.live.com^
 ||rad.microsoft.com^
 ||rads.msn.com^
@@ -41927,6 +41938,7 @@
 ||ttfpil.2dehands.be^
 ||t.thalesgroup.com^
 ||t.thefishercenter.com^
+||t.themarketer.com^
 ||t.ticketatlantic.com^
 ||t.ticketleader.ca^
 ||t.ticketstaronline.com^
@@ -42003,6 +42015,7 @@
 ||tw.cx^
 ||twdhec.marioeletro.com^
 ||tweetdeck.net.anwalt.de^
+||twelvedawn.com^
 ||tw-go.experian.com^
 ||t.whartoncenter.com^
 ||twistairclub.net.anwalt.de^
