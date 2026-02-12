@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-02-11 08:00:45 UTC
+! Generated at 2026-02-12 08:00:45 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -10344,6 +10344,7 @@
 ||crashchance.com^
 ||cratecamera.com^
 ||crawford-industries.actonservice.com^
+||crcldu.com^
 ||createdip.com^
 ||create.encoreglobal.com^
 ||create.encore-mx.com^
@@ -11760,7 +11761,6 @@
 ||dhfs-th.oppomobile.com^
 ||dhfs-vn.oppomobile.com^
 ||dhkyrl.discountmags.com^
-||dhlsupplychain.dhl.com^
 ||dhmdja.trueprotein.com.au^
 ||dhplma.pontofrio.com.br^
 ||dhsjpz.bugaboo.com^
@@ -28836,6 +28836,7 @@
 ||request.idangels.org^
 ||request.verisign.com^
 ||rertrc.abc-mart.net^
+||rescueothers.com^
 ||rescuerhino.com^
 ||research.dshb.biology.uiowa.edu^
 ||research.gartner.com^
@@ -30016,6 +30017,7 @@
 ||sandbox-elq.keysight.com^
 ||sandbox.xmpush.xiaomi.com^
 ||sandstrophies.com^
+||sandypocket.com^
 ||sanl.champssports.ca^
 ||sanl.champssports.com^
 ||sanl.eastbay.com^
@@ -42920,6 +42922,7 @@
 ||vapxga.sieh-an.de^
 ||varys.asongofzandc.xyz^
 ||vas-hl-x.snssdk.com^
+||vastmillions.com^
 ||vatrack.hinet.net^
 ||vault.gostatera.com^
 ||vazulp.graniph.com^
@@ -43421,6 +43424,7 @@
 ||wealth.informabi.com^
 ||weare.ballymoregroup.com^
 ||weather-analytics-events.apple.com^
+||weatherbytes.net^
 ||web1.51.la^
 ||web2.perkinelmer.com^
 ||web3.perkinelmer.com^
