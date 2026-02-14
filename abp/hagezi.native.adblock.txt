@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-02-13 08:00:20 UTC
+! Generated at 2026-02-14 08:00:17 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -963,6 +963,7 @@
 ||ex-adreq-in.vivoglobal.com^
 ||excel-telemetry.officeapps.live.com^
 ||excel-telemetry.wac.trafficmanager.net^
+||exo.nel.measure.office.net.sw.buhl-data.com^
 ||experiments.apple.com^
 ||experiments.apple.com.edgekey.net^
 ||ex-romsp-unifyconfig.vivoglobal.com^
@@ -2640,6 +2641,7 @@
 ||tbm.snssdk.com^
 ||tc.lgsmartad.com^
 ||teams-events-data.trafficmanager.net^
+||teams.nel.measure.office.net.sw.buhl-data.com^
 ||telecommandsvc.microsoft.com^
 ||telem-edge.smartscreen.microsoft.com^
 ||telemetrycollector.microsoft.com^
