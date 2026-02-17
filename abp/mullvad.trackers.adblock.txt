@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-02-16 08:00:48 UTC
+! Generated at 2026-02-17 08:00:44 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4166,6 +4166,7 @@
 ||aboardamusement.com^
 ||aboardlevel.com^
 ||ab.oney.es^
+||a.boredpanda.bio^
 ||abo.schibsted.no^
 ||ab.perfumesclub.com^
 ||abpwqf.lolaflora.com.mx^
@@ -10283,6 +10284,7 @@
 ||count.vidsrc.pro^
 ||count.xxxssk.com^
 ||count.yandeg.ru^
+||couponrail.com^
 ||courageousbaby.com^
 ||co-vcode-api.vivoglobal.com^
 ||co-vcode-od.vivoglobal.com^
@@ -10857,6 +10859,7 @@
 ||da.hornbach.se^
 ||da.hornbach.sk^
 ||daifez.thebay.com^
+||dailydomino.com^
 ||dajdnm.splits59.com^
 ||dallas-content.cresa.com^
 ||damagedadvice.com^
@@ -18850,6 +18853,7 @@
 ||jiciqm.antalyahomes.com^
 ||jifflenow.actonservice.com^
 ||jifjai.instamotion.com^
+||jigsawlucky.com^
 ||jiktq0fr9hv6.meleton.ru^
 ||jill.fc.yahoo.com^
 ||jinair.nsc.jinair.com^
@@ -23294,6 +23298,7 @@
 ||meanwellaustralia.actonservice.com^
 ||me.apple-dns.net^
 ||measlymiddle.com^
+||measureadv.com^
 ||measure.ameblo.jp^
 ||measure.office.com^
 ||measure.office.com.akamaized.net^
@@ -26675,6 +26680,7 @@
 ||onenet.gakujutsu.com^
 ||onesourcebackground.actonservice.com^
 ||one-source.tax.thomsonreuters.com^
+||onespecify.com^
 ||onespot-tracking.herokuapp.com^
 ||one-workspace.matrix42.com^
 ||onghfx.revolve.com^
@@ -26804,6 +26810,7 @@
 ||orangefr-test.mno.link^
 ||orbidder.otto.de^
 ||orbis.actonservice.com^
+||orchidgenius.com^
 ||ordbng.extra.com.br^
 ||ordpmx.victorianplumbing.co.uk^
 ||oregonstate.actonservice.com^
@@ -31489,6 +31496,7 @@
 ||ski1.skiset.com^
 ||skilledview.com^
 ||skillfuldrop.com^
+||skillfullyfrugal.com^
 ||skillshouse.actonservice.com^
 ||skillsresults.com^
 ||skincheckwa-app.hotdoc.com.au^
@@ -43033,6 +43041,7 @@
 ||vgo.vegaoo.pt^
 ||vgrbvi.atncorp.com^
 ||vhans.siege-corp.com^
+||vhit.io^
 ||vhmewg.edreams.fr^
 ||vhmjci.edreams.co.uk^
 ||vhpabx.herffjones.com^
