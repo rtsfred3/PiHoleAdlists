@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-02-18 08:00:44 UTC
+! Generated at 2026-02-19 08:00:47 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -130,6 +130,7 @@
 ||3rdupgrade.pandora.xiaomi.com^
 ||3skickasurf.tre.se^
 ||3wn3w3skxpym.round.t3.gg^
+||404: Not Found^
 ||40caidaylimpia.catzolab.net^
 ||4251.tech^
 ||4399stat.5054399.com^
@@ -4727,7 +4728,6 @@
 ||ads-drcn.platform.hihonorcloud.com^
 ||ads-drru.cloud.huawei.ru^
 ||adserver.bing.com^
-||adservice.google.com^
 ||adservices.roku.com^
 ||ads.eu.msn.com^
 ||ads-frontier.tiktok.com^
@@ -5538,7 +5538,6 @@
 ||analytics.glance.inmobi.com^
 ||analytics.global.sky.com^
 ||analytics.gokwik.co^
-||analytics.google.com^
 ||analytics.gooogol.com^
 ||analytics.greenmountain.com^
 ||analytics.greenmountainenergy.com^
@@ -6713,7 +6712,6 @@
 ||app.menupromo.inlinefx.com^
 ||app.merchant.bankofamerica.com^
 ||app.messages.sonicwall.com^
-||appmetrica.yandex.ru^
 ||app.mgoblue.com^
 ||app.miamihurricanes.com^
 ||app.miamiredhawks.com^
@@ -8508,7 +8506,6 @@
 ||browser-sdk-fr.heytapmobile.com^
 ||browser-sdk-in.heytapmobile.com^
 ||browser-sdk-ru.heytapmobile.com^
-||browser.sentry-cdn.com^
 ||browser-updater.yandex.net^
 ||brpayless.eccocar.com^
 ||br.potato1.influitive.com^
@@ -11538,6 +11535,7 @@
 ||dd.g2.com^
 ||dd.garena.com^
 ||ddioce.wolverine.com^
+||ddl.alma.iltalehti.fi^
 ||ddlbr.timesclub.co^
 ||ddlcvm.clas.style^
 ||dd.leboncoin.fr^
@@ -20531,6 +20529,7 @@
 ||link.zurp.com^
 ||lio8.destinia.com.pa^
 ||liosix.mtvuutiset.fi^
+||lipstat.com^
 ||liquid.agora.pl^
 ||li.rtl2.de^
 ||listen.trakks.com^
@@ -20551,6 +20550,7 @@
 ||livelylaugh.com^
 ||live.miphone.pandora.xiaomi.com^
 ||live.polycom.com^
+||livesearch-metrics.magento-ds.com^
 ||livestats.kaltura.com^
 ||livestats.matrix.it^
 ||live.techit.co.il^
@@ -31088,19 +31088,18 @@
 ||servicesscoop.com^
 ||service.techzine.eu^
 ||service.trustpid.com^
-||service.utiq.com^
 ||service.vrp.com^
 ||servicing.business.hsbc.com^
 ||servicing.unitedautocredit.net^
 ||serv.letudiant.fr^
 ||se-se.siemensplmevents.com^
-||sessions.bugsnag.com^
 ||sessions.embeddables.com^
 ||session.timecommerce.net^
 ||setaram.actonservice.com^
 ||setonhill.actonservice.com^
 ||settleshoes.com^
 ||setup.physiapp.com^
+||sevendeer.com^
 ||sevenhalves.com^
 ||severn.viessmann.co.uk^
 ||sex.viralof.online^
@@ -36022,6 +36021,7 @@
 ||statistics.streamdav.com^
 ||statistics.tattermedia.com^
 ||statistics.tuv.com^
+||statistics.werkenntdenbesten.de^
 ||statistics.wibiya.com^
 ||statistiek.rijksoverheid.nl^
 ||statistik.apartments-tirolerhaus.at^
@@ -36073,6 +36073,7 @@
 ||stat.rizeniskoly.cz^
 ||stat.rum.cdnvideo.ru^
 ||stat.russianfood.com^
+||stat.rz.htw-berlin.de^
 ||stats2.architecturaldigest.com^
 ||stats2.bonappetit.com^
 ||stats2.cntraveler.com^
@@ -38208,6 +38209,7 @@
 ||teenytinyshirt.com^
 ||teenytinytongue.com^
 ||teen.zubie.com^
+||teeshining.com^
 ||te.frankonia.at^
 ||te.frankonia.com^
 ||te.frankonia.de^
@@ -39504,6 +39506,7 @@
 ||tracking.brandmentions.com^
 ||tracking.brevant.ca^
 ||tracking.brgeneral.org^
+||tracking.buhl.de^
 ||tracking.build.com^
 ||tracking.burriswindows.com^
 ||tracking.busenladies.de^
@@ -42265,6 +42268,7 @@
 ||umdpva.gakumado.mynavi.jp^
 ||umhyck.belvilla.com^
 ||umiaob.kireibiz.jp^
+||umi.cloudful.de^
 ||umrvmb.net.anwalt.de^
 ||ums-rum-cn.heytapimage.com^
 ||ums-rum-global.heytapimage.com^
