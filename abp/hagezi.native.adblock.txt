@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-02-20 08:00:18 UTC
+! Generated at 2026-02-21 08:00:16 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -186,7 +186,6 @@
 ||ads-ie.tiktokw.eu^
 ||ads.jp.msn.com^
 ||ads.lgtvcommon.com^
-||ads.mi.com^
 ||ads.microsoft.com^
 ||ads.msn.com^
 ||ads-msn-com-profile.trafficmanager.net^
@@ -885,6 +884,7 @@
 ||eaus2watcab02.blob.core.windows.net^
 ||ec-ad-lgsmartad-com.aws-prd.net^
 ||ec.lgsmartad.com^
+||ecs.nel.measure.office.net.cn.intinfra.com^
 ||ee-ad-lgsmartad-com.aws-prd.net^
 ||ee.lgsmartad.com^
 ||eg-ad-lgsmartad-com.aws-prd.net^
@@ -953,8 +953,6 @@
 ||events-dre-op-hicloud-com-dre.appacc.dbankedge.cn^
 ||eventservice.trafficmanager.net^
 ||events.miui.com^
-||events-op-hicloud-com-drcn.appacc.dbankedge.net^
-||events-op-hicloud-com-drcn.appacc-region.dbankedge.net^
 ||events-sandbox.data.microsoft.com^
 ||events-sandbox.data.msn.cn^
 ||events-sandbox.data.msn.com^
@@ -963,6 +961,7 @@
 ||ex-adreq-in.vivoglobal.com^
 ||excel-telemetry.officeapps.live.com^
 ||excel-telemetry.wac.trafficmanager.net^
+||exo.nel.measure.office.net.cn.intinfra.com^
 ||exo.nel.measure.office.net.sw.buhl-data.com^
 ||experiments.apple.com^
 ||experiments.apple.com.edgekey.net^
@@ -1210,6 +1209,7 @@
 ||id-ad-lgsmartad-com.aws-prd.net^
 ||id-analyzer-appstore.vivoglobal.com^
 ||identity.browserapps.amazon.de^
+||identity.nel.measure.office.net.cn.intinfra.com^
 ||idiagnostics.apple.com^
 ||idiagnostics.apple.com.akadns.net^
 ||idiagnostics-mdn1.apple.com^
@@ -1556,6 +1556,7 @@
 ||lxcdn.dl.files.xiaomi.net^
 ||ly-ad-lgsmartad-com.aws-prd.net^
 ||ly.lgsmartad.com^
+||m365cdn.nel.measure.office.net.cn.intinfra.com^
 ||ma-ad-lgsmartad-com.aws-prd.net^
 ||mads.amazon-adsystem.com^
 ||mads.amazon.com^
@@ -1576,6 +1577,7 @@
 ||maws-aax-eu-rtb.amazon-adsystem.com^
 ||maws-aax-fe.amazon-adsystem.com^
 ||maws-aax-fe-sin.amazon-adsystem.com^
+||maws-aax-us-east.amazon-adsystem.com^
 ||maws-aax-us-east-rtb-adx.amazon-adsystem.com^
 ||maws-aax-us-east-rtb.amazon-adsystem.com^
 ||maws-aax-us-east-test4.amazon-adsystem.com^
@@ -2035,6 +2037,7 @@
 ||oca.microsoft.com^
 ||odin-signals.apple.com^
 ||office-events-data.trafficmanager.net^
+||officehub.nel.measure.office.net.cn.intinfra.com^
 ||om-ad-lgsmartad-com.aws-prd.net^
 ||omes-sec.heytapmobi.com^
 ||omes-sec.heytapmobile.com^
@@ -2569,6 +2572,7 @@
 ||sms-ads-ru.heytapmobile.com^
 ||sn-ad-lgsmartad-com.aws-prd.net^
 ||sn.lgsmartad.com^
+||spo.nel.measure.office.net.cn.intinfra.com^
 ||spynet2.microsoft.com^
 ||spynetalt.microsoft.com^
 ||sq-tungsten-ts.amazon-adsystem.com^
@@ -2641,6 +2645,7 @@
 ||tbm.snssdk.com^
 ||tc.lgsmartad.com^
 ||teams-events-data.trafficmanager.net^
+||teams.nel.measure.office.net.cn.intinfra.com^
 ||teams.nel.measure.office.net.sw.buhl-data.com^
 ||telecommandsvc.microsoft.com^
 ||telem-edge.smartscreen.microsoft.com^
@@ -2930,6 +2935,7 @@
 ||wms-fe.amazon-adsystem.com^
 ||wms-in.amazon-adsystem.com^
 ||wms-na.amazon-adsystem.com^
+||wordonline.nel.measure.office.net.cn.intinfra.com^
 ||word-telemetry.officeapps.live.com^
 ||word-telemetry.wac.trafficmanager.net^
 ||w.pandora.xiaomi.com^

@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-02-20 08:00:45 UTC
+! Generated at 2026-02-21 08:00:43 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4741,7 +4741,6 @@
 ||ads.jp.msn.com^
 ||ads.lgtvcommon.com^
 ||adsmeasurement.com^
-||ads.mi.com^
 ||ads.microsoft.com^
 ||ads.msn.com^
 ||ads-msn-com-profile.trafficmanager.net^
@@ -12724,6 +12723,7 @@
 ||economicadvantage.midamerican.com^
 ||economies.adp.ca^
 ||economysoil.com^
+||ecs.nel.measure.office.net.cn.intinfra.com^
 ||ec.thredup.com^
 ||ecu.hagerty.com^
 ||ecvmbusiness.mtn.co.za^
@@ -13967,8 +13967,7 @@
 ||events-ocu.zipify.com^
 ||events.oddo-bhf.com^
 ||events.onet.pl^
-||events-op-hicloud-com-drcn.appacc.dbankedge.net^
-||events-op-hicloud-com-drcn.appacc-region.dbankedge.net^
+||eventsourcing.ms.harmo.me^
 ||events.paramount.tech^
 ||event.spektare.com^
 ||events.pella.com^
@@ -14075,6 +14074,7 @@
 ||eximius.epoise.com^
 ||exitachieve.myre.io^
 ||exmeqy.smartbuyglasses.de^
+||exo.nel.measure.office.net.cn.intinfra.com^
 ||exo.nel.measure.office.net.sw.buhl-data.com^
 ||expansioneggnog.com^
 ||experianmatch.info^
@@ -16760,6 +16760,7 @@
 ||i.degoo.com^
 ||identification.hotmart.com^
 ||identity.browserapps.amazon.de^
+||identity.nel.measure.office.net.cn.intinfra.com^
 ||identitypxl.app^
 ||i-dev.villa.ge^
 ||idg1.idgarages.com^
@@ -21245,6 +21246,7 @@
 ||m1.stadiumgoods.com^
 ||m2t.actonservice.com^
 ||m2.washmen.com^
+||m365cdn.nel.measure.office.net.cn.intinfra.com^
 ||m3ds.subarumetropolitain.com^
 ||m3uef4b38brmbntdzx.franchiseplus.nl^
 ||m4zoxtrcea1k.controlconceptsusa.com^
@@ -22950,6 +22952,7 @@
 ||maws-aax-eu-rtb.amazon-adsystem.com^
 ||maws-aax-fe.amazon-adsystem.com^
 ||maws-aax-fe-sin.amazon-adsystem.com^
+||maws-aax-us-east.amazon-adsystem.com^
 ||maws-aax-us-east-rtb-adx.amazon-adsystem.com^
 ||maws-aax-us-east-rtb.amazon-adsystem.com^
 ||maws-aax-us-east-test4.amazon-adsystem.com^
@@ -26368,6 +26371,7 @@
 ||offers.storagepipe.com^
 ||offgridcrops.com^
 ||office-events-data.trafficmanager.net^
+||officehub.nel.measure.office.net.cn.intinfra.com^
 ||offshoreassets.com^
 ||offshorecyclone.com^
 ||offshoregeology.com^
@@ -35160,6 +35164,7 @@
 ||spmaeu.gumtree.com.au^
 ||spmyma.moscowfresh.ru^
 ||sp.naver.com^
+||spo.nel.measure.office.net.cn.intinfra.com^
 ||spookyexchange.com^
 ||spookyskate.com^
 ||spookysleet.com^
@@ -38178,6 +38183,7 @@
 ||teammate.arclogics.com^
 ||team.moxtra.com^
 ||teams-events-data.trafficmanager.net^
+||teams.nel.measure.office.net.cn.intinfra.com^
 ||teams.nel.measure.office.net.sw.buhl-data.com^
 ||tearfulglass.com^
 ||te.baur.de^
@@ -43882,6 +43888,7 @@
 ||wop-bio.ubiwhere.com^
 ||woqcfy.sony.ru^
 ||wordchip.com^
+||wordonline.nel.measure.office.net.cn.intinfra.com^
 ||word-telemetry.officeapps.live.com^
 ||word-telemetry.wac.trafficmanager.net^
 ||work.construction.com^
