@@ -1,4 +1,4 @@
-# Generated at 2026-02-27 08:00:43 UTC
+# Generated at 2026-02-28 08:00:48 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -8589,6 +8589,7 @@ bu.adpinfo.com
 buasmk.earthshoes.com
 bubblewrapp.actonservice.com
 bubblyaction.com
+bucketlistbob.com
 buddycanvas.com
 budibu.saksfifthavenue.com
 buffet.identityservices.io
@@ -8734,11 +8735,13 @@ cache.datamart.windows.com
 ca.clubavantages.net
 ca.connect.finning.com
 ca.creditacceptance.com
+cactus.joybuy.com
 cac-visio-telemetry.officeapps.live.com
 caderonline.bu.edu
 cadsuta.net
 caf.actonservice.com
 cafefrench.com
+cafejunior.net
 cafescampfires.com
 cafirebreather.com
 cagkpu.suitdirect.co.uk
@@ -9369,6 +9372,7 @@ clk.glam-print.com
 clk.ingage.jp
 clk.liberty-e.com
 clk.mindfulsuite.com
+clk-m.joybuy.com
 clk.ubi.com
 clk.wagon-hire.com
 cl.lgsmartad.com
@@ -9678,6 +9682,7 @@ colorfulpet.com
 coloringisland.com
 coloroptimizer.com
 colors.chamoji.com
+colorsonchain.com
 colossalclouds.com
 colossalcoat.com
 colossalcry.com
@@ -9876,6 +9881,14 @@ connect.delphi.international
 connect.dexterchaney.com
 connect.digi.com
 connect.dimensiondata.com
+connect-dra.dbankcloud.cn
+connect-dra.map.dbankcloud.com
+connect-drcn.dbankcloud.cn
+connect-dre.dbankcloud.cn
+connect-dre.map.dbankcloud.com
+connect-drru.dbankcloud.cn
+connect-drru.hispace.dbankcloud.cn
+connect-drru.hispace.dbankcloud.ru
 connected.integrationpoint.com
 connectedmedicaltechnologies.actonservice.com
 connected.technologies.jci.com
@@ -10344,7 +10357,6 @@ crafthenry.com
 crashchance.com
 cratecamera.com
 crawford-industries.actonservice.com
-crcldu.com
 createdip.com
 create.encoreglobal.com
 create.encore-mx.com
@@ -10541,6 +10553,7 @@ curbneon.com
 cure.trueface.org
 curiouschalk.com
 curious.cognyte.com
+curiousmetal.com
 curioussuccess.com
 curlycannon.com
 currentcollar.com
@@ -11441,6 +11454,7 @@ dc.audi.com
 dc.banggood.com
 dc.bluecoat.com
 dcbpm.suning.cn
+dcc-awareness-cn.heytapmobi.com
 dccfog.petco.com
 dcclaa.bunte.de
 dcclaa.daskochrezept.de
@@ -11454,6 +11468,7 @@ dcclaa.meine-familie-und-ich.de
 dcclaa.slowlyveggie.de
 dc.di.atlas.samsung.com
 dc.dqa.samsung.com
+dc-dragate-cn.heytapmobi.com
 dc.heytapmobile.com
 dcinfos-cache.abtasty.com
 dcintl.push.heytapmobi.com
@@ -11548,6 +11563,7 @@ ddsndt.azubiyo.de
 dd.viator.com
 de5zarwna0j2q.cloudfront.net
 de-ad-lgsmartad-com.aws-prd.net
+dealchocolate.com
 dealerrelations.cargurus.com
 dealfastfood.openapp.link
 de.bca-news.com
@@ -12721,7 +12737,7 @@ econnect.actonservice.com
 economicadvantage.midamerican.com
 economies.adp.ca
 economysoil.com
-ecs.nel.measure.office.net.cn.intinfra.com
+ecs.nel.measure.office.net.cz.intinfra.com
 ec.thredup.com
 ecu.hagerty.com
 ecvmbusiness.mtn.co.za
@@ -14071,8 +14087,10 @@ exhibitsneeze.com
 exhibit.ubm-events.com
 eximius.epoise.com
 exitachieve.myre.io
+exitblocked.com
 exmeqy.smartbuyglasses.de
-exo.nel.measure.office.net.cn.intinfra.com
+exo.nel.measure.office.net.cz.intinfra.com
+exo.nel.measure.office.net.in.intinfra.com
 exo.nel.measure.office.net.sw.buhl-data.com
 expansioneggnog.com
 experianmatch.info
@@ -14228,6 +14246,7 @@ familiarrod.com
 familydoctor-app.hotdoc.com.au
 familypractice-app.hotdoc.com.au
 fancyactivity.com
+fancycolorlist.net
 fancydune.com
 fangfeeling.com
 fan.info.heat.com
@@ -14327,6 +14346,7 @@ feedten.com
 feignedfaucet.com
 f-emc.ngsp.gov.vn
 femetrics.grammarly.io
+fencesync.com
 feppiu.systemaction.es
 feqbqn.rent.com
 ferias.usj.es
@@ -14824,6 +14844,7 @@ fse.net.anwalt.de
 fsm.lapresse.ca
 fsqwdj.live-tennis.eu
 fsresidential.actonservice.com
+fst-ec.perimeterx.net
 fsugco.rcn.nl
 fsz1.francoisesaget.com
 fsz1.franziskasager.de
@@ -16002,6 +16023,7 @@ gr.a23.in
 gracefulmilk.com
 gr-ad-lgsmartad-com.aws-prd.net
 grado.ufv.es
+grafana-agent.cuboxx.io
 graffiti-tags.apple.com
 grainmass.com
 grande.actonservice.com
@@ -16189,6 +16211,7 @@ h4g3z1-native.winoffice.web.app
 h4g3z1-native.xiaomi.web.app
 h559.stamfordadvocate.com
 h5.analytics.126.net
+h5log.joybuy.com
 h5log.zongheng.com
 h5-ru.video.intl.xiaomi.com
 h5.tv.mi.com
@@ -16758,7 +16781,7 @@ ideas.nanawall.com
 i.degoo.com
 identification.hotmart.com
 identity.browserapps.amazon.de
-identity.nel.measure.office.net.cn.intinfra.com
+identity.nel.measure.office.net.cz.intinfra.com
 identitypxl.app
 i-dev.villa.ge
 idg1.idgarages.com
@@ -16883,6 +16906,7 @@ image.ard.de
 image.box.xiaomi.com
 image.cdn.mvideo.xiaomi.com
 image.cdn.pandora.xiaomi.com
+imagecutie.com
 image.deginvest.de
 image.go.aricent.com
 image.info.perkinelmer.com
@@ -21245,7 +21269,7 @@ m.1gr.cz
 m1.stadiumgoods.com
 m2t.actonservice.com
 m2.washmen.com
-m365cdn.nel.measure.office.net.cn.intinfra.com
+m365cdn.nel.measure.office.net.cz.intinfra.com
 m3ds.subarumetropolitain.com
 m3uef4b38brmbntdzx.franchiseplus.nl
 m4zoxtrcea1k.controlconceptsusa.com
@@ -23305,6 +23329,7 @@ measure.ameblo.jp
 measure.office.com
 measure.office.com.akamaized.net
 measure.office.net
+measure.office.net.cn.intinfra.com
 measure.office.net.edgesuite.net
 measure.refinery89.com
 meat.midanmarketing.com
@@ -25362,10 +25387,12 @@ mon.n.xiaomi.com
 monorail-edge.shopifysvc.com
 mon-phx.tiktokv.com
 mon-ru.tiktokv.com
+mon-ru.tiktokv.com.blinkt.de
 mon-sg.capcutapi.com
 mon-sg.tiktokv.com
 mon.snssdk.com
 monster.branch.rocks
+monsterjokes.com
 monstermemes.com
 montelena.auction.co.kr
 monthlyhat.com
@@ -25868,6 +25895,7 @@ news2.secureforms.mcafee.com
 news-app-events.apple.com
 news.azcapitoltimes.com
 news.bestcompaniesgroup.com
+newsbotnet.com
 news.bpsecinc.com
 news.bridgetowermedia.com
 news.brokersalliance.com
@@ -25940,6 +25968,7 @@ news.valawyersweekly.com
 news.verimatrix.com
 newtest.wunderman-email.cjm.adobe.com
 nex.163.com
+nexttopchef.com
 nexus.officeapps.live.com
 nexusrules.live.com
 nexusrules.officeapps.live.com
@@ -26043,6 +26072,7 @@ no9pldds1lmn3.soundcloud.com
 noa0.compteczam.fr
 no-ad-lgsmartad-com.aws-prd.net
 noa.yahoo.com
+noblecables.com
 nocaadobefpc.optus.com.au
 noc-visio-telemetry.officeapps.live.com
 nodenotify.com
@@ -26295,6 +26325,7 @@ obus-cn.dc.heytapmobi.com
 obus-config-cn.heytapmobi.com
 obus-dc10-cn.heytapmobi.com
 obus-dc121100-sg.heytapmobile.com
+obus-dc136101-cn.heytapmobi.com
 obus-dc20058-cn.heytapmobi.com
 obus-dc2007-cn.heytapmobi.com
 obus-dc20123-cn.heytapmobi.com
@@ -26314,6 +26345,8 @@ obus-dctech-cn.heytapmobi.com
 obus-dctech-in.heytapmobile.com
 obus-dctech-sg.heytapmobile.com
 obus-dc-us.heytapmobile.com
+obus-dcyitai-cn.heytapmobi.com
+obus-dcyitai-in.heytapmobi.com
 obus-jssdk-cn.heytapmobi.com
 obus-jssdk-fr.heytapmobile.com
 obus-jssdk-in.heytapmobile.com
@@ -26370,10 +26403,11 @@ offer.slgnt.eu
 offers.storagepipe.com
 offgridcrops.com
 office-events-data.trafficmanager.net
-officehub.nel.measure.office.net.cn.intinfra.com
+officehub.nel.measure.office.net.cz.intinfra.com
 offshoreassets.com
 offshorecyclone.com
 offshoregeology.com
+offshoregoods.com
 ofgreencolumn.com
 ofkqiy.knowfashionstyle.com
 ofqkbk.proclipusa.com
@@ -26996,7 +27030,9 @@ p03.sc.origins.en25.com
 p04.sc.origins.en25.com
 p06.sc.origins.en25.com
 p16-ad.byteoversea.com
+p16-ad-site-sign-sg.tiktokcdn.com
 p16-tiktokcdn-com.akamaized.net.iberostar.com
+p19-ad-site-sign-sg.tiktokcdn.com
 p1.danskebank.co.uk
 p1.danskebank.dk
 p1.danskebank.ie
@@ -27819,6 +27855,7 @@ pop3.carte-gr.total.fr
 pop3.happ.social
 pop.carte-gr.total.fr
 pop.dmglobal.com
+popliquids.com
 popmixradio.com
 po.ponant.com
 popplantation.com
@@ -29287,6 +29324,7 @@ ru-comonrt-stsdk.vivoglobal.com
 ru-comort-stsdk.vivoglobal.com
 ru-compnrt-stsdk.vivoglobal.com
 ru-comprt-stsdk.vivoglobal.com
+ru-cota.vivoglobal.com
 rudder-tracking.rudderstack.com
 ru-err-up.vivoglobal.com
 ru-exstsdk.vivoglobal.com
@@ -31165,6 +31203,7 @@ s.glimesh.tv
 sg.lucanet.com
 sgmntfy.com
 sgms.greatschools.org
+sgm-w.jd.com
 s.goat.com
 s.gofile.io
 sgp-api.xmpush.global.xiaomi.com
@@ -31371,6 +31410,7 @@ siewmi.uncommongoods.com
 sig.ig.com
 sig.igmarkets.com
 sig.nadex.com
+signalszone.com
 signaturepod.com
 signup.vovici.com
 sign.use-neo.com
@@ -34724,6 +34764,7 @@ social.forddirectdealers.com
 social.insidelpl.com
 social.talenttitan.com
 social.tinyview.com
+sockpacks.com
 socs.hagerty.com
 so.desertschools.org
 soejzg.efe.com.pe
@@ -35086,6 +35127,7 @@ so.swisscom.ch
 sotelsystems.actonservice.com
 soubej.larebajavirtual.com
 soulclicking.com
+soundmachine.net
 soundstocking.com
 sourcecodeinfo.com
 sourceoak.com
@@ -35163,7 +35205,7 @@ splitexpenses.oworld.fr
 spmaeu.gumtree.com.au
 spmyma.moscowfresh.ru
 sp.naver.com
-spo.nel.measure.office.net.cn.intinfra.com
+spo.nel.measure.office.net.cz.intinfra.com
 spookyexchange.com
 spookyskate.com
 spookysleet.com
@@ -37250,6 +37292,7 @@ sturdysnail.com
 sturton-lation.com
 stw.extrem-down.zone
 st.wir-entdecken-bayern.de
+styleaffinity.com
 stylelockers.com
 styles.hautelook.com
 stylishbuds.com
@@ -38182,8 +38225,9 @@ teamhodges.hodgesualumniandfriends.com
 teammate.arclogics.com
 team.moxtra.com
 teams-events-data.trafficmanager.net
-teams.nel.measure.office.net.cn.intinfra.com
+teams.nel.measure.office.net.cz.intinfra.com
 teams.nel.measure.office.net.sw.buhl-data.com
+teamstatus.net
 tearfulglass.com
 te.baur.de
 techadv.actonservice.com
@@ -38543,6 +38587,7 @@ thesolartime.com
 thesoulbrand.com
 thesource.black.news
 thesuccessstars.actonservice.com
+thewavebeats.com
 th-go.experian.com
 thhesw.tre.it
 thialfi.net.anwalt.de
@@ -38610,6 +38655,7 @@ time.aktion-mensch.de
 timeclock.mytoolr.com
 timecrossed.com
 timejs.game.163.com
+timelessyes.com
 time.video.ptqy.gitv.tv
 timing.uhrforum.de
 timing.whenandhowagency.com
@@ -38930,6 +38976,7 @@ tnc100-alisg.tiktokv.com
 tnc100-my.tiktokv.com
 tnc100-useast1a.tiktokv.com
 tnc100-useast2a.tiktokv.com
+tnc16-alisg.byteoversea.com
 tnc16-normal-ie.tiktokv.eu
 tnc16-normal-no1a.tiktokv.eu
 tnc16-normal-useast5.tiktokv.us
@@ -38945,6 +38992,7 @@ tnc16-platform-my.tiktokv.com
 tnc16-platform-useast1a.tiktokv.com
 tnc16-platform-useast2a.tiktokv.com
 tnc16-platform-useast5.us.tiktokv.com
+tnc16-useast1a.byteoversea.com
 tnc19-normal-ie.tiktokv.eu
 tnc19-normal-no1a.tiktokv.eu
 tnc19-normal-useast5.tiktokv.us
@@ -39042,6 +39090,7 @@ t.oralia.fr
 t.orion.fi
 toronto-content.cresa.com
 torropinto.viessmann.es
+tortoisepage.com
 to.skooldio.com
 to.stynt.com
 t.osubeavers.com
@@ -42161,6 +42210,7 @@ uct.service.usercentrics.eu
 uc.xddi.ru
 udblog.huya.com
 udc.msn.com
+ud.galaxus.de
 udgrbq.malwarebytes.com
 udicje.perrys.co.uk
 udmmdl.dudalina.com.br
@@ -43766,7 +43816,6 @@ wepany.tripbeat.com
 wernerelectric.actonservice.com
 wesbgz.travel.co.jp
 westevents.presidio.com
-westus-0.in.applicationinsights.azure.com.drandts.co.uk
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 wevbgr.vidaxl.it
@@ -43810,6 +43859,7 @@ whymaze.com
 wiar9wff0ma9.ping.t3.gg
 widgetbe.com
 widget.educationdynamics.com
+widgethouse.com
 widget-pixels.outbrain.com
 wigkxx.jetcost.com
 wikiwhatwhere.com
@@ -43887,7 +43937,6 @@ woowjy.desa.com.tr
 wop-bio.ubiwhere.com
 woqcfy.sony.ru
 wordchip.com
-wordonline.nel.measure.office.net.cn.intinfra.com
 word-telemetry.officeapps.live.com
 word-telemetry.wac.trafficmanager.net
 work.construction.com
