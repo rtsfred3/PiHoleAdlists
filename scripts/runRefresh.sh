@@ -17,6 +17,14 @@ if ! ping -c 1 -W 20 8.8.8.8 &> /dev/null; then
     exit 1
 fi
 
+deleteFilesInFolderOverSize() {
+    FOLDER=$1
+
+    if [ -f $(find $FOLDER -type f -size +25M) ]; then
+        rm $(find $FOLDER -type f -size +25M);
+    fi
+}
+
 currDate() {
     date -u +'%Y-%m-%d %H:%M:%S%3'
     return 0
@@ -153,6 +161,7 @@ bash scripts/generateAdblockProCombined.sh mullvad.malware.adblock.txt https://g
 bash scripts/generateAdblockProCombined.sh mullvad.trackers.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/mullvad.trackers.abp
 bash scripts/generateAdblockProCombined.sh advertising.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/advertising.abp
 bash scripts/generateAdblockProCombined.sh adlist.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/adlist.abp
+# bash scripts/generateAdblockProCombined.sh nrd7.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd7.abp
 # bash scripts/generateAdblockProCombined.sh nrd14.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd14.abp
 # bash scripts/generateAdblockProCombined.sh nrd28.adblock.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd28.abp
 # bash scripts/generateAdblockProCombined.sh nrd30.txt https://gist.githubusercontent.com/rtsfred3/8553b13be1263ccd5c296f5eb512e6e9/raw/nrd30.abp
@@ -165,7 +174,7 @@ logMessage "Pulled Latest Blocklists"
 
 logMessage "Copy to $DOMAINS_DIR"
 
-TXT_FILES=(mullvad.advertising.adblock.txt mullvad.malware.adblock.txt mullvad.trackers.adblock.txt ph00lt0.blocklist.adblock.txt urlhaus.hostfile.adblock.txt nrd14.adblock.txt nrd28.adblock.txt)
+TXT_FILES=(mullvad.advertising.adblock.txt mullvad.malware.adblock.txt mullvad.trackers.adblock.txt ph00lt0.blocklist.adblock.txt urlhaus.hostfile.adblock.txt nrd7.adblock.txt nrd14.adblock.txt nrd28.adblock.txt)
 
 for FILE in ${TXT_FILES[@]}; do
     copyToDomainFormat $FILE
@@ -209,9 +218,14 @@ bash scripts/generateCDNMarkdown.sh
 logMessage "Updated Markdown"
 
 logMessage "Removing Large Files"
-rm $(find abp -type f -size +40M)
-rm $(find domains -type f -size +40M)
-rm $(find unbound -type f -size +40M)
+
+deleteFilesInFolderOverSize "abp"
+deleteFilesInFolderOverSize "domains"
+deleteFilesInFolderOverSize "unbound"
+
+# rm $(find abp -type f -size +40M)
+# rm $(find domains -type f -size +40M)
+# rm $(find unbound -type f -size +40M)
 logMessage "Removed Large Files"
 
 logMessage "Pushing to GitHub"
