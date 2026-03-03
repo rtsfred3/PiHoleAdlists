@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-03-02 08:01:48 UTC
+! Generated at 2026-03-03 08:00:44 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4934,6 +4934,7 @@
 ||af.eficads.com^
 ||afep.pivn.shop^
 ||affa8.hikkoshi-master.com^
+||affectionknit.com^
 ||afficv.lettuce.co.jp^
 ||affilate.hh.ru^
 ||affiliate-api.raptive.com^
@@ -9821,6 +9822,7 @@
 ||condemnedcomb.com^
 ||conditionchange.com^
 ||conditioncrush.com^
+||conduit.redfast.com^
 ||conference.all-energy.com.au^
 ||conference.flsmidth.com^
 ||conferences.cigna.com^
@@ -12288,6 +12290,7 @@
 ||dopljl.noleggiosemplice.it^
 ||doppler-beacon.cbsivideo.com^
 ||doppler-client-events.cbsivideo.com^
+||doppler-config.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotvox.actonservice.com^
 ||doubledefend.com^
@@ -20699,6 +20702,7 @@
 ||location-va.tiktokv.com^
 ||lockcard-service-in.allawnos.com^
 ||lockuplookup.com^
+||locolava.com^
 ||lodicoandco.actonservice.com^
 ||lodlww.carcon.co.jp^
 ||lofo3l15c674.platform.replai.io^
@@ -20781,6 +20785,7 @@
 ||log.aliyuncs.com^
 ||logapi.alza.cz^
 ||log-api.cli.im^
+||log.arkansasonline.com^
 ||logbak.hicloud.com^
 ||log.bitauto.com^
 ||logbk.tiktokv.com^
@@ -26363,6 +26368,7 @@
 ||occidente.ubmmexico.com^
 ||oceanair.actonservice.com^
 ||oceanautomotive.actonservice.com^
+||oceancloudhosts.com^
 ||ochre-app.hotdoc.com.au^
 ||oci.dyn.com^
 ||ocmxbu.hanatour.com^
@@ -27992,6 +27998,7 @@
 ||priceypies.com^
 ||pricklydebt.com^
 ||pricklypollution.com^
+||prideproms.com^
 ||primary-app.hotdoc.com.au^
 ||primary.hasegawa.jp^
 ||primavera.actonservice.com^
@@ -35224,6 +35231,7 @@
 ||spottednoise.com^
 ||sp.pcid.ca^
 ||sp.pcoptimum.ca^
+||sp.pluto.tv^
 ||spread.epoolers.com^
 ||springballet.com^
 ||springboard.aon.com^
@@ -39216,6 +39224,7 @@
 ||tr5.mailperf.com^
 ||tr5.mperf.com^
 ||tr6.mperf.com^
+||tr6.snapchat.com^
 ||tr.aasi.espmp-agfr.net^
 ||tr.abo.cotemaison.fr^
 ||traccoon.intellectsoft.net^
@@ -43182,7 +43191,6 @@
 ||vision.cbresi.com.au^
 ||visio-telemetry.officeapps.live.com^
 ||visit.adelaide.edu.au^
-||visit.asb.co.nz^
 ||visit.atea.fi^
 ||visit.campermate.com^
 ||visit.donateblood.com.au^
@@ -43321,6 +43329,7 @@
 ||vtneexam.quantresear.ch^
 ||vtodss.livenation.com^
 ||v.topya.com^
+||vtrk.dv.tech^
 ||vtrtl.de^
 ||vttics.world.co.jp^
 ||v-t.topya.com^
