@@ -1,4 +1,4 @@
-# Generated at 2026-03-05 08:00:44 UTC
+# Generated at 2026-03-06 08:00:43 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4435,6 +4435,7 @@ adbsmetrics.lotterentacar.net
 adbsmetrics.thewhoo.com
 adb.superrtl.de
 adb.toggoeltern.de
+ad.cdn.pandora.xiaomi.com
 adc-js.nine.com.au
 adcontroll.com
 ad.daum.net
@@ -4544,6 +4545,7 @@ ad-eng-pci.prod.rpay.int.roku.com
 ad-eng.prod.rpay.int.roku.com
 ad-eng.staging.rpay.int.roku.com
 a.deutschehospitality.com
+ad.eu.xiaomi.com
 a.dev-ajo.caixabank.com
 adevents.msn.com
 adex.kintetsu-re.co.jp
@@ -4556,6 +4558,7 @@ adhudg.nec-lavie.jp
 adi-airflow.bdp.roku.com
 ad.ichiban-boshi.com
 ad.ichiru.net
+ad.india.xiaomi.com
 ad.inhaabit.com
 adi.ni.com
 adinstantpage16-normal-useastred.tiktokv.eu
@@ -4697,6 +4700,7 @@ ad.quickapp.hybrid.xiaomi.com
 ad.rejichoice.jp
 adrsbl.io
 adrtx.net
+ad.rus.xiaomi.com
 ads16-normal-useastred.tiktokw.eu
 ads-aka-us-east-1.delivery.roku.com
 ads-aka-us-west-2.delivery.roku.com
@@ -6117,6 +6121,7 @@ api.competition.intl.miui.com
 api.content.intl.miui.com
 api.croct.io
 api.developer.xiaomi.com
+api.device.xiaomi.net
 api.digitalpiloten.org
 api.edgeoffer.microsoft.com
 api.elliehuxtable.com
@@ -30410,9 +30415,6 @@ sdfp.snssdk.com
 sdjthl.tvguide.dk
 sdk-analytics-web.cloud.itau.com.br
 sdk-cache.video.ptqy.gitv.tv
-sdkconfig.ad.eu.xiaomi.com
-sdkconfig.ad.india.xiaomi.com
-sdkconfig.ad.rus.xiaomi.com
 sdk.ptqy.gitv.tv
 sd.lgsmartad.com
 sdlmaf.bestsecret.at
