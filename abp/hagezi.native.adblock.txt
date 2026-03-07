@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-03-06 08:00:17 UTC
+! Generated at 2026-03-07 08:00:17 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -899,7 +899,6 @@
 ||eaus2watcab02.blob.core.windows.net^
 ||ec-ad-lgsmartad-com.aws-prd.net^
 ||ec.lgsmartad.com^
-||ecs.nel.measure.office.net.cz.intinfra.com^
 ||ee-ad-lgsmartad-com.aws-prd.net^
 ||ee.lgsmartad.com^
 ||eg-ad-lgsmartad-com.aws-prd.net^
@@ -976,9 +975,8 @@
 ||ex-adreq-in.vivoglobal.com^
 ||excel-telemetry.officeapps.live.com^
 ||excel-telemetry.wac.trafficmanager.net^
-||exo.nel.measure.office.net.cz.intinfra.com^
-||exo.nel.measure.office.net.in.intinfra.com^
 ||exo.nel.measure.office.net.sw.buhl-data.com^
+||exo.nel.measure.office.net.us.intinfra.com^
 ||experiments.apple.com^
 ||experiments.apple.com.edgekey.net^
 ||ex-romsp-unifyconfig.vivoglobal.com^
@@ -1225,7 +1223,6 @@
 ||id-ad-lgsmartad-com.aws-prd.net^
 ||id-analyzer-appstore.vivoglobal.com^
 ||identity.browserapps.amazon.de^
-||identity.nel.measure.office.net.cz.intinfra.com^
 ||idiagnostics.apple.com^
 ||idiagnostics.apple.com.akadns.net^
 ||idiagnostics-mdn1.apple.com^
@@ -1573,7 +1570,6 @@
 ||lxcdn.dl.files.xiaomi.net^
 ||ly-ad-lgsmartad-com.aws-prd.net^
 ||ly.lgsmartad.com^
-||m365cdn.nel.measure.office.net.cz.intinfra.com^
 ||ma-ad-lgsmartad-com.aws-prd.net^
 ||mads.amazon-adsystem.com^
 ||mads.amazon.com^
@@ -1603,6 +1599,7 @@
 ||m.beehive.in.intl.miui.com^
 ||mcc.miui.com^
 ||mcs16-normal-no1a.tiktokw.eu^
+||mcs16-normal-no1a.tiktokw.eu.dvaitas.lt^
 ||mcs16-normal-no1a.tiktokw.eu.edgesuite.net^
 ||mcs16-normal-useastred.tiktokw.eu^
 ||mcs16-normal-useastred.tiktokw.eu.edgesuite.net^
@@ -1612,6 +1609,7 @@
 ||mcs-i18n.tiktok.com^
 ||mcs-i18n.tiktok.com.edgekey.net^
 ||mcs-ie2.tiktokw.eu^
+||mcs-ie2.tiktokw.eu.dvaitas.lt^
 ||mcs-ie2.tiktokw.eu.edgesuite.net^
 ||mcs-ie2.tiktokw.eu.ttdns3.com^
 ||mcs-ie.tiktokw.eu^
@@ -1754,7 +1752,9 @@
 ||measure.office.com.akamaized.net^
 ||measure.office.net^
 ||measure.office.net.cn.intinfra.com^
+||measure.office.net.cz.intinfra.com^
 ||measure.office.net.edgesuite.net^
+||measure.office.net.in.intinfra.com^
 ||media.pre.pandora.xiaomi.com^
 ||me.lgsmartad.com^
 ||mercury-sdk.snssdk.com^
@@ -1837,6 +1837,7 @@
 ||mon16-normal-c-useast1a.tiktokv.com^
 ||mon16-normal-c-useast2a.tiktokv.com^
 ||mon16-normal-no1a.tiktokv.eu^
+||mon16-normal-no1a.tiktokv.eu.dvaitas.lt^
 ||mon16-normal-sg.capcutapi.com^
 ||mon16-normal.tiktokv.com^
 ||mon16-normal-useast1a.tiktokv.com^
@@ -1844,6 +1845,7 @@
 ||mon16-normal-useast8.tiktokv.us^
 ||mon16-normal-useast8.us.tiktokv.com^
 ||mon16-normal-useastred.tiktokv.eu^
+||mon16-normal-useastred.tiktokv.eu.dvaitas.lt^
 ||mon16-normal-us-ttp.capcutapi.us^
 ||mon16-normal-zr-useast1a.tiktokv.com^
 ||mon16-platform-useast5.us.tiktokv.com^
@@ -1872,12 +1874,12 @@
 ||mon-csj-maliva-ios.byteoversea.com^
 ||mon-hl.snssdk.com^
 ||mon-i18n.tiktokv.com^
+||mon-i18n.tiktokv.com.dvaitas.lt^
 ||monitor.scf.pt.xiaomi.com^
 ||monitor-stsdk.vivoglobal.com^
 ||mon.n.xiaomi.com^
 ||mon-phx.tiktokv.com^
 ||mon-ru.tiktokv.com^
-||mon-ru.tiktokv.com.blinkt.de^
 ||mon-sg.capcutapi.com^
 ||mon-sg.tiktokv.com^
 ||mon.snssdk.com^
@@ -2059,7 +2061,6 @@
 ||oca.microsoft.com^
 ||odin-signals.apple.com^
 ||office-events-data.trafficmanager.net^
-||officehub.nel.measure.office.net.cz.intinfra.com^
 ||om-ad-lgsmartad-com.aws-prd.net^
 ||omes-sec.heytapmobi.com^
 ||omes-sec.heytapmobile.com^
@@ -2086,8 +2087,6 @@
 ||outlookads.live.com^
 ||o.xbox.com^
 ||p16-ad.byteoversea.com^
-||p16-ad-site-sign-sg.tiktokcdn.com^
-||p19-ad-site-sign-sg.tiktokcdn.com^
 ||pa-ad-lgsmartad-com.aws-prd.net^
 ||paa-reporting-advertising.amazon^
 ||package.box.xiaomi.com^
@@ -2594,7 +2593,6 @@
 ||sms-ads-ru.heytapmobile.com^
 ||sn-ad-lgsmartad-com.aws-prd.net^
 ||sn.lgsmartad.com^
-||spo.nel.measure.office.net.cz.intinfra.com^
 ||spynet2.microsoft.com^
 ||spynetalt.microsoft.com^
 ||sq-tungsten-ts.amazon-adsystem.com^
@@ -2667,7 +2665,6 @@
 ||tbm.snssdk.com^
 ||tc.lgsmartad.com^
 ||teams-events-data.trafficmanager.net^
-||teams.nel.measure.office.net.cz.intinfra.com^
 ||teams.nel.measure.office.net.sw.buhl-data.com^
 ||telecommandsvc.microsoft.com^
 ||telem-edge.smartscreen.microsoft.com^

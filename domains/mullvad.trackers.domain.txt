@@ -1,4 +1,4 @@
-# Generated at 2026-03-06 08:00:43 UTC
+# Generated at 2026-03-07 08:00:44 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -7926,6 +7926,7 @@ beneficios.davivienda.hn
 beneficios.davivienda.sv
 benefits.aon.com
 benelux2.secureforms.mcafee.com
+bentengine.com
 bento.agoda.com
 beoecomapim.bang-olufsen.com
 beoofo.pairs.lv
@@ -8216,6 +8217,7 @@ bonfire.spklw.com
 bonne-terre-data-layer.com
 bonuscake.ru
 bonuscomplex.com
+bookbeef.com
 booking.getwaitnot.com
 book.londonsoundacademy.com
 bookprobe.com
@@ -12751,7 +12753,6 @@ econnect.actonservice.com
 economicadvantage.midamerican.com
 economies.adp.ca
 economysoil.com
-ecs.nel.measure.office.net.cz.intinfra.com
 ec.thredup.com
 ecu.hagerty.com
 ecvmbusiness.mtn.co.za
@@ -14103,9 +14104,8 @@ eximius.epoise.com
 exitachieve.myre.io
 exitblocked.com
 exmeqy.smartbuyglasses.de
-exo.nel.measure.office.net.cz.intinfra.com
-exo.nel.measure.office.net.in.intinfra.com
 exo.nel.measure.office.net.sw.buhl-data.com
+exo.nel.measure.office.net.us.intinfra.com
 expansioneggnog.com
 experianmatch.info
 experience2013.elliemae.com
@@ -16796,7 +16796,6 @@ ideas.nanawall.com
 i.degoo.com
 identification.hotmart.com
 identity.browserapps.amazon.de
-identity.nel.measure.office.net.cz.intinfra.com
 identitypxl.app
 i-dev.villa.ge
 idg1.idgarages.com
@@ -21286,7 +21285,6 @@ m.1gr.cz
 m1.stadiumgoods.com
 m2t.actonservice.com
 m2.washmen.com
-m365cdn.nel.measure.office.net.cz.intinfra.com
 m3ds.subarumetropolitain.com
 m3uef4b38brmbntdzx.franchiseplus.nl
 m4zoxtrcea1k.controlconceptsusa.com
@@ -23047,6 +23045,7 @@ mckbpe.united-arrows.co.jp
 mckiey.thun.com
 m.communications.ihmvcu.org
 mcs16-normal-no1a.tiktokw.eu
+mcs16-normal-no1a.tiktokw.eu.dvaitas.lt
 mcs16-normal-no1a.tiktokw.eu.edgesuite.net
 mcs16-normal-useastred.tiktokw.eu
 mcs16-normal-useastred.tiktokw.eu.edgesuite.net
@@ -23056,6 +23055,7 @@ mcs.capcutapi.us
 mcs-i18n.tiktok.com
 mcs-i18n.tiktok.com.edgekey.net
 mcs-ie2.tiktokw.eu
+mcs-ie2.tiktokw.eu.dvaitas.lt
 mcs-ie2.tiktokw.eu.edgesuite.net
 mcs-ie2.tiktokw.eu.ttdns3.com
 mcs-ie.tiktokw.eu
@@ -23347,7 +23347,9 @@ measure.office.com
 measure.office.com.akamaized.net
 measure.office.net
 measure.office.net.cn.intinfra.com
+measure.office.net.cz.intinfra.com
 measure.office.net.edgesuite.net
+measure.office.net.in.intinfra.com
 measure.refinery89.com
 meat.midanmarketing.com
 meatydime.com
@@ -25349,6 +25351,7 @@ mon16-normal-alisg.tiktokv.com
 mon16-normal-c-useast1a.tiktokv.com
 mon16-normal-c-useast2a.tiktokv.com
 mon16-normal-no1a.tiktokv.eu
+mon16-normal-no1a.tiktokv.eu.dvaitas.lt
 mon16-normal-sg.capcutapi.com
 mon16-normal.tiktokv.com
 mon16-normal-useast1a.tiktokv.com
@@ -25356,6 +25359,7 @@ mon16-normal-useast5.tiktokv.us
 mon16-normal-useast8.tiktokv.us
 mon16-normal-useast8.us.tiktokv.com
 mon16-normal-useastred.tiktokv.eu
+mon16-normal-useastred.tiktokv.eu.dvaitas.lt
 mon16-normal-us-ttp.capcutapi.us
 mon16-normal-zr-useast1a.tiktokv.com
 mon16-platform-useast5.us.tiktokv.com
@@ -25387,6 +25391,7 @@ mon.domdog.io
 money.clerkie.io
 mon-hl.snssdk.com
 mon-i18n.tiktokv.com
+mon-i18n.tiktokv.com.dvaitas.lt
 monicaatron.com
 mon.ingservices.nl
 monitor.agenedia.com
@@ -25404,7 +25409,6 @@ mon.n.xiaomi.com
 monorail-edge.shopifysvc.com
 mon-phx.tiktokv.com
 mon-ru.tiktokv.com
-mon-ru.tiktokv.com.blinkt.de
 mon-sg.capcutapi.com
 mon-sg.tiktokv.com
 mon.snssdk.com
@@ -26421,7 +26425,6 @@ offer.slgnt.eu
 offers.storagepipe.com
 offgridcrops.com
 office-events-data.trafficmanager.net
-officehub.nel.measure.office.net.cz.intinfra.com
 offshoreassets.com
 offshorecyclone.com
 offshoregeology.com
@@ -27048,9 +27051,7 @@ p03.sc.origins.en25.com
 p04.sc.origins.en25.com
 p06.sc.origins.en25.com
 p16-ad.byteoversea.com
-p16-ad-site-sign-sg.tiktokcdn.com
 p16-tiktokcdn-com.akamaized.net.iberostar.com
-p19-ad-site-sign-sg.tiktokcdn.com
 p1.danskebank.co.uk
 p1.danskebank.dk
 p1.danskebank.ie
@@ -35224,7 +35225,6 @@ splitexpenses.oworld.fr
 spmaeu.gumtree.com.au
 spmyma.moscowfresh.ru
 sp.naver.com
-spo.nel.measure.office.net.cz.intinfra.com
 spookyexchange.com
 spookyskate.com
 spookysleet.com
@@ -38245,7 +38245,6 @@ teamhodges.hodgesualumniandfriends.com
 teammate.arclogics.com
 team.moxtra.com
 teams-events-data.trafficmanager.net
-teams.nel.measure.office.net.cz.intinfra.com
 teams.nel.measure.office.net.sw.buhl-data.com
 teamstatus.net
 tearfulglass.com

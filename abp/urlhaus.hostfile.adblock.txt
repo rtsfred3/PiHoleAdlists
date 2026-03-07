@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-03-06 08:00:09 UTC
+! Generated at 2026-03-07 08:00:10 UTC
 ! 
 ! Sources: https://urlhaus.abuse.ch/downloads/hostfile
 ! 
@@ -10,9 +10,7 @@
 ||1.off3.ru^
 ||1poz.my^
 ||2.off3.ru^
-||2v42nbtg.deliainaturner.digital^
 ||4enjfmcl.wallnapalm.digital^
-||8a2yizw9.earedteach.digital^
 ||aaronart.com^
 ||abissnet.net^
 ||acaviationsupplies.com^
@@ -24,31 +22,31 @@
 ||admin.byte.in.ua^
 ||admin.gestroom.it^
 ||admin.hggg.store^
+||adobe-viewer.0lsons.com^
+||adobe-viewer.iziliang.com^
+||adobe-viewer.parallelsw.com^
 ||adver.com.br^
-||alamintelecom.xyz^
 ||alarmline.com.br^
 ||alineeleuterio.com.br^
-||aliyundunupdate.xyz^
 ||allendostmen.com^
 ||allister.ee^
+||altamoorgoods.com^
 ||alternativas.ru^
 ||amrlb0h2.backorbit.digital^
 ||anondrop.net^
-||antleds.com^
 ||antvietnam.com^
 ||api.baimless.com^
 ||api.ezilax.com^
-||apk.tcpateiu.com^
 ||app.appzcvb.com^
 ||apple-service93.ru^
 ||ardena.pro^
 ||areyouready.co.za^
 ||artacom.com.br^
 ||asl-company.ru^
+||asteriaproject.dstat.click^
 ||atasapka.com.tr^
 ||audicontadores.com^
 ||augsburg-auto.com^
-||aulist.com^
 ||avbackup.acionline.de^
 ||backupso.com^
 ||bankgarantia.ru^
@@ -60,7 +58,6 @@
 ||blogs.sokun.jp^
 ||bmdcompany.com^
 ||bnet-api.playm8ru.win^
-||bnet.playm8ru.win^
 ||bombayonline.in^
 ||book.rollingvideogames.com^
 ||bracell.latitude.net.br^
@@ -97,6 +94,7 @@
 ||compuserviceonline.com.br^
 ||connects-magiceden.io^
 ||contentmentfairnesspesky.com^
+||continentalgroup.net.in^
 ||coralasargetia.ro^
 ||corporacioncrf.com^
 ||creativevoltage.com^
@@ -105,17 +103,14 @@
 ||crystalpvp.ru^
 ||csg-app.com^
 ||cs.go.kg^
-||csplay168.games^
 ||ct3-24.ru^
 ||d.14yaa.com^
-||da1113.0r6ecdax.work^
 ||dansorium.gr^
 ||data.yhydl.com^
 ||dbss180.com^
 ||dcrun.co.uk^
 ||dcwblida.dz^
 ||definitely-not.gay^
-||delp-heizungsbau.de^
 ||derekludlow.com^
 ||devilnet.xyz^
 ||dexios.co.za^
@@ -127,9 +122,7 @@
 ||dl.1003b.56a.com^
 ||dl.aginjector.com^
 ||dla.zhuayoukong.com^
-||dl.dzqzd.com^
 ||dl.natgo.cn^
-||dmaii.co^
 ||donkeytourscroatia.com^
 ||down.54nb.com^
 ||down.fwqlt.com^
@@ -143,7 +136,6 @@
 ||download.suxiazai.com^
 ||down.pcclear.com^
 ||down.qqfarmer.com.cn^
-||down.wps-kdocs.com^
 ||dowonline.ru^
 ||dowoxox.gfewr.com^
 ||doyu.digital^
@@ -163,6 +155,7 @@
 ||estudio.ythan.com.br^
 ||evangroup.ru^
 ||f2kpaub7.bullymarvel.digital^
+||f7ozu1t9.flogginquisit.digital^
 ||fakers.co.jp^
 ||farschid.de^
 ||fenbushijujuefuwu.com^
@@ -171,6 +164,8 @@
 ||filebulldogs.com^
 ||filerit.com^
 ||file.uhsea.com^
+||file-viewer.alcapps.com^
+||file-viewer.detprod.com^
 ||filezilla.cc^
 ||first-security-verden.de^
 ||flyingmutts.com^
@@ -178,7 +173,6 @@
 ||frvrefrigeracao.com.br^
 ||ftp.ywxww.net^
 ||fukt.link^
-||fullbet138.games^
 ||fz.tiansys.cn^
 ||gabyagozetim.com^
 ||gacorportbet88.space^
@@ -187,7 +181,7 @@
 ||gb31welb.bullymarvel.digital^
 ||gettpose2far.com^
 ||globaltechbilling.com^
-||gobiotechpestcontrol.com^
+||grabfull.store^
 ||gutando.com^
 ||hasalltalent.com^
 ||hitman-pro.ru^
@@ -202,7 +196,6 @@
 ||igra123.com^
 ||img.ipxxxx.com^
 ||injectroblox.ru^
-||innaflux.com^
 ||innlive.in^
 ||inomailerhe.net^
 ||ip118.ip-51-81-104.us^
@@ -211,7 +204,6 @@
 ||itssprout.com^
 ||izocab.com^
 ||izogard.com^
-||jawaratekno.com^
 ||jlwz.cn^
 ||joahhilperic.net^
 ||joyeriatauro.com^
@@ -223,10 +215,10 @@
 ||khoancatbetong89.vn^
 ||kimyen.net^
 ||konsor.ru^
-||kotogadang-pusako.com^
 ||kramersmarionnettes.com^
 ||krisidev.com^
 ||kuzina-teatr.ru^
+||kvid5obz.awakepathog.digital^
 ||landonirwin.com^
 ||la-pan-adventures.com^
 ||lindenappliances.co.za^
@@ -235,13 +227,12 @@
 ||local-update.com^
 ||lomejordesalamanca.es^
 ||lon-01.dlo4d.com^
+||lsvvpb8t.drinktide.digital^
 ||luizmatoso.com.br^
 ||madcows.co.nz^
 ||maidforyou1985.com^
 ||main.dsn.ovh^
-||mandarin.net.au^
 ||meetvideogoogle.com^
-||merryfieldrenovations.com^
 ||metrics.gocloudmaps.com^
 ||m-global.hksty.net^
 ||mgtms.cc^
@@ -268,7 +259,6 @@
 ||okhan.net^
 ||oknoplastik.sk^
 ||okullu.com^
-||olf4rjbg.hardmosolenog.digital^
 ||onfiltre.com.tr^
 ||onlineappdownload.507.net.cn^
 ||onyxarmorcrypt.de^
@@ -289,9 +279,7 @@
 ||onyxsentinelx.de^
 ||onyxshieldcore.de^
 ||onyxstealthnet.de^
-||openclaw.official-version.com^
 ||oraypc.com.cn^
-||orayz.com^
 ||owlcity.ru^
 ||p3.zbjimg.com^
 ||palharesinformatica.com.br^
@@ -300,14 +288,12 @@
 ||pcupd.com^
 ||pid.fly160.com^
 ||planetariumobil.ro^
-||pns.org.pk^
 ||pobedastaff.ru^
 ||polonyauniversiteleri.com.tr^
 ||posts-luxs.com^
 ||public.demo.securecloudsandbox.com^
 ||pvsa.gxfugy.cn^
 ||qiniuyunxz.yxflzs.com^
-||quanlyphongnet.com^
 ||ramactools.net^
 ||ramirex.ro^
 ||rdm.91yunma.cn^
@@ -329,6 +315,7 @@
 ||rxquickpay.com^
 ||s8.vizja.cc^
 ||sabungkingbet189.com^
+||save.jnrsmcu.com^
 ||scainseto.com.br^
 ||schenckel.com.br^
 ||sdvgpro.ru^
@@ -347,23 +334,29 @@
 ||softcatalog.ru^
 ||solutelco.com^
 ||spacemanslot88.games^
+||spoar.org.in^
+||sqddakti.awakepathog.digital^
 ||ssagntroplexa.com^
 ||static.ilclock.com^
 ||static.topxgun.com^
+||static.youdm.cn^
 ||stdown.dinju.com^
 ||steam66.cn^
 ||stonecradle.com^
 ||studiogioeli.it^
+||stylemansisforeal.com^
 ||supercleanspb.ru^
 ||support.clz.kr^
 ||sutterpoint.com^
 ||svirtual.sanviatorperu.edu.pe^
 ||swiftfusion.tech^
 ||tajalrayhan.com^
+||take-care.africa^
 ||talentaclub.com^
 ||talentrecruitments.com^
 ||tanscarattorneys.co.tz^
 ||tapestryoftruth.com^
+||tb2mod.com^
 ||techauto.net^
 ||tecunonline.com^
 ||tehnomag.rs^
@@ -391,9 +384,16 @@
 ||upchemicals.co.in^
 ||update.cg100iii.com^
 ||update.volam2005pk.com^
+||us04web.zoom.us.3cm.us^
+||us04web.zoom.us.pacl.us^
+||us05web.zoom.us.1ax.us^
+||us05web.zoom.us.vdns.us^
+||us06web.zoom.hiaa.us^
+||us06web.zoom.patho.us^
+||us06web.zoom.us.ez2.us^
+||us06web.zoom.us.tobuy.us^
 ||us06web.zoom.us.vdns.us^
 ||vagler.ru^
-||vcc-library.uk^
 ||versaclean.com.br^
 ||veryboys.com^
 ||vgd.vg^
@@ -401,7 +401,6 @@
 ||vincentdemiero.com^
 ||visam.info^
 ||visualwikicloud.com^
-||vizyonuniversitesi.com.tr^
 ||vizyonuniversitesi.web.tr^
 ||vrajras.com^
 ||vulkanvegas1000.sajautohaus.com^
@@ -410,7 +409,6 @@
 ||website.mypetapp.co.za^
 ||whovcs.com^
 ||widexenmexico.com.mx^
-||windomstatetheater.com^
 ||wittenhorst.eu^
 ||www.ardguisser.com^
 ||www.astenterprises.com.pk^
@@ -450,7 +448,6 @@
 ||www.sgeseducation.com^
 ||www.silver-hubdachwohnwagen.de^
 ||www.simbhaolisugars.in^
-||www.sogou-shurufa.help^
 ||www.ss-01.com^
 ||www.starcountry.net^
 ||www.support-data.com^
@@ -459,6 +456,7 @@
 ||www.test.peperoncinochepassione.it^
 ||www.tmcksa.com^
 ||www.udobrit.ru^
+||www.unique.hatumena.com^
 ||www.uralmetalloprokat.ru^
 ||www.vuelaviajero.com^
 ||www.websitedesigningindia.biz^
@@ -466,6 +464,8 @@
 ||www.xn--on3b15m2lco2u.com^
 ||www.zamilgroups.com^
 ||www.zhikey.com^
+||www.zoom.bigjaco.com^
+||www.zoom.kazoodle.com^
 ||xdcq3.com^
 ||xemhang.vn^
 ||xenon.studio^
@@ -475,11 +475,12 @@
 ||xshop.com.tr^
 ||xuezha.net^
 ||xyfsd.com^
-||yandex-app.ru^
 ||yaso.su^
+||ygzulpfl.floatmurta.digital^
 ||yongtai.cn^
 ||youtransfer.net^
 ||zamilgroups.com^
 ||zapchast-gazkotel.ru^
+||zenglobalenerji.com^
 ||zhigao5191.com^
 ||zycdjz.com^

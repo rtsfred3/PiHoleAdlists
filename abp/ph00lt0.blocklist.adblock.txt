@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-03-06 08:00:12 UTC
+! Generated at 2026-03-07 08:00:13 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 ! 
@@ -3282,6 +3282,7 @@
 ||aniru.org^
 ||aniview.com^
 ||anivi.xyz^
+||anjouangaming.org^
 ||anm.co.uk^
 ||an.m.liebao.cn^
 ||ann5.net^
@@ -3413,6 +3414,7 @@
 ||api.demandbase.com^
 ||api-dev-4il4eytndq-ey.a.run.app^
 ||api-device.mocaplatform.com^
+||api.didiglobal.com^
 ||apidm.airpush.com^
 ||api.dmcdn.net^
 ||api.docodoco.jp^
@@ -4180,6 +4182,7 @@
 ||aweber-static.com^
 ||awembd.com^
 ||awemdia.com^
+||aweme.snssdk.com^
 ||awempire.com^
 ||aweprt.com^
 ||awesomeopensource.com^
@@ -5106,6 +5109,7 @@
 ||brafton.com^
 ||brahe.apptimize.com^
 ||braincandymail.ru.com^
+||brainignite.click^
 ||brainlyads.com^
 ||brainsaviors.life^
 ||brainsland.com^
@@ -5279,6 +5283,7 @@
 ||builder.io^
 ||builder.lift.acquia.com^
 ||buildyourdata.com^
+||buildyourwebrank.com^
 ||bulletin.nebula.zyxel.com^
 ||bullion.media^
 ||bullionyield.com^
@@ -7481,6 +7486,7 @@
 ||cupid.iqiyi.com^
 ||cupid.jebe.renren.com^
 ||curacao-egaming.com^
+||curahome.digital^
 ||curalate.com^
 ||curationsoft.com^
 ||curatora.io^
@@ -8168,6 +8174,7 @@
 ||dcf.espn.com^
 ||dc.letv.com^
 ||d.clkservice.youdao.com^
+||dcloud.net.cn^
 ||dc.meitustat.com^
 ||dcmservice.de^
 ||dcniko1cv0rz.cloudfront.net^
@@ -8675,6 +8682,7 @@
 ||doudao.cn^
 ||doudouguo.com^
 ||doumob.com^
+||douyin.com^
 ||dov-e.com^
 ||dove.fullcalendar.io^
 ||down.360.cn^
@@ -10487,6 +10495,7 @@
 ||get.optad360.io^
 ||getpixelme.com^
 ||getpocket.cdn.mozilla.net^
+||get-programmers.com^
 ||getpublica.com^
 ||getqonfi.com^
 ||getresponse.com^
@@ -11231,6 +11240,7 @@
 ||hopto.org^
 ||horizonopleidingen.nl^
 ||horsecomplete.nl^
+||hosecopper.click^
 ||hospedagemdesites.ws^
 ||hospitalitysem.com^
 ||host-care.com^
@@ -12047,6 +12057,7 @@
 ||infoicon.digital^
 ||info.layertec.nl^
 ||infolinka.raiffeisen.sk^
+||info.nl^
 ||infonline.de^
 ||info.pinyin.sogou.com^
 ||info.promojungle.nl^
@@ -12133,6 +12144,7 @@
 ||insight.adsrvr.org^
 ||insightexpressai.com^
 ||insight.ftm.nl^
+||insight.nn.nl^
 ||insightplatforms.com^
 ||insight.rapid7.com^
 ||insights.checkyourlink.com^
@@ -12868,6 +12880,7 @@
 ||kbodrvwz.bio^
 ||kbowebbncb.com^
 ||k.clarity.ms^
+||kcmg.nl^
 ||kcmsurvey.com^
 ||kcmsurvey.eu^
 ||kdl.keywee.co^
@@ -13351,6 +13364,7 @@
 ||lifesight.io^
 ||lifestreet.com^
 ||lift-ai-js.marketlinc.com^
+||lifterapps.com^
 ||liftme-up.nl^
 ||liftoff.io^
 ||ligatus.com^
@@ -13968,6 +13982,7 @@
 ||mailperformance.com^
 ||mailplus.nl^
 ||mailrabobank.email^
+||mail.research.nn.nl^
 ||mail.rodekruis.nl^
 ||mail.secondhome.nl^
 ||mailspice.com^
@@ -14442,6 +14457,7 @@
 ||midas-network.com^
 ||middleware.p7s1.io^
 ||midwestmerch.com^
+||midzone.tools^
 ||migc.g.mi.com^
 ||migcreport.g.mi.com^
 ||mi.gdt.qq.com^
@@ -16109,6 +16125,7 @@
 ||payments.amazon.com^
 ||paymentsupportep.com^
 ||pay.mobile.sina.cn^
+||paypalusa.me^
 ||pay-per-leads.com^
 ||paywall.production.ippen.space^
 ||pb25cold.de^
@@ -16319,6 +16336,7 @@
 ||piwik.documentfoundation.org^
 ||piwik.dtnr.nl^
 ||piwik.duiven.nl^
+||piwik.h5mag.com^
 ||piwik.inria.fr^
 ||piwik.itzbund.de^
 ||piwik.kees.nl^
@@ -17243,6 +17261,7 @@
 ||radar.cedexis.com^
 ||radarsubmissions.apple.com^
 ||radarsubmissions.apple.com.akadns.net^
+||radicalmentelegno.com^
 ||radius8.com^
 ||radiusnetworks.com^
 ||rad.live.com^
@@ -18569,6 +18588,7 @@
 ||shrill-definition.com^
 ||s.hs-data.com^
 ||s.hsleadflows.net^
+||sh-stt.com^
 ||shucaihangjia.com^
 ||shuiguo.com^
 ||shushijiameng123.com^
@@ -18658,6 +18678,7 @@
 ||siteimprove.com^
 ||siteintercept.allegiancetech.com^
 ||siteintercept.qualtrics.com^
+||sitelock.com^
 ||site-manager.eu^
 ||sitemeter.com^
 ||sitemobia.com^
@@ -18693,6 +18714,12 @@
 ||sk.search.etargetnet.com^
 ||skybet.com^
 ||skyeng.ru^
+||skyhills-casino.io^
+||skyhillscasino.io^
+||sky-hills.com^
+||skyhills.com^
+||sky-hills.io^
+||skyhills.io^
 ||skyking.com.tw^
 ||skylarkgames.nl^
 ||skylead.io^
@@ -19476,6 +19503,7 @@
 ||stats.world.hey.com^
 ||stats.wp.com^
 ||stats.wpmucdn.com^
+||stats.zotabox.com^
 ||stat.tiara.daum.net^
 ||stat.tildacdn.com^
 ||stat.tudou.com^
@@ -19766,6 +19794,7 @@
 ||syofew6o.net^
 ||sypi.gpshopper.com^
 ||sysdig.com^
+||sysinfotools.com^
 ||sysomos.com^
 ||system1.com^
 ||s.ysxufeng.com^
