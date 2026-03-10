@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-03-09 07:00:23 UTC
+! Generated at 2026-03-10 07:00:16 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -2242,7 +2242,6 @@
 ||radarsubmissions.apple.com^
 ||radarsubmissions.apple.com.akadns.net^
 ||rad.live.com^
-||rad.microsoft.com^
 ||rads.msn.com^
 ||raka.bing.com^
 ||ravm-staging.data.roku.com^
@@ -2521,7 +2520,6 @@
 ||sca-vcode-api.vivoglobal.com^
 ||sca-vcode-od.vivoglobal.com^
 ||sca-vcode-or.vivoglobal.com^
-||sconsentit9.trafficmanager.net^
 ||sd-ad-lgsmartad-com.aws-prd.net^
 ||sdfp.snssdk.com^
 ||sdk-cache.video.ptqy.gitv.tv^
