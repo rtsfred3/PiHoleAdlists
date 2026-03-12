@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-03-11 07:00:49 UTC
+! Generated at 2026-03-12 07:00:42 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -5396,6 +5396,7 @@
 ||analytics.brave.com^
 ||analytics.brickaward.com^
 ||analyticsbusiness.ing.ro^
+||analytics.byecorps.com^
 ||analytics.canaltnt.es^
 ||analytics.capitalgroup.com^
 ||analytics.carambatv.ru^
@@ -8012,6 +8013,7 @@
 ||bidpapers.com^
 ||bidswitch.net^
 ||bienvenido.americanindustriesgroup.com^
+||bi-events-collector.spot.im^
 ||bigcustomernetwork.actonservice.com^
 ||bigdata.clarin.com^
 ||bigdata-lbs-pri-c3.alb.xiaomi.com^
@@ -8794,6 +8796,7 @@
 ||c.amazinglybrilliant.com.au^
 ||c.amazon-adsystem.com^
 ||camel.headfarming.com^
+||camelsfestival.com^
 ||camisado.actonservice.com^
 ||campagne.enecozakelijk.nl^
 ||campaign.amadeus.com^
@@ -8914,6 +8917,7 @@
 ||carte.fleet-page.total.fr^
 ||cartelsalsa.com^
 ||cartkitten.com^
+||cartlug.com^
 ||cartoon.hardalist.com^
 ||cartx.cloud^
 ||carvecakes.com^
@@ -11562,6 +11566,7 @@
 ||dd.control4.com^
 ||d.delahorro.app^
 ||d.deloitte.fr^
+||ddf.di.atlas.samsung.com^
 ||dd.g2.com^
 ||dd.garena.com^
 ||ddioce.wolverine.com^
@@ -27825,12 +27830,15 @@
 ||pmazpg.legalzoom.com^
 ||pm.boostintegrated.com^
 ||pm.dailykos.com^
+||p.mdb.tools^
 ||p.meilentrio.de^
 ||p.metrilo.com^
 ||pm.eu.viatrisconnect.com^
 ||pm.eu.viatrisconnect.de^
 ||pm.eu.viatrisconnect.it^
 ||pm.geniusmonkey.com^
+||p.midbound.click^
+||p.midbound.net^
 ||pmi.flowplayer.com^
 ||p.minds.com^
 ||pmir.sec.miui.com^
