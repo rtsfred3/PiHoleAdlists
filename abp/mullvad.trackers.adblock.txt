@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-03-13 07:00:48 UTC
+! Generated at 2026-03-14 07:00:49 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -8937,6 +8937,7 @@
 ||caterpillarsigns.coversandall.com.au^
 ||caterpillarsigns.coversandall.co.uk^
 ||caterpillarsigns.coversandall.eu^
+||catlanguage.net^
 ||c.at.msn.com^
 ||catracking.cubiq.com^
 ||catracking.finning.com^
@@ -10538,6 +10539,7 @@
 ||ctyjsf.cellphones.com.vn^
 ||ctyojp.kibek.de^
 ||cubchannel.com^
+||cubeglobal.net^
 ||cubepins.com^
 ||cucaido.abphotos.link^
 ||cuddlycake.com^
@@ -14113,7 +14115,6 @@
 ||exitblocked.com^
 ||exmeqy.smartbuyglasses.de^
 ||exo.nel.measure.office.net.sw.buhl-data.com^
-||exo.nel.measure.office.net.us.intinfra.com^
 ||expansioneggnog.com^
 ||experianmatch.info^
 ||experience2013.elliemae.com^
@@ -14366,6 +14367,7 @@
 ||feedme.use-beez.com^
 ||feedten.com^
 ||feignedfaucet.com^
+||femalecook.com^
 ||f-emc.ngsp.gov.vn^
 ||femetrics.grammarly.io^
 ||fencesync.com^
@@ -23358,6 +23360,7 @@
 ||measure.office.net.cz.intinfra.com^
 ||measure.office.net.edgesuite.net^
 ||measure.office.net.in.intinfra.com^
+||measure.office.net.us.intinfra.com^
 ||measure.refinery89.com^
 ||meat.midanmarketing.com^
 ||meatydime.com^
@@ -25672,6 +25675,7 @@
 ||munnin.hicsuntdra.co^
 ||mupmos.levis.com.au^
 ||muqtti.motoin.de^
+||mushroomgods.com^
 ||mushywaste.com^
 ||musicflashcard.com^
 ||muteknife.com^
@@ -27018,6 +27022,8 @@
 ||overconfidentfood.com^
 ||overkick.com^
 ||overratedchalk.com^
+||oversea-nebula-in.heytapmobi.com^
+||oversea-nebula-sg.heytapmobi.com^
 ||ovrsso.gemo.fr^
 ||owa.carhartt.com^
 ||o.webmd.com^
