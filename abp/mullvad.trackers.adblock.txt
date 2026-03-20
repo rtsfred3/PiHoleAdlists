@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-03-16 07:00:49 UTC
+! Generated at 2026-03-20 07:00:47 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -10778,6 +10778,7 @@
 ||d1gp8joe0evc8s.cloudfront.net^
 ||d1hyarjnwqrenh.cloudfront.net^
 ||d1k8sb4xbepqao.cloudfront.net^
+||d1l6p2sc9645hc.cloudfront.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1n00d49gkbray.cloudfront.net^
 ||d1qnmu4nrib73p.cloudfront.net^
@@ -14094,6 +14095,7 @@
 ||excel-telemetry.wac.trafficmanager.net^
 ||exchange.carte-gr.total.fr^
 ||exchange.happ.social^
+||excitingdates.com^
 ||excitingtub.com^
 ||exd4.destinia.com.au^
 ||exdmarketing.smu.edu.sg^
@@ -14581,6 +14583,7 @@
 ||fn-pz.com^
 ||fnvma.milanuncios.com^
 ||foambench.com^
+||focusfitwear.com^
 ||fog.pixual.co^
 ||fokbrd.impo.ch^
 ||folderplan.com^
@@ -18496,10 +18499,8 @@
 ||internalcomms.dbschenker.com^
 ||internalcomms.hubinternational.com^
 ||internalcondition.com^
-||internal-e.posthog.com^
 ||internal.hcltech.com^
 ||internalsink.com^
-||internal-t.posthog.com^
 ||international.edc.ca^
 ||internationalpayments.americanexpress.com^
 ||international.wandw.ac.nz^
@@ -25884,6 +25885,7 @@
 ||neowiv.brumbrum.it^
 ||nerldv.ullapopken.pl^
 ||nervoussummer.com^
+||nestbuyers.com^
 ||net1.netski.com^
 ||net.24-ads.com^
 ||net.brillen.de^
@@ -27347,6 +27349,7 @@
 ||pemskb.unitedcinemas.jp^
 ||peoplehr.actonservice.com^
 ||people.mbtionline.com^
+||pepin.padlet.com^
 ||pepleb.ekosport.de^
 ||peqvwk.notino.at^
 ||perceivequarter.com^
@@ -29241,6 +29244,7 @@
 ||rs.adpinfo.com^
 ||r.sax.sina.com.cn^
 ||rsc.lepoint.fr^
+||r.sdiapi.net^
 ||r.sg.sec.miui.com^
 ||rsinqg.homelux.hu^
 ||r.skimresources.com^
@@ -31376,6 +31380,7 @@
 ||share.yabelink.com^
 ||share.yugengamers.com^
 ||sharing.kptncook.com^
+||shatterloop.com^
 ||sh.b.inhaabit.com^
 ||shdid.me^
 ||s.hdsupplysolutions.com^
@@ -31531,6 +31536,7 @@
 ||siteintercept.allegiancetech.com^
 ||site.johnlewis-insurance.com^
 ||sitel.actonservice.com^
+||sitemapwizard.com^
 ||site.newzstand.com^
 ||siteperformancetest.net^
 ||sites.campaignmgr.cisco.com^
@@ -37766,6 +37772,7 @@
 ||tag.eisa.mercari.com^
 ||tag.elevaate.io^
 ||tag.flagship.io^
+||tag.gendiscover.com^
 ||tagger.opecloud.com^
 ||tagger.ope.scmp.com^
 ||tag.getamigo.io^
@@ -39191,6 +39198,7 @@
 ||tp.quelle.de^
 ||t.prageru.com^
 ||t.prod1.discover.binge.com.au^
+||t.producthunt.com^
 ||tp.sheego.de^
 ||tp.sieh-an.at^
 ||tp.sieh-an.ch^
