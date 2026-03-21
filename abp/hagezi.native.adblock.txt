@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-03-20 07:00:17 UTC
+! Generated at 2026-03-21 07:00:20 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -111,6 +111,7 @@
 ||acr-in-prd.samsungcloud.tv^
 ||acr-kr-prd.samsungcloud.tv^
 ||acr-mx-prd.samsungcloud.tv^
+||acr-nz-prd.samsungcloud.tv^
 ||acr.roku.com^
 ||acr-us-prd.samsungcloud.tv^
 ||activity.browser.intl.miui.com^
@@ -1185,6 +1186,7 @@
 ||hk.lgsmartad.com^
 ||hk-tracker.trafficmanager.net^
 ||hme-live-loganalytics-namespace.servicebus.windows.net^
+||hme-uat-loganalytics-namespace.servicebus.windows.net^
 ||hn-ad-lgsmartad-com.aws-prd.net^
 ||hn.lgsmartad.com^
 ||homeprv.lgtvcommon.com^
@@ -1586,6 +1588,7 @@
 ||matomo.samsungsdibs.at^
 ||maws-aax-apse-rtb-adx.amazon-adsystem.com^
 ||maws-aax-apse-rtb.amazon-adsystem.com^
+||maws-aax-eu.amazon-adsystem.com^
 ||maws-aax-eu-rtb-adx.amazon-adsystem.com^
 ||maws-aax-eu-rtb.amazon-adsystem.com^
 ||maws-aax-fe.amazon-adsystem.com^
@@ -2796,6 +2799,7 @@
 ||t-ring.msedge.net^
 ||t-ring-s2.msedge.net^
 ||t-ring-s.msedge.net^
+||t-ring-trafficshield.msedge.net^
 ||tr.lgsmartad.com^
 ||tr-onrt-stsdk.vivoglobal.com^
 ||tr-ort-stsdk.vivoglobal.com^
@@ -2835,6 +2839,7 @@
 ||u-id.cpc.heytapmobile.com^
 ||ukc-onenote-telemetry.officeapps.live.com^
 ||ukc-visio-telemetry.officeapps.live.com^
+||uk-timesync.vivoglobal.com^
 ||ums-rum-cn.heytapimage.com^
 ||ums-rum-global.heytapimage.com^
 ||ums-telemetry-cn.heytapmobi.com^
@@ -2999,8 +3004,20 @@
 ||ypu.samsungelectronics.com^
 ||za-ad-lgsmartad-com.aws-prd.net^
 ||za.lgsmartad.com^
+||za-p.vivoglobal.com^
 ||zasc-cota.vivoglobal.com^
+||zasc-domaincfg.vivoglobal.com^
+||zasc-err-up.vivoglobal.com^
+||zasc-onrt-stsdk.vivoglobal.com^
+||zasc-ort-stsdk.vivoglobal.com^
+||zasc-pnrt-stsdk.vivoglobal.com^
+||zasc-romsp-unifyconfig.vivoglobal.com^
+||zasc-stsdk.vivoglobal.com^
+||zasc-st-sl.vivoglobal.com^
+||zasc-timesync.vivoglobal.com^
+||zasc-vcode-api.vivoglobal.com^
 ||zasc-vcode-od.vivoglobal.com^
+||zasc-vcode-or.vivoglobal.com^
 ||zen-core-fr.allawnos.com^
 ||zen-core-in.allawnos.com^
 ||zen-core-sg.allawnos.com^

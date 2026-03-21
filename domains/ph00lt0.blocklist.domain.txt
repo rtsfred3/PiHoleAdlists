@@ -1,4 +1,4 @@
-# Generated at 2026-03-20 07:00:12 UTC
+# Generated at 2026-03-21 07:00:15 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -4681,6 +4681,7 @@ beta.com.tw
 betano.de
 beta.partners.adsterra.com
 beta.publishers.adsterra.com
+betarino.com
 bet-at-home.de
 betatraining.eu
 betcity.net
@@ -7551,6 +7552,7 @@ cyad.cc
 cyad.nate.com
 cybba.solutions
 cyberawareness.top
+cyberdude.com
 cyberflow.com
 cybergal.com
 cyberlink.com
@@ -8242,6 +8244,7 @@ defybrick.com
 degoudsbloem.be
 dehelendereisindepraktijk.nl
 deinchatbot-speech.azurewebsites.net
+dein-juwelier.de
 deinneueszuhause.de
 de.ioam.de
 dejing.laobanfa.com
@@ -8266,6 +8269,7 @@ delivery.wasu.cn
 delkenboot.nl
 dell-cidr.akadns.net
 delmovip.com
+delosmail.com
 delottery.com
 deltadna.com
 deltadna.net
@@ -10662,6 +10666,7 @@ gmtdmp.com
 gnar.grammarly.com
 gnar.grammerly.com
 gnpfesdk-pa.googleapis.com
+go1001000.com
 go.10086.cn
 go2app.org
 go2cloud.org
@@ -12065,6 +12070,7 @@ infor.com
 info-rebo.eu
 informa.com
 informamarkets.com
+informatel.cloud
 informatie-over-energietarieven.nl
 informer.yandex.ru
 informizely.com
@@ -12683,6 +12689,7 @@ jouwhorizon.be
 jouwstartonline.nl
 jouwvindplaats.nl
 jovanca.nl
+jov.io
 joyfuldoors.com
 joygameplace.com
 joystickinteractive.com
@@ -13956,6 +13963,7 @@ mailblaze.com
 mailblue.nl
 mail-boutique2.fr
 mailbox.co.id
+mail-buzzee.fr
 mailcampaigns.nl
 mailcamp.nl
 mailcatch.com
@@ -14029,6 +14037,7 @@ map.qq.com
 mapromessechic.fr
 maquipan.cl
 marathonbet.dk
+marblerenew.com
 ma.redhat.com
 marfeelcache.com
 marfeel.com
@@ -15035,6 +15044,7 @@ naqigs.com
 narendramodiapp.com
 narrativ.com
 nasamlinkes.nl
+nasentc.com
 nasma.be
 nationale-loterij.be
 national-lottery.co.uk
@@ -18290,6 +18300,7 @@ security.browser.miui.com
 securityiq.infosecinstitute.com
 securitysoftwarezone.com
 securitytrfx.com
+sedioliniauto.com
 seebug.org
 seeding-alliance.de
 seedtag.com
@@ -20309,6 +20320,7 @@ tianqi777.com
 tianyanzs.com
 tiara.daum.net
 ticcdn.com
+tickster.com
 tics.techdirt.com
 tidio.co
 tifbs.net
@@ -20626,6 +20638,7 @@ trafficsecrets.com
 trafficstars.com
 traffic.uusee.com
 trafico.prensaiberica.es
+trainingcreatively.com
 training.marketing.linkedin.com
 training.sales.linkedin.com
 training.talent.linkedin.com
@@ -20661,6 +20674,7 @@ treasuredata.com
 treatment.grammarly.com
 tredir.go.com
 tr.ee
+treflio.com
 tremorhub.com
 tremorvideo.com
 trendalytics.co
@@ -20736,6 +20750,7 @@ trustcorsystems.com
 truste.com
 trustedform.com
 trustedshops.com
+trustedshops.de
 trustedsource.org
 trustgram.co
 trustguard.com
@@ -21917,6 +21932,7 @@ withcabin.com
 wiyun.com
 wizaly.com
 wjguc.com
+wjqinghe.com
 wjs.wurflcloud.com
 wka8.com
 wkanc.51y5.net

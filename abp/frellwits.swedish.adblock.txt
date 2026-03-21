@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-03-20 07:00:10 UTC
+! Generated at 2026-03-21 07:00:13 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 ! 
@@ -532,6 +532,7 @@
 ||impse.tradedoubler.com^
 ||imp.tradedoubler.com^
 ||imstore.bet365affiliates.com^
+||inferred.litix.io^
 ||infotorg.d2.sc.omtrdc.net^
 ||ingest.analytics.nation.dev^
 ||insight.adsrvr.org^
@@ -581,6 +582,7 @@
 ||lifeofsvea.mainroll.com^
 ||litix.io^
 ||live.demand.supply^
+||live-tag.creatopy.net^
 ||load.a.receptskatt.se^
 ||loadbalancer.visitor-analytics.io^
 ||loader.wisepops.com^
@@ -1063,6 +1065,7 @@
 ||tracking.vlt.se^
 ||tracking.vn.se^
 ||tracking.ystadsallehanda.se^
+||track.mediaintelliview.com^
 ||track.postkodlotteriet.se^
 ||track.uniqodo.com^
 ||track.yetric.net^
