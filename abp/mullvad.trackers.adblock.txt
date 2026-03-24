@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-03-23 07:00:49 UTC
+! Generated at 2026-03-24 07:00:51 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -7785,6 +7785,7 @@
 ||bandborder.com^
 ||banks.adpinfo.com^
 ||bank.svb.com^
+||banner.appsflyersdk.com^
 ||banstat.nadavi.net^
 ||bapages.carte-gr.total.fr^
 ||barbadoshello.com^
@@ -14465,6 +14466,7 @@
 ||firurx.invia.hu^
 ||fishersfinds.com^
 ||fishing.daigostudio.com^
+||fishingtoolsbox.com^
 ||fitmessage.com^
 ||fitnessmapper.com^
 ||fivesidedsquare.com^
@@ -14941,6 +14943,7 @@
 ||fuzzyaudio.com^
 ||fuzzybasketball.com^
 ||fuzzyerror.com^
+||fvalid.appsflyersdk.com^
 ||fvc.alcatel-lucent.com^
 ||fvuitt.alibabuy.com^
 ||fvvyjd.jtv.com^
@@ -18401,6 +18404,7 @@
 ||inquisitiveinvention.com^
 ||ins.connatix.com^
 ||insectmacros.com^
+||insidepsych.net^
 ||insight.aon.com^
 ||insight.autovistagroup.com^
 ||insight.boomer.com^
@@ -26064,6 +26068,7 @@
 ||nirdjz.revolveclothing.com.au^
 ||nisaapp.nexus-dt.com^
 ||nitrous-analytics.s3.amazonaws.com^
+||nixie.starlightnet.work^
 ||njnlih.realitatea.net^
 ||njorya.aosom.de^
 ||njtwub.schneider.de^
@@ -26752,6 +26757,7 @@
 ||onedropocean.com^
 ||one.godigit.com^
 ||oneid.mmstat.com^
+||onelinksmartscript.appsflyersdk.com^
 ||onelink.taptalk.io^
 ||onem.marketing.onemarketinguxp.com^
 ||onenet.gakujutsu.com^
@@ -26803,6 +26809,7 @@
 ||o.otrestaurant.com^
 ||opalquill.com^
 ||opbdps.bonprix.fi^
+||op.dragonfru.it^
 ||open.ailo.app^
 ||open.anghami.com^
 ||openapi.vip.ptqy.gitv.tv^
@@ -31449,6 +31456,7 @@
 ||sidebar-apps-in.allawnos.com^
 ||sidebar-apps-sg.allawnos.com^
 ||siderain.com^
+||sidetrades.com^
 ||sid.nordstrom.com^
 ||sierrakermit.com^
 ||siewmi.uncommongoods.com^
@@ -37811,6 +37819,7 @@
 ||tags.esri.ca^
 ||tags.esri.com^
 ||tags.esri.rw^
+||tags-event.woolworths.co.nz^
 ||tags.fullcontact.com^
 ||tags.globo.com^
 ||tags.hilabel.nl^
@@ -38951,6 +38960,7 @@
 ||tlsalw.platypusshoes.co.nz^
 ||tls.thelibrarystore.com^
 ||t.lsusports.net^
+||t.ltiquery.com^
 ||tltkpu.jagran.com^
 ||tltpyy.saatchiart.com^
 ||tl.tradetracker.net^
@@ -39277,6 +39287,7 @@
 ||traces-us-east-1.dev.sr.roku.com^
 ||traces-us-west-2.dev.sr.roku.com^
 ||trace.swaven.com^
+||traces.youdo.com^
 ||track1.avplayer.com^
 ||track2.cliplister.com^
 ||track2.dulingo.com^
@@ -43431,6 +43442,7 @@
 ||waaf1.hoferfotos.at^
 ||waaf.medion.com^
 ||wa.and.co.uk^
+||wa.appsflyersdk.com^
 ||waatch.gva.be^
 ||waatch.hbvl.be^
 ||waatch.nieuwsblad.be^
@@ -43731,6 +43743,7 @@
 ||webpushstat.api.engagelab.cc^
 ||web.redazione.milanofinanza.it^
 ||websdk.appsflyer.com^
+||websdk.appsflyersdk.com^
 ||websdkmetrics.blackrock.com^
 ||web.sensilab.com^
 ||web.sensilab.cz^

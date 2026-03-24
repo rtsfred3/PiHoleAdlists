@@ -1,4 +1,4 @@
-# Generated at 2026-03-23 07:00:15 UTC
+# Generated at 2026-03-24 07:00:16 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -2718,6 +2718,7 @@ a.fwsir.com
 agaenteitor.com
 agconnect.link
 agenda.complex.com
+agentgraphique.com
 ageverify.co
 ageverify.com
 aggle.net
@@ -2811,6 +2812,7 @@ aitd.one
 aiv-cdn.net
 aivie.ch
 aivo.co
+aivoorhetmkb.eu
 aivo-site.netlify.app
 aiwen.cc
 aixport.de
@@ -2888,6 +2890,7 @@ alexametrics.com
 alfa145.com
 alfa-hotel.free.hr
 alfa-track.com
+alfesaninsaat.com
 algbid.app
 algonomy.com
 algorecs.com
@@ -2951,6 +2954,7 @@ alphablues.com
 alphacomm.network
 alphalyr.fr
 alphalytics.net
+alphavilleanapolis.com.br
 alphonso.tv
 alqemam.info
 alrocktrck.info
@@ -3415,7 +3419,6 @@ api-dev-4il4eytndq-ey.a.run.app
 api-device.mocaplatform.com
 api.didiglobal.com
 apidm.airpush.com
-api.dmcdn.net
 api.docodoco.jp
 api.doumob.com
 api.dreamfull.cn
@@ -3862,6 +3865,7 @@ asciinema.org
 asda.com.akadns.net
 asdfghjkl.ovh
 asd.projectfreetv.so
+asd-rechtsanwaelte.de
 aseads.com
 ase.com
 a.sellpoint.com
@@ -4231,6 +4235,7 @@ ayt-live.fra1.digitaloceanspaces.com
 azabu-u.ac.jp
 az-cdn.ch
 azerion.com
+azerton.nl
 azrcdnprd01.azureedge.net
 azweeuas1bkm852.azurewebsites.net
 b001.recharge.com
@@ -4266,6 +4271,7 @@ babbel.io
 babeforums.org
 babelstreet.com
 babiel.com
+babyamerica.com
 babyniceshark.com
 bacanaplay.de
 ba.ccm2.net
@@ -4408,6 +4414,7 @@ barrons.com
 barsmtp.monster
 basebuilder.com
 base.filedot.xyz
+basepointeg.com
 basilesalgados.com.br
 basis.net
 bataviacasino.nl
@@ -4715,6 +4722,7 @@ betway.com
 betway.de
 betweendigital.com
 betxpert.com
+beveiliging-aanvraag.im
 beverlyads.com
 bevr.nl
 bewelllabs.com
@@ -5513,6 +5521,7 @@ captifymedia.com
 captifytechnologies.com
 captiwate.com
 capturehighered.net
+capturesoul.com
 capturly.com
 carambo.la
 carbonads.com
@@ -6250,6 +6259,7 @@ chtbl.com
 churchrez.org
 chushoushijian.cn
 chushywoce.com
+chyly.tech
 ci360.marketing
 ciajingman.com
 c-i.as
@@ -6531,6 +6541,7 @@ cloudflareinsights.com
 cloudflare-ipfs.com
 cloudflareresearch.com
 cloudfront.xp-assets.aiv-cdn.net
+cloudfunctions.net
 cloud.heytap.com
 cloudimg.io
 cloud-iq.com
@@ -7892,7 +7903,6 @@ d3jevfqonw59g3.cloudfront.net
 d3jh9lldskr7se.cloudfront.net
 d3jl4o3inrfq6m.cloudfront.net
 d3jmu47mczi4z5.cloudfront.net
-d3js.org
 d3khug2sh8iubx.cloudfront.net
 d3kuri221qk0z7.cloudfront.net
 d3lac2qn3905bt.cloudfront.net
@@ -8232,7 +8242,6 @@ de-config.sensic.net
 decouvertesurlenet.fr
 decoymail.com
 decoymail.net
-de.edgesuite.net
 deepintent.com
 deernes.com
 default.sacdn.no
@@ -8325,6 +8334,7 @@ developers.kakao.com
 developers.kameleoon.com
 dev-era-184513.ew.r.appspot.com
 deveryware.com
+devexglobal.com
 devgalazy.com
 device-api.urbanairship.com
 devicebind.befr.ebay.be
@@ -8552,7 +8562,6 @@ dm.bytedance.com
 dm.bytedance.net
 dmc1acwvwny3.cloudfront.net
 dmca.com
-dmcdn.net
 dm.chalook.net
 dmc.nico
 dmd.metaservices.microsoft.com
@@ -8718,6 +8727,7 @@ dp.559.cc
 dpaikar.com
 dpa-tools.ui-portal.de
 dpbolvw.net
+dpdns.org
 dpg-eventstreams.akamaized.net
 dpgmmservices.nl
 dpgshops.nl
@@ -8740,6 +8750,7 @@ dreamfull.cn
 dreamlab.pl
 dreamopportunities.co.uk
 d.reddit.com
+dress-well.com
 drfdisvc.walmart.com
 dr.holaworld.cn
 drift.com
@@ -8965,6 +8976,7 @@ e.baidu.com
 ebaydesc.com
 ebayrtm.com
 ebbertz.nkl.de
+e-berichtenhandelsregister.nl
 ebilobster.ai
 ebis.ne.jp
 eboatnow.com
@@ -9108,6 +9120,7 @@ electrosim.click
 electro-smog.ch
 elementaryanalytics.com
 elevateab.app
+elevate-links.com
 elfsight.com
 eligibility-panelresearch.googlevideo.com
 elink.io
@@ -12675,9 +12688,11 @@ jointreport-switch.com
 jokerstar.de
 jolandavleugel.nl
 jonathanbreedveld.com
+jonnhytech.com
 jooble.com
 jooule.com
 jornaiserevistasmedia.com
+josef-strobl.de
 jossuer.net
 jotform.com
 jougids.nl
@@ -13349,6 +13364,7 @@ liangziweixg.com
 lianmeng.360.cn
 li-apps.com
 lib.getshogun.com
+librairie-viedimpact.com
 libraries.hund.io
 libraryh3lp.com
 librato-collector.genius.com
@@ -13861,6 +13877,7 @@ lunchboxfactory.de
 luniversdespossibilites.fr
 luniversodeiconsigli.it
 lusha.com
+lushanotice.com
 lu.sogoucdn.com
 lu.sogou.com
 lustre.ai
@@ -14164,6 +14181,7 @@ matrixiangroup.com
 matrix-ott.tv
 matrixwijze.nl
 matsudden.com
+mattsmowingandlawncare.com
 mautic.com
 mautic.org
 maverickinter.shop
@@ -14748,6 +14766,7 @@ moonvideo.com
 moonwish.com.cn
 moosend.com
 moosite.com
+mootpointmedia.com
 mopinion.com
 mopub.com
 moquanad.com
@@ -15089,6 +15108,7 @@ nclottery.com
 n.cosbot.cn
 nct.ui-portal.de
 ndcx.evolok.net
+nden.haccga.com
 ndncollective.org
 ndtzx.com
 ne9377.com
@@ -15163,6 +15183,7 @@ network.aufeminin.com
 networkbench.com
 network.business.com
 network.sofeminine.co.uk
+networthheight.com
 netzeffekt.de
 netzwerk.uppr.de
 neugebauer.de
@@ -15186,7 +15207,6 @@ news-edge.apple.com
 new-sentry.gitlab.net
 news-events.apple.com
 newsfordads.com
-news.google.com
 newsifier.com
 newsifier.nl
 news-img.51y5.net
@@ -15447,6 +15467,7 @@ nv-sdk.jumio.com
 nwseaplanes.com
 nwsrv-ns1.asus.com
 nwwap.com
+nxcli.io
 nxrhs.com
 nxrxt.con
 nxtid.nl
@@ -15457,6 +15478,7 @@ nylottery.ny.gov
 nyltx.com
 nyn-qigong.com
 nysita.com
+nytech-ease.com
 nyxcosmetics.com
 nzezn.com
 nzm.one
@@ -16586,6 +16608,7 @@ popup.msn.com
 popupsmart.com
 pop.uusee.com
 porjs.com
+porschevs.de
 portal.eu.numbereight.ai
 portalhc.com
 portal.websecurityscan.eu
@@ -16688,6 +16711,7 @@ presage.io
 prescreenapp.io
 presence.api.drift.com
 presentationtracking.netflix.com
+presentinggames.com
 pressboard.ca
 pressboardmedia.com
 presslabs.net
@@ -17643,6 +17667,7 @@ risecodes.com
 riskified.com
 riskpoc.trip.com
 r-itservices.bzh
+ritualstop.com
 river.zhidao.baidu.com
 rivora-2.com
 rj.baidu.cn
@@ -17878,7 +17903,6 @@ s.17173cdn.com
 s1.adform.net
 s1-ap-sales-middleware.iad.apple.com
 s1.cmfu.com
-s1.dmcdn.net
 s1-ext-searchads.iad.apple.com
 s1.hiapk.com
 s1-iad-ap-apps-ad-tester.iad.apple.com
@@ -17900,7 +17924,6 @@ s1.symcb.com
 s2.adform.net
 s2-ap-sales-middleware.iad.apple.com
 s2blosh.com
-s2.dmcdn.net
 s2-ext-searchads.iad.apple.com
 s2.go-mpulse.net
 s2-iad-ap-apps-ad-tester.iad.apple.com
@@ -18469,6 +18492,7 @@ sfeerinmalmo.com
 sf.ezoiccdn.com
 s.flocdn.com
 sfloushi.com
+sfp888.com
 sfpam.fr
 sfr-anti-fraude.fr
 sfr.fr
@@ -18958,6 +18982,7 @@ sostats.mozilla.com
 soter.tencent.com
 souhaitdujour.fr
 soulapp.cn
+soundestlink.com
 sourcepointcmp.bloomberg.com
 sourcepoint.com
 sourcepoint.jezebel.com
@@ -19216,6 +19241,7 @@ st11p01ad-netscaler009-pass.iad.apple.com
 st11p01ad-netscaler013-pass.iad.apple.com
 st11p01ad-netscaler014-pass.iad.apple.com
 staatsloterijtrekking.nl
+staccarparts.com
 stackadapt.com
 stackhero.io
 stackoom.com
@@ -19539,6 +19565,7 @@ steelhousemedia.com
 stefekkelautomaten.nl
 stempunt.nu
 stepstone.d1.sc.omtrdc.net
+sterkinmatches.nl
 ster.nl
 stervapoimenialena.info
 st-eu.dynamicyield.com
@@ -19637,6 +19664,7 @@ sucodb.com
 sugar.zhihu.com
 suggerimentiperte.it
 suggestqueries.google.com
+suhasforvirginia.com
 sukigyik.xyz
 summerhamster.com
 sumo.com
@@ -20226,6 +20254,7 @@ tg.52digua.com
 t.gatorleads.co.uk
 t.gelderlander.nl
 t.ghostboard.io
+tgjhtriuhtrh.com
 tg.jifen.2345.com
 tglyr.co
 tgshopadboard.com
@@ -20238,6 +20267,7 @@ the-advisr.com
 theadvisrguide.com
 theappanalytics.com
 theappreciationengine.com
+theappsdeveloper.com
 thebrave.io
 thebrighttag.com
 thebrowser.ghost.io
@@ -20270,8 +20300,10 @@ thenitroinfotech.com
 theokex.com
 theoptimizer.io
 the-ozone-project.com
+thepillaygroup.com
 thepointyspritesclub.com
 thepowerofqi.org
+theprestigeawards.com
 therapist.net
 theraptormedia.com
 theresegodthelp.nl
@@ -20324,6 +20356,7 @@ tickster.com
 tics.techdirt.com
 tidio.co
 tifbs.net
+tiganello.com
 tigerspin.de
 ti.hornbach.nl
 tijdvoortrauma.nl
@@ -20570,6 +20603,7 @@ tracking.dekbed-discounter.nl
 tracking-delivery-nl.com
 trackingdesk.com
 tracking.drum.io
+tracking.elektramat.nl
 tracking.epicgames.com
 tracking.explorepulse.com
 tracking.g2crowd.com
@@ -20675,6 +20709,7 @@ treatment.grammarly.com
 tredir.go.com
 tr.ee
 treflio.com
+treinatec.com
 tremorhub.com
 tremorvideo.com
 trendalytics.co
@@ -21245,6 +21280,7 @@ v16-ad.byteoversea.com
 v1.cnzz.com
 v1.log.moji.com
 v20.events.data.microsoft.com
+v22media.com
 v265.salland.nl
 v2.fm.n.duokanbox.com
 v2.log.hunantv.com
@@ -21317,6 +21353,7 @@ vegasslotsonline.com
 vegaswinner.de
 vegent.cn
 veikkaus.fi
+velkimasteragent.com
 velocidi.com
 veloxity.net
 velthuysemulder.nl
@@ -21671,6 +21708,7 @@ web-analytics.fco.gov.uk
 webanalytics.italia.it
 web.analytics.yahoo.com
 webapi.stormgeo.com
+web.app
 webbolt.biz
 webbusinessmarket.com
 web-capture.net
@@ -21755,11 +21793,13 @@ webzon.be
 wecotra.nl
 wedate.com
 weddenonline-nederland.nl
+wedofollows.com
 wedolook.com
 weekday.com
 weekli.systems
 weeklyad.target.com
 weeklyad.target.com.edgesuite.net
+weeklyboost100.com
 wegamedeveloper.com
 weglot.com
 weibomingzi.com
@@ -22453,6 +22493,7 @@ zamplus.com
 zanalytics.zoho.com
 zantainet.com
 zapads.zapak.com
+zapiermail.com
 zapingers.autos
 zapr.in
 zapto.org
@@ -22561,6 +22602,7 @@ zog.link
 zohocampaigns.com
 zohoinsights1.eu
 zohoinsights.com
+zohostratus.eu
 zohotagmanager.cdn.pagesense.io
 zonmw.containers.piwik.pro
 zonnebloem.nl
