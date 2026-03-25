@@ -1,4 +1,4 @@
-# Generated at 2026-03-24 07:00:51 UTC
+# Generated at 2026-03-25 07:00:54 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -9548,7 +9548,6 @@ cname.nikkei-cnbc.co.jp
 cname.pebmed.com.br
 cname-sin01-stsdk09.vivoglobal.com
 cn-api.mcsvc.samsung.com.cn
-cnbj1.fds.api.xiaomi.com
 cnebis.chocola.com
 cnebis.eisai.jp
 cnebis.i-no-science.com
