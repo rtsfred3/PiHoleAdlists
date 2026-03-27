@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-03-26 07:00:16 UTC
+! Generated at 2026-03-27 07:00:17 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 ! 
@@ -6198,6 +6198,7 @@
 ||checkip.synology.com^
 ||checkipv6.synology.com^
 ||checkmarket.com^
+||checkmarx.zone^
 ||checkoutanalytics-live.adyen.com^
 ||checkoutpage.co^
 ||check-phone.kiwi.com^
@@ -10703,6 +10704,7 @@
 ||go.coolmaterial.com^
 ||goddelijkedag.com^
 ||go.dhlparcel.nl^
+||godlike.host^
 ||godloveme.cn^
 ||godog.shopifycloud.com^
 ||go.dyndns.org^
@@ -14189,6 +14191,7 @@
 ||maw.wnbfw.com^
 ||maxhd.vip^
 ||maximiles.com^
+||maximum-vpn.com^
 ||maximusx.com^
 ||maxmalo-sas.com^
 ||maxmind.com^
@@ -18847,6 +18850,7 @@
 ||smoove.io^
 ||sm.pcmag.com^
 ||smp-device-content.apple.com^
+||sms.sb^
 ||sm.toutiao.com^
 ||smule.com^
 ||smxay.com^
@@ -21850,6 +21854,7 @@
 ||whats-app-vote.ru^
 ||wheelzgames.de^
 ||whichcasino.com^
+||whispershackerrecovery.com^
 ||whistleout.s3.amazonaws.com^
 ||whiteops.com^
 ||whitesaas.com^
