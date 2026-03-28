@@ -1,4 +1,4 @@
-# Generated at 2026-03-27 07:00:55 UTC
+# Generated at 2026-03-28 07:00:56 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -7497,6 +7497,7 @@ autovistaintelligence.autovistagroup.com
 autovista-se.autovistagroup.com
 autozone.actonservice.com
 autspe.notino.hr
+au-vcode-od.vivoglobal.com
 auwdff.dyfashion.ro
 aux.lansator.ro
 av6fm8zw2cvz.furucombo.app
@@ -7719,7 +7720,6 @@ a.zleep.com
 az.lgsmartad.com
 azlyta.immowelt.de
 az.nzn.io
-azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com
 azscgj.penningtons.com
 azuremystique.com
 azurestealth.com
@@ -20792,6 +20792,7 @@ log32-normal-sg.capcutapi.com
 log32-normal.tiktokv.com
 log32-normal-useast1a.tiktokv.com
 log32-normal-useast2a.tiktokv.com
+log32-normal-useastred.tiktokv.eu
 log32-normal-zr.tiktokv.com
 log3-normal-c-alisg.tiktokv.com
 log3-normal-c-useast1a.tiktokv.com
@@ -27083,6 +27084,9 @@ p03.sc.origins.en25.com
 p04.sc.origins.en25.com
 p06.sc.origins.en25.com
 p16-ad.byteoversea.com
+p16-tiktok-ads-sg.tiktokcdn.com
+p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
+p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
 p16-tiktokcdn-com.akamaized.net.iberostar.com
 p1.danskebank.co.uk
 p1.danskebank.dk
@@ -28249,6 +28253,7 @@ pubimgs.com
 public.9gtb.com
 publications.nomination.fr
 publicidad.davivienda.com.pa
+public.profitwell.com
 publicschoolworks.actonservice.com
 publicsofa.com
 publish.tagstorm.com
@@ -38388,6 +38393,7 @@ telemetry.webasto.com
 telem.sre.gopuff.com
 telephoneapparatus.com
 te.limango.de
+t.elitedomains.de
 telsmith.actonservice.com
 telstraphonewords.actonservice.com
 tel.telegraaf.nl
@@ -39376,6 +39382,7 @@ tracker.520call.me
 tracker-aa.pafbetscore.lv
 tracker-aa.paf.es
 tracker.adbinead.com
+tracker.adcluster.com.tr
 tracker.affiliate.iqbroker.com
 tracker.affirm.com
 tracker.ai.xiaomi.com
@@ -41902,6 +41909,7 @@ truebackpack.com
 truefaced.actonservice.com
 truejasmine.com
 truemfg.actonservice.com
+trueselfkeys.com
 truffle.bid
 tr.ujsv.espmp-agfr.net
 tr.uk.icicibank.com
@@ -43128,6 +43136,7 @@ verify.spin.app
 verify.test.spin.app
 verizon-branch.locationlabs.com
 verseballs.com
+versuswall.com
 vertexcs.actonservice.com
 vetsource.actonservice.com
 ve.velocityclinical.com

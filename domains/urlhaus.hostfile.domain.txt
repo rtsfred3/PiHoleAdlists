@@ -1,4 +1,4 @@
-# Generated at 2026-03-27 07:00:13 UTC
+# Generated at 2026-03-28 07:00:16 UTC
 # 
 # Sources: https://urlhaus.abuse.ch/downloads/hostfile
 # 
@@ -8,7 +8,7 @@
 1717.1000uc.com
 1.off3.ru
 2.off3.ru
-56lr0t2n.moondev.digital
+9ecs80cc.skybit.digital
 aaronart.com
 abissnet.net
 acaviationsupplies.com
@@ -56,7 +56,6 @@ brsrys.com
 bvaco.com
 cad.659t.cn
 cambodiatouristservice.com
-castroycontadores.com
 cat.xiaoshabi.nl
 ccleaner.gl
 cdaonline.com.ar
@@ -67,7 +66,6 @@ chat-server.maverickpreviews.com
 checkfivem.com
 checkinetverifk.com
 chinaapper.com
-chinasite.com.br
 chiptune.com
 chungminhtaichinhsaigon.net
 classroomseven.com
@@ -75,6 +73,7 @@ clipaid.app
 cloudstay168.com
 cl.ssouy.com
 clubdetiroelpicarcho.com
+cnc.504.su
 cnt-logiistics.com
 cn.unionlever.com
 co-emas.com
@@ -84,7 +83,9 @@ contentmentfairnesspesky.com
 continentalgroup.net.in
 controliumbt.com
 coralasargetia.ro
+corepilatesnicaragua.com
 corporacioncrf.com
+cotecsecuritygroup.com
 creativevoltage.com
 crimefreesoftware.com
 crixup.com
@@ -94,7 +95,6 @@ csg-app.com
 cs.go.kg
 ct3-24.ru
 d.14yaa.com
-d8.tfdl.net
 data.yhydl.com
 dcrun.co.uk
 delp-heizungsbau.de
@@ -121,12 +121,14 @@ download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
 download.suxiazai.com
+download-version.1-7-2.com
 down.mvip8.ru
 down.pcclear.com
 down.qqfarmer.com.cn
 dowonline.ru
 dreamwatchevent.com
 drevos.ro
+drhenrylopez.com
 dusttv.com
 d.wanyouxi7.com
 dweixin.cn
@@ -153,6 +155,7 @@ fenbushijujuefuwu.com
 fertas.com.tr
 file.blackint3.com
 filerit.com
+file.uhsea.com
 filezilla.cc
 first-security-verden.de
 flyingmutts.com
@@ -168,18 +171,14 @@ gerlimeri.org
 gharnt.com
 github.guru
 globaltechbilling.com
-gobiotechpestcontrol.com
-googmeetinginvitation.com
 gutando.com
 halflifeagency.top
 hasalltalent.com
 hasteb.in
 hitman-pro.ru
 hitstation.nl
-hobobot.net
 hotellacastellana.com.uy
 hqweb.id.vn
-hseda.com
 i.404.pm
 ibnbatutta.pk
 icoffeecloud.com
@@ -196,6 +195,7 @@ isiore.com.co
 itssprout.com
 izocab.com
 izogard.com
+jawaratekno.com
 jlwz.cn
 joyeriatauro.com
 jyothishmathi.in
@@ -204,9 +204,7 @@ kavacanada.ca
 khoancatbetong89.vn
 kimyen.net
 km.tradeforexcopier.com
-kokorostore.it
 konsor.ru
-kotogadang-pusako.com
 kramersmarionnettes.com
 krisidev.com
 kuzina-teatr.ru
@@ -226,6 +224,7 @@ mariosmanagmentsec.top
 marketingsuperstar.top
 marsalek.cy
 meetvideogoogle.com
+metrics.gocloudmaps.com
 mgtms.cc
 mistralkorea.ru
 mitreart.com
@@ -237,7 +236,10 @@ mogimall.com
 movtime76.shop
 muledo.com
 mundocarnes.cl
+muzzumilruheel.com
+mvmconstructores.com
 ncxps.com
+ndown2.ra2ol.com
 nelees.com
 noithaticon.vn
 nusatoyota.co.id
@@ -247,7 +249,6 @@ o24o.ru
 ojang.pe.kr
 okhan.net
 oknoplastik.sk
-one-graup.com
 onfiltre.com.tr
 onlineappdownload.507.net.cn
 onlinemoneyagency.top
@@ -288,7 +289,6 @@ records.dennisign.se
 redhairsyndrom.top
 redlk.com
 refaccionesalma.com.mx
-refrigeracion.delmondexpress.com
 reifenquick.de
 reusable-flex.com
 rheddh.com
@@ -299,18 +299,17 @@ royalindiancurryclub.com
 rrhh.intelsolut.com
 rxquickpay.com
 sabungkingbet189.com
-save.jnrsmcu.com
 sbstorage.club
 scainseto.com.br
+scan.504.su
 schenckel.com.br
 sdhscndnssl.beer
 sdvgpro.ru
 sec.xiaoshabi.nl
-sendit.sh
 separadordecc.com
 server.admirableskreen.top
 sg123.net
-sgv.app.br
+shaderm.com
 shahamanatme.com
 shfug.org
 shop.mediasova.ru
@@ -331,6 +330,7 @@ static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
 steam66.cn
+stonecradle.com
 studiogioeli.it
 supercleanspb.ru
 support.clz.kr
@@ -342,8 +342,6 @@ talentrecruitments.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
 teak.gen.tr
-techbud.ro
-tecunonline.com
 tehnomag.rs
 temirtau-adm.ru
 tengfeidn.cn
@@ -356,7 +354,6 @@ theholidayroads.com
 thementordirectory.com
 theoremaoliveoil.com
 thtp2.volamngayxua.net
-todayallmatchprediction.com
 toolshare.com.tr
 top8onlinegame.com
 transfer.weepee.io
@@ -382,11 +379,11 @@ visualwikicloud.com
 vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 vrajras.com
-vtto2izc.starapi.digital
 web-captcha.cc
 webcstore.pw
 website.mypetapp.co.za
 whrc.ru
+whreceiverrrrrrrrr.ru
 widexenmexico.com.mx
 windomstatetheater.com
 wire2spell.com
@@ -395,7 +392,6 @@ www.ardguisser.com
 www.astenterprises.com.pk
 www.automobile-bk.de
 www.backupallfresh2030.com
-www.benshamcentre.co.uk
 www.blackhattoolz.com
 www.bratusferramentas.grupomoltz.com.br
 www.chenwangqiao.com
@@ -411,8 +407,8 @@ www.intelligradeeducation.vicentecisnerospub.com
 www.jozefinskiatelje.si
 www.konsor.ru
 www.kotojuki.com
+www.longfeng188.com
 www.medises.co.kr
-www.mevetlab.cl
 www.mixturro.com
 www.mobimpex.ro
 www.myvcart.com
@@ -421,7 +417,6 @@ www.newkey.co.kr
 www.notbak.com
 www.ojang.pe.kr
 www.okhan.net
-www.pastebin.cz
 www.reifenquick.de
 www.saf-oil.ru
 www.salonmarketing.ca
@@ -430,7 +425,6 @@ www.silver-hubdachwohnwagen.de
 www.simbhaolisugars.in
 www.ss-01.com
 www.starcountry.net
-www.steamrub.com
 www.support-data.com
 www.tdejb.com
 www.tecunonline.com
@@ -459,5 +453,4 @@ youtransfer.net
 zamilgroups.com
 zenglobalenerji.com
 zhigao5191.com
-zonawood.org
 zycdjz.com

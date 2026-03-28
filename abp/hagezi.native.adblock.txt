@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-03-27 07:00:22 UTC
+! Generated at 2026-03-28 07:00:27 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -482,6 +482,7 @@
 ||authbe.sec.intl.miui.com^
 ||auth.be.sec.miui.com^
 ||auth.ff.avast.sec.miui.com^
+||au-vcode-od.vivoglobal.com^
 ||aviary.amazon.co.jp^
 ||aviary.amazon.com^
 ||aviary.amazon.de^
@@ -494,7 +495,6 @@
 ||az-ad-lgsmartad-com.aws-prd.net^
 ||az.appstore.vivo.com.cn^
 ||az.lgsmartad.com^
-||azsc-edge-bingads-westeurope.westeurope.cloudapp.azure.com^
 ||azurewatson.microsoft.com^
 ||azurewatsontest.microsoft.com^
 ||b2banalytics.samsungknox.com^
@@ -1497,6 +1497,7 @@
 ||log32-normal.tiktokv.com^
 ||log32-normal-useast1a.tiktokv.com^
 ||log32-normal-useast2a.tiktokv.com^
+||log32-normal-useastred.tiktokv.eu^
 ||log32-normal-zr.tiktokv.com^
 ||log3-normal-c-alisg.tiktokv.com^
 ||log3-normal-c-useast1a.tiktokv.com^
@@ -2092,6 +2093,9 @@
 ||oversea-nebula-sg.heytapmobi.com^
 ||o.xbox.com^
 ||p16-ad.byteoversea.com^
+||p16-tiktok-ads-sg.tiktokcdn.com^
+||p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net^
+||p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net^
 ||pa-ad-lgsmartad-com.aws-prd.net^
 ||paa-reporting-advertising.amazon^
 ||package.box.xiaomi.com^
