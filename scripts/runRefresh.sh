@@ -1,5 +1,7 @@
 clear && clear
 
+logMessage "Starting..."
+
 ADBLOCK_DIR="abp"
 DOMAINS_DIR="domains"
 UNBOUND_DIR="unbound"
