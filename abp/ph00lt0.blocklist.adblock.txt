@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-03-29 07:00:18 UTC
+! Generated at 2026-03-30 07:00:17 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 ! 
@@ -685,6 +685,7 @@
 ||434h9n4821mi1mka7c2h72ig-wpengine.netdna-ssl.com^
 ||43d897265kne3ed0qv2ecjw2-wpengine.netdna-ssl.com^
 ||43nnuk1fz4a72826eo14gwfb-wpengine.netdna-ssl.com^
+||4417.info^
 ||44-aces.de^
 ||44figk28e7sf2xjn7olhdqyd-wpengine.netdna-ssl.com^
 ||451.io^
@@ -8414,6 +8415,7 @@
 ||dianru.com^
 ||dianxinos.com^
 ||diaojiaoji168.com^
+||diaojj.com^
 ||dicverse.com^
 ||dideo.ir^
 ||didomi.com^
@@ -16459,6 +16461,7 @@
 ||places.nl^
 ||pladform.ru^
 ||planeta.nl^
+||planetfreevpn.com^
 ||planetgaming.nl^
 ||planetnine.com^
 ||planhat.com^
@@ -18998,6 +19001,7 @@
 ||sovendus-connect.com^
 ||sovrn.co^
 ||sovrn.com^
+||sozungolgesi.com^
 ||sp3.cndm.com^
 ||spaceboost.com^
 ||spade.twitch.tv^
@@ -19263,6 +19267,7 @@
 ||sta.holagames.com^
 ||stairliftsreviews.co.uk^
 ||sta.jcjk0451.com^
+||stakebet.live^
 ||stake.com^
 ||stakingsmile.com^
 ||stamceldonatie.nl^

@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-03-29 07:00:11 UTC
+! Generated at 2026-03-30 07:00:11 UTC
 ! 
 ! Sources: https://urlhaus.abuse.ch/downloads/hostfile
 ! 
@@ -10,9 +10,9 @@
 ||1.off3.ru^
 ||2.off3.ru^
 ||5eed8sf5.covenantventure.digital^
-||9ecs80cc.skybit.digital^
 ||aaronart.com^
 ||abissnet.net^
+||acaviationsupplies.com^
 ||access.skaparade.com^
 ||acc.jiangsujiaxue.com^
 ||acms.saleseos.com^
@@ -22,7 +22,6 @@
 ||alarmline.com.br^
 ||alineeleuterio.com.br^
 ||allendostmen.com^
-||allister.ee^
 ||alternativas.ru^
 ||api.baimless.com^
 ||app.appzcvb.com^
@@ -36,10 +35,7 @@
 ||augsburg-auto.com^
 ||avbackup.acionline.de^
 ||backupso.com^
-||bacollections.com^
 ||bankgarantia.ru^
-||bbb.xfrwu.cn^
-||bblissmassage.com^
 ||bbos.minet.vn^
 ||biducaconfeitos.com.br^
 ||blessdayservices.org^
@@ -62,7 +58,6 @@
 ||celebratingseniors.net^
 ||c.fi3.me^
 ||chat-server.maverickpreviews.com^
-||checkfivem.com^
 ||checkinetverifk.com^
 ||chinaapper.com^
 ||chiptune.com^
@@ -72,11 +67,11 @@
 ||cloudstay168.com^
 ||cl.ssouy.com^
 ||clubdetiroelpicarcho.com^
-||cnc.504.su^
 ||cnt-logiistics.com^
 ||cn.unionlever.com^
 ||co-emas.com^
 ||compimento.ba^
+||compuserviceonline.com.br^
 ||contentmentfairnesspesky.com^
 ||continentalgroup.net.in^
 ||controliumbt.com^
@@ -94,7 +89,6 @@
 ||dcrun.co.uk^
 ||delp-heizungsbau.de^
 ||derekludlow.com^
-||detierra.cl^
 ||devilnet.xyz^
 ||dexios.co.za^
 ||dezcom.com^
@@ -105,7 +99,6 @@
 ||dl.1003b.56a.com^
 ||dl.aginjector.com^
 ||dl.armour-inc-down.net^
-||dl.dzqzd.com^
 ||dl.natgo.cn^
 ||donkeytourscroatia.com^
 ||down.54nb.com^
@@ -116,22 +109,24 @@
 ||download.kaobeitu.com^
 ||download.pdf00.cn^
 ||download.pdf00.com^
+||download.suxiazai.com^
 ||download-version.1-7-2.com^
 ||down.mvip8.ru^
 ||down.pcclear.com^
 ||down.qqfarmer.com.cn^
 ||dowonline.ru^
 ||dreamwatchevent.com^
+||drevos.ro^
 ||dusttv.com^
 ||d.wanyouxi7.com^
 ||dweixin.cn^
 ||easybrand.vn^
 ||eglimermailer.org^
 ||electri.billregulator.com^
-||elevenhold.hu^
 ||elisans.novayonetim.com^
 ||embedone.com^
 ||energy63.ru^
+||en.taichuan.com^
 ||epanpano.com^
 ||esr.ro^
 ||estudio.ythan.com.br^
@@ -148,10 +143,9 @@
 ||fertas.com.tr^
 ||file.blackint3.com^
 ||filerit.com^
-||filezilla.cc^
+||file.uhsea.com^
 ||first-security-verden.de^
 ||flyingmutts.com^
-||friendsofsclarc.org^
 ||frvrefrigeracao.com.br^
 ||ftp.ywxww.net^
 ||fz.tiansys.cn^
@@ -161,9 +155,11 @@
 ||gerlimeri.net^
 ||gerlimeri.org^
 ||globaltechbilling.com^
+||gobiotechpestcontrol.com^
 ||gutando.com^
 ||hasalltalent.com^
-||hasteb.in^
+||hemailsendlin.com^
+||hemailsendlin.org^
 ||hitman-pro.ru^
 ||hitstation.nl^
 ||hnz4q1fw.zenithharbinger.digital^
@@ -175,12 +171,17 @@
 ||icoffeecloud.com^
 ||id3basketball.com^
 ||igra123.com^
+||ilonermailc.com^
+||ilonermailc.net^
+||ilonermailc.org^
 ||img.ipxxxx.com^
 ||indeanapolice.cc^
 ||injectroblox.ru^
 ||inmbau.com^
 ||innlive.in^
 ||inomailerhe.net^
+||in-oman-liner.com^
+||inomanliner.net^
 ||ircftp.net^
 ||isiore.com.co^
 ||itssprout.com^
@@ -198,11 +199,11 @@
 ||km.tradeforexcopier.com^
 ||kokorostore.it^
 ||konsor.ru^
-||kotogadang-pusako.com^
 ||kramersmarionnettes.com^
 ||krisidev.com^
 ||kuzina-teatr.ru^
 ||landonirwin.com^
+||lavacolla.com^
 ||libss.0x504.com^
 ||lindenappliances.co.za^
 ||lindnerelektroanlagen.de^
@@ -216,8 +217,8 @@
 ||malupieng.com.br^
 ||marsalek.cy^
 ||meetvideogoogle.com^
-||metrics.gocloudmaps.com^
 ||mgtms.cc^
+||missysgym.com^
 ||mistralkorea.ru^
 ||mitreart.com^
 ||m.jkoa.co.kr^
@@ -230,10 +231,10 @@
 ||mundocarnes.cl^
 ||munillusco.gob.pe^
 ||muzzumilruheel.com^
-||ncxps.com^
 ||ndown2.ra2ol.com^
 ||nelees.com^
 ||noithaticon.vn^
+||nusatoyota.co.id^
 ||n.vs108.com^
 ||ny.lshdw.cc^
 ||o24o.ru^
@@ -259,6 +260,7 @@
 ||palharesinformatica.com.br^
 ||pamellioty.com^
 ||pay.aqiu6.com^
+||pcupd.com^
 ||pid.fly160.com^
 ||planetariumobil.ro^
 ||pns.org.pk^
@@ -266,6 +268,7 @@
 ||pole-rt-inger.com^
 ||polonyauniversiteleri.com.tr^
 ||public.demo.securecloudsandbox.com^
+||puremartbd.shop^
 ||pvsa.gxfugy.cn^
 ||qiniuyunxz.yxflzs.com^
 ||ramirex.ro^
@@ -280,23 +283,19 @@
 ||reusable-flex.com^
 ||rheddh.com^
 ||riderspin.com^
+||rigpacket.com^
 ||robertrowe.com^
 ||royalindiancurryclub.com^
-||rrhh.intelsolut.com^
 ||rxquickpay.com^
 ||sabungkingbet189.com^
-||save.jnrsmcu.com^
 ||sbstorage.club^
 ||scainseto.com.br^
-||scan.504.su^
 ||schenckel.com.br^
 ||sdhscndnssl.beer^
 ||sdvgpro.ru^
 ||sec.xiaoshabi.nl^
 ||separadordecc.com^
 ||sg123.net^
-||sgindustries.lk^
-||shaderm.com^
 ||shahamanatme.com^
 ||shfug.org^
 ||shop.mediasova.ru^
@@ -311,11 +310,13 @@
 ||solar-sanat.net^
 ||solutelco.com^
 ||spacemanslot88.games^
+||spoar.org.in^
 ||static.ilclock.com^
 ||static.topxgun.com^
 ||static.youdm.cn^
 ||stdown.dinju.com^
 ||steam66.cn^
+||stonecradle.com^
 ||studiogioeli.it^
 ||supercleanspb.ru^
 ||support.clz.kr^
@@ -327,7 +328,6 @@
 ||tanscarattorneys.co.tz^
 ||tapestryoftruth.com^
 ||teak.gen.tr^
-||tecunonline.com^
 ||tehnomag.rs^
 ||temirtau-adm.ru^
 ||tengfeidn.cn^
@@ -350,7 +350,6 @@
 ||tyahelp.top^
 ||ukguk71.ru^
 ||uniform-factory.ae^
-||upaicdn.xinmei365.com^
 ||upchemicals.co.in^
 ||update.cg100iii.com^
 ||update.volam2005pk.com^
@@ -378,6 +377,7 @@
 ||www.astenterprises.com.pk^
 ||www.automobile-bk.de^
 ||www.backupallfresh2030.com^
+||www.benshamcentre.co.uk^
 ||www.blackhattoolz.com^
 ||www.bratusferramentas.grupomoltz.com.br^
 ||www.chenwangqiao.com^
@@ -388,13 +388,13 @@
 ||www.first-security-verden.de^
 ||www.flybirdexpbd.com^
 ||www.hostingcloud.science^
+||www.hseda.com^
 ||www.intelligradeeducation.vicentecisnerospub.com^
 ||www.jozefinskiatelje.si^
 ||www.konsor.ru^
 ||www.kotojuki.com^
 ||www.longfeng188.com^
 ||www.medises.co.kr^
-||www.mevetlab.cl^
 ||www.mixturro.com^
 ||www.mobimpex.ro^
 ||www.myvcart.com^
@@ -425,7 +425,7 @@
 ||www.website.mypetapp.co.za^
 ||www.xn--on3b15m2lco2u.com^
 ||www.zamilgroups.com^
-||xanax.enzostress.st^
+||www.zhikey.com^
 ||xdcq3.com^
 ||xenon.studio^
 ||xn--90abegbttpjb3bzb2j.xn--p1ai^
@@ -439,5 +439,4 @@
 ||ypmd72xu.latticepatronage.digital^
 ||zamilgroups.com^
 ||zenglobalenerji.com^
-||zhigao5191.com^
 ||zycdjz.com^
