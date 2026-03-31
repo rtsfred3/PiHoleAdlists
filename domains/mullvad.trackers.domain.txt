@@ -1,4 +1,4 @@
-# Generated at 2026-03-30 07:00:49 UTC
+# Generated at 2026-03-31 07:00:51 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -6178,6 +6178,7 @@ api.xmpush.global.xiaomi.com
 apkrep.ff.avast.sec.miui.com
 apllogistics.actonservice.com
 aplobv.xexymix.com
+aplus.alibaba.com
 apm.tnet.nl
 a.pork.org
 a.pourquoidocteur.fr
@@ -11344,6 +11345,7 @@ data.partner-offers.airmiles.ca
 data.partner-updates.airmiles.ca
 data.pharmacyservices.riteaid.com
 data.phg.palladiumhotelgroup.com
+datapickles.com
 data.pisos.com
 data.pnet.co.za
 data.prewards.palladiumhotelgroup.com
@@ -17530,6 +17532,7 @@ importantmeat.com
 importedinsect.com
 impossibleexpansion.com
 imp.pvnsolutions.com
+impression.appsflyer.com
 impressions.svc.abillion.com
 impression-tracker-service-5eimuebuhq-lz.a.run.app
 impress.vcita.com
@@ -26762,6 +26765,7 @@ onecrow.net
 onedropocean.com
 one.godigit.com
 oneid.mmstat.com
+onelinksmartscript.appsflyer.com
 onelinksmartscript.appsflyersdk.com
 onelink.taptalk.io
 onem.marketing.onemarketinguxp.com
@@ -30458,6 +30462,7 @@ s.dc-tag.jp
 sdfp.snssdk.com
 sdjthl.tvguide.dk
 sdk-analytics-web.cloud.itau.com.br
+sdk.appsflyer.com
 sdk-cache.video.ptqy.gitv.tv
 sdk.ptqy.gitv.tv
 sd.lgsmartad.com
@@ -43585,6 +43590,7 @@ wealth.informabi.com
 weare.ballymoregroup.com
 weather-analytics-events.apple.com
 weatherbytes.net
+weatherpush.net
 web1.51.la
 web2.perkinelmer.com
 web3.perkinelmer.com
