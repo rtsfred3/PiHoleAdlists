@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-04-01 07:00:13 UTC
+! Generated at 2026-04-02 07:00:13 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 ! 
@@ -408,7 +408,6 @@
 ||digitaliseringsinitiativet.se^
 ||di.insplanet.com^
 ||dinapengar.compricer.se^
-||dinbilgaranti.se^
 ||dl.episerver.net^
 ||dmcdn.yieldbird.com^
 ||dmp.adform.net^
@@ -467,7 +466,6 @@
 ||flx1.com^
 ||fml-x.com^
 ||fms.360yield.com^
-||footjoygolfskorrea.com.se^
 ||fpnpmcdn.net^
 ||fraagesport.com^
 ||franecki.net^
@@ -933,7 +931,6 @@
 ||tracker.metricool.com^
 ||tracker.transportstyrelsen.open-analytics.se^
 ||tracker-v4.gamedock.io^
-||tracker.zummycloud.com^
 ||tracking.aktuellhallbarhet.se^
 ||tracking.allehanda.se^
 ||tracking.arbetarbladet.se^

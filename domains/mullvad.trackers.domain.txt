@@ -1,4 +1,4 @@
-# Generated at 2026-04-01 07:00:51 UTC
+# Generated at 2026-04-02 07:00:49 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -5284,7 +5284,7 @@ ana.3751chat.com
 ana.chat.shalove.net
 anaconda.net.anwalt.de
 ana.e-ticket.co.jp
-anal.billingserv.com
+anal.baseserv.com
 anal.doubledouble.top
 analitica.webrpp.com
 analitik.bik.gov.tr
@@ -7903,6 +7903,7 @@ beacons.trafficmanager.net
 beacons.xboxlive.com
 beacon.walmart.com
 beacon.watch.impress.co.jp
+beacon.webpresence.work
 beacon.wikia-services.com
 be-ad-lgsmartad-com.aws-prd.net
 beafdf.restaupro.com
@@ -9682,7 +9683,6 @@ collector.taoxh.life
 collector.theconversation.com
 collector.t-idr.com
 collector-videoplayer.5centscdn.net
-collector.wawlabs.com
 collector.xhaccess.com
 collector.xhamster2.com
 collector.xhamster3.com
@@ -27296,6 +27296,7 @@ payqjd.subito.it
 payroll.smartsalary.com.au
 pay.truemoney.me
 pb.bi.gitv.tv
+pbc.barrons.com
 pbc.programbrokerage.com
 pbecrm.aquanet.ru
 pb.i.sogou.com
@@ -28188,6 +28189,7 @@ propsynergy.com
 prospex.actonservice.com
 pro.stormwindstudios.com
 protapes.actonservice.com
+protechts.net
 protect.dev.sec.intl.miui.com
 protect.dev.sec.miui.com
 protectpool.com
@@ -37830,6 +37832,7 @@ tag.rmp.rakuten.com
 tags.air1.com
 tags.aljazeera.com
 tags.aljazeera.net
+tags.barrons.com
 tags.catapultx.com
 tags.cmp.tail.digital
 tags.dxmdp.com
@@ -43552,6 +43555,7 @@ wa.vodafone.de
 wa.vodafone.pt
 wavrlh.cedok.cz
 wavzlt.michaelstars.com
+wa.wawlabs.com
 wa.wdr.de
 wa.wdrmaus.de
 wa.web.de
@@ -43954,11 +43958,13 @@ widget.educationdynamics.com
 widgethouse.com
 widget-pixels.outbrain.com
 wigkxx.jetcost.com
+wikiquotations.com
 wikiwhatwhere.com
 wildcommittee.com
 wildwoodavenue.com
 w.ilfattoquotidiano.it
 win10-trt.msedge.net
+windbeetle.com
 win-global-asimov-leafs-events-data.trafficmanager.net
 win.staticstuff.net
 wirecomic.com
