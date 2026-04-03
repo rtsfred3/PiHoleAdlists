@@ -1,4 +1,4 @@
-# Generated at 2026-04-02 07:00:49 UTC
+# Generated at 2026-04-03 07:00:52 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4584,6 +4584,8 @@ ad.lgsmartad.com
 adl.kkguan.com
 adlog.com.com
 ad-log.dable.io
+adlog.vivo.com
+adlog.vivo.com.cn
 adm.adminstrumentengineering.com.au
 ad.magokoro-care-shoku.com
 admaxium.com
@@ -8573,6 +8575,7 @@ bsna.inno.be
 bs.nakanohito.jp
 b.snow.com
 b.socialdemokraterna.se
+bsp-di-in.heytapmobile.com
 bs-pro-origin-pull.kwai.net.iberostar.com
 b.sprucehealth.com
 bsp.sasdc.pandora.xiaomi.com

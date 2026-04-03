@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-04-02 07:00:21 UTC
+! Generated at 2026-04-03 07:00:25 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -151,6 +151,8 @@
 ||ad.intl.xiaomi.com.edgesuite.net^
 ||ad.intl.xiaomi.com.ksyna.net^
 ||ad.lgsmartad.com^
+||adlog.vivo.com^
+||adlog.vivo.com.cn^
 ||ad.mi.com^
 ||ad.msn.com^
 ||ad.prod.rpay.int.roku.com^
@@ -565,6 +567,7 @@
 ||bs-ad-lgsmartad-com.aws-prd.net^
 ||bsf.sc.heytapmobile.com^
 ||bs.lgsmartad.com^
+||bsp-di-in.heytapmobile.com^
 ||bsp.sasdc.pandora.xiaomi.com^
 ||bss.pandora.xiaomi.com^
 ||btv-du-dev-eventhub-streamanalytics.servicebus.windows.net^
