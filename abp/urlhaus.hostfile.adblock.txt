@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-04-03 07:00:17 UTC
+! Generated at 2026-04-04 07:00:17 UTC
 ! 
 ! Sources: https://urlhaus.abuse.ch/downloads/hostfile
 ! 
@@ -7,14 +7,13 @@
 ||111101111.ru^
 ||123.ywxww.net^
 ||1717.1000uc.com^
-||1k8v3k3.online^
 ||1.off3.ru^
+||2.off3.ru^
 ||aaronart.com^
 ||abissnet.net^
-||acaviationsupplies.com^
 ||access.skaparade.com^
 ||acc.jiangsujiaxue.com^
-||activegroup-bd.com^
+||acms.saleseos.com^
 ||admin.byte.in.ua^
 ||admin.gestroom.it^
 ||alarmline.com.br^
@@ -23,7 +22,6 @@
 ||allister.ee^
 ||allsydevs.com^
 ||alternativas.ru^
-||ampgg.bossjy.cc.cd^
 ||api.baimless.com^
 ||api.ezilax.com^
 ||app.appzcvb.com^
@@ -41,6 +39,7 @@
 ||backupso.com^
 ||bankgarantia.ru^
 ||bbos.minet.vn^
+||biducaconfeitos.com.br^
 ||blessdayservices.org^
 ||blogs.sokun.jp^
 ||bmdcompany.com^
@@ -64,8 +63,8 @@
 ||chat-server.maverickpreviews.com^
 ||checkfivem.com^
 ||checkinetverifk.com^
-||chinaapper.com^
 ||chiptune.com^
+||chuguadventures.co.tz^
 ||chungminhtaichinhsaigon.net^
 ||classroomseven.com^
 ||clipaid.app^
@@ -77,7 +76,6 @@
 ||cn.unionlever.com^
 ||co-emas.com^
 ||compimento.ba^
-||compuserviceonline.com.br^
 ||contentmentfairnesspesky.com^
 ||continentalgroup.net.in^
 ||controliumbt.com^
@@ -101,10 +99,9 @@
 ||dezcom.com^
 ||dfopetroleum.com^
 ||dhnconstrucciones.com.ar^
-||dialkwik.in^
-||digitalcode.sa^
 ||disk.accord1key.cn^
 ||divvanews.com^
+||dl.1003b.56a.com^
 ||dl.aginjector.com^
 ||dl.armour-inc-down.net^
 ||dl.dzqzd.com^
@@ -125,19 +122,17 @@
 ||dowonline.ru^
 ||dreamwatchevent.com^
 ||drevos.ro^
-||dropmb.com^
 ||dusttv.com^
 ||d.wanyouxi7.com^
 ||dweixin.cn^
-||dz7shop.com^
 ||easybrand.vn^
 ||electri.billregulator.com^
 ||elisans.novayonetim.com^
-||emacra.com^
 ||embedone.com^
 ||energy63.ru^
 ||en.taichuan.com^
 ||epanpano.com^
+||esr.ro^
 ||estudio.ythan.com.br^
 ||etinsendmail.com^
 ||etinsendmail.net^
@@ -152,7 +147,6 @@
 ||fiker.cattermicoffa.sbs^
 ||file.blackint3.com^
 ||filerit.com^
-||file.uhsea.com^
 ||filezilla.cc^
 ||first-security-verden.de^
 ||flyingmutts.com^
@@ -161,12 +155,10 @@
 ||gabyagozetim.com^
 ||galaxis.fun^
 ||galerisenimutiara.com^
-||gecopakistan.com^
 ||geo-foundation.vg^
 ||gerlimeri.net^
 ||globalbank.us^
-||gobiotechpestcontrol.com^
-||gohelpertechnologies.in^
+||globaltechbilling.com^
 ||gutando.com^
 ||hasalltalent.com^
 ||hemailsendlin.com^
@@ -196,7 +188,6 @@
 ||jawaratekno.com^
 ||jem-mialwe.com^
 ||jem-mialwe.net^
-||jem-mialwe.org^
 ||jin.com.my^
 ||jlwz.cn^
 ||joyeriatauro.com^
@@ -205,11 +196,12 @@
 ||katz.adv.br^
 ||kavacanada.ca^
 ||keilo-jermailer.com^
-||keilo-jermailer.org^
 ||khoancatbetong89.vn^
 ||kimyen.net^
 ||km.tradeforexcopier.com^
+||kokorostore.it^
 ||konsor.ru^
+||kotogadang-pusako.com^
 ||kramersmarionnettes.com^
 ||krisidev.com^
 ||kuzina-teatr.ru^
@@ -229,27 +221,22 @@
 ||mailer-kjermjs.net^
 ||makotoko.com^
 ||malupieng.com.br^
-||marcuswelbyclinic.click^
 ||marsalek.cy^
 ||meetvideogoogle.com^
 ||metrics.gocloudmaps.com^
 ||mgtms.cc^
-||m.hy-union.com^
 ||microservisetrue.vip^
 ||mistralkorea.ru^
 ||mitreart.com^
 ||m.jkoa.co.kr^
 ||m.meta-dm.com^
 ||mobshah.com^
-||modulowinapp.com^
 ||mogimall.com^
 ||mondesignweb.com^
 ||movtime76.shop^
 ||muledo.com^
 ||mundocarnes.cl^
 ||muzzumilruheel.com^
-||mybiggestjoy.bond^
-||my-xarid.com^
 ||ncxps.com^
 ||nelees.com^
 ||noithaticon.vn^
@@ -262,13 +249,11 @@
 ||oknoplastik.sk^
 ||onfiltre.com.tr^
 ||onlineappdownload.507.net.cn^
-||onyxarmorcrypt.de^
 ||onyxcyberedge.de^
 ||onyxfortifypro.de^
 ||onyxguardify.de^
 ||onyxguardwave.de^
 ||onyxphantomlock.de^
-||onyxprotectech.de^
 ||onyxsafecrypt.de^
 ||onyxsecuregate.de^
 ||onyxsentinelx.de^
@@ -288,7 +273,6 @@
 ||prosingle.com.br^
 ||public.demo.securecloudsandbox.com^
 ||pvsa.gxfugy.cn^
-||q55at0cm.apexharvestor.digital^
 ||qiniuyunxz.yxflzs.com^
 ||racing-shop-schuller.de^
 ||ramirex.ro^
@@ -298,6 +282,7 @@
 ||records.dennisign.se^
 ||redlk.com^
 ||refaccionesalma.com.mx^
+||refrigeracion.delmondexpress.com^
 ||reifenquick.de^
 ||reusable-flex.com^
 ||reutilizemais.co.mz^
@@ -307,7 +292,6 @@
 ||royalindiancurryclub.com^
 ||rxquickpay.com^
 ||sabungkingbet189.com^
-||sakuraloyalty.com^
 ||save.jnrsmcu.com^
 ||scainseto.com.br^
 ||scan.504.su^
@@ -331,19 +315,16 @@
 ||solar-sanat.net^
 ||spacemanslot88.games^
 ||spoar.org.in^
-||stajestetice.top^
 ||static.ilclock.com^
 ||static.topxgun.com^
 ||static.youdm.cn^
 ||stdown.dinju.com^
 ||steam66.cn^
 ||stonecradle.com^
-||studiogioeli.it^
 ||supercleanspb.ru^
 ||support.clz.kr^
 ||sutterpoint.com^
 ||svirtual.sanviatorperu.edu.pe^
-||swiftfusion.tech^
 ||tajalrayhan.com^
 ||talentrecruitments.com^
 ||tanscarattorneys.co.tz^
@@ -351,7 +332,6 @@
 ||teak.gen.tr^
 ||tecunonline.com^
 ||tehnomag.rs^
-||telecomsa.xyz^
 ||temirtau-adm.ru^
 ||tengfeidn.cn^
 ||teslasuit.to^
@@ -363,14 +343,12 @@
 ||thementordirectory.com^
 ||theoremaoliveoil.com^
 ||thtp2.volamngayxua.net^
-||todayallmatchprediction.com^
 ||toolshare.com.tr^
 ||top8onlinegame.com^
 ||transfer.weepee.io^
 ||transparenciacanaa.com.br^
 ||trtmyanmar.com^
 ||twitch.ist^
-||ui2rn7ei.apexharvestor.digital^
 ||ukguk71.ru^
 ||uniform-factory.ae^
 ||upaicdn.xinmei365.com^
@@ -389,8 +367,8 @@
 ||vizyonuniversitesi.com.tr^
 ||vizyonuniversitesi.web.tr^
 ||vrajras.com^
+||wearjora.com^
 ||webcstore.pw^
-||webdriver-select.vg^
 ||website.mypetapp.co.za^
 ||whreceiverrrrrrrrr.ru^
 ||widexenmexico.com.mx^
@@ -401,6 +379,7 @@
 ||www.astenterprises.com.pk^
 ||www.automobile-bk.de^
 ||www.backupallfresh2030.com^
+||www.benshamcentre.co.uk^
 ||www.blackhattoolz.com^
 ||www.bratusferramentas.grupomoltz.com.br^
 ||www.chenwangqiao.com^
@@ -418,7 +397,6 @@
 ||www.kotojuki.com^
 ||www.longfeng188.com^
 ||www.medises.co.kr^
-||www.mevetlab.cl^
 ||www.mixturro.com^
 ||www.mobimpex.ro^
 ||www.myvcart.com^
@@ -429,6 +407,7 @@
 ||www.okhan.net^
 ||www.playtown.co.za^
 ||www.reifenquick.de^
+||www.rhythmvacations.com^
 ||www.saf-oil.ru^
 ||www.salonmarketing.ca^
 ||www.sgeseducation.com^
@@ -440,7 +419,6 @@
 ||www.support-data.com^
 ||www.tdejb.com^
 ||www.tecunonline.com^
-||www.telecomsa.xyz^
 ||www.test.peperoncinochepassione.it^
 ||www.tmcksa.com^
 ||www.todayallmatchprediction.com^

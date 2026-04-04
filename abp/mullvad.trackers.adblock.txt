@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-04-03 07:00:52 UTC
+! Generated at 2026-04-04 07:00:57 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -6114,6 +6114,7 @@
 ||api-analytics-qa.samsungknox.com^
 ||api-analytics.samsungknox.com^
 ||api.apiok.net.iberostar.com^
+||api.applicationinsights.azure.cn^
 ||api.aurogon.intl.miui.com^
 ||api.autopilothq.com^
 ||api.bbs.miui.com^
@@ -7150,6 +7151,7 @@
 ||arc1.msn.com^
 ||arc2.msn.com^
 ||arc3.msn.com^
+||arc5.msn.com^
 ||arc9.msn.com^
 ||arc-emea.msn.com^
 ||archived.first.eloqua.extrahop.com^
@@ -8234,6 +8236,7 @@
 ||book.londonsoundacademy.com^
 ||bookprobe.com^
 ||books-analytics-events.apple.com^
+||books-analytics-events.news.apple-dns.net^
 ||boomboomcloud.com^
 ||boomerang.dell.com^
 ||boostbehavior.com^
@@ -18686,6 +18689,7 @@
 ||iquirc.motionrc.com^
 ||iqyioj.harryanddavid.com^
 ||ir-ad-lgsmartad-com.aws-prd.net^
+||ir-ae.amazon-adsystem.com^
 ||i.raise.me^
 ||ir-br.amazon-adsystem.com^
 ||ir-ca.amazon-adsystem.com^
@@ -20715,6 +20719,7 @@
 ||loans.rategenius.com^
 ||local-shares.ri.la^
 ||locateskill.com^
+||location16-normal-useastred.tiktokv.eu^
 ||location-i18n.tiktokv.com^
 ||location.imsmetals.com^
 ||location.live.net^
@@ -20790,9 +20795,11 @@
 ||log-2ffe60ee.westpac.com.au^
 ||log2.sina.cn^
 ||log31-normal-alisg.tiktokv.com^
+||log31-normal-no1a.tiktokv.eu^
 ||log31-normal.tiktokv.com^
 ||log31-normal-useast1a.tiktokv.com^
 ||log31-normal-useast2a.tiktokv.com^
+||log31-normal-useastred.tiktokv.eu^
 ||log32-normal-alisg.tiktokv.com^
 ||log32-normal.capcutapi.com^
 ||log32-normal-no1a.tiktokv.eu^
@@ -25406,12 +25413,16 @@
 ||mon22-normal.tiktokv.com^
 ||mon22-normal-useast1a.tiktokv.com^
 ||mon31-normal-alisg.tiktokv.com^
+||mon31-normal-no1a.tiktokv.eu^
 ||mon31-normal.tiktokv.com^
 ||mon31-normal-useast1a.tiktokv.com^
+||mon31-normal-useastred.tiktokv.eu^
 ||mon32-normal-alisg.tiktokv.com^
+||mon32-normal-no1a.tiktokv.eu^
 ||mon32-normal-sg.capcutapi.com^
 ||mon32-normal.tiktokv.com^
 ||mon32-normal-useast1a.tiktokv.com^
+||mon32-normal-useastred.tiktokv.eu^
 ||monacobeatles.com^
 ||mon.be.xiaomi.com^
 ||monbk.tiktokv.com^
@@ -26166,6 +26177,7 @@
 ||notcardboard.com^
 ||notconscious.com^
 ||notes-analytics-events.apple.com^
+||notes-analytics-events.news.apple-dns.net^
 ||notice.game.xiaomi.com^
 ||notice.hoopladigital.com^
 ||notices.regis.edu^
@@ -28634,6 +28646,7 @@
 ||radio.moodybible.org^
 ||radiosfax.com^
 ||rad.live.com^
+||rad.microsoft.com^
 ||rads.msn.com^
 ||raf.postnl.be^
 ||raf.postnl.nl^
@@ -37244,6 +37257,7 @@
 ||stockingsleet.com^
 ||stockingsneeze.com^
 ||stocks-analytics-events.apple.com^
+||stocks-analytics-events.news.apple-dns.net^
 ||stocktheme.com^
 ||stomachscience.com^
 ||stonechin.com^
@@ -43598,6 +43612,7 @@
 ||wealth.informabi.com^
 ||weare.ballymoregroup.com^
 ||weather-analytics-events.apple.com^
+||weather-analytics-events.news.apple-dns.net^
 ||weatherbytes.net^
 ||weatherpush.net^
 ||web1.51.la^
@@ -43982,6 +43997,7 @@
 ||wispycity.com^
 ||wissen.sage.de^
 ||wistfulwaste.com^
+||withsounds.com^
 ||withyou.shorr.com^
 ||wittypopcorn.com^
 ||wizardbuck.com^
@@ -44298,12 +44314,16 @@
 ||www91.intel.in^
 ||www91.intel.la^
 ||www91.intel.pl^
+||www.a.ads1.msn.com^
+||www.a.ads2.msn.com^
 ||www.acor1sign.com^
 ||www.acpprograms.org^
 ||www.active-trk7.com^
 ||www.activisionnews.com^
 ||www.adgjl13.com^
 ||www.adpinfo.com^
+||www.ads1.msn.com^
+||www.adsinapps.microsoft.com^
 ||www.agile365enterprise.com^
 ||www.agile-company-247.com^
 ||www.agile-company-365.com^
@@ -44331,6 +44351,7 @@
 ||www.avismarketing.gr^
 ||www.azera-s014.com^
 ||www.badb5refl.com^
+||www.b.ads1.msn.com^
 ||www.bae5tracker.com^
 ||www.bait4role.com^
 ||www.bali6nora.com^

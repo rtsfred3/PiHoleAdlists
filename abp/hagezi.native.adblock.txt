@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-04-03 07:00:25 UTC
+! Generated at 2026-04-04 07:00:28 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -346,6 +346,7 @@
 ||api.ads.xiaomi.com^
 ||api-analytics-qa.samsungknox.com^
 ||api-analytics.samsungknox.com^
+||api.applicationinsights.azure.cn^
 ||api.aurogon.intl.miui.com^
 ||api.bbs.miui.com^
 ||api.browser.intl.miui.com^
@@ -413,6 +414,7 @@
 ||arc1.msn.com^
 ||arc2.msn.com^
 ||arc3.msn.com^
+||arc5.msn.com^
 ||arc9.msn.com^
 ||arc-emea.msn.com^
 ||arc.msn.com^
@@ -537,6 +539,7 @@
 ||bo-ad-lgsmartad-com.aws-prd.net^
 ||bo.lgsmartad.com^
 ||books-analytics-events.apple.com^
+||books-analytics-events.news.apple-dns.net^
 ||bossadmin.pandora.xiaomi.com^
 ||box.pandora.xiaomi.com^
 ||bpu.samsungelectronics.com^
@@ -1327,6 +1330,7 @@
 ||iq-ad-lgsmartad-com.aws-prd.net^
 ||iq.lgsmartad.com^
 ||ir-ad-lgsmartad-com.aws-prd.net^
+||ir-ae.amazon-adsystem.com^
 ||ir-br.amazon-adsystem.com^
 ||ir-ca.amazon-adsystem.com^
 ||ir-cn.amazon-adsystem.com^
@@ -1425,6 +1429,7 @@
 ||lk.lgsmartad.com^
 ||ln-ring-fallback.msedge.net^
 ||ln-ring.msedge.net^
+||location16-normal-useastred.tiktokv.eu^
 ||location-i18n.tiktokv.com^
 ||location.live.net^
 ||location.microsoft.com^
@@ -1490,9 +1495,11 @@
 ||log22-normal-useast1a.tiktokv.com^
 ||log22-normal-useast2a.tiktokv.com^
 ||log31-normal-alisg.tiktokv.com^
+||log31-normal-no1a.tiktokv.eu^
 ||log31-normal.tiktokv.com^
 ||log31-normal-useast1a.tiktokv.com^
 ||log31-normal-useast2a.tiktokv.com^
+||log31-normal-useastred.tiktokv.eu^
 ||log32-normal-alisg.tiktokv.com^
 ||log32-normal.capcutapi.com^
 ||log32-normal-no1a.tiktokv.eu^
@@ -1865,12 +1872,16 @@
 ||mon22-normal.tiktokv.com^
 ||mon22-normal-useast1a.tiktokv.com^
 ||mon31-normal-alisg.tiktokv.com^
+||mon31-normal-no1a.tiktokv.eu^
 ||mon31-normal.tiktokv.com^
 ||mon31-normal-useast1a.tiktokv.com^
+||mon31-normal-useastred.tiktokv.eu^
 ||mon32-normal-alisg.tiktokv.com^
+||mon32-normal-no1a.tiktokv.eu^
 ||mon32-normal-sg.capcutapi.com^
 ||mon32-normal.tiktokv.com^
 ||mon32-normal-useast1a.tiktokv.com^
+||mon32-normal-useastred.tiktokv.eu^
 ||mon.be.xiaomi.com^
 ||monbk.tiktokv.com^
 ||mon-boot.capcutapi.com^
@@ -2017,6 +2028,7 @@
 ||noc-visio-telemetry.officeapps.live.com^
 ||no.lgsmartad.com^
 ||notes-analytics-events.apple.com^
+||notes-analytics-events.news.apple-dns.net^
 ||notice.game.xiaomi.com^
 ||nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru^
 ||nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com^
@@ -2254,6 +2266,7 @@
 ||radarsubmissions.apple.com^
 ||radarsubmissions.apple.com.akadns.net^
 ||rad.live.com^
+||rad.microsoft.com^
 ||rads.msn.com^
 ||raka.bing.com^
 ||ravm-staging.data.roku.com^
@@ -2643,6 +2656,7 @@
 ||sticker-service-in.allawnos.com^
 ||stjjp.msn.com^
 ||stocks-analytics-events.apple.com^
+||stocks-analytics-events.news.apple-dns.net^
 ||storeconfig.mistat.xiaomi.com^
 ||storedl1.nearme.com.cn^
 ||storedl3f.nearme.com.cn^
@@ -2956,6 +2970,7 @@
 ||watson.officeint.microsoft.com^
 ||wayfinderanalytics.servicebus.windows.net^
 ||weather-analytics-events.apple.com^
+||weather-analytics-events.news.apple-dns.net^
 ||web-mon-useast2a.byteoversea.com^
 ||weus2watcab01.blob.core.windows.net^
 ||weus2watcab02.blob.core.windows.net^
@@ -2976,6 +2991,11 @@
 ||ws-na.amazon-adsystem.com^
 ||wtradv.market.xiaomi.com^
 ||wttwebsiteprodapi-liveevents.trafficmanager.net^
+||www.a.ads1.msn.com^
+||www.a.ads2.msn.com^
+||www.ads1.msn.com^
+||www.adsinapps.microsoft.com^
+||www.b.ads1.msn.com^
 ||wwwimg.roku.com^
 ||wwwimg.staging.roku.com^
 ||xadx.file.market.xiaomi.com^
