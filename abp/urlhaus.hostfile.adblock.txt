@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-04-21 07:00:14 UTC
+! Generated at 2026-04-22 07:00:13 UTC
 ! 
 ! Sources: https://urlhaus.abuse.ch/downloads/hostfile
 ! 
@@ -7,6 +7,7 @@
 ||111101111.ru^
 ||123.ywxww.net^
 ||1717.1000uc.com^
+||204.76.203.196.ptr.pfcloud.network^
 ||aaronart.com^
 ||acaviationsupplies.com^
 ||access.skaparade.com^
@@ -39,6 +40,7 @@
 ||beoauto.alexion.rs^
 ||biducaconfeitos.com.br^
 ||blessdayservices.org^
+||blit.co.za^
 ||blogs.sokun.jp^
 ||bmdcompany.com^
 ||bnet-api.playm8ru.win^
@@ -46,7 +48,6 @@
 ||bombayonline.in^
 ||book.rollingvideogames.com^
 ||boydjackson.org^
-||bracell.latitude.net.br^
 ||bridgeroad.maverickpreviews.com^
 ||brightworks.cz^
 ||bvaco.com^
@@ -98,9 +99,11 @@
 ||dezcom.com^
 ||dfopetroleum.com^
 ||dhnconstrucciones.com.ar^
+||dialkwik.in^
 ||disk.accord1key.cn^
 ||divvanews.com^
 ||dl.1003b.56a.com^
+||dl.armour-inc-down.net^
 ||dl.dzqzd.com^
 ||dl.natgo.cn^
 ||dlvryintl.com^
@@ -111,7 +114,6 @@
 ||download.caihong.com^
 ||download.doumaibiji.cn^
 ||download.haozip.com^
-||download.kaobeitu.com^
 ||download.pdf00.cn^
 ||download.pdf00.com^
 ||download.suxiazai.com^
@@ -134,6 +136,7 @@
 ||ensions.xyz^
 ||en.taichuan.com^
 ||epanpano.com^
+||erzurumyoresel.com^
 ||estudio.ythan.com.br^
 ||evangroup.ru^
 ||everycarebd.com^
@@ -158,7 +161,6 @@
 ||getamarin.ro^
 ||globalbank.us^
 ||globaltechbilling.com^
-||gobiotechpestcontrol.com^
 ||google-services.cc^
 ||greenf.alexion.rs^
 ||grupomcperu.com^
@@ -187,17 +189,14 @@
 ||itssprout.com^
 ||izocab.com^
 ||izogard.com^
-||jawaratekno.com^
 ||jin.com.my^
 ||jlwz.cn^
 ||joyeriatauro.com^
 ||jyothishmathi.in^
 ||kamin-premium.ru^
 ||kavacanada.ca^
-||kerryglow.info^
 ||khoancatbetong89.vn^
 ||kimyen.net^
-||kokorostore.it^
 ||konsor.ru^
 ||kramersmarionnettes.com^
 ||krisidev.com^
@@ -209,6 +208,7 @@
 ||local-update.com^
 ||lomejordesalamanca.es^
 ||lon-01.dlo4d.com^
+||londonairportstransfer.co.uk^
 ||luizmatoso.com.br^
 ||magnusworkspace.com^
 ||maidforyou1985.com^
@@ -219,13 +219,14 @@
 ||md.ccsuquk.com^
 ||meetvideogoogle.com^
 ||metotmimarlik.com.tr^
+||metrics.gocloudmaps.com^
 ||mgtms.cc^
-||ministrew.info^
 ||mistralkorea.ru^
 ||mitreart.com^
 ||m.jkoa.co.kr^
 ||m.meta-dm.com^
 ||mobshah.com^
+||mockupcorporation.com^
 ||mogimall.com^
 ||mosselnet.co.za^
 ||msedge.vg^
@@ -236,24 +237,17 @@
 ||nelees.com^
 ||new.quranushaiqer.org.sa^
 ||noithaticon.vn^
-||nusatoyota.co.id^
 ||n.vs108.com^
 ||ny.lshdw.cc^
 ||o24o.ru^
-||oblionts.com^
+||ob1phqqu.degassing-mould.digital^
 ||officials.ink^
 ||ojang.pe.kr^
 ||okhan.net^
-||oknoplastik.sk^
-||ok-vsefotki.online^
+||omax.com.pk^
 ||onfiltre.com.tr^
 ||onyxguardify.de^
-||onyxguardwave.de^
 ||onyxphantomlock.de^
-||onyxsafecrypt.de^
-||onyxsecuregate.de^
-||onyxsentinelx.de^
-||onyxstealthnet.de^
 ||owlcity.ru^
 ||p3.zbjimg.com^
 ||palharesinformatica.com.br^
@@ -286,27 +280,27 @@
 ||robertrowe.com^
 ||royalindiancurryclub.com^
 ||rxquickpay.com^
-||rzdwkgtc.chernichco5t.digital^
 ||sablayan.seasonshotelmindoro.com^
 ||sabungkingbet189.com^
+||sakuraloyalty.com^
 ||save.jnrsmcu.com^
 ||scainseto.com.br^
 ||schenckel.com.br^
 ||sdvgpro.ru^
 ||sec.xiaoshabi.nl^
 ||separadordecc.com^
+||servicioslogisticosdyc.com^
 ||sg123.net^
+||shaderm.com^
 ||shahamanatme.com^
 ||shop.mediasova.ru^
 ||shqdown.ggzuhao.com^
-||silverhost.vg^
 ||sk-comtel.com^
 ||smartermail.host^
 ||soft.110route.com^
 ||softcatalog.ru^
 ||solar-sanat.net^
 ||spacemanslot88.games^
-||spoar.org.in^
 ||static.ilclock.com^
 ||static.topxgun.com^
 ||static.youdm.cn^
@@ -317,6 +311,7 @@
 ||support.clz.kr^
 ||sutterpoint.com^
 ||svirtual.sanviatorperu.edu.pe^
+||take-care.africa^
 ||talentrecruitments.com^
 ||tanscarattorneys.co.tz^
 ||tapestryoftruth.com^
@@ -325,7 +320,6 @@
 ||temirtau-adm.ru^
 ||tengfeidn.cn^
 ||test.peperoncinochepassione.it^
-||tg-xxooxx888.8964.mom^
 ||theholidayroads.com^
 ||themaintechnician.us^
 ||thementordirectory.com^
@@ -345,14 +339,13 @@
 ||update.volam2005pk.com^
 ||vagler.ru^
 ||valfanto.com^
-||vault88x.secure-efficient2.su^
+||vcc-library.uk^
 ||versaclean.com.br^
 ||veryboys.com^
 ||vgd.vg^
 ||videomeetgoogle.com^
 ||vincentdemiero.com^
 ||visam.info^
-||visapics.info^
 ||visualwikicloud.com^
 ||vizyonuniversitesi.com.tr^
 ||vizyonuniversitesi.web.tr^
@@ -362,13 +355,13 @@
 ||website.mypetapp.co.za^
 ||widexenmexico.com.mx^
 ||windomstatetheater.com^
-||wire2spell.com^
 ||wisdomheart.org^
 ||wittenhorst.eu^
 ||www.ardguisser.com^
 ||www.astenterprises.com.pk^
 ||www.automobile-bk.de^
 ||www.backupallfresh2030.com^
+||www.benshamcentre.co.uk^
 ||www.blackhattoolz.com^
 ||www.bratusferramentas.grupomoltz.com.br^
 ||www.chenwangqiao.com^
@@ -386,7 +379,6 @@
 ||www.longfeng188.com^
 ||www.maxpower01.com^
 ||www.medises.co.kr^
-||www.mevetlab.cl^
 ||www.mixturro.com^
 ||www.mobimpex.ro^
 ||www.myvcart.com^
@@ -425,11 +417,9 @@
 ||xn--yh4bx88a.com^
 ||xshop.com.tr^
 ||xuezha.net^
-||x.vodxz.icu^
 ||yaso.su^
 ||youtransfer.net^
 ||zamilgroups.com^
 ||zenglobalenerji.com^
 ||zhigao5191.com^
-||zoommeetingg.click^
 ||zycdjz.com^
