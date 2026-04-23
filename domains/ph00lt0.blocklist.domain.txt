@@ -1,4 +1,4 @@
-# Generated at 2026-04-22 07:00:16 UTC
+# Generated at 2026-04-23 07:00:24 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -3119,6 +3119,7 @@ analytics.element43.ch
 analyticsengine.s3.amazonaws.com
 analytics.enisa.europa.eu
 analytics.eo.nl
+analytics.essentialplugin.com
 analytics-eu.clickdimensions.com
 analytics.europeansleeper.eu
 analytics.example.com
@@ -21102,6 +21103,7 @@ turbonino.de
 turkishar.com
 turn.com
 turnip.cdn.turner.com
+turnto.com
 t.urs.microsoft.com
 tusdk.com
 tussendierenmens.nl

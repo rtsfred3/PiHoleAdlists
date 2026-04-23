@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-04-22 07:00:50 UTC
+! Generated at 2026-04-23 07:00:54 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -9226,6 +9226,7 @@
 ||c.it.msn.com^
 ||citrixanalyticseh2-alias.servicebus.windows.net^
 ||citrixanalyticseh2.servicebus.windows.net^
+||citrixanalyticseh3-alias.servicebus.windows.net^
 ||citrixanalyticseh-alias.servicebus.windows.net^
 ||citrixanalyticsehaps-alias.servicebus.windows.net^
 ||citrixanalyticsehaps.servicebus.windows.net^
@@ -13607,6 +13608,7 @@
 ||energeticexample.com^
 ||energeticladybug.com^
 ||energy.eneco.be^
+||energyfools.com^
 ||enews.alfaromeo.it^
 ||enews.learninga-z.com^
 ||engage2demand.cisco.com^
@@ -14631,6 +14633,7 @@
 ||flimsythought.com^
 ||flippedfunnel.com^
 ||flipt.actonservice.com^
+||flirfvysba2opz0zmzqs5iuiad.apple.com^
 ||flixgvid.flix360.io^
 ||flnkmj.hometogo.fr^
 ||f-log-at.grammarly.io^
@@ -35420,6 +35423,7 @@
 ||spmyma.moscowfresh.ru^
 ||sp.naver.com^
 ||sponsored-ads-fe.amazon-adsystem.com^
+||sponsored-ads-na.amazon-adsystem.com^
 ||spookyexchange.com^
 ||spookyskate.com^
 ||spookysleet.com^
