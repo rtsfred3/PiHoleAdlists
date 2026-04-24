@@ -1,4 +1,4 @@
-# Generated at 2026-04-23 07:00:24 UTC
+# Generated at 2026-04-24 07:00:17 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -451,6 +451,7 @@
 24vita.de
 253qv1sx4ey389p9wtpp9sj0-wpengine.netdna-ssl.com
 2.5aigushi.com
+25-jaareuro.nl
 25purb1qs9y91rvlxr44yeeg-wpengine.netdna-ssl.com
 25udam187zpf2mzghz28ihhs-wpengine.netdna-ssl.com
 265.com
@@ -4268,6 +4269,7 @@ b1img.com
 b1js.com
 b1sync.zemanta.com
 b26net.com
+b2b2c.nl
 b2bmg.com
 b2c.com
 b2c-contenthub.com
@@ -4746,6 +4748,7 @@ betweendigital.com
 betxpert.com
 beveiliging-aanvraag.im
 beverlyads.com
+bevrijdingsuitgifte.nl
 bevr.nl
 bewelllabs.com
 bexcommunicatie.nl
@@ -5017,6 +5020,7 @@ bmw.cloud
 bnbstatic.com
 bncloudfl.com
 bnc.lt
+bndspn.com
 bngdyn.com
 bngpt.com
 bnj.ch
@@ -6037,6 +6041,7 @@ cdn.tinypass.com
 cdn.tpdads.com
 cdn-tracking-script-dev-01--dpg.azureedge.net
 cdn.trackjs.com
+cdntranscend.eventbrite.com
 cdn.transcend.io
 cdntrex.com
 cdntrf.com
@@ -7463,6 +7468,7 @@ csell.co
 c.sf-syn.com
 csgi.com
 cshield.io
+csidetm.com
 csi.gstatic.com
 cs.luckyorange.net
 csnakliyat.com
@@ -10819,6 +10825,7 @@ gonamod.com
 gonet-ads.com
 gong.io
 gongm.in
+gonift.com
 go.nordpass.io
 go.nordstellar.net
 go.nordvpn.net
@@ -10906,8 +10913,12 @@ graph.nationwide.co.uk
 graph.nu.nl
 grassipietre.it
 gratis247.nl
+gratis.be
+gratisherdenkingsmunt.be
 gratisloten.nl
 gratismeedoen.nl
+gratisproduct.nl
+gratisuitgifte.nl
 gravatar.com
 gravitec.net
 gravity-software.com
@@ -10975,6 +10986,7 @@ gtm.aeg.ie
 gtm.aeg.nl
 gtm.elementor.com
 gtminet.net
+gtm.landvanons.nl
 gtm.netvlies.nl
 gtmniddocks.herokuapp.com
 gtm.oasisfeng.com
@@ -11182,6 +11194,7 @@ helpukrainewinwidget.org
 hemitus.digital
 hem.nl
 hengam.io
+herdenkingsuitgifte.nl
 hereapi.com
 herefish.com
 here-for-more.info
@@ -11681,9 +11694,11 @@ idcloudhosting.my.id
 idcot.com
 idcqi.com
 id.cxense.com
+idealsmtp.com
 identified.cn
 identityprovider.red-gate.com
 identity.tescobank.com
+identitytoolkit.googleapis.com
 ident.me
 idevaffiliate.com
 idevdirect.com
@@ -12921,6 +12936,7 @@ jtys8.com
 jt.yunxiufang.net
 ju33.com
 juaraplay.net
+jubileumuitgifte.nl
 judge.la.welt.de
 judge.me
 juiceanalytics.com
@@ -12979,6 +12995,7 @@ kairion.de
 kairosfire.com
 kalibrate.com
 kalmykia.su
+kalshi.com
 kameleoon.com
 kameleoon.eu
 kameleoon.io
@@ -14483,6 +14500,7 @@ memo2.nl
 mempay.com
 menghuanzs.com
 mengmengdas.com
+meowmail.in
 merchant-center-analytics.goog
 merchantfabricsbd.com
 merchantpool1.linkedin.com
@@ -15083,6 +15101,8 @@ multiview.com
 mumble.fm
 mummysgold.com
 munchkin.marketo.net
+munt-online.nl
+muntvoucher.nl
 muonwhila.com
 musecdn.businesscatalyst.com
 musemuse.cn
@@ -15154,6 +15174,7 @@ myndossier.cloud
 mynewredirectislife.xyz
 myo2-authorisation.web.app
 my.omniture.com
+mypethealh.com
 mypets.ws
 myphotos.cc
 myprivacy.dpgmedia.net
@@ -15212,6 +15233,7 @@ nasamlinkes.nl
 nasentc.com
 nasma.be
 nationale-loterij.be
+nationaleomruilactie.nl
 national-lottery.co.uk
 nationallottery.co.za
 nationaltowerportal.com.ng
@@ -15426,6 +15448,7 @@ nieuwsbrief.ah.nl
 nieuwsbriefsysteem.nl
 nieuwsbriefsysteem-static.nl
 niferstall.de
+nift.me
 nifty.com
 nigga.click
 nighthawkascend.cloud
@@ -16759,6 +16782,7 @@ polling.bbc.co.uk
 polling.hotjar.com
 pollster.pl
 polosofa.com
+polymarket.com
 pomhz.com
 ponf.linkedin.com
 poool.fr
@@ -17355,6 +17379,7 @@ qrcodekit.com
 qrcodekit.to
 qrfy.com
 qrius.nl
+qrypty.com
 qsbz2011.com
 qshxc.com
 qsurvey.mozilla.com
@@ -18964,6 +18989,7 @@ slashdot.org
 slashwork.hu
 sleeknote.com
 sleepgod.shop
+slgnt.eu
 slickdeals.net
 slick.ly
 slickstream.com
@@ -19479,6 +19505,7 @@ stanchartsingapore.tt.omtrdc.net
 standby.comm100vue.com
 stape.id
 stape.io
+stape.net
 staqnet.com
 star8.net
 starapps.studio
@@ -19913,6 +19940,7 @@ superchinese.com
 super.kdnet.net
 superlivescore.net
 supermetrics.com
+supersales.nl
 supership.jp
 supersonicads-a.akamaihd.net
 supersonicads.com
@@ -20003,6 +20031,8 @@ sx.org
 sxz67.com
 sy21p01ad-ext-cloud.iad.apple.com
 sycbbs.com
+sy-d.io
+syftdata.com
 sygic.com
 syilm.net
 sykty.com
@@ -21810,6 +21840,7 @@ vpn.starie.tk
 vpon.com
 vriendenloterij.nl
 vriendenlotterij.nl
+vrijheidsuitgifte.nl
 vrixon.com
 vroeg.net
 vr-profibroker.de
@@ -22133,6 +22164,7 @@ widget.kelkoo.com
 widget.kominfo.go.id
 widget.manychat.com
 widget-mediator.zopim.com
+widget-portal.givacard.nl
 widget.privy.com
 widget.raaze.com
 widget.reviews.co.uk
