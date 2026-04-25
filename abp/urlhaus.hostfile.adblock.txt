@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-04-24 07:00:14 UTC
+! Generated at 2026-04-25 07:00:12 UTC
 ! 
 ! Sources: https://urlhaus.abuse.ch/downloads/hostfile
 ! 
@@ -9,7 +9,6 @@
 ||1717.1000uc.com^
 ||aaronart.com^
 ||acaviationsupplies.com^
-||acbcr.ro^
 ||access.skaparade.com^
 ||acc.jiangsujiaxue.com^
 ||acms.saleseos.com^
@@ -39,17 +38,16 @@
 ||beoauto.alexion.rs^
 ||biducaconfeitos.com.br^
 ||blessdayservices.org^
+||blit.co.za^
 ||blogs.sokun.jp^
 ||bmdcompany.com^
 ||bnet-api.playm8ru.win^
 ||bnet.playm8ru.win^
 ||bombayonline.in^
 ||book.rollingvideogames.com^
-||boydjackson.org^
 ||bracell.latitude.net.br^
 ||bridgeroad.maverickpreviews.com^
 ||brightworks.cz^
-||bvaco.com^
 ||cad.659t.cn^
 ||careersconnect.work^
 ||catbaparadisehotel.com.vn^
@@ -75,7 +73,6 @@
 ||compimento.ba^
 ||compuserviceonline.com.br^
 ||contentmentfairnesspesky.com^
-||continentalgroup.net.in^
 ||controliumbt.com^
 ||coralasargetia.ro^
 ||corporacioncrf.com^
@@ -84,11 +81,9 @@
 ||crimefreesoftware.com^
 ||crystalpvp.ru^
 ||csg-app.com^
-||cs.go.kg^
 ||ct3-24.ru^
 ||d.14yaa.com^
 ||damiancollier.com^
-||datasurge-bot.online^
 ||data.yhydl.com^
 ||dcrun.co.uk^
 ||dcwblida.dz^
@@ -104,6 +99,7 @@
 ||disk.accord1key.cn^
 ||divvanews.com^
 ||dl.1003b.56a.com^
+||dl.armour-inc-down.net^
 ||dl.dzqzd.com^
 ||dl.natgo.cn^
 ||doc.e-statements.app^
@@ -130,14 +126,13 @@
 ||easybrand.vn^
 ||electri.billregulator.com^
 ||elisans.novayonetim.com^
+||emailspro.store^
 ||embedone.com^
 ||energy63.ru^
 ||en.taichuan.com^
 ||epanpano.com^
-||erzurumyoresel.com^
 ||estudio.ythan.com.br^
 ||evangroup.ru^
-||eventourarte.cl^
 ||everycarebd.com^
 ||explorer.vg^
 ||fakers.co.jp^
@@ -147,7 +142,6 @@
 ||file.blackint3.com^
 ||filerit.com^
 ||file.uhsea.com^
-||filezilla.cc^
 ||first-security-verden.de^
 ||flyingmutts.com^
 ||friendlydomain.ru^
@@ -156,14 +150,18 @@
 ||fuckhdmov.top^
 ||furystaff.tech^
 ||fz.tiansys.cn^
+||gadomamada.com^
 ||galerisenimutiara.com^
+||games.payos.cfd^
 ||geo-foundation.vg^
 ||globalbank.us^
 ||globaltechbilling.com^
+||gobiotechpestcontrol.com^
 ||google-services.cc^
 ||greenf.alexion.rs^
 ||grupomcperu.com^
 ||gutando.com^
+||halfmillion-iq.com^
 ||hasalltalent.com^
 ||hitman-pro.ru^
 ||hitstation.nl^
@@ -175,7 +173,6 @@
 ||i.404.pm^
 ||icoffeecloud.com^
 ||igra123.com^
-||indeanapolice.cc^
 ||indexsearchfindresult.com^
 ||injectroblox.ru^
 ||inmbau.com^
@@ -193,7 +190,6 @@
 ||jyothishmathi.in^
 ||kamin-premium.ru^
 ||kavacanada.ca^
-||kernalstress.st^
 ||khoancatbetong89.vn^
 ||kimyen.net^
 ||kokorostore.it^
@@ -203,45 +199,40 @@
 ||kuzina-teatr.ru^
 ||landonirwin.com^
 ||lawfirm.paperbirdtech.com^
-||libss.0x504.com^
 ||lindnerelektroanlagen.de^
-||lkgkdsjd.com^
 ||local-update.com^
 ||lomejordesalamanca.es^
 ||lon-01.dlo4d.com^
+||londonairportstransfer.co.uk^
 ||luizmatoso.com.br^
-||madroxreborn.lol^
 ||magnusworkspace.com^
 ||maidforyou1985.com^
-||markway.ru^
 ||marsalek.cy^
 ||meetvideogoogle.com^
-||metrics.gocloudmaps.com^
 ||mgtms.cc^
 ||mistralkorea.ru^
 ||mitreart.com^
 ||m.jkoa.co.kr^
+||m.meta-dm.com^
 ||mobshah.com^
 ||mogimall.com^
-||mondesignweb.com^
 ||mosselnet.co.za^
 ||msedge.vg^
 ||msgrouppolicy.vg^
 ||muledo.com^
 ||mundocarnes.cl^
+||mvmconstructores.com^
 ||mygrocerbox.com^
 ||ncxps.com^
 ||nelees.com^
 ||new.quranushaiqer.org.sa^
 ||noithaticon.vn^
-||nusatoyota.co.id^
 ||n.vs108.com^
 ||ny.lshdw.cc^
 ||o24o.ru^
 ||officials.ink^
 ||ojang.pe.kr^
 ||okhan.net^
-||oknoplastik.sk^
 ||onfiltre.com.tr^
 ||onyxguardify.de^
 ||onyxphantomlock.de^
@@ -261,6 +252,7 @@
 ||pvsa.gxfugy.cn^
 ||qiniuyunxz.yxflzs.com^
 ||ramirex.ro^
+||raw.flameblox.com^
 ||rdm.91yunma.cn^
 ||reauthenticator.com^
 ||records.dennisign.se^
@@ -271,6 +263,7 @@
 ||reutilizemais.co.mz^
 ||rheddh.com^
 ||riderspin.com^
+||ritee.in^
 ||robertrowe.com^
 ||royalindiancurryclub.com^
 ||rxquickpay.com^
@@ -278,7 +271,6 @@
 ||sabungkingbet189.com^
 ||save.jnrsmcu.com^
 ||scainseto.com.br^
-||schenckel.com.br^
 ||sdvgpro.ru^
 ||sec.xiaoshabi.nl^
 ||separadordecc.com^
@@ -287,6 +279,8 @@
 ||shahamanatme.com^
 ||shop.mediasova.ru^
 ||shqdown.ggzuhao.com^
+||shreesaiseva.org^
+||silverhost.vg^
 ||sk-comtel.com^
 ||smartermail.host^
 ||soft.110route.com^
@@ -313,7 +307,6 @@
 ||tehnomag.rs^
 ||temirtau-adm.ru^
 ||tengfeidn.cn^
-||teslasuit.to^
 ||test.peperoncinochepassione.it^
 ||theholidayroads.com^
 ||themaintechnician.us^
@@ -327,13 +320,12 @@
 ||twitch.ist^
 ||ukguk71.ru^
 ||uniform-factory.ae^
-||upaicdn.xinmei365.com^
 ||upchemicals.co.in^
 ||update.cg100iii.com^
 ||update.volam2005pk.com^
+||use-claude.com^
 ||vagler.ru^
 ||valfanto.com^
-||vanillamods.xyz^
 ||versaclean.com.br^
 ||veryboys.com^
 ||vgd.vg^
@@ -344,6 +336,7 @@
 ||vizyonuniversitesi.com.tr^
 ||vizyonuniversitesi.web.tr^
 ||vrajras.com^
+||webcstore.pw^
 ||website.mypetapp.co.za^
 ||widexenmexico.com.mx^
 ||windomstatetheater.com^
@@ -368,6 +361,7 @@
 ||www.kotojuki.com^
 ||www.longfeng188.com^
 ||www.medises.co.kr^
+||www.mevetlab.cl^
 ||www.mixturro.com^
 ||www.mobimpex.ro^
 ||www.myvcart.com^
@@ -388,7 +382,6 @@
 ||www.support-data.com^
 ||www.tdejb.com^
 ||www.tecunonline.com^
-||www.teslasuit.to^
 ||www.test.peperoncinochepassione.it^
 ||www.tmcksa.com^
 ||www.udobrit.ru^
@@ -404,10 +397,10 @@
 ||xn--90abegbttpjb3bzb2j.xn--p1ai^
 ||xn--b1afiqif6c.xn--p1ai^
 ||xn--yh4bx88a.com^
-||xs.bhaaratkeeshakti.vip^
 ||xshop.com.tr^
 ||xuezha.net^
 ||youtransfer.net^
 ||zamilgroups.com^
 ||zenglobalenerji.com^
+||zhigao5191.com^
 ||zycdjz.com^

@@ -1,4 +1,4 @@
-# Generated at 2026-04-24 07:00:17 UTC
+# Generated at 2026-04-25 07:00:16 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -717,6 +717,7 @@
 4fpnph3j8bls2w9fqo3k4xd5-wpengine.netdna-ssl.com
 4fsl4b2ha2841x0gnm21onox40a-wpengine.netdna-ssl.com
 4ggww.com
+4heats.com
 4hfchest5kdnfnut.com
 4info.com
 4kfinder.com
@@ -4618,6 +4619,7 @@ behave.com
 behe.com
 beiersdorf.com
 beintoo.com
+belastingportaal.info
 belboon.com
 belboon.de
 belco.io
@@ -8507,6 +8509,7 @@ digitalwindow.com
 digitalwindow.io
 digitalworld.earth
 digiteka.com
+digitrends.co
 digitru.st
 digits.net
 digprjsurvey.amazon.eu
@@ -9013,6 +9016,7 @@ early-birds.fr
 earlyiq.com
 earlyparrot.com
 easebar.com
+easedatarecovery.com
 east2pony.com
 east-kazakhstan.su
 eastsideautosalvage.com
@@ -9074,6 +9078,7 @@ ecommplugins-trustboxsettings.trustpilot.com
 ecomtechworl111d.com
 ecomtechworld.com
 ecoservers.net
+ecosyste.ms
 e.crashlytics.com
 ec.sds.getpenta.com
 ecsv2.roblox.com
@@ -10274,6 +10279,7 @@ fuseplatform.net
 fusetracking.com
 fushionstyle.store
 fusion-reach7.com
+fusionrm.com
 fus.lenovomm.com
 futureinterest.org
 futuresimple.com
@@ -20011,6 +20017,7 @@ swiftobc.com
 swiftspiele.de
 swiftypecdn.com
 swiggy.in
+swimlane.com
 swintt.com
 swirl.com
 swisscomag.tt.omtrdc.net

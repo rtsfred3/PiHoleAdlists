@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-04-24 07:00:49 UTC
+! Generated at 2026-04-25 07:00:45 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -9167,6 +9167,7 @@
 ||childlikeexample.com^
 ||childlikeform.com^
 ||child.sec.miui.com^
+||chillingtofu.com^
 ||chingovernment.com^
 ||chipperisle.com^
 ||chivalrouscord.com^
@@ -9548,7 +9549,6 @@
 ||cloudconf-app-za.heytapmobile.com^
 ||cloud.diagral.fr^
 ||cloudfront-labs.amazonaws.com^
-||cloudguppy.com^
 ||cloudhosting.actonservice.com^
 ||cloudhosting-business.vodafone.com^
 ||cloudhustles.com^
@@ -14242,7 +14242,6 @@
 ||exitachieve.myre.io^
 ||exitblocked.com^
 ||exmeqy.smartbuyglasses.de^
-||exo.nel.measure.office.net.sw.buhl-data.com^
 ||expansioneggnog.com^
 ||experianmatch.info^
 ||experience2013.elliemae.com^
@@ -14385,6 +14384,7 @@
 ||fairytaleflame.com^
 ||faithrowold.com^
 ||fakedisguise.com^
+||fakeschool.com^
 ||fakexa-post.mno.link^
 ||fal2.carrefour-banque.fr^
 ||fallaciousfifth.com^
@@ -14494,6 +14494,7 @@
 ||feedbackws.icloud.com.cn^
 ||feedme.use-beez.com^
 ||feedten.com^
+||feelwarmth.com^
 ||feignedfaucet.com^
 ||femalecook.com^
 ||f-emc.ngsp.gov.vn^
@@ -15460,6 +15461,7 @@
 ||gi-client-tracking.goodgamestudios.com^
 ||giddycoat.com^
 ||gif1.gifi.fr^
+||giftclothings.com^
 ||giftplanning.westmont.edu^
 ||gigkarma.com^
 ||g.ign.com^
@@ -23499,11 +23501,7 @@
 ||measure.office.com^
 ||measure.office.com.akamaized.net^
 ||measure.office.net^
-||measure.office.net.cn.intinfra.com^
-||measure.office.net.cz.intinfra.com^
 ||measure.office.net.edgesuite.net^
-||measure.office.net.in.intinfra.com^
-||measure.office.net.us.intinfra.com^
 ||measure.refinery89.com^
 ||meat.midanmarketing.com^
 ||meatydime.com^
@@ -38453,7 +38451,6 @@
 ||teammate.arclogics.com^
 ||team.moxtra.com^
 ||teams-events-data.trafficmanager.net^
-||teams.nel.measure.office.net.sw.buhl-data.com^
 ||teamstatus.net^
 ||tearfulglass.com^
 ||te.baur.de^
@@ -39449,6 +39446,7 @@
 ||tr.acd-comexpert.fr^
 ||trace.app-performance.music.amazon.dev^
 ||trace.bluemonkey.jp^
+||tracecontent.com^
 ||trace-h5sdk.vivo.com.cn^
 ||trace.insead.edu^
 ||trace.qq.com^
@@ -41941,6 +41939,7 @@
 ||tr.pixe.espmp-cufr.net^
 ||tr.pm.pelhammedia.com^
 ||tr.pmu.fr^
+||tr-pnrt-stsdk.vivoglobal.com^
 ||tr.poker.np6.com^
 ||tr.pole-emploi.info^
 ||tr.pole-emploi-services.com^

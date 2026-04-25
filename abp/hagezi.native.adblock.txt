@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-04-24 07:00:21 UTC
+! Generated at 2026-04-25 07:00:20 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -1078,7 +1078,6 @@
 ||ex-adreq-in.vivoglobal.com^
 ||excel-telemetry.officeapps.live.com^
 ||excel-telemetry.wac.trafficmanager.net^
-||exo.nel.measure.office.net.sw.buhl-data.com^
 ||experiments.apple.com^
 ||experiments.apple.com.edgekey.net^
 ||ex-romsp-unifyconfig.vivoglobal.com^
@@ -1861,11 +1860,7 @@
 ||measure.office.com^
 ||measure.office.com.akamaized.net^
 ||measure.office.net^
-||measure.office.net.cn.intinfra.com^
-||measure.office.net.cz.intinfra.com^
 ||measure.office.net.edgesuite.net^
-||measure.office.net.in.intinfra.com^
-||measure.office.net.us.intinfra.com^
 ||media.pre.pandora.xiaomi.com^
 ||me.lgsmartad.com^
 ||mercury-sdk.snssdk.com^
@@ -2788,7 +2783,6 @@
 ||tbm.snssdk.com^
 ||tc.lgsmartad.com^
 ||teams-events-data.trafficmanager.net^
-||teams.nel.measure.office.net.sw.buhl-data.com^
 ||telecommandsvc.microsoft.com^
 ||telem-edge.smartscreen.microsoft.com^
 ||telemetrycollector.microsoft.com^
@@ -2922,6 +2916,7 @@
 ||tr.lgsmartad.com^
 ||tr-onrt-stsdk.vivoglobal.com^
 ||tr-ort-stsdk.vivoglobal.com^
+||tr-pnrt-stsdk.vivoglobal.com^
 ||tr-p.vivoglobal.com^
 ||tr-romsp-unifyconfig.vivoglobal.com^
 ||tr-stsdk.vivoglobal.com^
