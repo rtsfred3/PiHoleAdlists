@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-04-25 07:00:20 UTC
+! Generated at 2026-04-26 07:00:24 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -2708,6 +2708,7 @@
 ||sms-ads-ru.heytapmobile.com^
 ||sn-ad-lgsmartad-com.aws-prd.net^
 ||sn.lgsmartad.com^
+||sonar.prime-video.amazon.dev^
 ||sponsored-ads-fe.amazon-adsystem.com^
 ||sponsored-ads-na.amazon-adsystem.com^
 ||spynet2.microsoft.com^

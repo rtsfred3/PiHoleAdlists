@@ -1,4 +1,4 @@
-# Generated at 2026-04-25 07:00:45 UTC
+# Generated at 2026-04-26 07:00:48 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -35315,6 +35315,7 @@ sonar6-xsp1-3.xx.fbcdn.net.iberostar.com
 sonar6-xxb1-1.xx.fbcdn.net.iberostar.com
 sonar6.xy.fbcdn.net.iberostar.com
 sonar6-yyz1-1.xx.fbcdn.net.iberostar.com
+sonar.prime-video.amazon.dev
 s-onetag.com
 soneticscorp.actonservice.com
 songsterritory.com
