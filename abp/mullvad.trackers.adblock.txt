@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-04-29 07:00:50 UTC
+! Generated at 2026-04-30 07:00:57 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -7768,6 +7768,7 @@
 ||babyblissgifts.com^
 ||baccarat.abzorbagames.com^
 ||backoffice.verintsystemsinc.com^
+||backtension.com^
 ||backupcat.com^
 ||baconbags.com^
 ||badgeboat.com^
@@ -18656,6 +18657,7 @@
 ||intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com^
 ||in.treasuredata.com^
 ||intricateberry.com^
+||introjava.com^
 ||int-shares.ri.la^
 ||intuitvisitorid.api.intuit.com^
 ||in.tv.global.mi.com^
@@ -25977,6 +25979,7 @@
 ||nappyattack.com^
 ||nappyneck.com^
 ||narc-dc.actonservice.com^
+||narrativ.com^
 ||nasi.etherscan.com^
 ||nasscom.epoise.com^
 ||nasscomtest.epoise.com^
@@ -26945,6 +26948,7 @@
 ||onmlkjiion.carte-gr.total.fr^
 ||onoztg.ultimate-guitar.com^
 ||onrt-stsdk.vivoglobal.com^
+||onsitestats.bluecore.com^
 ||ontxgr.hofer-reisen.at^
 ||oocrzh.byojet.com^
 ||oo.ooshop.com^
@@ -37016,7 +37020,6 @@
 ||stats.sebastiangale.ca^
 ||stats.sec.telefonica.com^
 ||stats.selectam.io^
-||stats.sender.net^
 ||stats.sendngnt.com^
 ||stats.senty.com.au^
 ||stats.servicedesignjobs.com^
