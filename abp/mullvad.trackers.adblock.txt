@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-01 07:00:46 UTC
+! Generated at 2026-05-02 07:00:54 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4906,8 +4906,13 @@
 ||adx-drru.op.hicloud.com^
 ||ad.xiaomi.com^
 ||adxlog-adnet.vivo.com.cn^
+||adx-op-fr.heytapmobile.com^
+||adx-op-in.heytapmobile.com^
+||adx-op-ru.heytapmobile.com^
 ||adx-op-sg.heytapmobile.com^
 ||adx.tv.mi.com^
+||adxu-bigo-sg.heytapmobile.com^
+||adx-u-sg.heytapmobile.com^
 ||adxzju.penti.com^
 ||ae-ad-lgsmartad-com.aws-prd.net^
 ||aebvay.mesinspirationsculinaires.com^
@@ -5520,6 +5525,7 @@
 ||analytics.faprika.net^
 ||analytics.fatmedia.io^
 ||analytics.favcy.com^
+||analytics-fe.digital-cloud.medallia.ca^
 ||analytics-fe.digital-cloud.medallia.com^
 ||analytics-fe.digital-cloud-prem.medallia.com^
 ||analytics.ferguson.com^
@@ -7515,6 +7521,7 @@
 ||au-vcode-od.vivoglobal.com^
 ||auwdff.dyfashion.ro^
 ||aux.lansator.ro^
+||aux-log.bidmatic.io^
 ||av6fm8zw2cvz.furucombo.app^
 ||avads.net^
 ||avai.actonservice.com^
@@ -8044,6 +8051,7 @@
 ||bi.heyloyalty.com^
 ||bi.irisdating.com^
 ||bijkep.hotelesestelar.com^
+||bikeexerciser.com^
 ||bikepaws.com^
 ||bikesboard.com^
 ||bikinginspire.com^
@@ -8066,6 +8074,7 @@
 ||bioagiliytix.actonservice.com^
 ||bioanalyticalmarketing.eurofins-info.com^
 ||bio.chups.co^
+||biologylog.com^
 ||biophysicsgroup.actonservice.com^
 ||bi.pst.tech^
 ||birthdaybelief.com^
@@ -8751,6 +8760,8 @@
 ||bzlold.machi.to^
 ||bznxqj.fiat.it^
 ||bzqxze.remixshop.com^
+||bzrcdn.openai.com^
+||bzr.openai.com^
 ||bzuaqh.roan.nl^
 ||c0012.brsimg.com^
 ||c0i.ckoi.com^
@@ -26438,6 +26449,7 @@
 ||nuyujp.barstoolsports.com^
 ||nv.inhaabit.com^
 ||nvpdaa.brightcellars.com^
+||nvrmd.novaramedia.com^
 ||nvumcv.standoil.kr^
 ||nvxlag.liligo.fr^
 ||nwajdf.zakzak.co.jp^
