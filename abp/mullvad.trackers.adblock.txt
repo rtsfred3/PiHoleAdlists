@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-05 07:00:56 UTC
+! Generated at 2026-05-06 07:00:54 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4711,6 +4711,7 @@
 ||ads1.msn.com^
 ||ads-aka-us-east-1.delivery.roku.com^
 ||ads-aka-us-west-2.delivery.roku.com^
+||ads.amazon.com^
 ||ads-api.tiktok.com^
 ||ads-api.vivo.com^
 ||ads-bdapi-my.heytapmobile.com^
@@ -4758,7 +4759,9 @@
 ||adspsp.com^
 ||ads.roku.com^
 ||ads-service.tiktok.com^
+||ads-setu-proxy.amazon.com^
 ||ads-setu-proxy-eu.amazon.com^
+||ads-setu-proxy-fe.amazon.com^
 ||ads-sg.tiktok.com^
 ||ads.staging.roku.com^
 ||ad.staging.rpay.int.roku.com^
