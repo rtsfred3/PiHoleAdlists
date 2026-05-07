@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-06 07:00:54 UTC
+! Generated at 2026-05-07 07:00:56 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -12258,6 +12258,7 @@
 ||di.spreadmorelove.ch^
 ||distiller.kano.link^
 ||distillery.wistia.com^
+||distilltable.com^
 ||distributionpocket.com^
 ||distribution.provenpharma.com^
 ||distributiontomatoes.com^
@@ -14004,6 +14005,7 @@
 ||eurppc-powerpoint-telemetry.officeapps.live.com^
 ||eurppc-word-telemetry.officeapps.live.com^
 ||eusdbk.philosophyofficial.com^
+||e.usesneakpeek.com^
 ||eu.sharpmarketing.eu^
 ||eu-stsdk.vivoglobal.com^
 ||eu-st-sl.vivoglobal.com^
@@ -14611,7 +14613,6 @@
 ||firurx.invia.hu^
 ||fishersfinds.com^
 ||fishing.daigostudio.com^
-||fishingtoolsbox.com^
 ||fitmessage.com^
 ||fitnessmapper.com^
 ||fivesidedsquare.com^
@@ -14624,7 +14625,6 @@
 ||fjgcai.zlavomat.sk^
 ||fjighz.armaniexchange.com^
 ||fjkjaj.peterhahn.nl^
-||fjordsand.com^
 ||fjortk.braun-hamburg.com^
 ||fjuccm.uktsc.com^
 ||fkdaik.lightinthebox.com^
@@ -28036,6 +28036,7 @@
 ||pmi.flowplayer.com^
 ||p.minds.com^
 ||pmir.sec.miui.com^
+||pmnbh.dedcool.com^
 ||pm.pmu.fr^
 ||pnaagn.haekplanter-heijnen.dk^
 ||pnekru6pxrum-a.akamaihd.net^
@@ -31191,6 +31192,7 @@
 ||secure.yami8alea.com^
 ||secure.yeld9auto.com^
 ||secure.yirr5frog.com^
+||securityannex.net^
 ||securityins.actonservice.com^
 ||securityintelligence.verint.com^
 ||sec.wolterskluwerfs.com^
@@ -38557,6 +38559,7 @@
 ||telemetry.moveworks.com^
 ||telemetry.navispherecarrier.com^
 ||telemetry.nav.no^
+||telemetry.officeapps.live.com^
 ||telemetry.owenscorning.com^
 ||telemetry.phenixrts.com^
 ||telemetry.portal.voltdeutschland.org^
