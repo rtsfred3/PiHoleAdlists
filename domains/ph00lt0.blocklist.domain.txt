@@ -1,4 +1,4 @@
-# Generated at 2026-05-07 07:00:27 UTC
+# Generated at 2026-05-08 07:00:21 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -690,7 +690,6 @@
 91adv.com
 91bjav.com
 91-img.com
-91mobiles.com
 91ysa.com
 91zgm.com
 92x.tumblr.com
@@ -2821,6 +2820,7 @@ apple.news
 apple-resources.s3.amazonaws.com
 applets.ebxcdn.com
 application.com
+applicationinsights.azure.com
 applicationinsights.io
 applies.goldenbees.fr
 applifier.com
@@ -8329,7 +8329,6 @@ g.haluoha.com
 ghbtns.com
 ghisler.com
 ghostboard.io
-ghost.io
 g.hsw.cn
 giantin.com
 gif.barclaycardus.com
@@ -12351,8 +12350,6 @@ onelink-translations.com
 onenessconcept.com
 onenessqigong.com
 oneplus.cn
-oneplus.com
-oneplus.in
 oneplus.net
 onesignal.com
 onesports.nl
@@ -15368,7 +15365,6 @@ static.homerun.co
 static.hotjar.com
 static.hsappstatic.net
 static.ichehome.com
-static.intercomassets.com
 static.iris.informa.com
 static.kinghost.com
 static.klaviyo.com
@@ -16130,7 +16126,6 @@ theadvisrguide.com
 theappanalytics.com
 theappreciationengine.com
 thebrave.io
-thebrowser.ghost.io
 thechainofcolour.nl
 thecompanycheck.com
 thecooperativebank.d1.sc.omtrdc.net
@@ -16442,6 +16437,7 @@ track.wattpad.com
 tracxn.com
 tradedoubler.com
 trader.olxgroup.com
+tradetracker.com
 tradetracker.net
 trading212.com
 trafficfactory.biz
@@ -16838,6 +16834,7 @@ usabilla.com
 usablenet.com
 us-ads.openx.net
 usage.myhomescreen.tv
+usage-ping.brave.com
 usage.trackjs.com
 usasync01.admantx.com
 usb.hextom.com
@@ -16955,11 +16952,8 @@ vam-cdn-prod.mediazs.com
 vanadcloud.com
 vanadengage.com
 vaninfo.nl
-vanschneider.ghost.io
 vantevo.io
 va.origin.startappservice.com
-variations.brave.com
-variations.bravesoftware.com
 variations-cdn.figpii.com
 varify.io
 varnish.qualifioapp.com

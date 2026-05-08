@@ -1,4 +1,4 @@
-# Generated at 2026-05-07 07:00:56 UTC
+# Generated at 2026-05-08 07:00:53 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -13046,6 +13046,7 @@ ehdkzm.ottoversand.at
 ehedwd.sikayetvar.com
 ehg-samsungusa.hitbox.com
 ehrlgb.izlato.sk
+ehtelemetrystaging-alias.servicebus.windows.net
 ehtel.endress.com
 eht.endress.com
 ei-api.testlb-gwy.easyjet.com.edgekey.net.easyjet.com
