@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-08 07:00:53 UTC
+! Generated at 2026-05-09 07:00:44 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4577,7 +4577,6 @@
 ||aditude.cloud^
 ||adixkr.culturekings.com.au^
 ||ad.jibunde-esute.com^
-||ad.kddi-fs.com^
 ||ad.kirara-support.jp^
 ||adl.bankofthewest.com^
 ||adlc-exchange.toast.com^
@@ -4758,6 +4757,7 @@
 ||ads.oppomobile.com^
 ||adspsp.com^
 ||ads.roku.com^
+||ads-ru.tiktok.com^
 ||ads-service.tiktok.com^
 ||ads-setu-proxy.amazon.com^
 ||ads-setu-proxy-eu.amazon.com^
@@ -5519,6 +5519,7 @@
 ||analytics.eventbrite.com^
 ||analytics.everythingstream.com^
 ||analytics.evo.co.uk^
+||analytics-exp16-normal-useastred.tiktokw.eu^
 ||analytics-exp-i18n.tiktok.com^
 ||analytics-exp-ru.tiktok.com^
 ||analytics-exp-sg.tiktok.com^
@@ -9141,6 +9142,7 @@
 ||chaireggnog.com^
 ||chairscrack.com^
 ||chairsdonkey.com^
+||chalkdream.com^
 ||chalkoil.com^
 ||challengeh.carte-gr.total.fr^
 ||chanalytics.merchantadvantage.com^
@@ -10568,6 +10570,7 @@
 ||crvayw.kagunosato.com^
 ||crwdcntrl.net^
 ||cryo.socialblade.com^
+||crypticgenius.com^
 ||crypto-dsf-fr.allawnos.com^
 ||crypto-dsf-in.allawnos.com^
 ||crypto-dsf-sg.allawnos.com^
@@ -12379,6 +12382,7 @@
 ||dmdgdu.atmosphera.com^
 ||dmepyodjotcuks.com^
 ||dm-event.net^
+||dmg-libs.anm.co.uk^
 ||dmkt.solutions.cas.org^
 ||dm.lgsmartad.com^
 ||dmndfrcstng.com^
@@ -12453,6 +12457,7 @@
 ||doppler-client-events.cbsivideo.com^
 ||doppler-config.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
+||dotshellmain.com^
 ||dotvox.actonservice.com^
 ||doubleclick.uk.net^
 ||doubledefend.com^
@@ -36248,6 +36253,7 @@
 ||starkscale.com^
 ||starman.fathomdns.com^
 ||starman.floorcleanse.co.uk^
+||starrynets.com^
 ||starsmarter.com^
 ||start.adelaide.edu.au^
 ||startercost.com^

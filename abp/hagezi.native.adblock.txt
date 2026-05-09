@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-08 07:00:24 UTC
+! Generated at 2026-05-09 07:00:19 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -200,6 +200,7 @@
 ||ads-msn-com-profile.trafficmanager.net^
 ||ads.oppomobile.com^
 ||ads.roku.com^
+||ads-ru.tiktok.com^
 ||ads-service.tiktok.com^
 ||ads-setu-proxy.amazon.com^
 ||ads-setu-proxy-eu.amazon.com^
@@ -316,6 +317,7 @@
 ||analytics-dev-lleap-events.servicebus.windows.net^
 ||analytics-dev-simpad-events.servicebus.windows.net^
 ||analyticsehnwe.servicebus.windows.net^
+||analytics-exp16-normal-useastred.tiktokw.eu^
 ||analytics-exp-i18n.tiktok.com^
 ||analytics-exp-ru.tiktok.com^
 ||analytics-exp-sg.tiktok.com^
