@@ -1,4 +1,4 @@
-# Generated at 2026-05-10 07:00:51 UTC
+# Generated at 2026-05-11 07:00:51 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4733,6 +4733,7 @@ adsdk.trafficmanager.net
 adsdk.yandex.ru
 ads-drcn.platform.hihonorcloud.com
 ads-drru.cloud.huawei.ru
+ads-drru.platform.hihonorcloud.com
 adserver.bing.com
 adservice.google.com
 adservices.roku.com
@@ -39896,7 +39897,9 @@ tracking.csob.cz
 tracking.cspire.com
 tracking.culturalinsurance.com
 tracking.dailyglow.com
+tracking-data-drru.platform.hihonorcloud.com
 tracking.dataloen.dk
+tracking-data.platform.hihonorcloud.com
 tracking.dealeranalytics.com
 tracking.deutscheladies.de
 tracking.dev2.pepsicopartners.com

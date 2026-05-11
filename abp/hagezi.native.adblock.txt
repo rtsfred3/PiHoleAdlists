@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-10 07:00:25 UTC
+! Generated at 2026-05-11 07:00:26 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -183,6 +183,7 @@
 ||adsdk.trafficmanager.net^
 ||ads-drcn.platform.hihonorcloud.com^
 ||ads-drru.cloud.huawei.ru^
+||ads-drru.platform.hihonorcloud.com^
 ||adserver.bing.com^
 ||adservices.roku.com^
 ||ads.eu.msn.com^
@@ -2899,6 +2900,8 @@
 ||tracking-adnet.vivo.com.cn^
 ||tracking.americas.business.samsung.com^
 ||tracking.apac.business.samsung.com^
+||tracking-data-drru.platform.hihonorcloud.com^
+||tracking-data.platform.hihonorcloud.com^
 ||tracking.eu.miui.com^
 ||tracking.europe.business.samsung.com^
 ||tracking.intl.miui.com^
