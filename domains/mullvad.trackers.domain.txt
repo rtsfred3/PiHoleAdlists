@@ -1,4 +1,4 @@
-# Generated at 2026-05-11 07:00:51 UTC
+# Generated at 2026-05-12 07:00:46 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4715,6 +4715,7 @@ ads-bdapi-my.heytapmobile.com
 ads-bdapi-ph.heytapmobile.com
 ads-bdapi-th.heytapmobile.com
 ads-bdapi-vn.heytapmobile.com
+adsbdfsiad-704007db1.heytapmobi.com
 ads.beta.roku.com
 ads.bing.com
 ads-cf-us-east-1.delivery.roku.com
@@ -6200,6 +6201,7 @@ apkrep.ff.avast.sec.miui.com
 apllogistics.actonservice.com
 aplobv.xexymix.com
 aplus.alibaba.com
+apm.qwant.com
 apm.tnet.nl
 a.pork.org
 a.pourquoidocteur.fr
@@ -7819,6 +7821,7 @@ barbarousbase.com
 barbershirts.com
 b.arenum.games
 barium.cheezdev.com
+barqueue.com
 barracuda.carte-gr.total.fr
 baseboosters.com
 basilfish.com
@@ -8506,6 +8509,7 @@ br.inhaabit.com
 brinstascooter.eccocar.com
 brioscoot.eccocar.com
 briskeagle.io
+briskedge.net
 briskpelican.io
 briskstorm.com
 brjjkd.calzedonia.com
@@ -9081,6 +9085,7 @@ cdn-xp-ingest-ab.v.aaplimg.com
 cdn-xp-ingest.edge.apple
 cdpbeacon.lgtvcommon.com
 cdp.cifinancial.com
+cdp.howtotrade.com
 cdrive.compellent.com
 cdtm.cdiscount.com
 ceggfe.msc-kreuzfahrten.de
@@ -9191,6 +9196,7 @@ childlikeform.com
 child.sec.miui.com
 chillingtofu.com
 chingovernment.com
+chipcardice.com
 chipperisle.com
 chivalrouscord.com
 c.hk.msn.com
@@ -11724,6 +11730,7 @@ ddmfrg.modivo.bg
 ddnahc.mesbagages.com
 dd.nytimes.com
 ddome-tag.blablacar.com
+dd.qwant.com
 ddqwdh.sofastyle.jp
 dd.seloger-bureaux-commerces.com
 dd.seloger.com
@@ -12381,7 +12388,6 @@ dmc.romotur.com
 dmdgdu.atmosphera.com
 dmepyodjotcuks.com
 dm-event.net
-dmg-libs.anm.co.uk
 dmkt.solutions.cas.org
 dm.lgsmartad.com
 dmndfrcstng.com
@@ -12763,6 +12769,7 @@ ea.sadyr.es
 ea.smallable.com
 ea.sport2000.fr
 eastern2.secureforms.mcafee.com
+easysyncnews.com
 eat9.thebeat925.ca
 eatablesquare.com
 ea.telecommandeonline.com
