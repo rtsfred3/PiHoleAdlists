@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-13 07:00:20 UTC
+! Generated at 2026-05-14 07:00:27 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -2723,6 +2723,18 @@
 ||sn-ad-lgsmartad-com.aws-prd.net^
 ||sn.lgsmartad.com^
 ||sonar.prime-video.amazon.dev^
+||sponsored-ads.amazon.ca^
+||sponsored-ads.amazon.co.jp^
+||sponsored-ads.amazon.com^
+||sponsored-ads.amazon.com.au^
+||sponsored-ads.amazon.com.br^
+||sponsored-ads.amazon.com.mx^
+||sponsored-ads.amazon.co.uk^
+||sponsored-ads.amazon.es^
+||sponsored-ads.amazon.in^
+||sponsored-ads.amazon.it^
+||sponsored-ads-eu.amazon.com.tr^
+||sponsored-ads-eu-south-2.amazon-adsystem.com^
 ||sponsored-ads-fe.amazon-adsystem.com^
 ||sponsored-ads-na.amazon-adsystem.com^
 ||spynet2.microsoft.com^

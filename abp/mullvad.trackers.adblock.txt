@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-13 07:00:46 UTC
+! Generated at 2026-05-14 07:00:53 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -13886,6 +13886,7 @@
 ||es.lgsmartad.com^
 ||es.lucanet.com^
 ||es-mktg.vodafone.com^
+||esoterictools.com^
 ||espaniapizza.openapp.link^
 ||espressoroom.openapp.link^
 ||espy.boehs.org^
@@ -14396,6 +14397,7 @@
 ||fabcharting.com^
 ||fabledsoul.com^
 ||fabryczna.viessmann.pl^
+||fabulousbooking.com^
 ||face2.ishoppingapp.com^
 ||facetwealth.actonservice.com^
 ||facey.psjhealth.org^
@@ -20807,6 +20809,7 @@
 ||l.lesnumeriques.com^
 ||l.lilyzhou.com^
 ||llkdiu.chacos.com^
+||llmometrics.b-cdn.net^
 ||llntrack.messe-duesseldorf.de^
 ||llqutk.skechers.com.au^
 ||llteig.framesdirect.com^
@@ -21144,6 +21147,7 @@
 ||lokalwerben.t-online.de^
 ||lonelyflavor.com^
 ||longingtrees.com^
+||longloops.com^
 ||loobmf.hardloop.fr^
 ||look-ahead.nurturemarketing.com^
 ||loopcybersec.com^
@@ -25281,6 +25285,7 @@
 ||micro.workplaceinvesting.fidelity.com^
 ||midas.chase.com^
 ||mi-de-ner-nis3.info^
+||midnightmead.com^
 ||mie-solutions.actonservice.com^
 ||miexgq.forevernew.co.nz^
 ||migc.g.mi.com^
@@ -27536,6 +27541,7 @@
 ||pdzutf.sftworks.jp^
 ||peacefullimit.com^
 ||pe-ad-lgsmartad-com.aws-prd.net^
+||peakcreator.com^
 ||pear.ca-eko-globetrotter.fr^
 ||peards.zevvle.com^
 ||pearpouch.com^
@@ -35470,6 +35476,18 @@
 ||spmaeu.gumtree.com.au^
 ||spmyma.moscowfresh.ru^
 ||sp.naver.com^
+||sponsored-ads.amazon.ca^
+||sponsored-ads.amazon.co.jp^
+||sponsored-ads.amazon.com^
+||sponsored-ads.amazon.com.au^
+||sponsored-ads.amazon.com.br^
+||sponsored-ads.amazon.com.mx^
+||sponsored-ads.amazon.co.uk^
+||sponsored-ads.amazon.es^
+||sponsored-ads.amazon.in^
+||sponsored-ads.amazon.it^
+||sponsored-ads-eu.amazon.com.tr^
+||sponsored-ads-eu-south-2.amazon-adsystem.com^
 ||sponsored-ads-fe.amazon-adsystem.com^
 ||sponsored-ads-na.amazon-adsystem.com^
 ||spookyexchange.com^
@@ -38716,7 +38734,6 @@
 ||test.samsungrm.net^
 ||test-share.glorify-app.com^
 ||test.shigoto-web.com^
-||test.showvid.ws^
 ||test.siriusdecisions.com^
 ||test.smrtp.link^
 ||testsocial.eduthrill.com^
