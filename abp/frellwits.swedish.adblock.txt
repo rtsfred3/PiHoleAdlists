@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-15 07:00:16 UTC
+! Generated at 2026-05-16 07:00:16 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 ! 
@@ -125,6 +125,7 @@
 ||analytics.nikkasystems.com^
 ||analytics.recept.se^
 ||analytics.residencemagazine.se^
+||analytics.samnytt.se^
 ||analytics-sdk.yle.fi^
 ||analytics.sitewit.com^
 ||analytics.sjf.se^
