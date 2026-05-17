@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-16 07:00:19 UTC
+! Generated at 2026-05-17 07:00:22 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 ! 
@@ -1020,6 +1020,7 @@
 ||activities.easyjet.com^
 ||activityboard.jp^
 ||activity.windows.com^
+||activtrak.com^
 ||actlz.github.io^
 ||act-on.com^
 ||actonservice.com^
@@ -1889,6 +1890,7 @@
 ||advertise.com^
 ||advertise.ldplayer.net^
 ||advertise-solution.nl^
+||advertising.amazon.dev^
 ||advertising-api-eu.amazon.com^
 ||advertising.apple.com^
 ||advertising-cdn.dpgmedia.cloud^
@@ -2052,6 +2054,7 @@
 ||agilemeasure.com^
 ||agillic.com^
 ||agilone.com^
+||agi-static.indiatimes.com^
 ||agle21xe2anfddirite.com^
 ||a.global.msads.net^
 ||agnitas.ag^
@@ -5210,6 +5213,7 @@
 ||cmp.ringpublishing.com^
 ||cmpsp.autobild.es^
 ||cmp-static.springer.com^
+||cmp-teamblue.services^
 ||cmp.tvspielfilm.de^
 ||cmp.uniconsent.com^
 ||cmpv2.independent.co.uk^
@@ -7166,6 +7170,7 @@
 ||emarbox.com^
 ||emarketingsolutions.es^
 ||emarsys.net^
+||ematrix.filmipop.com^
 ||em.baidu.com^
 ||emb-api.com^
 ||embeddable-widgets-euw1.insided.com^
@@ -7175,6 +7180,7 @@
 ||embedly.com^
 ||embedmaker.com^
 ||embedmaps.com^
+||embeds.acswapp.com^
 ||embeds.driftcdn.com^
 ||embed.sendtonews.com^
 ||embedsocial.com^
@@ -7347,6 +7353,7 @@
 ||etracker.de^
 ||e.transavia.com^
 ||e-trend.co.jp^
+||ets.org^
 ||ettoday.net^
 ||et.w.inmobi.com^
 ||eu-analytics.figpii.com^
@@ -7859,6 +7866,7 @@
 ||fp.msedge.net^
 ||fpnpmcdn.net^
 ||fpp.keessmit.nl^
+||fpt.live.com^
 ||fpt.microsoft.com^
 ||fpt.norton.com^
 ||fp.ups.com^
@@ -8109,6 +8117,7 @@
 ||gatekeeperconsent.com^
 ||gate.rapidsec.net^
 ||gateway.answerscloud.com^
+||gateway.bingviz.microsoftapp.net^
 ||gatewayentry.com^
 ||gateway.foresee.com^
 ||gateway.fortunelounge.com^
@@ -8264,6 +8273,7 @@
 ||get-programmers.com^
 ||getpublica.com^
 ||getqonfi.com^
+||getreditus.com^
 ||getresponse.com^
 ||getresponse.nl^
 ||getreview.pl^
@@ -8889,6 +8899,7 @@
 ||hs-data.com^
 ||h-sdk.online-metrix.net^
 ||hsdn.org^
+||hsprotect.net^
 ||hs.qhupdate.com^
 ||htjsk.com^
 ||htlb.casalemedia.com^
@@ -9343,6 +9354,7 @@
 ||ifengad.3g.ifeng.com^
 ||i.flow.browser.oppomobile.com^
 ||iforbet.pl^
+||iframe.hsprotect.net^
 ||iframe.ly^
 ||igamingbusiness.com^
 ||igaworks.com^
@@ -9536,6 +9548,7 @@
 ||info.yitsoftware.com^
 ||infraforge.ai^
 ||infragrid.v.network^
+||infran.ru^
 ||infura.io^
 ||infusionsoft.app^
 ||infusionsoft.com^
@@ -9884,6 +9897,7 @@
 ||is-very-nice.org^
 ||is-very-sweet.org^
 ||is-with-theband.com^
+||isy-teamblue.services^
 ||italiaonline.it^
 ||it.com^
 ||i.tct-rom.com^
@@ -9933,6 +9947,8 @@
 ||jango.com^
 ||janrainsso.com^
 ||japan.inmobi.com^
+||jarvisads.com^
+||jarvis.cx^
 ||jasongo.net^
 ||javhd.com^
 ||jb.ecar168.cn^
@@ -10687,6 +10703,7 @@
 ||local.mlcdn.com^
 ||localsensor.com^
 ||localytics.com^
+||locate.indiatimes.com^
 ||location.bloomberg.com^
 ||locationhistoryaggregates-pa.googleapis.com^
 ||locationhistory-pa.googleapis.com^
@@ -10752,6 +10769,7 @@
 ||logs-16c9d93d.lloydsbank.co.uk^
 ||logs2.xiti.com^
 ||logs.amap.com^
+||logsapi.zoho.eu^
 ||logs.betterstack.com^
 ||logs.browser-intake-datadoghq.com^
 ||logs.browser-intake-datadoghq.eu^
@@ -12622,6 +12640,7 @@
 ||pages04.net^
 ||pages09.net^
 ||pagesense.io^
+||pagesense-js.zoho.com^
 ||pagespeed-mod.com^
 ||pagewiz.com^
 ||pahalgrameensewasamiti.in^
@@ -13356,6 +13375,8 @@
 ||p.sdu8cvc.com^
 ||ps.eyeota.net^
 ||psh.ai^
+||psiexams.com^
+||psionline.com^
 ||pstatp.com^
 ||pstmrk.it^
 ||p.szonline.net^
@@ -15559,6 +15580,7 @@
 ||sticky-cart.uplinkly-static.com^
 ||stimmwissenschaften.de^
 ||stjzh.gdtarget.com^
+||stk.hsprotect.net^
 ||st.linkfire.com^
 ||stmg-prod.mirror.co.uk^
 ||stm.orf.at^
@@ -16516,6 +16538,7 @@
 ||trk.mail.ru^
 ||trkn.us^
 ||trk.pinterest.com^
+||trk.register.it^
 ||trk.simplyhosting.com^
 ||trk.teamblue.services^
 ||trk.techtarget.com^
@@ -16621,6 +16644,7 @@
 ||tva-recherche.lu^
 ||tvbingo.dk^
 ||tvf.com^
+||tvid.in^
 ||t.visx.net^
 ||tv-live.world^
 ||tvn.hit.gemius.pl^
@@ -17333,6 +17357,7 @@
 ||webtrends-optimize.com^
 ||webview.unityads.unity3d.com^
 ||web.webpushs.com^
+||webwork-tracker.com^
 ||web-writer.eu.smartlook.cloud^
 ||webyze.com^
 ||wedate.com^
@@ -17495,6 +17520,7 @@
 ||wootric.com^
 ||wordstream.com^
 ||workarea.com^
+||workcomposer.com^
 ||workers.dev^
 ||workingatcompanyinfo.nl^
 ||worldaccelerator.com^
@@ -17775,6 +17801,7 @@
 ||yougov.co.uk^
 ||youku.com^
 ||youmi.net^
+||younity.com^
 ||yourbrand.com^
 ||yourdailyhealthpack.com^
 ||yourlinkdr.com^

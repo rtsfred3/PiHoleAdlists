@@ -1,4 +1,4 @@
-# Generated at 2026-05-16 07:00:49 UTC
+# Generated at 2026-05-17 07:00:50 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -35579,8 +35579,10 @@ sponsored-ads.amazon.es
 sponsored-ads.amazon.in
 sponsored-ads.amazon.it
 sponsored-ads-eu.amazon-adsystem.com
+sponsored-ads-eu.amazon.ae
 sponsored-ads-eu.amazon.com.tr
 sponsored-ads-eu.amazon.de
+sponsored-ads-eu.amazon.eg
 sponsored-ads-eu.amazon.nl
 sponsored-ads-eu.amazon.pl
 sponsored-ads-eu-south-2.amazon-adsystem.com
