@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-18 07:00:45 UTC
+! Generated at 2026-05-19 07:00:53 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -19466,7 +19466,6 @@
 ||kikoe.aisei.co.jp^
 ||kimberlyspa.actonservice.com^
 ||kindasingle.com^
-||kindhush.com^
 ||kindlereunion.com^
 ||kinesis.us-east-1.analytics.edmentum.com^
 ||kingnews.burgerking.co.za^
@@ -35583,6 +35582,7 @@
 ||sponsored-ads.amazon.it^
 ||sponsored-ads-eu.amazon-adsystem.com^
 ||sponsored-ads-eu.amazon.ae^
+||sponsored-ads-eu.amazon.com.be^
 ||sponsored-ads-eu.amazon.com.tr^
 ||sponsored-ads-eu.amazon.co.za^
 ||sponsored-ads-eu.amazon.de^
@@ -35963,6 +35963,7 @@
 ||ssevt.com^
 ||ssfllp.actonservice.com^
 ||ssgamf.stories.com^
+||ss.hellotushy.com^
 ||sshhfy.ray-ban.com^
 ||s.sick.com^
 ||ssigpc.servusmarktplatz.com^
@@ -42495,6 +42496,7 @@
 ||t.unlvrebels.com^
 ||turboeagle.co^
 ||turbolion.io^
+||turtleface.net^
 ||t.usajaguars.com^
 ||t.usctrojans.com^
 ||t.utahstateaggies.com^
@@ -43918,6 +43920,7 @@
 ||waxsirens.com^
 ||wayfinderanalytics.servicebus.windows.net^
 ||wayjoyfarm.com^
+||waylowrates.net^
 ||wayyaj8t094u.www.kodalia.com^
 ||wbcygu.wardow.com^
 ||wbiphu.johnbeerens.com^

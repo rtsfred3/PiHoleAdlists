@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-18 07:00:22 UTC
+! Generated at 2026-05-19 07:00:28 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -2736,6 +2736,7 @@
 ||sponsored-ads.amazon.it^
 ||sponsored-ads-eu.amazon-adsystem.com^
 ||sponsored-ads-eu.amazon.ae^
+||sponsored-ads-eu.amazon.com.be^
 ||sponsored-ads-eu.amazon.com.tr^
 ||sponsored-ads-eu.amazon.co.za^
 ||sponsored-ads-eu.amazon.de^
