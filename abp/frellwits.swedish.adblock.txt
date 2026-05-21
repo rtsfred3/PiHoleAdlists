@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-20 07:00:13 UTC
+! Generated at 2026-05-21 07:00:19 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 ! 
@@ -207,6 +207,7 @@
 ||bet365affiliates.com^
 ||betrad.com^
 ||bettingstugan.se^
+||bidder-cdn.fra1.cdn.digitaloceanspaces.com^
 ||bid.g.doubleclick.net^
 ||bilpolicydi.bytelab.dk^
 ||biowebb-data.s3.amazonaws.com^

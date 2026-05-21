@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-20 07:00:43 UTC
+! Generated at 2026-05-21 07:00:50 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -9066,7 +9066,6 @@
 ||cdjhcf.hometogo.es^
 ||c.dk.msn.com^
 ||cdl2.booksy.com^
-||cdl.booksy.com^
 ||cd.lgsmartad.com^
 ||cdl.lvsafe.io^
 ||cdn1.skrill.com^
@@ -15774,7 +15773,6 @@
 ||go.dallasstars.com^
 ||go.dateinasia.innovatedating.com^
 ||go.datingapp.mingle.com^
-||goddesslamps.com^
 ||go.deltek.com^
 ||go.delve.com^
 ||go.devapp.sharekey.com^
@@ -26099,6 +26097,7 @@
 ||native-track.com^
 ||natsp.xing.com^
 ||nats.xing.com^
+||naturebeans.com^
 ||nauticalfox.com^
 ||navfja.answear.hu^
 ||navigation-timing.meinestadt.de^
@@ -27832,6 +27831,7 @@
 ||pixel.condenastdigital.com^
 ||pixel.convertize.io^
 ||pixel.cpex.cz^
+||pixel.dashfi.dev^
 ||pixel.driveniq.com^
 ||pixel.dugwood.com^
 ||pixeledhub.com^
@@ -44323,6 +44323,7 @@
 ||wikiquotations.com^
 ||wikiwhatwhere.com^
 ||wildcommittee.com^
+||wildpetalfarm.com^
 ||wildwoodavenue.com^
 ||w.ilfattoquotidiano.it^
 ||win10-trt.msedge.net^
@@ -44396,6 +44397,7 @@
 ||woodruffsweitzer.actonservice.com^
 ||woodstock.viessmann.com.au^
 ||woodtone.actonservice.com^
+||woofweather.com^
 ||woolstapler.com^
 ||woosyt.portalesardegna.com^
 ||woowjy.desa.com.tr^
