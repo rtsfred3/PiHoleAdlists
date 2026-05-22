@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-21 07:00:27 UTC
+! Generated at 2026-05-22 07:00:26 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -668,6 +668,7 @@
 ||citrixanalyticseh2-alias.servicebus.windows.net^
 ||citrixanalyticseh2.servicebus.windows.net^
 ||citrixanalyticseh3-alias.servicebus.windows.net^
+||citrixanalyticseh3.servicebus.windows.net^
 ||citrixanalyticseh-alias.servicebus.windows.net^
 ||citrixanalyticsehaps-alias.servicebus.windows.net^
 ||citrixanalyticsehaps.servicebus.windows.net^

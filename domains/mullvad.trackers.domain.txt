@@ -1,4 +1,4 @@
-# Generated at 2026-05-21 07:00:50 UTC
+# Generated at 2026-05-22 07:00:49 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -9271,6 +9271,7 @@ c.it.msn.com
 citrixanalyticseh2-alias.servicebus.windows.net
 citrixanalyticseh2.servicebus.windows.net
 citrixanalyticseh3-alias.servicebus.windows.net
+citrixanalyticseh3.servicebus.windows.net
 citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticsehaps-alias.servicebus.windows.net
 citrixanalyticsehaps.servicebus.windows.net
