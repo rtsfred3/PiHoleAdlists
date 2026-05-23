@@ -1,4 +1,4 @@
-# Generated at 2026-05-22 07:00:49 UTC
+# Generated at 2026-05-23 07:00:55 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4568,7 +4568,6 @@ ad.india.xiaomi.com
 ad.inhaabit.com
 adi.ni.com
 adinstantpage16-normal-useastred.tiktokv.eu
-ad-instantpage-ru.tiktokv.com
 ad-instantpage-sg.tiktokv.com
 ad-instantpage.tiktokv.us
 ad-instantpage-ttp2.tiktokv.eu
@@ -4757,13 +4756,11 @@ ads.lgtvcommon.com
 adsmeasurement.com
 ads.microsoft.com
 ads.msn.com
-ads-msn-com-profile.trafficmanager.net
 adsnid.wagyushop.com
 ads.oppomobile.com
 adspsp.com
 ads.roku.com
 ads-ru.tiktok.com
-ads-service.tiktok.com
 ads-setu-proxy.amazon.com
 ads-setu-proxy-eu.amazon.com
 ads-setu-proxy-fe.amazon.com
@@ -4783,7 +4780,6 @@ ads-trk.vidible.tv
 ads-ttp2.tiktokw.eu
 ads-ttp2.us.tiktok.com
 ads-us-east-1.delivery.roku.com
-ads-useast2a.tiktok.com
 ads-us-east-2.delivery.roku.com
 ads.us.tiktok.com
 ads-us-west-2.delivery.roku.com
@@ -4928,7 +4924,6 @@ aecid.santanderbank.com
 ae.cobweb.com
 aec-target.base.be
 aec-target.telenet.be
-aec-visio-telemetry.officeapps.live.com
 aeewjq.dr-vegefru.com
 aegis.trovo.live
 ae-go.experian.com
@@ -5603,7 +5598,6 @@ analytics.ihg.com
 analytics.ikyu.com
 analytic.simplyhealth.co.uk
 analytics.inquisitr.com
-analyticsiot-prod-simpad-ehn.servicebus.windows.net
 analytics-ipv6.tiktokw.us
 analytics.iraiser.eu
 analytics.ishopchangi.com
@@ -7196,7 +7190,6 @@ a.ria.ru
 arigng.door.ac
 arincol.arin-innovation.com
 a-ring-fallback.msedge.net
-a-ring-ipv6only.msedge.net
 a-ring.msedge.net
 ar.interiordefine.com
 ar.i-run.fr
@@ -7530,7 +7523,6 @@ autovistaintelligence.autovistagroup.com
 autovista-se.autovistagroup.com
 autozone.actonservice.com
 autspe.notino.hr
-au-vcode-od.vivoglobal.com
 auwdff.dyfashion.ro
 aux.lansator.ro
 aux-log.bidmatic.io
@@ -8653,8 +8645,6 @@ btptod.aerzteblatt.de
 btstats.benakt.com
 btstats.devtribu.fr
 bttmkj.diesel.com
-btv-du-dev-eventhub-streamanalytics.servicebus.windows.net
-btv-du-prod-eventhub-streamanalytics.servicebus.windows.net
 bu.actonservice.com
 bu.adpinfo.com
 buasmk.earthshoes.com
@@ -9182,7 +9172,6 @@ charlotte-content.cresa.com
 charmingplate.com
 charms.pugster.com
 chartec.actonservice.com
-ch-asimov-leafs-events-data.trafficmanager.net
 chat.forddirectdealers.com
 ch.credithypo.com
 check3.tiaa.org
@@ -9269,9 +9258,7 @@ citizensclimate.actonservice.com
 citizenship.quantresear.ch
 c.it.msn.com
 citrixanalyticseh2-alias.servicebus.windows.net
-citrixanalyticseh2.servicebus.windows.net
 citrixanalyticseh3-alias.servicebus.windows.net
-citrixanalyticseh3.servicebus.windows.net
 citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticsehaps-alias.servicebus.windows.net
 citrixanalyticsehaps.servicebus.windows.net
@@ -9618,7 +9605,6 @@ cltr.irlmail.org
 cltr.willhaben.at
 cltxxq.cruises.united.com
 clumsycar.com
-cl-vcode-od.vivoglobal.com
 clyexf.decathlon.ie
 cm-ad-lgsmartad-com.aws-prd.net
 cmass.massmedian.co.jp
@@ -9688,7 +9674,6 @@ cname-asia-comonrt-stsdk.vivoglobal.com
 cname-asia-st-exappupgrade.vivoglobal.com
 cname-asia-stsdk09.vivoglobal.com
 cname.crank-in.net
-cname-de-stsdk.vivoglobal.com
 cnameebis.eizoshigoto.com
 cname.ebis.folio-sec.com
 cnameebis.usagi-online.com
@@ -9745,11 +9730,8 @@ coatfood.com
 cobaltoverture.com
 cobweb.actonservice.com
 cockpitdcbaima.carte-gr.total.fr
-co-cota.vivoglobal.com
 cod.bitrec.com
 code.randomhouse.com
-co-domaincfg.vivoglobal.com
-co-err-up.vivoglobal.com
 cofactordigital.actonservice.com
 coffeesidehustle.com
 coffeycomm.actonservice.com
@@ -10368,11 +10350,9 @@ coolestcatcare.com
 coolguesthouse.com
 coolkidsdistrict.com
 coolretargeting.com
-co-onrt-stsdk.vivoglobal.com
 coop.vmware.com
 coordinatedbedroom.com
 coordinatedcoat.com
-co-ort-stsdk.vivoglobal.com
 cooyxg.tennis-point.de
 copilot-telemetry.githubusercontent.com
 co-pnrt-stsdk.vivoglobal.com
@@ -10484,7 +10464,6 @@ couponrail.com
 courageousbaby.com
 co-vcode-api.vivoglobal.com
 co-vcode-od.vivoglobal.com
-co-vcode-or.vivoglobal.com
 covenant.psjhealth.org
 coverlayer.com
 cowbelltime.com
@@ -11837,7 +11816,6 @@ defeatedbadge.com
 defensevest.com
 defygravity.convio.com
 de-gdpr-err-up.vivoglobal.com
-de-gdpr-vcode-od.vivoglobal.com
 de-go.experian.com
 degreechariot.com
 degree.insead.edu
@@ -14236,7 +14214,6 @@ events.ricoh.de
 events.ricoh.ie
 events.s4long.com
 events-sandbox.data.microsoft.com
-events-sandbox.data.msn.cn
 events-sandbox.data.msn.com
 events.santander.co.uk
 events.shareably.net
@@ -14689,7 +14666,6 @@ fjdzgn.paulfredrick.com
 fjgcai.zlavomat.sk
 fjighz.armaniexchange.com
 fjkjaj.peterhahn.nl
-fjordsand.com
 fjortk.braun-hamburg.com
 fjuccm.uktsc.com
 fkdaik.lightinthebox.com
@@ -16765,7 +16741,6 @@ hlygsp.modivo.ro
 hmakpa.saksoff5th.com
 hmcncq.pierreetvacances.com
 hmeagu.e87.com
-hme-live-loganalytics-namespace.servicebus.windows.net
 hmeoda.restplatzboerse.ch
 hmeqvp.essencemakeup.com
 hme-uat-loganalytics-namespace.servicebus.windows.net
@@ -17162,7 +17137,6 @@ illustriousoatmeal.com
 ilnfdq.cybozu.co.jp
 ilpostoplus.openapp.link
 iltcaf.immobilienscout24.de
-il-vcode-od.vivoglobal.com
 ilvqos.lyst.es
 image.ard.de
 image.box.xiaomi.com
@@ -19631,7 +19605,6 @@ kz-onrt-stsdk.vivoglobal.com
 kz-ort-stsdk.vivoglobal.com
 kz-pnrt-stsdk.vivoglobal.com
 kz-prt-stsdk.vivoglobal.com
-kz-romsp-unifyconfig.vivoglobal.com
 kzsicw.chip.de
 kzsicw.cinema.de
 kzsicw.fitforfun.de
@@ -19643,9 +19616,7 @@ kz-st-exappupgrade.vivoglobal.com
 kz-stsdk.vivoglobal.com
 kz-st-sl.vivoglobal.com
 kz-st-sysupgrade.vivoglobal.com
-kz-timesync.vivoglobal.com
 kzutbh.takeappeal.com
-kz-vcode-api.vivoglobal.com
 kz-vcode-od.vivoglobal.com
 kz-vcode-or.vivoglobal.com
 l2k30jsa.theochu.com
@@ -19928,6 +19899,7 @@ libraryvalue.com
 library.westernstatescat.com
 librato-collector.genius.com
 licensinginsights.ascap.com
+licensingtelemetry-prod.servicebus.windows.net
 liecso.e-himart.co.kr
 lieudetravail.ricoh.fr
 lifescience.item24.de
@@ -20830,7 +20802,6 @@ literally-analytics.appspot.com
 l.itribe.in
 littlesun.net
 live.alljobs.co.il
-live.applicationinsights.azure.cn
 live.comunicaciones.jetstereo.com
 livecounter.theyosh.nl
 live.cxo.name
@@ -28254,7 +28225,6 @@ prd-collector-anon.ex.co
 prd-collector-platform.ex.co
 prderrordumphsm.samsungcloudsolution.com
 prderrordumpssm.samsungcloudsolution.net
-prd-qlik-telemetry.servicebus.windows.net
 prd-usw2-requestattribution-iad.apple.com
 prealpha.go.levelbank.com
 preciousplanes.com
@@ -30515,7 +30485,6 @@ sbyneh.dailymail.co.uk
 sc2.constantcontact.com
 sc2.infor.com
 sc2metrics.exacttarget.com
-sca-cota.vivoglobal.com
 sc.actonservice.com
 s.cadent.bloomberglaw.com
 scadobe.vpay.co.kr
@@ -30529,7 +30498,6 @@ scanalytics.wral.com
 scanner-link.covve.com
 sca-onrt-stsdk.vivoglobal.com
 sca-ort-stsdk.vivoglobal.com
-sca-pnrt-stsdk.vivoglobal.com
 sca-p.vivoglobal.com
 scarcecard.com
 scarceshock.com
@@ -35583,7 +35551,6 @@ sponsored-ads-eu.amazon-adsystem.com
 sponsored-ads-eu.amazon.ae
 sponsored-ads-eu.amazon.com.be
 sponsored-ads-eu.amazon.com.tr
-sponsored-ads-eu.amazon.co.za
 sponsored-ads-eu.amazon.de
 sponsored-ads-eu.amazon.eg
 sponsored-ads-eu.amazon.ie
@@ -44412,6 +44379,7 @@ worker-app-staging.buildforce.com
 workforcetrends.advancedtech.com
 workhorsefunds.com
 workoperation.com
+workplacelight.com
 workplace.ricoh.de
 workplace.ricoh.ie
 workplace.ricoh.it
@@ -44517,7 +44485,6 @@ wttd.madeleine.fr
 wttd.madeleine.gr
 wttd.madeleine-mode.at
 wttd.madeleine-mode.ch
-wttwebsiteprodapi-liveevents.trafficmanager.net
 wt.vhb.de
 wt.viagogo.net
 wucvvh.surpricenow.com
@@ -45333,7 +45300,6 @@ xljqqe.hsn.com
 xlmc.sec.miui.com
 xlog16-normal-c-useast1a.tiktokv.com
 xlog16-normal-c-useast2a.tiktokv.com
-xlog16-normal-no1a.tiktokv.eu
 xlog16-normal-useast8.us.tiktokv.com
 xlog16-platform-useast5.us.tiktokv.com
 xlog16-platform-ycru.tiktokv.com
@@ -45434,6 +45400,7 @@ y738.nhregister.com
 y820.darientimes.com
 y8hxgv9m.kobetsu.co.jp
 y900.greenwichtime.com
+yachtloft.com
 yadtbk.blacks.co.uk
 yagoqv.smartbuyglasses.ca
 yajkhd.supersports.com
