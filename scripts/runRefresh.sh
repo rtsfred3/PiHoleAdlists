@@ -8,6 +8,7 @@ UNBOUND_DIR="unbound"
 
 BUNNYCDN_ADBLOCK_DIR="adblock"
 BUNNYCDN_DOMAIN_DIR="$DOMAINS_DIR"
+BUNNYCDN_UNBOUND_DIR="$UNBOUND_DIR"
 
 USERNAME="$1"
 EMAIL="$2"
@@ -97,6 +98,17 @@ uploadToBunnyCDN() {
         FILE_NAME="$(echo "$FILE" | cut -d "/" -f2)"
 
         uploadFileToBunnyCDN $FILE_NAME $DOMAINS_DIR $BUNNYCDN_DOMAIN_DIR
+    done
+
+    echo "
+    Uploading $UNBOUND_DIR
+    "
+    FILES=$(find $UNBOUND_DIR -type f -name '*.conf' -o -name '*.conf.gz' | sort -u)
+
+    for FILE in ${FILES[@]}; do
+        FILE_NAME="$(echo "$FILE" | cut -d "/" -f2)"
+
+        uploadFileToBunnyCDN $FILE_NAME $UNBOUND_DIR $BUNNYCDN_UNBOUND_DIR
     done
 
     wait
