@@ -252,4 +252,4 @@ git push origin "$DATE"
 
 logMessage "Pushed to GitHub"
 
-# uploadToBunnyCDN
+uploadToBunnyCDN
