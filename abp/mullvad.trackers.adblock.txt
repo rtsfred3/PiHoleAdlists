@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-23 07:00:55 UTC
+! Generated at 2026-05-24 07:00:52 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -9261,6 +9261,7 @@
 ||c.it.msn.com^
 ||citrixanalyticseh2-alias.servicebus.windows.net^
 ||citrixanalyticseh3-alias.servicebus.windows.net^
+||citrixanalyticseh3.servicebus.windows.net^
 ||citrixanalyticseh-alias.servicebus.windows.net^
 ||citrixanalyticsehaps-alias.servicebus.windows.net^
 ||citrixanalyticsehaps.servicebus.windows.net^
@@ -9734,6 +9735,7 @@
 ||cockpitdcbaima.carte-gr.total.fr^
 ||cod.bitrec.com^
 ||code.randomhouse.com^
+||co-domaincfg.vivoglobal.com^
 ||cofactordigital.actonservice.com^
 ||coffeesidehustle.com^
 ||coffeycomm.actonservice.com^

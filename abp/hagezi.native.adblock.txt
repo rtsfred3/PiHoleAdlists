@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-23 07:00:33 UTC
+! Generated at 2026-05-24 07:00:29 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -656,6 +656,7 @@
 ||c.it.msn.com^
 ||citrixanalyticseh2-alias.servicebus.windows.net^
 ||citrixanalyticseh3-alias.servicebus.windows.net^
+||citrixanalyticseh3.servicebus.windows.net^
 ||citrixanalyticseh-alias.servicebus.windows.net^
 ||citrixanalyticsehaps-alias.servicebus.windows.net^
 ||citrixanalyticsehaps.servicebus.windows.net^
@@ -798,6 +799,7 @@
 ||c.nl.msn.com^
 ||c.no.msn.com^
 ||co-ad-lgsmartad-com.aws-prd.net^
+||co-domaincfg.vivoglobal.com^
 ||co.lgsmartad.com^
 ||collector.azure.cn^
 ||collector.azure.eaglex.ic.gov^
