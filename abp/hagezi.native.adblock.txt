@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-24 07:00:29 UTC
+! Generated at 2026-05-25 07:00:29 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -168,7 +168,6 @@
 ||ads-bdapi-ph.heytapmobile.com^
 ||ads-bdapi-th.heytapmobile.com^
 ||ads-bdapi-vn.heytapmobile.com^
-||adsbdfsiad-704007db1.heytapmobi.com^
 ||ads.beta.roku.com^
 ||ads.bing.com^
 ||ads-cf-us-east-1.delivery.roku.com^
@@ -492,6 +491,7 @@
 ||authbe.sec.intl.miui.com^
 ||auth.be.sec.miui.com^
 ||auth.ff.avast.sec.miui.com^
+||au-vcode-od.vivoglobal.com^
 ||aviary.amazon.co.jp^
 ||aviary.amazon.com^
 ||aviary.amazon.de^
@@ -532,7 +532,6 @@
 ||bigdata-lbs-pri-c3.alb.xiaomi.com^
 ||bigdata.ssp.samsung.com^
 ||bingads.microsoft.com^
-||bingads.trafficmanager.net^
 ||bj-ad-lgsmartad-com.aws-prd.net^
 ||bj.lgsmartad.com^
 ||bldr.mkt.samsung.com^
@@ -656,7 +655,6 @@
 ||c.it.msn.com^
 ||citrixanalyticseh2-alias.servicebus.windows.net^
 ||citrixanalyticseh3-alias.servicebus.windows.net^
-||citrixanalyticseh3.servicebus.windows.net^
 ||citrixanalyticseh-alias.servicebus.windows.net^
 ||citrixanalyticsehaps-alias.servicebus.windows.net^
 ||citrixanalyticsehaps.servicebus.windows.net^
@@ -780,6 +778,7 @@
 ||cloudi-th.browser.heytapmobile.com^
 ||cloudi-vn.browser.heytapmobile.com^
 ||cloudservices.roku.com^
+||cl-vcode-od.vivoglobal.com^
 ||cm-ad-lgsmartad-com.aws-prd.net^
 ||cm.lgsmartad.com^
 ||cms.sec.miui.com^
@@ -1491,10 +1490,12 @@
 ||kz-ort-stsdk.vivoglobal.com^
 ||kz-pnrt-stsdk.vivoglobal.com^
 ||kz-prt-stsdk.vivoglobal.com^
+||kz-romsp-unifyconfig.vivoglobal.com^
 ||kz-st-exappupgrade.vivoglobal.com^
 ||kz-stsdk.vivoglobal.com^
 ||kz-st-sl.vivoglobal.com^
 ||kz-st-sysupgrade.vivoglobal.com^
+||kz-vcode-api.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
 ||kz-vcode-or.vivoglobal.com^
 ||launch.apple.com^
@@ -2610,10 +2611,12 @@
 ||sau-server-sg.allawnos.com^
 ||sau-server-us.allawnos.com^
 ||sa.windows.com^
+||sca-cota.vivoglobal.com^
 ||sca-domaincfg.vivoglobal.com^
 ||sca-err-up.vivoglobal.com^
 ||sca-onrt-stsdk.vivoglobal.com^
 ||sca-ort-stsdk.vivoglobal.com^
+||sca-pnrt-stsdk.vivoglobal.com^
 ||sca-p.vivoglobal.com^
 ||sca-romsp-unifyconfig.vivoglobal.com^
 ||sca.samsung.com^

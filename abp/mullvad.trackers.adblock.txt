@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-24 07:00:52 UTC
+! Generated at 2026-05-25 07:00:51 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4721,7 +4721,6 @@
 ||ads-bdapi-ph.heytapmobile.com^
 ||ads-bdapi-th.heytapmobile.com^
 ||ads-bdapi-vn.heytapmobile.com^
-||adsbdfsiad-704007db1.heytapmobi.com^
 ||ads.beta.roku.com^
 ||ads.bing.com^
 ||ads-cf-us-east-1.delivery.roku.com^
@@ -7525,6 +7524,7 @@
 ||autovista-se.autovistagroup.com^
 ||autozone.actonservice.com^
 ||autspe.notino.hr^
+||au-vcode-od.vivoglobal.com^
 ||auwdff.dyfashion.ro^
 ||aux.lansator.ro^
 ||aux-log.bidmatic.io^
@@ -8075,7 +8075,6 @@
 ||binarycrest.com^
 ||binarykite.com^
 ||bingads.microsoft.com^
-||bingads.trafficmanager.net^
 ||binocule21c.merriam-webster.com^
 ||binspiredtees.com^
 ||bint.openapp.link^
@@ -9261,7 +9260,6 @@
 ||c.it.msn.com^
 ||citrixanalyticseh2-alias.servicebus.windows.net^
 ||citrixanalyticseh3-alias.servicebus.windows.net^
-||citrixanalyticseh3.servicebus.windows.net^
 ||citrixanalyticseh-alias.servicebus.windows.net^
 ||citrixanalyticsehaps-alias.servicebus.windows.net^
 ||citrixanalyticsehaps.servicebus.windows.net^
@@ -9608,6 +9606,7 @@
 ||cltr.willhaben.at^
 ||cltxxq.cruises.united.com^
 ||clumsycar.com^
+||cl-vcode-od.vivoglobal.com^
 ||clyexf.decathlon.ie^
 ||cm-ad-lgsmartad-com.aws-prd.net^
 ||cmass.massmedian.co.jp^
@@ -19609,6 +19608,7 @@
 ||kz-ort-stsdk.vivoglobal.com^
 ||kz-pnrt-stsdk.vivoglobal.com^
 ||kz-prt-stsdk.vivoglobal.com^
+||kz-romsp-unifyconfig.vivoglobal.com^
 ||kzsicw.chip.de^
 ||kzsicw.cinema.de^
 ||kzsicw.fitforfun.de^
@@ -19621,6 +19621,7 @@
 ||kz-st-sl.vivoglobal.com^
 ||kz-st-sysupgrade.vivoglobal.com^
 ||kzutbh.takeappeal.com^
+||kz-vcode-api.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
 ||kz-vcode-or.vivoglobal.com^
 ||l2k30jsa.theochu.com^
@@ -30489,6 +30490,7 @@
 ||sc2.constantcontact.com^
 ||sc2.infor.com^
 ||sc2metrics.exacttarget.com^
+||sca-cota.vivoglobal.com^
 ||sc.actonservice.com^
 ||s.cadent.bloomberglaw.com^
 ||scadobe.vpay.co.kr^
@@ -30502,6 +30504,7 @@
 ||scanner-link.covve.com^
 ||sca-onrt-stsdk.vivoglobal.com^
 ||sca-ort-stsdk.vivoglobal.com^
+||sca-pnrt-stsdk.vivoglobal.com^
 ||sca-p.vivoglobal.com^
 ||scarcecard.com^
 ||scarceshock.com^
