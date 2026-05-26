@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-25 07:00:29 UTC
+! Generated at 2026-05-26 07:00:24 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -141,7 +141,9 @@
 ||adi-airflow.bdp.roku.com^
 ||ad.india.xiaomi.com^
 ||adinstantpage16-normal-useastred.tiktokv.eu^
+||ad-instantpage-ru.tiktokv.com^
 ||ad-instantpage-sg.tiktokv.com^
+||ad-instantpage-sg.tiktokv.com.edgekey.net^
 ||ad-instantpage.tiktokv.us^
 ||ad-instantpage-ttp2.tiktokv.eu^
 ||ad-instantpage-ttp2.tiktokv.us^
@@ -778,7 +780,6 @@
 ||cloudi-th.browser.heytapmobile.com^
 ||cloudi-vn.browser.heytapmobile.com^
 ||cloudservices.roku.com^
-||cl-vcode-od.vivoglobal.com^
 ||cm-ad-lgsmartad-com.aws-prd.net^
 ||cm.lgsmartad.com^
 ||cms.sec.miui.com^
@@ -1280,6 +1281,7 @@
 ||hk-ad-lgsmartad-com.aws-prd.net^
 ||hk.lgsmartad.com^
 ||hk-tracker.trafficmanager.net^
+||hme-live-loganalytics-namespace.servicebus.windows.net^
 ||hme-uat-loganalytics-namespace.servicebus.windows.net^
 ||hn-ad-lgsmartad-com.aws-prd.net^
 ||hn.lgsmartad.com^
@@ -1345,6 +1347,7 @@
 ||i-in.browser.heytapmobile.com^
 ||il-ad-lgsmartad-com.aws-prd.net^
 ||il.lgsmartad.com^
+||il-vcode-od.vivoglobal.com^
 ||image.box.xiaomi.com^
 ||image.cdn.mvideo.xiaomi.com^
 ||image.cdn.pandora.xiaomi.com^
