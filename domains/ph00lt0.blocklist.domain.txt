@@ -1,4 +1,4 @@
-# Generated at 2026-05-26 07:00:20 UTC
+# Generated at 2026-05-27 07:00:26 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -2241,6 +2241,7 @@ alsycon.nl
 altamob.com
 altbeacon.org
 altermedia.nl
+alternytics.com
 altify.com
 altima-hosting.fr
 altitude-arena.com
@@ -2390,6 +2391,7 @@ analytics.museum.nl
 analytics.mysynchrony.com
 analytics.naproxy.com
 analytics.natlawreview.com
+analytics.nearly.family
 analytics.newsifier.nl
 analytics.nicknick.nl
 analytics.nova.fox.com
@@ -3935,6 +3937,7 @@ botmind.ai
 botmind.io
 botnation.ai
 botndm.nl
+botslab.com
 boulevarddeletincelle.fr
 boulevarddesexperts.fr
 bounce-commerce.de
@@ -4892,6 +4895,7 @@ choshu.co.jp
 chromatec.ru
 chrome-stats.com
 chtbl.com
+churchofjesuschrist.org
 churchrez.org
 chyly.tech
 c-i.as
@@ -5260,6 +5264,7 @@ cnzhqs.com
 cnzz.com
 co2ok.eco
 coachingwithjoy.nl
+cobiedouma.nl
 cobrowser.com
 co-buying.com
 cocospy.com
@@ -6911,6 +6916,7 @@ duelz.com
 duiba.com.cn
 dukaan.com
 dumedia.ru
+dummyapi.online
 d.union.ijinshan.com
 duomeng.cn
 duo.nvidia.com
@@ -7225,6 +7231,7 @@ enepal.net
 energetischhuis.nl
 energokst.kz
 energyarts.com
+energyhealingzone.com
 energymind.nl
 engageanalytics.com
 engagebay.com
@@ -8279,6 +8286,7 @@ getreview.pl
 get.revolut.com
 getrevue.co
 getrewardful.com
+getrich.li
 getscreen.me
 getsidekick.com
 getsitecontrol.com
@@ -9084,6 +9092,7 @@ iadworkbench.apple.com
 ia.hit.interia.pl
 ialottery.com
 iamallama.com
+iarp.org
 iavilciadeg.eu.com
 ib.adnxs.com
 ib.adnxs-simple.com
@@ -9378,6 +9387,7 @@ iirexhibitionslimite.tt.omtrdc.net
 iis1.deliver.ifeng.com
 iis3g.deliver.ifeng.com
 ijoycig.com
+ikinnerlijkekracht.nl
 ilcorsaronero.info
 i.l.inmobicdn.net
 illow.io
@@ -9513,6 +9523,7 @@ infiniamobile.com
 infinigrow.com
 infinitedata-pa.googleapis.com
 infinitepixeltracking.com
+infinity-healing.eu
 influ2.com
 infobel.com
 infobelpro.com
@@ -9792,6 +9803,7 @@ iqm.com
 iqoo.com
 iqvia.com
 iqzone.com
+ireenthunnissen.nl
 ireklama.mk
 iridion.de
 irishlottery.com
@@ -9956,6 +9968,7 @@ jc1.dayfund.cn
 jddaw.com
 jdlhg.com
 jdoqocy.com
+jdownloader.org
 jdsports-client-resources.co.uk
 jdt8.net
 jean.live
@@ -10140,7 +10153,6 @@ juzi.cn
 juzilm.com
 jvh.nl
 j.wan.liebao.cn
-jwplayer.com
 jwpltx.com
 jxbjt.com
 jxjzny.com
@@ -10265,6 +10277,7 @@ kissmetrics.com
 kissmetricshq.com
 kissmetrics.io
 kiss-ssb.com
+kit.com
 kiwifarms.net
 kiyoh.com
 kjdsfjisdfjr23.azurewebsites.net
@@ -10308,6 +10321,7 @@ ko-fi.com
 koi-3qnciq0m5q.marketingautomation.services
 koi-3qnkjfhgq6.marketingautomation.services
 kolikkopelit.com
+kombewustinverbinding.nl
 komoona.com
 kompassdata.com
 kompas.services
@@ -11433,6 +11447,7 @@ mijnoverheid.hopp.to
 mijnoverheid.ozto.com
 mijn.plus.nl
 mijnpostcode.nl
+mijnzonnestraaltje.nl
 miles-research.com
 milet11111.pcapredict.com
 mili2nd.co
@@ -11611,6 +11626,7 @@ monetizer101.com
 monetize-stream.viralize.tv
 mongo87a.sweet-water.org
 moniquebooijink.nl
+monique-foederer.nl
 mon.isnssdk.com
 monitor.clickcease.com
 monitor.ebay.com
@@ -11869,10 +11885,13 @@ nativendo.de
 native.sharethrough.com
 nativex.com
 nativo.com
+naturalhealers.com
 naturamiele.it
 naturaroyal.com
+natuurgeneeskunde-gemert.nl
 natuurlijkbijmarianne.nl
 natuurlijke-analyse.nl
+natuurlijkinbalance.nl
 natwaves.com
 naumann.nkl.de
 navattic.com
@@ -12087,6 +12106,7 @@ nordicbet.dk
 nordslot.com
 normandy.cdn.mozilla.net
 normandy-cdn.services.mozilla.com
+normasense.nl
 norobet.de
 norsk-tipping.no
 norstat.at
@@ -13160,13 +13180,17 @@ praktijkcynergie.nl
 praktijkdevlindertuin.nl
 praktijkegtmiranda.nl
 praktijkholistichealing.nl
+praktijkinnerfreedom.nl
 praktijkinnerlijkegroei.nl
+praktijkjensitive.nl
 praktijkjosje.nl
 praktijklichtpunt.nu
 praktijkmagistraal.nl
+praktijkmakesense.nl
 praktijkmeergeluk.nl
 praktijkmiriam.nl
 praktijk-patricia.nl
+praktijkrelease.nl
 praktijktamaravanoers.nl
 praktijktcg.nl
 praktijkviaversa.nl
@@ -13406,6 +13430,7 @@ public.iotechnologies.com
 publicismedia.de
 public.profitwell.com
 publikaan.nl
+publish.api.switchbot.net
 publisher.caroda.io
 publisher-event.ads.prd.ie.internal.unity3d.com
 publisher-event.unityads.unity3d.com
@@ -13840,6 +13865,9 @@ regionalserver.com
 registration.gimbal.com
 reg.tiscali.cz
 reignn.com
+reikilifestyle.com
+reiki.org
+reikiscoop.com
 rejoiner.com
 reklami.24fudbal.mk
 reklami.daily.mk
@@ -14576,7 +14604,12 @@ sendy.co
 sendy.webcurso.org
 seniorenvoordeelpas.nl
 senja.io
+sense-ability.be
+sensety.nl
 sensic.net
+sensigezondhuis.nl
+sensitherapie.nl
+sensitreatment.com
 sensoro.com
 sensorsdata.cn
 sensorsdata.com
@@ -14898,6 +14931,7 @@ slog.sina.com.cn
 slotclub.de
 slotmagie.de
 sloto-cash-casino.com
+slotozilla.info
 slotsandfriends.de
 slotsmagic.de
 slotstemple.com
@@ -15195,6 +15229,7 @@ spproxy.autobytel.com
 spreadex.dk
 spreedly.com
 sprig.com
+springel.nl
 springernature.io
 springserve.com
 sprinklecontent.com
@@ -16295,6 +16330,7 @@ tny.lv
 tob-cms.bj.bcebos.com
 toboads.com
 tocaboca.com
+todayimeet.nl
 to-email.com
 to.getnitropack.com
 token.rubiconproject.com
@@ -17014,6 +17050,7 @@ veikkaus.fi
 velocidi.com
 veloxity.net
 velthuysemulder.nl
+velvet-beauty.nl
 venatusmedia.com
 vendio.com
 vendiro.nl
@@ -17113,6 +17150,7 @@ visitor-analytics.io
 visitor.figpii.com
 visitor-scoring-c.marketlinc.com
 visitor-service.tealiumiq.com
+visits.paralino.app
 vistatravelclub.com
 visto.li
 visualdna.com
@@ -17873,6 +17911,7 @@ zeotap.com
 zephr.com
 zergnet.com
 zetaglobal.com
+zetp.rs
 zeturf.nl
 zeylin15.com
 zgfszs.com

@@ -1,4 +1,4 @@
-# Generated at 2026-05-26 07:00:52 UTC
+# Generated at 2026-05-27 07:00:57 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -8060,6 +8060,7 @@ biminibliss.rwbimini.com
 binarycrest.com
 binarykite.com
 bingads.microsoft.com
+bingads.trafficmanager.net
 binocule21c.merriam-webster.com
 binspiredtees.com
 bint.openapp.link
@@ -9572,6 +9573,7 @@ cltr.irlmail.org
 cltr.willhaben.at
 cltxxq.cruises.united.com
 clumsycar.com
+cl-vcode-od.vivoglobal.com
 clyexf.decathlon.ie
 cm-ad-lgsmartad-com.aws-prd.net
 cmass.massmedian.co.jp
@@ -20801,6 +20803,7 @@ location-sg.tiktokv.com
 location.tiktok.com
 location.tiktokv.com
 location.tiktokw.us
+location-ttp2.tiktokv.eu
 location-ttp2.us.tiktokv.com
 location.us.tiktokv.com
 locationv16-normal-useastred.tiktokv.eu
