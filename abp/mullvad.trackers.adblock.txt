@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-27 07:00:57 UTC
+! Generated at 2026-05-28 07:00:51 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -9145,6 +9145,7 @@
 ||charmingplate.com^
 ||charms.pugster.com^
 ||chartec.actonservice.com^
+||ch-asimov-leafs-events-data.trafficmanager.net^
 ||chat.forddirectdealers.com^
 ||ch.credithypo.com^
 ||check3.tiaa.org^
@@ -13021,6 +13022,7 @@
 ||ei-api.testlb-gwy.easyjet.com.edgekey.net.easyjet.com^
 ||eic-ngfts.lge.com^
 ||eic-ngfts.lge.com.edgekey.net^
+||eic-qt2-ngfts.lge.com^
 ||eicyds.qoo10.jp^
 ||eifeou.pandahall.com^
 ||eiftfa.fashionette.de^
@@ -15474,7 +15476,6 @@
 ||glance-analytics.trafficmanager.net^
 ||glass.autovistagroup.com^
 ||glassbox-hlx-igw.bankofamerica.com^
-||glasscoyote.com^
 ||glassguide-au.autovistagroup.com^
 ||glassmoni.researchgate.net^
 ||glbgox.djoser.de^
@@ -44165,6 +44166,7 @@
 ||workplacesolutions.inform.equifax.com^
 ||work.selecdoo.com^
 ||workspacesolutions.gos1.com^
+||workwithdrones.com^
 ||worldlever.com^
 ||worldmtcs.nhk.jp^
 ||worldnetpr.actonservice.com^

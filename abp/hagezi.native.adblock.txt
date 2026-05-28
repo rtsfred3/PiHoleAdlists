@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-27 07:00:30 UTC
+! Generated at 2026-05-28 07:00:24 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -645,6 +645,7 @@
 ||c.gr.msn.com^
 ||ch-ad-lgsmartad-com.aws-prd.net^
 ||channelusa.samsung.com^
+||ch-asimov-leafs-events-data.trafficmanager.net^
 ||child.sec.miui.com^
 ||c.hk.msn.com^
 ||ch.lgsmartad.com^
@@ -1005,6 +1006,7 @@
 ||ehtelemetrystaging-alias.servicebus.windows.net^
 ||eic-ngfts.lge.com^
 ||eic-ngfts.lge.com.edgekey.net^
+||eic-qt2-ngfts.lge.com^
 ||e.mi.com^
 ||emq.xmpush.xiaomi.com^
 ||epoch-id.cdo.heytapmobi.com^
