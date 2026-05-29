@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-28 07:00:51 UTC
+! Generated at 2026-05-29 07:00:54 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4762,6 +4762,7 @@
 ||ads-setu-proxy.amazon.com^
 ||ads-setu-proxy-eu.amazon.com^
 ||ads-setu-proxy-fe.amazon.com^
+||ads-sg.business-tiktok.com^
 ||ads-sg.tiktok.com^
 ||ads.staging.roku.com^
 ||ad.staging.rpay.int.roku.com^
@@ -4781,6 +4782,7 @@
 ||ads-us-east-2.delivery.roku.com^
 ||ads.us.tiktok.com^
 ||ads-us-west-2.delivery.roku.com^
+||ads-va.business-tiktok.com^
 ||ad.takasu.co.jp^
 ||adtarget.barcainnovationhub.com^
 ||adtarget.fcbarcelona.cat^
