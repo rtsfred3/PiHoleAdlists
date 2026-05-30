@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-29 07:00:54 UTC
+! Generated at 2026-05-30 07:00:56 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -5272,6 +5272,7 @@
 ||ampltd2.medal.tv^
 ||ampltd.medal.tv^
 ||ampltd.top.gg^
+||ampscamp.net^
 ||am.siemensplmevents.com^
 ||ams.lelong.com.my^
 ||ams.oraclecloud.com^
@@ -14238,6 +14239,7 @@
 ||exitachieve.myre.io^
 ||exitblocked.com^
 ||exmeqy.smartbuyglasses.de^
+||exo.nel.measure.office.net.cardano.com^
 ||expansioneggnog.com^
 ||experianmatch.info^
 ||experience2013.elliemae.com^
@@ -16922,6 +16924,7 @@
 ||i.degoo.com^
 ||identification.hotmart.com^
 ||identity.browserapps.amazon.de^
+||identity.nel.measure.office.net.cardano.com^
 ||identitypxl.app^
 ||i-dev.villa.ge^
 ||idg1.idgarages.com^
@@ -21404,6 +21407,7 @@
 ||m1.stadiumgoods.com^
 ||m2t.actonservice.com^
 ||m2.washmen.com^
+||m365cdn.nel.measure.office.net.cardano.com^
 ||m3ds.subarumetropolitain.com^
 ||m3uef4b38brmbntdzx.franchiseplus.nl^
 ||m4zoxtrcea1k.controlconceptsusa.com^
@@ -24520,6 +24524,7 @@
 ||metrics.motortrend.com^
 ||metrics.mrporter.com^
 ||metrics.mrrooter.com^
+||metrics.mtcgame.com^
 ||metrics.mum.edu^
 ||metrics.mycareforward.com^
 ||metrics.myclubwyndham.com^
@@ -35362,6 +35367,7 @@
 ||spmaeu.gumtree.com.au^
 ||spmyma.moscowfresh.ru^
 ||sp.naver.com^
+||spo.nel.measure.office.net.cardano.com^
 ||sponsored-ads.amazon.ca^
 ||sponsored-ads.amazon.co.jp^
 ||sponsored-ads.amazon.com^
@@ -37421,6 +37427,7 @@
 ||strack.www.allianzcare-corporate.com^
 ||straightnest.com^
 ||straindrinks.com^
+||strandedgame.com^
 ||strangeclocks.com^
 ||strapi.clickjogos.com.br^
 ||strategycompanion.actonservice.com^
@@ -38416,6 +38423,7 @@
 ||teammate.arclogics.com^
 ||team.moxtra.com^
 ||teams-events-data.trafficmanager.net^
+||teams.nel.measure.office.net.cardano.com^
 ||teamstatus.net^
 ||tearfulglass.com^
 ||te.baur.de^
@@ -39436,6 +39444,7 @@
 ||track.abrdnjapan.co.uk^
 ||track.abrdnnewindia.co.uk^
 ||track.abrdnpit.co.uk^
+||track.addevent.com^
 ||track.aimroas.com^
 ||track.americansongwriter.com^
 ||track.asiadragontrust.co.uk^
@@ -42621,6 +42630,7 @@
 ||upgrade.pandora.xiaomi.com^
 ||upgradeyoga.com^
 ||upload.euleriancdn.net^
+||upload.fp.measure.office.com.corp.mmco.int.cardano.com^
 ||uppbrl.thomassabo.com^
 ||uppitytime.com^
 ||upqmpu.leasingtime.de^

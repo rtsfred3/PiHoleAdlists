@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-05-29 07:00:26 UTC
+! Generated at 2026-05-30 07:00:28 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -1077,6 +1077,7 @@
 ||ex-adreq-in.vivoglobal.com^
 ||excel-telemetry.officeapps.live.com^
 ||excel-telemetry.wac.trafficmanager.net^
+||exo.nel.measure.office.net.cardano.com^
 ||experiments.apple.com^
 ||experiments.apple.com.edgekey.net^
 ||ex-romsp-unifyconfig.vivoglobal.com^
@@ -1327,6 +1328,7 @@
 ||id-ad-lgsmartad-com.aws-prd.net^
 ||id-analyzer-appstore.vivoglobal.com^
 ||identity.browserapps.amazon.de^
+||identity.nel.measure.office.net.cardano.com^
 ||idiagnostics.apple.com^
 ||idiagnostics.apple.com.akadns.net^
 ||idiagnostics-mdn1.apple.com^
@@ -1678,6 +1680,7 @@
 ||lxcdn.dl.files.xiaomi.net^
 ||ly-ad-lgsmartad-com.aws-prd.net^
 ||ly.lgsmartad.com^
+||m365cdn.nel.measure.office.net.cardano.com^
 ||ma-ad-lgsmartad-com.aws-prd.net^
 ||mads.amazon-adsystem.com^
 ||mads.amazon.com^
@@ -2708,6 +2711,7 @@
 ||sn-ad-lgsmartad-com.aws-prd.net^
 ||sn.lgsmartad.com^
 ||sonar.prime-video.amazon.dev^
+||spo.nel.measure.office.net.cardano.com^
 ||sponsored-ads.amazon.ca^
 ||sponsored-ads.amazon.co.jp^
 ||sponsored-ads.amazon.com^
@@ -2806,6 +2810,7 @@
 ||tbm.snssdk.com^
 ||tc.lgsmartad.com^
 ||teams-events-data.trafficmanager.net^
+||teams.nel.measure.office.net.cardano.com^
 ||telecommandsvc.microsoft.com^
 ||telem-edge.smartscreen.microsoft.com^
 ||telemetrycollector.microsoft.com^
@@ -3010,6 +3015,7 @@
 ||unagi-na.amazon.com^
 ||update.avlyun.sec.miui.com^
 ||upgrade.pandora.xiaomi.com^
+||upload.fp.measure.office.com.corp.mmco.int.cardano.com^
 ||upu.samsungelectronics.com^
 ||ureca.samsungapps.com^
 ||us-ad-lgsmartad-com.aws-prd.net^
