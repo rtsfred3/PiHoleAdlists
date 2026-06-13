@@ -1,4 +1,4 @@
-# Generated at 2026-05-30 07:00:23 UTC
+# Generated at 2026-06-13 07:00:23 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -1429,6 +1429,7 @@ ads-api.twitter.com
 ads.api.vungle.com
 ads-api.x.com
 ads.aplus.pptv.com
+adsappier.com
 adsatt.abcnews.starwave.com
 adsatt.espn.starwave.com
 ads.betweendigital.com
@@ -1889,6 +1890,7 @@ advertis1.com
 advertise.com
 advertise.ldplayer.net
 advertise-solution.nl
+advertising.a2z.com
 advertising.amazon.dev
 advertising-api-eu.amazon.com
 advertising.apple.com
@@ -2767,7 +2769,9 @@ app-ads-txt.com
 app-advertise.zhihuishu.com
 app.aiden.cx
 appanalytics.io
+app-analytics-services-att.com
 app-analytics-services.com
+app-analytics-v2.snapchat.com
 appannie.com
 app.aplus.pptv.com
 apparmor.com
@@ -3017,6 +3021,7 @@ askgamblers.com
 a.skopjeinfo.mk
 asksid.ai
 askyourself.app
+asnapieu.com
 aso1.net
 asocks.com
 a.solarmovie.is
@@ -4112,7 +4117,6 @@ bullionyield.com
 bullseyenorth.com
 bunchbox.co
 bungie.net
-bunnings.com.au
 bunnycdn.ru
 bureaulidwienvandeven.nl
 bureauvdo.nl
@@ -4845,6 +4849,7 @@ chatshipper.com
 chatsimple.ai
 chattyinsights.com
 chat-us.libanswers.com
+chat-widget.d3x.ai
 chatwidget-prod.web.app
 chatwoot.com
 chaty.app
@@ -5130,7 +5135,6 @@ cloudflareinsights.com
 cloudflareresearch.com
 cloudfront.xp-assets.aiv-cdn.net
 cloud.heytap.com
-cloudimg.io
 cloud-iq.com
 cloudiq.com
 cloudlogobox.com
@@ -7016,6 +7020,7 @@ easyautotagging.com
 easybrain.com
 easy-feedback.com
 easygdpr.b-cdn.net
+easylockdownapp.com
 easy-m.de
 easyplatform.com
 easypromo.nz
@@ -7119,6 +7124,7 @@ ej3.xyz
 ekata.com
 ekipa.mk
 ekomiapps.de
+ekomi.com
 ekomi.de
 e.kro-ncrv.nl
 eksiup.com
@@ -7218,6 +7224,7 @@ emxdigital.com
 en25.com
 enable.co.il
 en.adpilot.com
+enalyzer.com
 e.names4ever.eu
 en.betweenx.com
 encharge.io
@@ -7229,6 +7236,7 @@ endorsal.io
 endpoint2.collection.sumologic.com
 enepal.net
 energetischhuis.nl
+energieprofimoegle.de
 energokst.kz
 energyarts.com
 energyhealingzone.com
@@ -7635,6 +7643,7 @@ feedback.brainwash-kappers.nl
 feedback.closealert.com
 feedbackcompany.com
 feedback.developers.cloudflare.com
+feedback-ekomi.com
 feedback.hubapi.com
 feedbackify.com
 feedback.mail.goto.com
@@ -7740,6 +7749,7 @@ f.kinja-static.com
 flagcounter.com
 flagship.io
 flareapp.io
+flash4kiptv.com
 flashcasino.com
 flash.sec.intl.miui.com
 flashtalking.com
@@ -8617,6 +8627,8 @@ gtmucs.cn
 gtm.vanmoof.com
 gtm.wearetriple.com
 gt.qq.com
+gtranslate.io
+gtranslate.net
 guangzhuiyuan.com
 guenther.de
 guess.union2.50bang.org
@@ -10335,6 +10347,7 @@ kopernio.com
 kortinguitnodiging.nl
 kosmo-call.de
 kosmocall.de
+kosmosbv.nl
 kostenloseerotik.org
 kota-yoshida.com
 kparser.com
@@ -10362,6 +10375,7 @@ ku63.com
 ku9377.com
 kuaikan.netmon.360safe.com
 kubient.com
+kudobuzz.com
 kudosresearch.com
 kuguopush.com
 kuka.norobet.de
@@ -10428,6 +10442,7 @@ lbszb.tongbu.com
 lc.cx
 lcdn-locator.apple.com
 lcdn-registration.apple.com
+lcp.bio
 lcs.dev.surepush.cn
 lcs.naver.com
 ldf-df.com
@@ -11376,6 +11391,7 @@ metrics.dropwizard.io
 metrics.foxnews.com
 metrics.groene.nl
 metrics.icloud.com
+metrics-ingress.svc.vinted.com
 metrics.ionos.at
 metrics.ionos.ca
 metrics.ionos.com
@@ -12071,6 +12087,7 @@ nitropay.com
 nitroscripts.com
 niurenw.com
 nixos-metrics.cachix.org
+njdaisen.com
 njdijiani.com
 njfsk.com
 njlottery.com
@@ -12537,6 +12554,7 @@ ordermetrics.com
 oregonlottery.org
 organizer.bizzabo.com
 oribi.io
+orion.bendingspoons.com
 orion-natuurgeneeskunde.nl
 orit-zilberman.com
 orjq.net
@@ -12749,6 +12767,7 @@ pathmatics.com
 patriot.cs.pp.cn
 paveai.com
 pay838.com
+payment.rewards.brave.com
 payments.amazon.com
 pay.mobile.sina.cn
 paypalusa.me
@@ -13967,6 +13986,7 @@ re.taotaosou.com
 retency.com
 retrainthebrain.org
 returngo.ai
+reunir.com
 rev.balkanmediagroup.com
 revcontent.com
 revealads.appspot.com
@@ -14118,6 +14138,7 @@ rover.ebay.nl
 rover.ebay.ph
 rover.ebay.pl
 rovno.xyz
+rowzone.com
 royalcasino.dk
 royal-panda.ca
 royalpanda.com
@@ -14476,6 +14497,7 @@ sdk.mrf.io
 sdkm.w.inmobi.com
 sdk.m.youku.com
 sdk.nvidia.com
+sdkopmetrics-eu.dsp-api.moloco.com
 sdk.out.usbla.net
 sdk.persona.ly
 sdk.privacy-center.org
@@ -14771,6 +14793,7 @@ shop265.com
 shopapps.in
 shopboard.ltd
 shopdirect.com
+shopicial.com
 shopify.admetrics.events
 shopify-gtm-suite.getelevar.com
 shopkick.com
@@ -15160,6 +15183,7 @@ speedycasino.com
 speegleconstructionllc.com
 sph.com.sg
 sphdigital.com
+spheremall.com
 spicegems.com
 spicymobile.pl
 spidersense.bendingspoons.com
@@ -15674,6 +15698,7 @@ subscriptions.smartrecruiters.com
 subswin.com
 sucodb.com
 sugar.zhihu.com
+suggestions.bol.com
 suggestqueries.google.com
 suhasforvirginia.com
 sukigyik.xyz
@@ -16040,6 +16065,7 @@ t.destentor.nl
 td.intelliresponse.com
 tdn.da-services.ch
 tdn.r42tag.com
+td-pixel.c.appier.net
 tdscd.com
 td.yieldify.com
 teads.com
@@ -16102,6 +16128,7 @@ telemetry.jivosite.com
 telemetry.microsoft.com
 telemetry.mozilla.org
 telemetry.notable.app
+telemetry.sdk.inmobi.com
 telemetry.split.io
 telemetry.swe.quicinc.com
 telemetry.urs.microsoft.com
@@ -16452,6 +16479,7 @@ tracking.dekbed-discounter.nl
 trackingdesk.com
 tracking.elektramat.nl
 tracking.epicgames.com
+tracking.eu.miui.com
 tracking.g2crowd.com
 tracking.hostgator.com
 tracking.hyros.com
@@ -16476,6 +16504,7 @@ tracking.prepr.io
 tracking.printabout.nl
 tracking.retailrocket.net
 tracking.rus.miui.com
+tracking.smartwatchbanden.nl
 tracking.swap.fm
 tracking.swogo.net
 tracking.vviinn.com
@@ -17475,6 +17504,7 @@ widgets.getpocket.com
 widgets.guidestar.org
 widgets.jobbio.com
 widgets.media.weather.com
+widgetsmith.app
 widget.solarquotes.com.au
 widgets.openli.com
 widgets.outbrain.com

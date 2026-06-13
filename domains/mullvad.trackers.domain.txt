@@ -1,4 +1,4 @@
-# Generated at 2026-05-30 07:00:56 UTC
+# Generated at 2026-06-13 07:00:58 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -66,7 +66,6 @@
 1bliq.io
 1bpmtrvkqkj.pettoonies.com
 1bw7etm93lf.www.woodbrass.com
-1cros.net
 1ctc.sfr.fr
 1e90.pandasuite.io
 1eusy6.boxoffice.adventuretix.com
@@ -129,7 +128,6 @@
 3skickasurf.tre.se
 3wn3w3skxpym.round.t3.gg
 40caidaylimpia.catzolab.net
-4251.tech
 4399stat.5054399.com
 46rtpw.ru
 48z7wyjdsywu.www.revistaferramental.com.br
@@ -215,7 +213,6 @@
 9uim1pc4ej4n.ru.themoneytizer.com
 9w2zed1szg.execute-api.us-east-1.amazonaws.com
 9ywl0cwf7e37m5yi.tapin.gg
-a0.app.xiaomi.com
 a10053.actonservice.com
 a10555.actonservice.com
 a10640.actonservice.com
@@ -913,7 +910,6 @@ a19997.actonservice.com
 a1.api.bbc.com
 a1.api.bbc.co.uk
 a1at.mno.link
-a1webstrategy.com
 a20022.actonservice.com
 a20204.actonservice.com
 a20207.actonservice.com
@@ -3952,6 +3948,7 @@ aax-us-east-1-ott.amazon-adsystem.amazon.com
 aax-us-east.amazon-adsystem.com
 aax-us-east-dtb.amazon-adsystem.com
 aax-us-east-dtb-mobile.amazon-adsystem.com
+aax-us-east-dtb-mobile-events.amazon-adsystem.com
 aax-us-east-ott.amazon-adsystem.com
 aax-us-east-rtb-adx.amazon-adsystem.com
 aax-us-east-rtb.amazon-adsystem.com
@@ -3966,7 +3963,6 @@ aax-us-ott.amazon-adsystem.amazon.com
 aax-us-pdx.amazon-adsystem.com
 aax-us-pdx-rtb-adx.amazon-adsystem.com
 aax-us-pdx-rtb.amazon-adsystem.com
-aax-us-west-2-ott.amazon-adsystem.amazon.com
 aax-us-west-dtb-mobile.amazon-adsystem.com
 aax-us-west-dtb-mobile-events.amazon-adsystem.com
 aax-us-west-ott.amazon-adsystem.com
@@ -3978,7 +3974,6 @@ aax-vx-eu-eu-west-1.amazon-adsystem.com
 aax-vx-fe-us-west-2.amazon-adsystem.com
 aax-vx-us-us-east-1.amazon-adsystem.com
 aax-vx-us-us-west-2.amazon-adsystem.com
-aaxwall.com
 aa.zdnet.com
 aazfby.auto.de
 aazmiw.reisenthel.com
@@ -4249,6 +4244,7 @@ acfeedbackws.icloud.com
 ac.geechs-job.com
 acidicstraw.com
 acidpigs.com
+a.cineflix.st
 aciysf.destockage-fitness.com
 ac.livelty.com
 aclordi.actonservice.com
@@ -4564,12 +4560,18 @@ ad.india.xiaomi.com
 ad.inhaabit.com
 adi.ni.com
 adinstantpage16-normal-useastred.tiktokv.eu
+adinstantpage16-normal-useastred.tiktokv.eu.edgesuite.net
 ad-instantpage-ru.tiktokv.com
 ad-instantpage-sg.tiktokv.com
 ad-instantpage-sg.tiktokv.com.edgekey.net
 ad-instantpage.tiktokv.us
+ad-instantpage.tiktokv.us.edgesuite.net
+ad-instantpage.tiktokv.us.ttdns4.com
 ad-instantpage-ttp2.tiktokv.eu
+ad-instantpage-ttp2.tiktokv.eu.edgesuite.net
+ad-instantpage-ttp2.tiktokv.eu.ttdns3.com
 ad-instantpage-ttp2.tiktokv.us
+ad-instantpage-ttp2.tiktokv.us.edgesuite.net
 ad-instantpage-va.tiktokv.com
 ad.intl.xiaomi.com
 ad.intl.xiaomi.com.edgesuite.net
@@ -4700,6 +4702,7 @@ ad-platform.jmty.jp
 adppartner.solutions.adpinfo.com
 ad.prod.rpay.int.roku.com
 adpromo.peppynet.com
+ad.qa.ap.int.roku.com
 ad.quickapp.hybrid.xiaomi.com
 ad.rejichoice.jp
 adrsbl.io
@@ -4731,6 +4734,7 @@ adsdkpreprod.azureedge.net
 adsdkprod.afd.azureedge.net
 adsdkprod.azureedge.net
 adsdk.trafficmanager.net
+adsdk.vivo.com.cn
 adsdk.yandex.ru
 ads-drcn.platform.hihonorcloud.com
 ads-drru.cloud.huawei.ru
@@ -4749,14 +4753,16 @@ ad.shinjuku-mens-chuoh.com
 ads-ie.tiktokw.eu
 ads.jp.msn.com
 ads.lgtvcommon.com
+ads-marketing-vivofs.vivo.com.cn
+ads-marketing-vivofs.vivo.com.cn.ctdns.cn
 adsmeasurement.com
 ads.microsoft.com
 ads.msn.com
+ads-msn-com-profile.trafficmanager.net
 adsnid.wagyushop.com
 ads.oppomobile.com
 adspsp.com
 ads.roku.com
-ads-ru.tiktok.com
 ads-setu-proxy.amazon.com
 ads-setu-proxy-eu.amazon.com
 ads-setu-proxy-fe.amazon.com
@@ -4833,6 +4839,7 @@ ad-tracker-api.luizalabs.com
 adtrack.loracle.jp
 adtrack.maisonlexia.com
 adultium.com
+ad.usw2.qa.ap.int.roku.com
 adv-analytics-collector.videograph.ai
 advancedsolutions.actonservice.com
 advancing.acams.org
@@ -4900,6 +4907,7 @@ adx-dra-op-dbankcloud-com-dra.region.dbankedge.cn
 adx-dra.op.hicloud.com
 adx-dra-op-hicloud-com-dra.appacc.dbankedge.cn
 adx-dra-op-hicloud-com-dra.edge.dbankedge.cn
+adx-dra-op-hicloud-com-dra.region.dbankedge.cn
 adx-drcn.op.dbankcloud.cn
 adx-dre.op.dbankcloud.com
 adx-dre.op.dbankcloud.com.edgekey.net
@@ -5168,11 +5176,13 @@ allegiant-partners.actonservice.com
 allergy.thermo.com
 allergy.thermofisher.com
 al.lgsmartad.com
+alliance-adreq-asia.vivoglobal.com
 alliantdata.actonservice.com
 alliedfundingcorp.actonservice.com
 allinsurance.allinsure.ca
 allnewhost.com
 alloutdubstep.com
+alloytitans.com
 alloy-web.zvuk.com
 allreach.actonservice.com
 allrisks.actonservice.com
@@ -5193,7 +5203,6 @@ a.loi.nl
 aloofmetal.com
 aloofvest.com
 alp1.drimki.fr
-alpha1trk.com
 alpha.go.levelbank.com
 alphasimplex.actonservice.com
 alphonso.tv
@@ -5333,11 +5342,17 @@ analytic.rollout.io
 analytics00.meride.tv
 analytics.163.com
 analytics16-normal-alisg.tiktok.com
+analytics16-normal-alisg.tiktok.com.edgesuite.net
 analytics16-normal-no1a.tiktokw.eu
+analytics16-normal-no1a.tiktokw.eu.edgesuite.net
 analytics16-normal.tiktok.com
+analytics16-normal.tiktok.com.edgesuite.net
 analytics16-normal-useast5.tiktokw.us
+analytics16-normal-useast5.tiktokw.us.edgesuite.net
 analytics16-normal-useast8.tiktokw.us
+analytics16-normal-useast8.tiktokw.us.edgesuite.net
 analytics16-normal-useastred.tiktokw.eu
+analytics16-normal-useastred.tiktokw.eu.edgesuite.net
 analytics.1800contacts.com
 analytics-1.cavai.com
 analytics1.dillards.com
@@ -5377,8 +5392,10 @@ analytics.archive.org
 analytics.argeton.com
 analytics.arunraghavan.net
 analytics.asml.com
+analytics.atom.com
 analytics-attribution.tiktok.com
 analytics-attribution-va.tiktok.com
+analytics-attribution-va.tiktok.com.edgekey.net
 analytics.audioeye.com
 analytics.audionow.de
 analytics.autozone.com
@@ -5516,11 +5533,18 @@ analytics.eventbrite.com
 analytics.everythingstream.com
 analytics.evo.co.uk
 analytics-exp16-normal-useastred.tiktokw.eu
+analytics-exp16-normal-useastred.tiktokw.eu.edgesuite.net
 analytics-exp-i18n.tiktok.com
+analytics-exp-i18n.tiktok.com.edgekey.net
 analytics-exp-ru.tiktok.com
+analytics-exp-ru.tiktok.com.edgesuite.net
+analytics-exp-ru.tiktok.com.ttdns2.com
 analytics-exp-sg.tiktok.com
+analytics-exp-sg.tiktok.com.edgekey.net
 analytics-exp-ttp2.tiktokw.eu
+analytics-exp-ttp2.tiktokw.eu.edgesuite.net
 analytics-exp.us.tiktok.com
+analytics-exp.us.tiktok.com.edgesuite.net
 analytics.faceitanalytics.com
 analytics.faprika.net
 analytics.fatmedia.io
@@ -5587,15 +5611,18 @@ analytics.homes.com
 analytics.hottopic.com
 analytics-hub.3plearning.com
 analytics-i18n.tiktok.com
+analytics-i18n.tiktok.com.edgekey.net
 analytics.id.amazongames.com
 analytics.idfnet.net
 analytics-ie.tiktokw.eu
+analytics-ie.tiktokw.eu.ttdns3.com
 analytics.ifanrusercontent.com
 analytics.ihg.com
 analytics.ikyu.com
 analytic.simplyhealth.co.uk
 analytics.inquisitr.com
 analytics-ipv6.tiktokw.us
+analytics-ipv6.tiktokw.us.edgesuite.net
 analytics.iraiser.eu
 analytics.ishopchangi.com
 analytics.jazel.net
@@ -5726,6 +5753,7 @@ analytics.pgncs.notion.so
 analytics.phn.com
 analytics.picknrg.com
 analytics.piksel.com
+analytics.pingaja.com
 analytics.pipelife.at
 analytics.pipelife-bewaesserung.at
 analytics.pipelife.bg
@@ -5797,6 +5825,7 @@ analytics.rogersmedia.com
 analytics.roku.com
 analytics.runpath.com
 analytics-ru.tiktok.com
+analytics-ru.tiktok.com.ttdns2.com
 analytics.salesanalytics.io
 analytics.samsungedo.com
 analytics.samsungknox.com
@@ -5809,6 +5838,7 @@ analyticssec.overwolf.com
 analytics-secure.dollargeneral.com
 analytics-server.arras.cx
 analytics-sg.tiktok.com
+analytics-sg.tiktok.com.edgekey.net
 analytics.shareaholic.com
 analytics.shop.hisense.com
 analytics.shopncaasports.com
@@ -5851,6 +5881,7 @@ analyticsssl.forcepoint.com
 analytics-ssl.seton.co.uk
 analytics-stamp.confi.com.vc
 analytics-static.ugc.bazaarvoice.com
+analytics.steast.io
 analytics-stg.samsungknox.com
 analytics.strangeloopnetworks.com
 analytics.superstation.com
@@ -5874,6 +5905,9 @@ analytics.threedeepmarketing.com
 analytics.ticimax.cloud
 analytics.ticinolibero.ch
 analytics.tiktok.com
+analytics.tiktok.com.bytewlb.akadns.net
+analytics.tiktok.com.edgekey.net
+analytics.tiktok.com.ttdns2.com
 analytics.tio.ch
 analytics.tnt.africa
 analytics.tntdrama.com
@@ -5902,7 +5936,10 @@ analytics.truckingauthority.com
 analytics.trust.page
 analytics.trutv.com
 analytics-ttp2.tiktokw.eu
+analytics-ttp2.tiktokw.eu.edgesuite.net
+analytics-ttp2.tiktokw.eu.ttdns3.com
 analytics-ttp2.us.tiktok.com
+analytics-ttp2.us.tiktok.com.edgesuite.net
 analytics.tufos.com.br
 analytics.turnertv.com
 analytics.tver.jp
@@ -5914,9 +5951,15 @@ analytics.unilogcorp.com
 analytics.unive.nl
 analytics-useast2a.tiktok.com
 analytics.us.tiktok.com
+analytics.us.tiktok.com.bytedance.akadns.net
+analytics.us.tiktok.com.bytewlb.akadns.net
+analytics.us.tiktok.com.edgesuite.net
+analytics.us.tiktok.com-row.bytewlb.akadns.net
 analytics.uwindsor.ca
 analytics.uxmetrics.com
 analytics-v6.tiktok.com
+analytics-v6.tiktok.com.edgesuite.net
+analytics-v6.tiktok.com.ttdns2.com
 analytics.valheimgamer.com
 analytics.valiuz.com
 analytics.vanillaforums.com
@@ -6186,12 +6229,12 @@ api.sms.intl.miui.com
 apitiny.net
 api.us-east-1.aiv-delivery.net
 api.us-west-2.aiv-delivery.net
-api.vip.miui.com
 api-visitor-analytics.intercom.com
 api-websystems.landing.ni.com
 api.wipmania.com
 apiwmda.58.com.cn
 api.xmpush.global.xiaomi.com
+api.xmpush.xiaomi.com
 apkrep.ff.avast.sec.miui.com
 apllogistics.actonservice.com
 aplobv.xexymix.com
@@ -6744,6 +6787,7 @@ appmetrica.yandex.ru
 app.mgoblue.com
 app.miamihurricanes.com
 app.miamiredhawks.com
+app.migc.xiaomi.com
 app.mikedfitness.com
 app.mingo.chat
 app.mintmobile.com
@@ -7121,6 +7165,7 @@ app.wsucougars.com
 app.wudju.de
 app.wvusports.com
 app.www-102.aig.com
+app.xiaomi.com
 app.xlcenter.com
 app.yolda.com
 app.yolda.io
@@ -7518,7 +7563,6 @@ autovistaintelligence.autovistagroup.com
 autovista-se.autovistagroup.com
 autozone.actonservice.com
 autspe.notino.hr
-au-vcode-od.vivoglobal.com
 auwdff.dyfashion.ro
 aux.lansator.ro
 aux-log.bidmatic.io
@@ -7827,6 +7871,7 @@ bat.maydream.com
 baton.cuetv.online
 bat.r.msn.com
 bats.video.yahoo.com
+battleburst.com
 battlekite.com
 battlenet.openapp.link
 bavvgo.zingat.com
@@ -8090,6 +8135,7 @@ bizlink.dinifi.com
 bizlog-gateway.myrealtrip.com
 bizmkt.lguplus.com
 biznews.oregon.gov
+biztoolsbrief.com
 bizz.cochraneco.com
 bja2.destinia.cz
 bj-ad-lgsmartad-com.aws-prd.net
@@ -8221,6 +8267,7 @@ bn.voyage-prive.com
 bnvsjg.hometogo.de
 bnzkua.trussardi.com.br
 bo-ad-lgsmartad-com.aws-prd.net
+boardbumpers.com
 boatcodeapp.com
 boatpaper.com
 boatsbuilding.com
@@ -8762,7 +8809,6 @@ c0p.cepsum.umontreal.ca
 c1hit.zerkalo.io
 c1.microsoft.com
 c319tpiw462o.segops.madisonspecs.com
-c3.api.xmpush.xiaomi.com
 c3-bgp.pandora.xiaomi.com
 c3metrics.medifast1.com
 c3mini.pandora.xiaomi.com
@@ -8967,7 +9013,6 @@ catracking.cubiq.com
 catracking.finning.com
 catschickens.com
 cats.d20.rs
-catsunrunjam.com
 cattell.loanzify.app
 cattlecommittee.com
 cauldronfest.com
@@ -9232,6 +9277,7 @@ citizenship.quantresear.ch
 c.it.msn.com
 citrixanalyticseh2-alias.servicebus.windows.net
 citrixanalyticseh3-alias.servicebus.windows.net
+citrixanalyticseh3.servicebus.windows.net
 citrixanalyticseh-alias.servicebus.windows.net
 citrixanalyticsehaps-alias.servicebus.windows.net
 citrixanalyticsehaps.servicebus.windows.net
@@ -9242,6 +9288,7 @@ citrixtelemetryeh-alias.servicebus.windows.net
 citrixtelemetryeheu-alias.servicebus.windows.net
 citrixtelemetryeheu.servicebus.windows.net
 citrixtelemetryeh.servicebus.windows.net
+citydeal.net
 cityrobotflower.com
 c.ixi.to
 cizzvi.beldona.com
@@ -9292,6 +9339,7 @@ cleanhaircut.com
 cleanservices.actonservice.com
 clearbitscripts.com
 clearbrands.actonservice.com
+clearclips.com
 clear.wallapop.com
 clerks.doccheck.com
 clevertapsendgrid.branch.rocks
@@ -9403,6 +9451,7 @@ client-logger.beta.salemove.com
 client-logger.salemove.com
 client-log.karte.io
 clientlog.music.163.com
+client-logs-a.wbx2.com
 client-metrics.chess.com
 client.perimeterx.net
 clients.belairdirect.com
@@ -9567,6 +9616,7 @@ cloudservices.roku.com
 cloud.trapptechnology.com
 cloud.webtrack.online
 cloudwp.io
+cloverkeys.com
 cloverleaf.infor.com
 clp-mms.cloudpro.co.uk
 clrt.ai
@@ -9577,7 +9627,6 @@ cltr.irlmail.org
 cltr.willhaben.at
 cltxxq.cruises.united.com
 clumsycar.com
-cl-vcode-od.vivoglobal.com
 clyexf.decathlon.ie
 cm-ad-lgsmartad-com.aws-prd.net
 cmass.massmedian.co.jp
@@ -9647,6 +9696,7 @@ cname-asia-comonrt-stsdk.vivoglobal.com
 cname-asia-st-exappupgrade.vivoglobal.com
 cname-asia-stsdk09.vivoglobal.com
 cname.crank-in.net
+cname-de-stsdk.vivoglobal.com
 cnameebis.eizoshigoto.com
 cname.ebis.folio-sec.com
 cnameebis.usagi-online.com
@@ -9697,6 +9747,9 @@ cnt.wetteronline.de
 cnt.xhamster.com
 cntxtfl.com
 cnxddc.lodenfrey.com
+cn-zh-ort-stsdk.vivoglobal.com
+cn-zh-prt-stsdk.vivoglobal.com
+cn-zh-stsdk.vivoglobal.com
 co-ad-lgsmartad-com.aws-prd.net
 coalkitchen.com
 coatfood.com
@@ -9748,6 +9801,7 @@ collect.helsana-preprod.ch
 collect.hollisterco.com
 collect.igodigital.com
 collection.e-satisfaction.com
+collection-location-livenet.trafficmanager.net
 collection.mola.tv
 collection.saga.co.uk
 collections.equifax.com
@@ -9766,7 +9820,6 @@ collector.automote.co.nz
 collector.azure.cn
 collector.azure.eaglex.ic.gov
 collector.azure.microsoft.cloud
-collector.azure.microsoft.scloud
 collector.betway.be
 collector.betway.com
 collector.cint.com
@@ -10585,6 +10638,7 @@ csr.onet.pl
 cstat.apple.com
 cstat.apple.com.edgesuite.net
 cstat.cdn-apple.com
+c-stat.eu
 cstat.g.aaplimg.com
 cstat-lb.apple.com.akadns.net
 cstat-origin.apple.com
@@ -11397,7 +11451,6 @@ data.membership.chowtaifook.com
 data.member.unitedhealthcare.com
 data.message.aircanada.com
 data.minute.ly
-data.mistat.xiaomi.com
 data.mktg.nfl.com
 data.mkt.qb.intuit.com
 data.mmail.northeast.aaa.com
@@ -11435,7 +11488,6 @@ data.notifications.portal.cooperlighting.com
 data.notifications.portal.signify.com
 data.notifications.riolasvegas.com
 data.nrk.no
-dataofpages.com
 data.okay.be
 data.online.clubeextra.com.br
 data.online.paodeacucar.com
@@ -11563,6 +11615,7 @@ dax.yle.fi
 daybreaklights.com
 daymodern.com
 dazdmx.cobra.fr
+dazzlescript.com
 dazzlingbook.com
 db7q4jg5rkhk8.cloudfront.net
 dba4.pandasuite.io
@@ -12395,6 +12448,7 @@ doagpm.promart.pe
 dockdigestion.com
 doclec.supersmart.com
 doclen.hypedc.com
+documentstock.com
 docyjy.ryderwear.com
 dodgebugs.com
 do.exaai.chat
@@ -13024,6 +13078,7 @@ ei-api.testlb-gwy.easyjet.com.edgekey.net.easyjet.com
 eic-ngfts.lge.com
 eic-ngfts.lge.com.edgekey.net
 eic-qt2-ngfts.lge.com
+eic-qt2-ngfts.lge.com.edgekey.net
 eicyds.qoo10.jp
 eifeou.pandahall.com
 eiftfa.fashionette.de
@@ -13497,7 +13552,6 @@ email-simple-sailthru.branch.rocks
 emails.investigationdiscovery.com
 email-smartech.branch.rocks
 emails.motortrend.com
-emailsnow.info
 email.social.avasecurity.com
 email.social.f5.com
 email.social.qualtrics.com
@@ -13892,7 +13946,6 @@ etwovr.underarmour.eu
 etx.indiatimes.com
 etznkn.ec-store.net
 eu-1-id5-sync.com
-eu-album-api.vivoglobal.com
 euapp.levi.com
 eu.business.samsung.com
 eubynl.baby-sweets.de
@@ -13957,6 +14010,7 @@ eu-p.vivoglobal.com
 euqsfp.belluna.jp
 eureka-app.eurekaplatform.org
 eurffc-word-telemetry.officeapps.live.com
+eurffc-word-telemetry.wac.trafficmanager.net
 eurogamer-uk.eurogamer.net
 eu-romsp-unifyconfig.vivoglobal.com
 eurotax-at.autovistagroup.com
@@ -14102,6 +14156,7 @@ events.golubcapital.com
 events.icmi.com
 events.il.fi
 events.ingatlan.com
+events-ingestion-helpcenter.services.gorgias.help
 eventsink.api.redbee.live
 events.interface.com
 events.jotform.com
@@ -14328,6 +14383,7 @@ eyypxz.canifa.com
 eyzthp.constellation.com
 eyzubm.gooutdoors.co.uk
 ezdjat.shoesme.nl
+e.zg-api.com
 ezgo.advancedtech.com
 ezhddx.thesouledstore.com
 eziccr.dedoles.cz
@@ -14484,6 +14540,7 @@ feedback.miui.com
 feedback.nslsc-csnpe.ca
 feedbackws.fe2.apple-dns.net
 feedbackws.fe.apple-dns.cn
+feedbackws.fe.apple-dns.net
 feedbackws.icloud.com
 feedbackws.icloud.com.cn
 feedme.use-beez.com
@@ -14523,6 +14580,7 @@ fgmaal.u-canshop.jp
 fgn-plausible.serverable.com
 fgosob.unhcr.it
 fgqxcz.thehipstore.co.uk
+fgteu1-word-telemetry-vip.officeapps.live.com
 fhdnds.mrmarvis.com
 fhiwyq.axiory.com
 fhngty.vetsecurite.com
@@ -14557,6 +14615,7 @@ financialservices.teranet.ca
 findapi.micloud.xiaomi.net
 find.api.micloud.xiaomi.net.iberostar.com
 findthetruth.allergyai.com
+findyourdelight.com
 findyourinfluence.actonservice.com
 fingerprinter-production.herokuapp.com
 finley.fecinc.com
@@ -14708,7 +14767,6 @@ fog.pixual.co
 fokbrd.impo.ch
 folderplan.com
 followborder.com
-fontserif.com
 foodbrochure.advancedtech.com
 foodczar.com
 foodfunfestivals.com
@@ -14974,7 +15032,6 @@ frostnsullivan.advancedtech.com
 frozekitchen.com
 frqbff.hedleyandbennett.com
 fr-register.xmpush.global.xiaomi.com
-fr.resolver.msg.global.xiaomi.net
 fr.sharpmarketing.eu
 frugalfiestas.com
 frztrk.beaute-test.com
@@ -15902,7 +15959,6 @@ go.noondate.com
 go.northsidemedia.com
 go.norway.innovatedating.com
 go.nvp.com
-goodbark.com
 google-analytics-cn.com
 googleoptimize-cn.com
 googleoptimize.com
@@ -16696,6 +16752,7 @@ honorsearch-dre.hiboard.hihonorcloud.com
 hoojts.demmelhuber.net
 hookconference.com
 hook.gitv.pandora.xiaomi.com
+hoorayplay.com
 hootsuite.branch.rocks
 hop.dttd.app
 hopeful.coh.org
@@ -16863,7 +16920,6 @@ iad-apple.com.akadns.net
 iadcontent.apple.com
 iadcontent-lb.apple.com.akadns.net
 iadmoo.apple.com
-ia-dmp.com
 iadsdk.apple.com
 iadsdk.apple.com.akadns.net
 iadsdk.apple.com.edgekey.net
@@ -16872,7 +16928,6 @@ ia.ekstrabladet.dk
 i.airtel.in
 i.americanblinds.com
 iam-rum-intake.datadoghq.com
-i.api.xmpush.xiaomi.com
 i.appbox.me
 iatoex.kahve.com
 iatspayments.actonservice.com
@@ -17041,10 +17096,10 @@ illustriousoatmeal.com
 ilnfdq.cybozu.co.jp
 ilpostoplus.openapp.link
 iltcaf.immobilienscout24.de
-il-vcode-od.vivoglobal.com
 ilvqos.lyst.es
 image.ard.de
 image.box.xiaomi.com
+imagebuffer.com
 image.cdn.mvideo.xiaomi.com
 image.cdn.pandora.xiaomi.com
 imagecutie.com
@@ -17659,7 +17714,6 @@ in-appprt-stsdk.vivoglobal.com
 inbound-analytics.pixlee.co
 in.brilliant.org
 in-business.vodafone.com
-in-cfg-stsdk.vivoglobal.com
 incisive.actonservice.com
 incomehippo.com
 incompetentjoke.com
@@ -18914,7 +18968,6 @@ ja-jp-a8.etudehouse.com
 ja-jp.siemensplmevents.com
 jambwe.transsibinfo.com
 jamexport.com
-jams.wiki
 janzoz.1001pneus.fr
 jaomlf.giftmall.co.jp
 japan.secureforms.partnermcafee.com
@@ -19124,6 +19177,7 @@ join.vtail.co
 join.zendesk.com
 jo.lgsmartad.com
 joqawz.snipes.nl
+joshpaintings.com
 joskgw.sewingmachinesplus.com
 journey.cisco.com
 journeys.journeyed.com
@@ -19193,6 +19247,7 @@ juicebard.com
 juiceblocks.com
 juicingoasis.com
 jujtcq.amnibus.com
+jumbochalk.com
 jumbo.zomato.com
 jumpstartinc.actonservice.com
 jumpto.use-beez.com
@@ -19497,7 +19552,6 @@ kz-onrt-stsdk.vivoglobal.com
 kz-ort-stsdk.vivoglobal.com
 kz-pnrt-stsdk.vivoglobal.com
 kz-prt-stsdk.vivoglobal.com
-kz-romsp-unifyconfig.vivoglobal.com
 kzsicw.chip.de
 kzsicw.cinema.de
 kzsicw.fitforfun.de
@@ -19510,7 +19564,6 @@ kz-stsdk.vivoglobal.com
 kz-st-sl.vivoglobal.com
 kz-st-sysupgrade.vivoglobal.com
 kzutbh.takeappeal.com
-kz-vcode-api.vivoglobal.com
 kz-vcode-od.vivoglobal.com
 kz-vcode-or.vivoglobal.com
 l2k30jsa.theochu.com
@@ -19524,6 +19577,7 @@ ladghy.jcb.co.jp
 ladsp.com
 ladxxr.sonovente.com
 la.idgenterprise.com
+lakeofficepros.com
 lakerspreferences.gleague.nba.com
 lakerspreferences.nba.com
 lakesecure.com
@@ -19756,7 +19810,6 @@ lfxdqs.mamasandpapas.ae
 lfyqsi.erborian.com
 lgads.tv
 l.gamekult.com
-lg.api.xmpush.xiaomi.com
 lgbdxo.azazie.com
 lg-bgp-misc.pandora.xiaomi.com
 l.getpyfl.com
@@ -20532,7 +20585,6 @@ link.stg.imprint.co
 links.thedyrt.com
 links.theinfatuation.com
 links.thephoenix.org
-links.thriveglobal.com
 link.stickybeak.co
 links.tlc.com
 link.stockalarm.io
@@ -23843,6 +23895,7 @@ metrics.avastin-hcp.com
 metrics.aviasales.ru
 metrics.aviationweek.com
 metrics.avnet.com
+metrics-a.wbx2.com
 metrics.axs.com
 metrics.babycenter.de
 metrics.baitoru.com
@@ -25243,7 +25296,6 @@ minuteburst.com
 m.ioicommunity.com.my
 miqeuu.timberland.it
 mirabelanalytics.com
-mircheigeshoa.com
 mirec.ubmmexico.com
 m.irl.com
 m.irlmail.org
@@ -25264,6 +25316,7 @@ mistat.intl.xiaomi.com.ksyna.net
 mistat.rus.xiaomi.com
 mistat.rus.xiaomi.com.edgesuite.net
 mistat.rus.xiaomi.com.ksyna.net
+mistat.xiaomi.com
 mistat.xiaomi.com.download.ks-cdn.com
 mistervillas.com
 mistyhorizon.com
@@ -25416,7 +25469,6 @@ moa-upload-in.allawnos.com
 moa-upload-online.coloros.com
 moa-upload-online-in.coloros.com
 moa-upload-sg.allawnos.com
-mob.api.xmpush.xiaomi.com
 mobildev.in
 mobileads.msn.com
 mobileanalytics.us-east-1.amazonaws.com
@@ -25566,7 +25618,6 @@ more.spglobal.com
 morganfranklin.actonservice.com
 m.origin.com.au
 mormont.gamer-network.net
-mors22.com
 mortgage.equifax.com
 mortgage.inform.equifax.com
 mortgage.leads360.com
@@ -27681,6 +27732,7 @@ pixel.kknews.cc
 pixel.leadlovers.app
 pixel.lilystyle.ai
 pixel.locker2.com
+pixel.marqo-ep.ai
 pixel.mintigo.com
 pixel.mtrcs.samba.tv
 pixel.newscred.com
@@ -28182,6 +28234,7 @@ processserver.abclegal.com
 processusmetier.ricoh.fr
 procroanalytics.com
 procurement.cipscomms.org
+prod.editor.ads.trafficmanager.net
 prod-eh-v1-analytics.servicebus.windows.net
 prod-eventhub-analytics.servicebus.windows.net
 prod-event-relay-api.v.aaplimg.com
@@ -28404,7 +28457,6 @@ push.heytapmobile.com
 pushmaster-cdn.xyz
 push.samsungosp.com.cn
 pushspring.actonservice.com
-pushvisit.xyz
 putphc.zuhre.com.tr
 puzzle.spiriteq.com
 p.versacommerce.de
@@ -28626,6 +28678,7 @@ quantumlagoon.com
 quantumshine.com
 qubitanalytics.appspot.com
 queenjam.com
+queen-one.net
 queenskart.com
 query1.petametrics.com
 quest.epoise.com
@@ -28704,7 +28757,6 @@ r2r.utas.edu.au
 r.3hentai.net
 r42tag.com
 r4nds.absorba.com
-raac33.net
 rabbitbreath.com
 rabbit.donald.cat
 rabbitrifle.com
@@ -28808,6 +28860,7 @@ rdfine.camelbrown.com
 rdl.lgtvcommon.com
 rdlrbm.studying.jp
 rdvxxx.crushj.com
+reachhumans.com
 reach-id.orbit.tm-awx.com
 reach.ironmountain.com
 reach.terumo-bct.com
@@ -29065,6 +29118,7 @@ res.marianne.net
 resolution.taxdefensenetwork.com
 resolver.gslb.mi-idc.com
 resolver.mi.xiaomi.com
+resolver.msg.global.xiaomi.net
 resolver.msg.global.xiaomi.net.iberostar.com
 resonantbrush.com
 resonantrock.com
@@ -30335,22 +30389,15 @@ sbyneh.dailymail.co.uk
 sc2.constantcontact.com
 sc2.infor.com
 sc2metrics.exacttarget.com
-sca-cota.vivoglobal.com
 sc.actonservice.com
 s.cadent.bloomberglaw.com
 scadobe.vpay.co.kr
-sca-domaincfg.vivoglobal.com
-sca-err-up.vivoglobal.com
 s.caledonenterprise.com
 scalematrix.actonservice.com
 s.cambridgetimes.ca
 s.cameratico.com
 scanalytics.wral.com
 scanner-link.covve.com
-sca-onrt-stsdk.vivoglobal.com
-sca-ort-stsdk.vivoglobal.com
-sca-pnrt-stsdk.vivoglobal.com
-sca-p.vivoglobal.com
 scarceshock.com
 scarcesign.com
 scarcestructure.com
@@ -30364,16 +30411,9 @@ scaredsong.com
 scaredstomach.com
 scarefowl.com
 scarfsmash.com
-sca-romsp-unifyconfig.vivoglobal.com
 sca.samsung.com
-sca-stsdk.vivoglobal.com
-sca-st-sl.vivoglobal.com
-sca-timesync.vivoglobal.com
 scatteredheat.com
 scatteredstream.com
-sca-vcode-api.vivoglobal.com
-sca-vcode-od.vivoglobal.com
-sca-vcode-or.vivoglobal.com
 sc.blurb.fr
 sc.cmt.com
 sc.coutts.com
@@ -30583,6 +30623,7 @@ searchads.apple.com.edgesuite.net
 searchads.lb-apple.com.akadns.net
 search.anonymous.ads.brave.com
 search.miui.com
+seaskypro.com
 seatsmoke.com
 sebotr.rizeclinic.com
 seb.sharpmarketing.eu
@@ -30928,6 +30969,7 @@ securemetrics.apple.com.cn
 securemetrics.athletawell.com
 securemetrics.blackrock.com
 securemetrics.brhome.com
+securemetrics-cn.v.aaplimg.com
 securemetrics.dailycandy.com
 securemetrics.gap.co.jp
 securemetrics.gap.co.uk
@@ -31371,6 +31413,7 @@ s.grace.com
 s.grigora.com
 sgsb.aba.com
 sgstats.com
+sgtm.cmoa.jp
 sgtm.tagmanageritalia.it
 sgtm.tennis-point.de
 sgtus1-excel-telemetry-vip.officeapps.live.com
@@ -36110,6 +36153,7 @@ stack-sonar.com
 stadac.mobilapp.io
 stadig.ifeng.com
 stadiumzoo.net
+st-ads-jssdk.vivo.com.cn
 stageapplink.reki.tv
 stagelink.lola.com
 stagelink.supershare.com
@@ -36124,7 +36168,6 @@ staging-link-ccontact.focuscura.com
 staging-link.docyt.com
 staging.link.findeck.de
 staging-link.kol.store
-staging-links.thriveglobal.com
 staging.narrateapp.com
 staging-pt.ispot.tv
 staging-refer.rooam.co
@@ -36243,7 +36286,6 @@ stat.interestfree.com.au
 statistic2.reichelt.de
 statistic.audima.co
 statistic.jac-systeme.de
-statisticplatform.com
 statistic.qzone.qq.com
 statistics.csob.cz
 statistics.daktilo.com
@@ -36696,6 +36738,7 @@ stats.jerickson.net
 stats.jetzt-aktivieren.de
 stats.jhsheridan.com
 stats.jjude.com
+stats.jkdesa.com
 stats.joaopedro.dev
 stats.jsbible.com
 statsjs.klevu.com
@@ -36825,6 +36868,7 @@ stats.newsweek.com
 stats-newyork1.bloxcms.com
 stats.nexagon.dk
 stats.nhk.or.jp
+stats.nkkk.de
 stats.nodewood.com
 stats.nonprofit.foundation
 stats.nortonhealthcare.com
@@ -37147,6 +37191,7 @@ stats.varrando.com
 stats.vattenfall.nl
 stats.vattenfall.se
 stats.vdsnow.ru
+stats.velarium.cc
 stats.vican.me
 stats.vidbinge.com
 stats.viddler.com
@@ -37364,7 +37409,6 @@ s.topya.com
 storage.lulu-row1.com
 storagetechnology.arrow.com
 storea8tracking.alc.co.jp
-storeconfig.mistat.xiaomi.com
 storedl1.nearme.com.cn
 storedl3f.nearme.com.cn
 storedl4f.nearme.com.cn
@@ -37456,6 +37500,7 @@ stscs.ditzo.nl
 stsdk.vivoglobal.com
 sts.eccmp.com
 sts.eliasjarzombek.com
+sts.marketingsuite.jp
 sts.papyrs.com
 sts.tour-europe.org
 stt.bupa.com.au
@@ -38033,7 +38078,6 @@ tap.carling.com
 tapi.kaufda.de
 t.appsflyer.com
 t.appstatesports.com
-t.app.xiaomi.com
 t.arcade.show
 target.abanca.com
 targetab.metrobyt-mobile.com
@@ -38645,7 +38689,6 @@ test.takedwn.ws
 testtarget.jeep.com
 test.thei.co
 test.thomsonreuters.com
-test.vast
 test.zeus-wifi.jp
 t.etraveli.com
 te.universal.at
@@ -39917,6 +39960,7 @@ tracking.gpm-rtv.ru
 tracking.graduateschool.edu
 tracking.graphly.io
 tracking.grosseladies.de
+tracking.groupe-ldlc.com
 tracking.gruppo.mps.it
 tracking.guidehouse.com
 tracking.handlesets.com
@@ -40395,7 +40439,6 @@ tracks3.ferrari.com
 tracks.arubamediamarketing.it
 track.searchignite.com
 track.searchiq.co
-track-selectmedia.com
 track.shop2market.com
 track.shop.atleticodemadrid.com
 trackside.redbull.racing
@@ -40505,7 +40548,6 @@ training.hager.co.uk
 training.indigobusiness.co.uk
 training.thunderhead.com
 traka8.crypto-mall.org
-trakle01.online
 tr-album-api.vivoglobal.com
 tr.alex.espmp-agfr.net
 tr.allianz-trade.com
@@ -40961,7 +41003,6 @@ tr.entreprise-pro.info
 tr.envie-de-bien-manger.espmp-aufr.net
 tr.eqs.cpam67.net
 tr.ere.emailing.bnpparibas
-tr-err-up.vivoglobal.com
 tr.espmp-agfr.net
 tr.estatesandwines.moethennessy.com
 t.restek.com
@@ -42141,6 +42182,7 @@ ts-analysis.shoalter.com
 tsa.taxslayer.com
 t-s.avastin.com
 t-s.avastin-hcp.com
+tsa.webex.com
 t-s.biooncology.com
 tsbkht.puritan.com
 tsbmkf.zonnebrillen.com
@@ -42274,7 +42316,6 @@ tutbc1.www.tapmyback.com
 t.utrockets.com
 tuvevx.agent-sana.com
 t.valcyte.com
-tv.app.migc.xiaomi.com
 tvboss.pandora.xiaomi.com
 tvcoag.brw.pl
 tvepg.pandora.xiaomi.com
@@ -42419,6 +42460,7 @@ uct.service.usercentrics.eu
 uc.xddi.ru
 udblog.huya.com
 udc.msn.com
+ud.galaxus.ch
 ud.galaxus.de
 udgrbq.malwarebytes.com
 udicje.perrys.co.uk
@@ -42523,6 +42565,7 @@ ultraoranges.com
 ultravalid.com
 ultund.misterspex.nl
 ulutlv.esprit.fr
+umami.dev
 umami.flixer.su
 umami.spencerdevs.xyz
 umami.vidfast.pro
@@ -42628,7 +42671,6 @@ upfmqr.carmensteffens.com.br
 upgrade.pandora.xiaomi.com
 upgradeyoga.com
 upload.euleriancdn.net
-upload.fp.measure.office.com.corp.mmco.int.cardano.com
 uppbrl.thomassabo.com
 uppitytime.com
 upqmpu.leasingtime.de
@@ -42647,6 +42689,7 @@ urbanairship.com
 urbanlaurel.com
 ur.b.inhaabit.com
 ureca.samsungapps.com
+ureca.samsungapps.com.ad.mexnet.de
 urehgr.halekulani.com
 ureoaw.netthandelen.no
 ureruadebis.papawash.com
@@ -42722,6 +42765,7 @@ us.lgsmartad.com
 us.lucanet.com
 us-marketing.roxtec.com
 us.mattamyhomes.com
+us-mesh-events-data-leafs.trafficmanager.net
 usmetric.rediff.com
 us.micardapi.micloud.xiaomi.net.iberostar.com
 us.noteapi.micloud.xiaomi.net.iberostar.com
@@ -42729,6 +42773,7 @@ us-now.experian.com
 usnvuj.skillfactory.ru
 us.onkyo.actonservice.com
 us.pdc.micloud.xiaomi.net.iberostar.com
+us-report.gras.samsungdm.com
 us.ricoh-usa.com
 usr.interactiveone.com
 usrkrz.zdravcity.ru
@@ -43373,7 +43418,6 @@ vi.lgsmartad.com
 vip.agentteam.com.au
 vip-api.xmpush.global.xiaomi.com
 vip-api.xmpush.xiaomi.com
-vip.api.xmpush.xiaomi.com
 vip.german.ni.com
 vip.gophersport.com
 vip.granicus.com
@@ -45044,6 +45088,7 @@ xdaoxa.footasylum.com
 xdbchs.bradfordexchange.com
 xdcpfs.shopdoen.com
 xdeiaf.elleshop.jp
+x.designboom.com
 x.disq.us
 xdkwsh.farmacialoreto.it
 xdsblm.ullapopken.de
@@ -45110,7 +45155,6 @@ xmfugv.tgn.co.jp
 xmohlh.melia.com
 xmqrvx.jewelry-queen-shop.com
 xmyvhu.soxo.pl
-xn--ex-adreq-asa-c5b.vivoglobal.com
 xn-ex-adreq-asa-c5b.vivoglobal.com
 xnukcp.cpcompany.com
 xp2023-pix.s3.amazonaws.com
