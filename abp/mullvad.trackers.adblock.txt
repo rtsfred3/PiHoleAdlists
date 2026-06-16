@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-06-15 07:00:56 UTC
+! Generated at 2026-06-16 07:01:00 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -16997,6 +16997,7 @@
 ||idmb.app.chat.global.xiaomi.net^
 ||idmb.feedback.xmpush.global.xiaomi.com^
 ||idm.iot.mi.com^
+||id.nbcuni.com^
 ||idndlc.kango-oshigoto.jp^
 ||id.push.heytapmobi.com^
 ||idqwqm.kkday.com^
@@ -20734,7 +20735,6 @@
 ||link.zurp.com^
 ||lio8.destinia.com.pa^
 ||liosix.mtvuutiset.fi^
-||lipstat.com^
 ||liquid.agora.pl^
 ||li.rtl2.de^
 ||listen.trakks.com^
@@ -23131,6 +23131,7 @@
 ||mas-sdk-eu.amazon-adsystem.com^
 ||massivemark.com^
 ||master.cifraclub.com.br^
+||masterenter.com^
 ||masternaut.actonservice.com^
 ||mastertag.kpcustomer.de^
 ||mastertag.q-sis.de^
@@ -26683,6 +26684,7 @@
 ||om.cyberrentals.com^
 ||om.dowjoneson.com^
 ||o.medallia.com^
+||omegaroutes.com^
 ||om.escapehomes.com^
 ||omes-sec.heytapmobi.com^
 ||omes-sec.heytapmobile.com^
@@ -28287,7 +28289,6 @@
 ||profiling.ruukki.com^
 ||profit.edc.ca^
 ||profitrumour.com^
-||proftrafficcounter.com^
 ||profusesupport.com^
 ||progmxs.com^
 ||programmes-skema.skema-bs.fr^
@@ -39828,8 +39829,6 @@
 ||tracking.carsales.com.au^
 ||tracking.cat898.com^
 ||tracking.cdiscount.com^
-||tracking.cds.dmm.co.jp^
-||tracking.cds.dmm.com^
 ||tracking.cello-square.com^
 ||tracking.cengage.com^
 ||tracking.cenomicenters.com^
