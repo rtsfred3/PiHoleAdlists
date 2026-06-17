@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-06-16 07:01:00 UTC
+! Generated at 2026-06-17 07:01:06 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -125,6 +125,7 @@
 ||3p-geo.yahoo.com^
 ||3plworldwide.actonservice.com^
 ||3p-udc.yahoo.com^
+||3px.axp.amazon-adsystem.com^
 ||3rdspacetech.com^
 ||3rdupgrade.pandora.xiaomi.com^
 ||3skickasurf.tre.se^
@@ -3914,6 +3915,7 @@
 ||aax-apse-dtb-mobile-events.amazon-adsystem.com^
 ||aax-apse-dtb-web.amazon-adsystem.com^
 ||aax-audio.amazon-adsystem.com^
+||aax-beta-us-east.axp.amazon-adsystem.com^
 ||aax-cpm.amazon-adsystem.com^
 ||aax-dtb-cf.amazon-adsystem.amazon.com^
 ||aax-dtb-cf.amazon-adsystem.com^
@@ -3939,6 +3941,7 @@
 ||aax-fe-sin.amazon-adsystem.com^
 ||aax-fe-sin-rtb-adx.amazon-adsystem.com^
 ||aax-fe-sin-rtb.amazon-adsystem.com^
+||aax-gamma-us-east.axp.amazon-adsystem.com^
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
@@ -4948,6 +4951,9 @@
 ||aerezb.nepamall.com^
 ||aerialapps.com^
 ||aeromark.actonservice.com^
+||aes-beta.axp.amazon-adsystem.com^
+||aes.eu-south.ono.axp.amazon-adsystem.com^
+||aes.eu-west.ono.axp.amazon-adsystem.com^
 ||aesus.so-net.ne.jp^
 ||aeuati.wedio.com^
 ||a.evergage.com^
@@ -7186,6 +7192,7 @@
 ||ap.quadient.com^
 ||apress.efscle.com^
 ||aps.amazon-adsystem.com^
+||aps.axp.amazon-adsystem.com^
 ||ap.shouta.co^
 ||apssdc.epoise.com^
 ||apssdctest.epoise.com^
@@ -7648,7 +7655,6 @@
 ||axp.8newsnow.com^
 ||axp.abc27.com^
 ||axp.abc4.com^
-||axp.amazon-adsystem.com^
 ||axp.avaya.com^
 ||axp.bigcountryhomepage.com^
 ||axp.binghamtonhomepage.com^
@@ -14553,6 +14559,7 @@
 ||f-emc.ngsp.gov.vn^
 ||femetrics.grammarly.io^
 ||fencesync.com^
+||fe.ono.axp.amazon-adsystem.com^
 ||feppiu.systemaction.es^
 ||feqbqn.rent.com^
 ||ferias.usj.es^
@@ -14560,6 +14567,7 @@
 ||festo.actonservice.com^
 ||fetch.gethuan.com^
 ||feuqzl.woolrich.com^
+||fe.us-west.ono.axp.amazon-adsystem.com^
 ||fewjuice.com^
 ||fewkittens.com^
 ||ffbbbdc6d3c353211fe2ba39c9f744cd.com^
@@ -20749,6 +20757,7 @@
 ||live.comunicaciones.jetstereo.com^
 ||livecounter.theyosh.nl^
 ||live.cxo.name^
+||live-events.ono.axp.amazon-adsystem.com^
 ||live.exchangesolutions.com^
 ||livelumber.com^
 ||livelylaugh.com^
@@ -29448,6 +29457,7 @@
 ||rta2.newzit.com^
 ||rtactivate.com^
 ||rta.dailymail.co.uk^
+||rtb.axp.amazon-adsystem.com^
 ||rtb.prod.carbonatixaudio.com^
 ||rt.bunte.de^
 ||rt.cdnmedia.tv^
@@ -42745,6 +42755,7 @@
 ||usc-onenote-telemetry.officeapps.live.com^
 ||usc-visio-telemetry.officeapps.live.com^
 ||usdbbx.mmartan.com.br^
+||us-east.ono.axp.amazon-adsystem.com^
 ||use.fvr.to^
 ||use.hetzner.com^
 ||uselesslumber.com^

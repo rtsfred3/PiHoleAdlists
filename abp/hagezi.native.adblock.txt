@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-06-16 07:00:29 UTC
+! Generated at 2026-06-17 07:00:34 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -19,6 +19,7 @@
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
 ||0002-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
 ||11-c3.bigdata.ctc.neo.xiaomi.com^
+||3px.axp.amazon-adsystem.com^
 ||3rdupgrade.pandora.xiaomi.com^
 ||5-c3.bigdata.ctc.neo.xiaomi.com^
 ||a4.bing.com^
@@ -35,6 +36,7 @@
 ||aax-apse-dtb-mobile-events.amazon-adsystem.com^
 ||aax-apse-dtb-web.amazon-adsystem.com^
 ||aax-audio.amazon-adsystem.com^
+||aax-beta-us-east.axp.amazon-adsystem.com^
 ||aax-cpm.amazon-adsystem.com^
 ||aax-dtb-cf.amazon-adsystem.amazon.com^
 ||aax-dtb-cf.amazon-adsystem.com^
@@ -60,6 +62,7 @@
 ||aax-fe-sin.amazon-adsystem.com^
 ||aax-fe-sin-rtb-adx.amazon-adsystem.com^
 ||aax-fe-sin-rtb.amazon-adsystem.com^
+||aax-gamma-us-east.axp.amazon-adsystem.com^
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
@@ -294,6 +297,9 @@
 ||adx-u-sg.heytapmobile.com^
 ||ae-ad-lgsmartad-com.aws-prd.net^
 ||ae.lgsmartad.com^
+||aes-beta.axp.amazon-adsystem.com^
+||aes.eu-south.ono.axp.amazon-adsystem.com^
+||aes.eu-west.ono.axp.amazon-adsystem.com^
 ||af-ad-lgsmartad-com.aws-prd.net^
 ||af.lgsmartad.com^
 ||ag-ad-lgsmartad-com.aws-prd.net^
@@ -464,6 +470,7 @@
 ||appstore-trace-h5sdk.vivo.com.cn^
 ||app.xiaomi.com^
 ||aps.amazon-adsystem.com^
+||aps.axp.amazon-adsystem.com^
 ||apu.samsungelectronics.com^
 ||ar-ad-lgsmartad-com.aws-prd.net^
 ||arc1.msn.com^
@@ -547,7 +554,6 @@
 ||aw.lgsmartad.com^
 ||awssgp0-files.fds.api.xiaomi.com^
 ||awsusor0-cdn.fds-ssl.api.xiaomi.com^
-||axp.amazon-adsystem.com^
 ||az667904.vo.msecnd.net^
 ||az-ad-lgsmartad-com.aws-prd.net^
 ||az.appstore.vivo.com.cn^
@@ -1150,6 +1156,8 @@
 ||feedbackws.fe.apple-dns.net^
 ||feedbackws.icloud.com^
 ||feedbackws.icloud.com.cn^
+||fe.ono.axp.amazon-adsystem.com^
+||fe.us-west.ono.axp.amazon-adsystem.com^
 ||ffc-excel-telemetry.officeapps.live.com^
 ||ffc-word-telemetry.officeapps.live.com^
 ||ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net^
@@ -1562,6 +1570,7 @@
 ||lg-bgp-misc.pandora.xiaomi.com^
 ||li-ad-lgsmartad-com.aws-prd.net^
 ||licensingtelemetry-prod.servicebus.windows.net^
+||live-events.ono.axp.amazon-adsystem.com^
 ||live.miphone.pandora.xiaomi.com^
 ||live-video-log16-normal-alisg.tiktokv.com^
 ||lk-ad-lgsmartad-com.aws-prd.net^
@@ -2444,6 +2453,7 @@
 ||rs-ad-lgsmartad-com.aws-prd.net^
 ||r.sg.sec.miui.com^
 ||rs.lgsmartad.com^
+||rtb.axp.amazon-adsystem.com^
 ||rtc-logger16-normal-useastred.tiktokv.eu^
 ||rtc-logger-i18n.tiktokv.com^
 ||rtc-logger-ie.tiktokv.eu^
@@ -3049,6 +3059,7 @@
 ||us-ad-lgsmartad-com.aws-prd.net^
 ||usc-onenote-telemetry.officeapps.live.com^
 ||usc-visio-telemetry.officeapps.live.com^
+||us-east.ono.axp.amazon-adsystem.com^
 ||userdata.dev.sr.roku.com^
 ||userdata.sr.roku.com^
 ||userid.xiaomi.com^
