@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-06-19 07:00:27 UTC
+! Generated at 2026-06-20 07:00:28 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -1071,6 +1071,7 @@
 ||es.lgsmartad.com^
 ||et-ad-lgsmartad-com.aws-prd.net^
 ||et.lgsmartad.com^
+||eu-album-api.vivoglobal.com^
 ||euc-excel-telemetry.officeapps.live.com^
 ||euc-excel-telemetry.wac.trafficmanager.net^
 ||euc-onenote-telemetry.officeapps.live.com^
@@ -1705,6 +1706,7 @@
 ||log.snssdk.com^
 ||log-snssdk.tiktokv-us.com^
 ||logs.n.xiaomi.com^
+||logs.qa.ap.int.roku.com^
 ||logs.roku.com^
 ||logs.sr.roku.com^
 ||log-tiktok.byteoversea.net^
@@ -2973,6 +2975,7 @@
 ||transfer.sec.miui.com^
 ||tr-cota.vivoglobal.com^
 ||tr-domaincfg.vivoglobal.com^
+||tr-err-up.vivoglobal.com^
 ||tr-gdpr-vgc-datacenter.vivoglobal.com^
 ||t-ring-fallback.msedge.net^
 ||t-ring-fallbacks1.msedge.net^
@@ -2999,6 +3002,7 @@
 ||tr-vcode-or.vivoglobal.com^
 ||tr-weather.vivoglobal.com^
 ||t-s1-ring.msedge.net^
+||t-s2-ring.msedge.net^
 ||ts.amazon-adsystem.com^
 ||tsearch.snssdk.com^
 ||ts-gamma.amazon-adsystem.com^

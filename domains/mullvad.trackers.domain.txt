@@ -1,4 +1,4 @@
-# Generated at 2026-06-19 07:00:57 UTC
+# Generated at 2026-06-20 07:01:01 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -5339,6 +5339,7 @@ analytic-client.adult-chess.com
 analytic-client.blitzmightyparty.com
 analytic-client.chickgoddess.com
 analytic-client.panowars.com
+analytic.divee.ai
 analytic.fishtrack.com
 analytic.hawaii.aaa.com
 analytic.hotelclub.com
@@ -5691,6 +5692,7 @@ analytics.metro.de
 analytics.metro.fr
 analytics.metro.pk
 analytics.metro.ua
+analytics.mgm.gov.tr
 analytics.midas-antilles.fr
 analytics.midas.be
 analytics.midas.ci
@@ -11745,6 +11747,7 @@ ddl.alma.iltalehti.fi
 ddlbr.timesclub.co
 ddlcvm.clas.style
 dd.leboncoin.fr
+ddlnk.net
 ddm.frandroid.com
 ddmfrg.modivo.bg
 ddnahc.mesbagages.com
@@ -13952,6 +13955,7 @@ etwovr.underarmour.eu
 etx.indiatimes.com
 etznkn.ec-store.net
 eu-1-id5-sync.com
+eu-album-api.vivoglobal.com
 euapp.levi.com
 eu.business.samsung.com
 eubynl.baby-sweets.de
@@ -21098,6 +21102,7 @@ log-snssdk.tiktokv-us.com
 logs.n.xiaomi.com
 logs.openbank.com
 logs-partners.coupang.com
+logs.qa.ap.int.roku.com
 logs.roku.com
 logs.spilgames.com
 logs.sr.roku.com
@@ -29369,6 +29374,7 @@ roamhousing.com
 roas-service.store-services-prod.remarkable.com
 robotflowermobile.com
 robotgarages.com
+robotsrefinery.com
 rochelle.wantsext.me
 rockagainst.com
 rockstarwriter.com
@@ -36206,6 +36212,7 @@ stanburns.actonservice.com
 stan.xing.com
 stape.brascast.com
 starchild.odencat.com
+starfurniture.net
 starget.aircanada.com
 starget.airmiles.ca
 starget.bitdefender.com
@@ -37536,6 +37543,7 @@ stt.tyro.com
 st.tulastudio.se
 stt.wawacity.onl
 studentadvantage.actonservice.com
+studioalkaline.com
 studio.joinsalut.com
 studycooking.com
 study.jcu.edu.au
@@ -38824,6 +38832,7 @@ thebdx.actonservice.com
 thebigvan.com
 thebrainybulb.com
 thecea.actonservice.com
+thecounter.net
 thecrazychili.com
 thefishstops.com
 thefontzone.com
@@ -41018,6 +41027,7 @@ tr.entreprise-pro.info
 tr.envie-de-bien-manger.espmp-aufr.net
 tr.eqs.cpam67.net
 tr.ere.emailing.bnpparibas
+tr-err-up.vivoglobal.com
 tr.espmp-agfr.net
 tr.estatesandwines.moethennessy.com
 t.restek.com
@@ -42189,6 +42199,7 @@ try.tableausoftware.com
 tryzens-analytics.com
 tr.zojh.espmp-aluk.net
 t-s1-ring.msedge.net
+t-s2-ring.msedge.net
 t-s.actemra.com
 t-s.activase.com
 t-s.allergicasthma.com
@@ -43691,6 +43702,7 @@ warmafterthought.com
 warnwing.com
 warrenfcu.actonservice.com
 warrjy.feiler.jp
+wart.val.town
 wasc.homedepot.ca
 wasc.homedepot.com
 wasc.kaufland.ro
