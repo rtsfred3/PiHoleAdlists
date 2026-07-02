@@ -1,4 +1,4 @@
-# Generated at 2026-06-21 07:00:21 UTC
+# Generated at 2026-07-02 07:00:19 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -2048,6 +2048,7 @@ agentgraphique.com
 ageverif.com
 ageverify.co
 ageverify.com
+agf.nl
 aggle.net
 aggregateknowledge.com
 aghtag.tech
@@ -2968,6 +2969,7 @@ argusplatform.com
 aries.mzres.com
 arisawaonline.com
 ariva-services.de
+arkadium.com
 arkadiumhosted.com
 arkeero.com
 arkheus.fr
@@ -2989,6 +2991,7 @@ artemis-cdn.ocdn.eu
 artfut.com
 art-gallery-of-sa-store.myshopify.com
 artifactory.appodeal.com
+artnames.io
 artoo.nl
 ar.umeng.com
 arxivcu.containers.piwik.pro
@@ -4035,7 +4038,6 @@ brockmeyer.nl
 bro.flyme.cn
 broke-it.net
 broker.datazoom.io
-broker.nxtid.nl
 bronto.com
 brooklynrail-web.imgix.net
 brothersoft.com
@@ -7257,6 +7259,7 @@ engine.tuia.cn
 enhance.com
 eniro-cdn.relevant-digital.com
 enki.com
+enlightmecenter.com
 ennova.com
 enormail.eu
 enquete.agconsult.com
@@ -8034,6 +8037,7 @@ futy.io
 futy-widget-2.netlify.app
 futy-widget.com
 fv99.com
+fvdemoca.com
 fw2.com
 fw.adsafeprotected.com
 fw-cdn.com
@@ -8276,6 +8280,7 @@ get.incogni.io
 getinsights.io
 getjoy.ai
 getkoala.com
+getkoppa.com
 getlasso.co
 get-latest.convrse.media
 getlucky.nl
@@ -8689,6 +8694,7 @@ harnessdigitalmarketing.com
 harness.io
 harvardbusinessrevie.tt.omtrdc.net
 harvard.edu.sc.omtrdc.net
+hashcodex.com
 hashtag-labs.com
 hashting.cash
 hashting.promo
@@ -9938,6 +9944,7 @@ i.umami.is
 iva.synchronycredit.com
 ivo.io
 ivory.studio
+ivydigitalmarketing.nl
 ivy.pconline.com.cn
 i.w55c.net
 iwettefashion.pl
@@ -10417,6 +10424,7 @@ lampchat.io
 landbot.io
 landingi.com
 landsloterij.org
+langshop.app
 langwill.com
 lansweeper.com
 lanzouo.com
@@ -10486,10 +10494,12 @@ leafflip.com
 leanlab.co
 leanplum.com
 learn.optimizely.com
+leat.com
 lebowski.wetransfer.com
 lecoeurdelexcellence.fr
 lecoinpromo.fr
 leenvanrij.nl
+leeopen.com
 leesmanindex.com
 leesmanindex.co.uk
 leeyuoxs.com
@@ -11033,6 +11043,7 @@ magnetmail1.net
 magnite.com
 mail2jake.com
 mail-ads.google.com
+mailavn.icu
 mailba.uk
 mailblaze.com
 mailblue.nl
@@ -11099,6 +11110,7 @@ mapp.com
 map.qq.com
 maquipan.cl
 marathonbet.dk
+marcprimowarren.com
 ma.redhat.com
 marfeelcache.com
 marfeel.com
@@ -12659,6 +12671,7 @@ p3p.sogou.com
 p3p.yahoo.com
 p3tt.com
 pacificalliancebank.com
+packagingbee.co
 packetforensics.com
 paddleapi.com
 paddle.s3.amazonaws.com
@@ -12898,6 +12911,7 @@ picturesquefilms.net
 pieceauto-discount.com
 pierredejonge.nl
 piggy.eu
+piggy.nl
 pi.gov.br
 piguiqproxy.com
 pikakasino.com
@@ -13181,6 +13195,7 @@ powerlinks.com
 powerreviews.com
 powerscrews.com
 powerspace.com
+powl.io
 powr.io
 poyang.com
 pp2.pptv.com
@@ -13194,6 +13209,7 @@ pp.ua
 pragmaticplay.com
 pragmaticplay.net
 pragmaticplayphp.com
+praktijk-ayni.nl
 praktijkbruis.nl
 praktijkcharlotte.nl
 praktijkcynergie.nl
@@ -14786,6 +14802,7 @@ shepherd.ff.avast.com
 shibeiou.com
 shiftcrypto.activehosted.com
 shiftrro.com
+shinetechserve.com
 shininglogistics.com
 shinystat.com
 shizen-no-megumi.com
@@ -15594,6 +15611,7 @@ stats.sa-as.com
 stats.thinkprivacy.ch
 stats.thuisarts.nl
 stats.topdrawermedia.com
+stats.triplebit.net
 stats.uptimerobot.com
 stats.valitype.com
 stats.waag.org
@@ -16978,6 +16996,7 @@ use.typekit.net
 ushaqi.com
 usibtheteam.com
 usingde.com
+uspp.biz
 us-reviews.com
 usr.navdmp.com
 uss-pid.lenovomm.com
@@ -17292,6 +17311,7 @@ wa.gmx.net
 wa.gtimg.com
 waitlisted.app
 waitlisted.co
+wajdagroup.me
 wakkermens.info
 wa.kuwo.cn
 walkme.com
@@ -17375,6 +17395,7 @@ webflow.refersion.com
 webfonts.sparkasse.de
 webfonts.zoho.eu
 webgains.com
+webgenie.io
 webgeoservices.com
 webid.ad.daum.net
 webjavaskript.net
