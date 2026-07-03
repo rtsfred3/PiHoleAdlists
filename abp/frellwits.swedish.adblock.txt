@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-02 07:00:16 UTC
+! Generated at 2026-07-03 07:00:14 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 ! 
@@ -25,7 +25,6 @@
 ||ad.mox.tv^
 ||adnami2.io^
 ||adnami.io^
-||adncdnend.azureedge.net^
 ||adnuntius.com^
 ||adonstudio.com^
 ||adpeepshosted.com^
@@ -327,7 +326,6 @@
 ||cdn.usefathom.com^
 ||cdn.userreport.com^
 ||cdn.viglink.com^
-||cdn.vip-hd-movies.xyz^
 ||cdn.webpushr.com^
 ||cdn.wootric.com^
 ||cdn.yieldwrapper.com^
@@ -409,7 +407,6 @@
 ||dev.visualwebsiteoptimizer.com^
 ||digidip.net^
 ||digitalaudience.io^
-||digitalfeedback.euro.confirmit.com^
 ||digitaliseringsinitiativet.se^
 ||di.insplanet.com^
 ||dinapengar.compricer.se^
@@ -596,7 +593,6 @@
 ||log.medietall.no^
 ||logs.spilgames.com^
 ||logx.optimizely.com^
-||longchampstockholm.com.se^
 ||look.ufinkln.com^
 ||ls.dycdn.net^
 ||l.sharethis.com^
@@ -888,7 +884,6 @@
 ||sync.go.sonobi.com^
 ||synchrobox.adswizz.com^
 ||sync.richaudience.com^
-||system-notify.app^
 ||t0.extreme-dm.com^
 ||t1.extreme-dm.com^
 ||tag.aticdn.net^
