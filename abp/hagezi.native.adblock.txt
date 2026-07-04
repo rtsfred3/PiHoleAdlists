@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-03 07:00:21 UTC
+! Generated at 2026-07-04 07:00:25 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -343,6 +343,7 @@
 ||analytics-dev-lleap-events.servicebus.windows.net^
 ||analytics-dev-simpad-events.servicebus.windows.net^
 ||analyticsehnwe.servicebus.windows.net^
+||analytics-events.apple.com^
 ||analytics-exp16-normal-useastred.tiktokw.eu^
 ||analytics-exp16-normal-useastred.tiktokw.eu.edgesuite.net^
 ||analytics-exp-i18n.tiktok.com^
@@ -941,7 +942,6 @@
 ||cstat.apple.com.edgesuite.net^
 ||cstat.cdn-apple.com^
 ||cstat.g.aaplimg.com^
-||cstat-lb.apple.com.akadns.net^
 ||cstat-origin.apple.com^
 ||c.th.msn.com^
 ||c.tr.msn.com^
@@ -1530,6 +1530,7 @@
 ||ke-ad-lgsmartad-com.aws-prd.net^
 ||ke.lgsmartad.com^
 ||kg-ad-lgsmartad-com.aws-prd.net^
+||kg-legacy-analytics.servicebus.windows.net^
 ||kg.lgsmartad.com^
 ||kh-ad-lgsmartad-com.aws-prd.net^
 ||kic-ngfts.lge.com^
@@ -2154,6 +2155,7 @@
 ||na-ad-lgsmartad-com.aws-prd.net^
 ||nav.sec.miui.com^
 ||netcheck.pandora.xiaomi.com^
+||news-analytics-events.apple.com^
 ||news-app-events.apple.com^
 ||news-events.apple.com^
 ||news-notification-events.apple.com^
@@ -2343,6 +2345,7 @@
 ||pl.lgsmartad.com^
 ||pmir.sec.miui.com^
 ||pnrt-stsdk.vivoglobal.com^
+||podcasts-analytics-events.apple.com^
 ||popup.msn.com^
 ||port.sec.intl.miui.com^
 ||port.sec.miui.com^
@@ -3008,6 +3011,7 @@
 ||ts-gamma.amazon-adsystem.com^
 ||tt-ad-lgsmartad-com.aws-prd.net^
 ||tt.lgsmartad.com^
+||tv-analytics-events.apple.com^
 ||tvboss.pandora.xiaomi.com^
 ||tvepg.pandora.xiaomi.com^
 ||tw-ad-lgsmartad-com.aws-prd.net^
@@ -3184,8 +3188,6 @@
 ||xp.apple.com^
 ||xp.apple.com.edgekey.net^
 ||xp-cdn.apple.com^
-||xp-cdn-lb.itunes-apple.com.akadns.net^
-||xp.itunes-apple.com.akadns.net^
 ||xpu.samsungelectronics.com^
 ||xp.v.aaplimg.com^
 ||ye-ad-lgsmartad-com.aws-prd.net^

@@ -1,4 +1,4 @@
-# Generated at 2026-07-03 07:00:53 UTC
+# Generated at 2026-07-04 07:00:52 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -5540,6 +5540,7 @@ analytics.ericafischerphotography.com
 analytics.esporteinterativo.com.br
 analytics.eternagame.org
 analytics.eventbrite.com
+analytics-events.apple.com
 analytics.everythingstream.com
 analytics.evo.co.uk
 analytics-exp16-normal-useastred.tiktokw.eu
@@ -7845,6 +7846,7 @@ bahrpo.dint.co.kr
 bahyei.himaraya.co.jp
 baitbaseball.com
 bakercommunications.actonservice.com
+balancenotes.com
 ba.lgsmartad.com
 balkog.withmoment.co.kr
 ballantine.actonservice.com
@@ -10656,7 +10658,6 @@ cstat.apple.com.edgesuite.net
 cstat.cdn-apple.com
 c-stat.eu
 cstat.g.aaplimg.com
-cstat-lb.apple.com.akadns.net
 cstat-origin.apple.com
 cstats.sankakucomplex.com
 c.stext.id
@@ -15095,6 +15096,7 @@ fudezz.kompasiana.com
 fudezz.kompas.tv
 fudezz.motorplus-online.com
 fudezz.sonora.id
+fuelfever.net
 fuelinspector.com
 fufbgj.pazzo.com.tw
 fufoir.aif.ru
@@ -19389,6 +19391,7 @@ k.flynas.com
 kftfhp.furusato-tax.jp
 kg-ad-lgsmartad-com.aws-prd.net
 kgbokc.masrefacciones.mx
+kg-legacy-analytics.servicebus.windows.net
 kg.lgsmartad.com
 kgmmfk.galcomi.jp
 kgqxzw.blue-tomato.com
@@ -26125,6 +26128,7 @@ newarkdriving.com
 newjersey-content.cresa.com
 newperspective.americanexpress.com
 news2.secureforms.mcafee.com
+news-analytics-events.apple.com
 news-app-events.apple.com
 news.azcapitoltimes.com
 news.bestcompaniesgroup.com
@@ -28076,6 +28080,7 @@ poczta.happ.social
 podbooth.martela.com
 podbooth.martela.no
 podbooth.martela.se
+podcasts-analytics-events.apple.com
 podname.com
 pod.spoti.fi
 poemprompt.com
@@ -42371,6 +42376,7 @@ tutbc1.www.tapmyback.com
 t.utrockets.com
 tuvevx.agent-sana.com
 t.valcyte.com
+tv-analytics-events.apple.com
 tvboss.pandora.xiaomi.com
 tvcoag.brw.pl
 tvepg.pandora.xiaomi.com
@@ -45218,9 +45224,7 @@ xp.allianz.de
 xp.apple.com
 xp.apple.com.edgekey.net
 xp-cdn.apple.com
-xp-cdn-lb.itunes-apple.com.akadns.net
 xpcpmr.gsm55.com
-xp.itunes-apple.com.akadns.net
 xps.huk24.de
 xps.huk.de
 xpu.samsungelectronics.com
