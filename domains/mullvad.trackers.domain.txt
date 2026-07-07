@@ -1,4 +1,4 @@
-# Generated at 2026-07-06 07:00:53 UTC
+# Generated at 2026-07-07 07:00:55 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4741,6 +4741,7 @@ adsdk.trafficmanager.net
 adsdk.vivo.com.cn
 adsdk.yandex.ru
 ads-drcn.platform.hihonorcloud.com
+ads-dre.platform.hihonorcloud.com
 ads-drru.cloud.huawei.ru
 ads-drru.platform.hihonorcloud.com
 adserver.bing.com
@@ -5563,6 +5564,7 @@ analytics.favcy.com
 analytics-fe.digital-cloud.medallia.ca
 analytics-fe.digital-cloud.medallia.com
 analytics-fe.digital-cloud-prem.medallia.com
+analytics-fe.digital-cloud-prem.medallia.eu
 analytics.ferguson.com
 analytics.ff.avast.sec.miui.com
 analytics.firespring.com
@@ -7868,6 +7870,7 @@ barbarousbase.com
 barbershirts.com
 b.arenum.games
 barium.cheezdev.com
+barkfactor.com
 barqueue.com
 barracuda.carte-gr.total.fr
 baseboosters.com
