@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-08 07:00:25 UTC
+! Generated at 2026-07-09 07:00:25 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -216,6 +216,7 @@
 ||ads-msn-com-profile.trafficmanager.net^
 ||ads.oppomobile.com^
 ||ads.roku.com^
+||ads-ru.tiktok.com^
 ||ads-setu-proxy.amazon.com^
 ||ads-setu-proxy-eu.amazon.com^
 ||ads-setu-proxy-fe.amazon.com^
@@ -700,6 +701,7 @@
 ||ch-ad-lgsmartad-com.aws-prd.net^
 ||channelusa.samsung.com^
 ||ch-asimov-leafs-events-data.trafficmanager.net^
+||chc-visio-telemetry.officeapps.live.com^
 ||child.sec.miui.com^
 ||c.hk.msn.com^
 ||ch.lgsmartad.com^
@@ -973,6 +975,7 @@
 ||dc.applicationinsights.azure.us^
 ||dcc-awareness-cn.heytapmobi.com^
 ||dc.di.atlas.samsung.com^
+||dc.di.runestone.samsung.com^
 ||dc.dqa.samsung.com^
 ||dc-dragate-cn.heytapmobi.com^
 ||dc.heytapmobile.com^
@@ -1011,12 +1014,12 @@
 ||diagnostics.apple.com.akadns.net^
 ||diagnostics-eudb.office.com^
 ||diagnostics.office.com^
-||di.runestone.samsung.com^
 ||dj.lgsmartad.com^
 ||dk-ad-lgsmartad-com.aws-prd.net^
 ||dk.lgsmartad.com^
 ||dls-account.di.atlas.samsung.com^
 ||dls-ddc.dqa.samsung.com^
+||dls.di.runestone.samsung.com^
 ||dls-udc.dqa.samsung.com^
 ||dm-ad-lgsmartad-com.aws-prd.net^
 ||dm.lgsmartad.com^
@@ -2001,6 +2004,7 @@
 ||mon16-normal-c-useast2a.tiktokv.com^
 ||mon16-normal-no1a.tiktokv.eu^
 ||mon16-normal-no1a.tiktokv.eu.dvaitas.lt^
+||mon16-normal-no1a.tiktokv.eu.numericable.fr^
 ||mon16-normal-sg.capcutapi.com^
 ||mon16-normal.tiktokv.com^
 ||mon16-normal-useast1a.tiktokv.com^
@@ -2245,6 +2249,8 @@
 ||opex-service-in.allawnos.com^
 ||opex-service-sg.allawnos.com^
 ||origin-sq-tungsten-ts.amazon-adsystem.com^
+||orsdls.di.runestone.samsung.com^
+||orsfs.di.runestone.samsung.com^
 ||ort-stsdk.vivoglobal.com^
 ||osb-krsvc.samsungqbe.com^
 ||osb.samsungqbe.com^

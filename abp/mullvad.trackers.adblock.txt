@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-08 07:00:58 UTC
+! Generated at 2026-07-09 07:00:58 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4770,6 +4770,7 @@
 ||ads.oppomobile.com^
 ||adspsp.com^
 ||ads.roku.com^
+||ads-ru.tiktok.com^
 ||ads-setu-proxy.amazon.com^
 ||ads-setu-proxy-eu.amazon.com^
 ||ads-setu-proxy-fe.amazon.com^
@@ -5994,6 +5995,7 @@
 ||analytics.vitalsignstracker.com^
 ||analytics.viture.dev^
 ||analytics.vixcloud.co^
+||analytics.vk.asahi.co.jp^
 ||analytics.vortexscans.com^
 ||analytics.warnertv.fr^
 ||analytics.wask.co^
@@ -9212,6 +9214,7 @@
 ||ch-asimov-leafs-events-data.trafficmanager.net^
 ||chat.forddirectdealers.com^
 ||ch.credithypo.com^
+||chc-visio-telemetry.officeapps.live.com^
 ||check3.tiaa.org^
 ||check.frbservices.org^
 ||checkpointcharlie.heizung.de^
@@ -9219,6 +9222,7 @@
 ||chef.getmenoo.com^
 ||chef.newtrina.com^
 ||chelsea.clicks.hqo.co^
+||chemistrycore.com^
 ||cherriescare.com^
 ||cherry.le.com^
 ||chessbranch.com^
@@ -11678,6 +11682,7 @@
 ||dcclaa.meine-familie-und-ich.de^
 ||dcclaa.slowlyveggie.de^
 ||dc.di.atlas.samsung.com^
+||dc.di.runestone.samsung.com^
 ||dc.dqa.samsung.com^
 ||dc-dragate-cn.heytapmobi.com^
 ||dc.heytapmobile.com^
@@ -11789,6 +11794,7 @@
 ||debug-inform.liilix.com^
 ||debug-r.rover.com^
 ||decidedrum.com^
+||decisionhut.com^
 ||decisivebase.com^
 ||decisivedrawer.com^
 ||decklibrary.com^
@@ -11886,6 +11892,7 @@
 ||descarga.veikul.com^
 ||desertgates.com^
 ||de.sharpmarketing.eu^
+||designdew.com^
 ||design.informabi.com^
 ||design.nanawall.com^
 ||designsgrid.com^
@@ -12269,7 +12276,6 @@
 ||direct-events-collector.spot.im^
 ||directions.mdanderson.org^
 ||direfuldesk.com^
-||di.runestone.samsung.com^
 ||disagreeabledrop.com^
 ||discopond.com^
 ||discover.10play.com.au^
@@ -12396,6 +12402,7 @@
 ||dls-account.di.atlas.samsung.com^
 ||dls-b23-link.ip.twelve99.net.iberostar.com^
 ||dls-ddc.dqa.samsung.com^
+||dls.di.runestone.samsung.com^
 ||dls.guidrr.com^
 ||dl.shopwell.com^
 ||dl-stage.6tst.com^
@@ -13611,6 +13618,7 @@
 ||embellishedmeadow.com^
 ||emberwhisper.com^
 ||embknh.perriconemd.com^
+||embossedpaper.com^
 ||emb.soothe.com^
 ||emcalliance.vmware.com^
 ||emc.dr-stick.shop^
@@ -25565,6 +25573,7 @@
 ||mon16-normal-c-useast2a.tiktokv.com^
 ||mon16-normal-no1a.tiktokv.eu^
 ||mon16-normal-no1a.tiktokv.eu.dvaitas.lt^
+||mon16-normal-no1a.tiktokv.eu.numericable.fr^
 ||mon16-normal-sg.capcutapi.com^
 ||mon16-normal.tiktokv.com^
 ||mon16-normal-useast1a.tiktokv.com^
@@ -27111,6 +27120,8 @@
 ||orlmarketing.nfp.com^
 ||orlqtz.lampenwelt.ch^
 ||orpggb.esprit.at^
+||orsdls.di.runestone.samsung.com^
+||orsfs.di.runestone.samsung.com^
 ||orsmfg.notino.de^
 ||ortkrq.damyller.com.br^
 ||ort-stsdk.vivoglobal.com^
