@@ -1,4 +1,4 @@
-# Generated at 2026-07-09 07:00:58 UTC
+# Generated at 2026-07-10 07:01:06 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4745,6 +4745,7 @@ ads-dre.platform.hihonorcloud.com
 ads-drru.cloud.huawei.ru
 ads-drru.platform.hihonorcloud.com
 adserver.bing.com
+adserver.pubtech.amazon.dev
 adservice.google.com
 adservices.roku.com
 ads.eu.msn.com
@@ -38652,7 +38653,6 @@ tenhourweek.com
 tenilstats.turner.com
 te.nitro-production.otto.boreus.de
 te.nitro-test-extern.otto.boreus.de
-tenmax-ads.trafficmanager.net
 t.enuygun.com
 te.otto.de
 te.ottoversand.at
@@ -43409,6 +43409,7 @@ vfw-eu.amazon-adsystem.com
 vfw-eu-gamma.amazon-adsystem.com
 vfw-gamma.amazon-adsystem.com
 vfwm.amazon-adsystem.com
+vfwm-eu.amazon-adsystem.com
 vfwm-us.amazon-adsystem.com
 vfwm-us-west.amazon-adsystem.com
 vfws.amazon-adsystem.com
