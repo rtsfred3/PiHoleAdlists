@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-10 07:01:06 UTC
+! Generated at 2026-07-11 07:01:00 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4443,6 +4443,8 @@
 ||adcontroll.com^
 ||ad.daum.net^
 ||addictedattention.com^
+||ad-drcn.media.dbankcloud.cn^
+||ad-drcn.media.dbankcloud.ru^
 ||addressfriend.com^
 ||adebis01.job-con.jp^
 ||adebis02.juku.st^
@@ -4848,6 +4850,7 @@
 ||adtrack.loracle.jp^
 ||adtrack.maisonlexia.com^
 ||adultium.com^
+||ad-union-i18n-api.tos-sg.tiktok-row.org^
 ||ad.usw2.qa.ap.int.roku.com^
 ||adv-analytics-collector.videograph.ai^
 ||advancedsolutions.actonservice.com^
@@ -14683,6 +14686,7 @@
 ||fishing.daigostudio.com^
 ||fitmessage.com^
 ||fitnessmapper.com^
+||fitwithalpine.com^
 ||fivesidedsquare.com^
 ||fiwinet.firmenwissen.com^
 ||fiwinet.firmenwissen.de^
@@ -14714,6 +14718,7 @@
 ||flashtexting.com^
 ||flavors.firmenich.com^
 ||fldoai.municipal.com^
+||fleathecat.com^
 ||fleet-eml.postmates.com^
 ||flexibleplan.actonservice.com^
 ||flex.msn.com^
@@ -14888,6 +14893,7 @@
 ||forms.xtralis.com^
 ||form.vocalink.com^
 ||forpci3.siege-corp.com^
+||fortbeach.com^
 ||fortunatemark.com^
 ||forwardslashetc.com^
 ||fossilzero.com^
@@ -16767,6 +16773,7 @@
 ||hnwttl.re-katsu.jp^
 ||hnytrd.ssfshop.com^
 ||hocgeese.com^
+||hockeyfool.com^
 ||hodges.actonservice.com^
 ||hodgesmace.actonservice.com^
 ||hokkaidobank.rapi.jp^
@@ -18650,6 +18657,7 @@
 ||insights.nowitmatters.com^
 ||insights.openfieldx.com^
 ||insights.partnerwithfacet.com^
+||insights.playpilot.net^
 ||insights.prophet.com^
 ||insights.sitesearch360.com^
 ||insights.sport1.de^
@@ -26086,6 +26094,7 @@
 ||neathousepartners.actonservice.com^
 ||neatrule.com^
 ||neatshade.com^
+||nebula-collector.huawei.com^
 ||nebulacrescent.com^
 ||nebulajubilee.com^
 ||nebulousgarden.com^
@@ -26105,6 +26114,7 @@
 ||nestbuyers.com^
 ||net1.netski.com^
 ||net.24-ads.com^
+||netandbytes.com^
 ||net.brillen.de^
 ||net.cadeautjes.nl^
 ||netcheck.pandora.xiaomi.com^
@@ -27574,6 +27584,7 @@
 ||p.ejs.dev^
 ||pe.lgsmartad.com^
 ||pemskb.unitedcinemas.jp^
+||peoplebrain.net^
 ||peoplehr.actonservice.com^
 ||people.mbtionline.com^
 ||pepin.padlet.com^

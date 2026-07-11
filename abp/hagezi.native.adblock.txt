@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-10 07:00:33 UTC
+! Generated at 2026-07-11 07:00:26 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -123,6 +123,8 @@
 ||ad-bl.prod.rpay.int.roku.com^
 ||ad-bl.usw2.staging.rpay.int.roku.com^
 ||ad.cdn.pandora.xiaomi.com^
+||ad-drcn.media.dbankcloud.cn^
+||ad-drcn.media.dbankcloud.ru^
 ||ad-eng-bl.geoproximity.staging.rpay.roku.com^
 ||ad-eng-bl.use1.prod.rpay.int.roku.com^
 ||ad-eng-bl.usw2.prod.rpay.int.roku.com^
@@ -239,6 +241,7 @@
 ||ad.tiktok.tv^
 ||ad.tiktokv.com^
 ||ad.tiktokv.us^
+||ad-union-i18n-api.tos-sg.tiktok-row.org^
 ||ad.usw2.qa.ap.int.roku.com^
 ||advertising.a2z.com^
 ||advertising.amazon.ae^
@@ -2160,6 +2163,7 @@
 ||mz-ad-lgsmartad-com.aws-prd.net^
 ||na-ad-lgsmartad-com.aws-prd.net^
 ||nav.sec.miui.com^
+||nebula-collector.huawei.com^
 ||netcheck.pandora.xiaomi.com^
 ||news-analytics-events.apple.com^
 ||news-app-events.apple.com^
