@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-12 07:00:35 UTC
+! Generated at 2026-07-13 07:00:25 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 ! 
@@ -2211,6 +2211,7 @@
 ||alive.nl^
 ||aliyuncs.com^
 ||all4phones.de^
+||allaboutcookies.org^
 ||allawntech.com^
 ||allbud.s3.amazonaws.com^
 ||allesoverlithium.nl^
@@ -6689,6 +6690,7 @@
 ||distance.to^
 ||distantdesktop.com^
 ||distillery.wistia.com^
+||distinctlypr.co^
 ||distribusion.com^
 ||districtm.ca^
 ||distroscale.com^
@@ -7520,6 +7522,7 @@
 ||expoints.nl^
 ||exponea.com^
 ||exponential.com^
+||expresscps.com^
 ||expresspigeon.com^
 ||ex.puata.info^
 ||extend.tv^
@@ -8309,6 +8312,7 @@
 ||getsitecontrol.com^
 ||gets-it.net^
 ||getsmartlook.com^
+||getsmsfast.com^
 ||getsocial.io^
 ||get.s-onetag.com^
 ||getsquirrel.co^
@@ -13766,6 +13770,7 @@
 ||rakuten.com^
 ||rallymind.com^
 ||rampanel.com^
+||randybaldwin.com^
 ||rankactive.com^
 ||rankinggenie.com^
 ||rankur.com^
@@ -14829,6 +14834,7 @@
 ||short.io^
 ||shortnim.me^
 ||shortstack.com^
+||shorturl.asia^
 ||shorturl.at^
 ||shotwithgeforce.com^
 ||shouji.360.cn^
@@ -16488,7 +16494,6 @@
 ||tracking.atreemo.com^
 ||tracking.audio.thisisdax.com^
 ||tracking.aws.judge.me^
-||tracking.budbee.com^
 ||tracking.cdiscount.com^
 ||tracking-cdn.figpii.com^
 ||tracking.cdn.vpsvc.com^
@@ -16507,6 +16512,7 @@
 ||tracking.india.miui.com^
 ||tracking.intl.miui.com^
 ||tracking.krone.at^
+||tracking.launchpotato.com^
 ||tracking.lindner-group.com^
 ||tracking.listhub.net^
 ||tracking.live.wetter.at^
@@ -16674,6 +16680,7 @@
 ||trybento.co^
 ||trycoupons.net^
 ||tryoffer.net^
+||tryonyxfinancial.info^
 ||tryribbon.com^
 ||trysales.net^
 ||tsboi.com^
@@ -16742,6 +16749,7 @@
 ||twdvd.com^
 ||tweaking.in^
 ||tweakwise.com^
+||tweakwisenavigator.net^
 ||tw.fgmtv.org^
 ||twh5.com^
 ||twiago.com^
