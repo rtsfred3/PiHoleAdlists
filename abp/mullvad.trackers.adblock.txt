@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-13 07:00:58 UTC
+! Generated at 2026-07-14 07:00:50 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -5640,6 +5640,7 @@
 ||analytics.ihg.com^
 ||analytics.ikyu.com^
 ||analytic.simplyhealth.co.uk^
+||analytics.infraloods.nl^
 ||analytics.inquisitr.com^
 ||analytics-ipv6.tiktokw.us^
 ||analytics-ipv6.tiktokw.us.edgesuite.net^
@@ -8962,6 +8963,7 @@
 ||canyonpizza.net^
 ||caowuq.babyliss-romania.ro^
 ||capi.connatix.com^
+||capitalopera.com^
 ||capping.sirius.press^
 ||capplanllc.actonservice.com^
 ||capriciouscorn.com^
@@ -9120,6 +9122,7 @@
 ||cdn.net.dz.jumia.com^
 ||cdn.net.elogia.net^
 ||cdn.polarbyte.com^
+||cdn.prod.euid.eu^
 ||cdnral.com^
 ||cdn.ravm.tv^
 ||cdn-rum.ngenix.net^
@@ -16296,6 +16299,7 @@
 ||green-griffin-860.appspot.com^
 ||greenjapan-cname.green-japan.com^
 ||greif.actonservice.com^
+||gresrv.com^
 ||grgnsht.nzxt.com^
 ||gr-go.experian.com^
 ||gridbelow.com^
@@ -26972,6 +26976,7 @@
 ||onedropocean.com^
 ||one.godigit.com^
 ||oneid.mmstat.com^
+||onekindmarket.com^
 ||onelinksmartscript.appsflyer.com^
 ||onelinksmartscript.appsflyersdk.com^
 ||onelink.taptalk.io^
@@ -26984,6 +26989,7 @@
 ||one-workspace.matrix42.com^
 ||onghfx.revolve.com^
 ||on.hellostake.com^
+||onioncomic.com^
 ||onjjbn.koffiemarkt.be^
 ||onjmsj.sumai-surfin.com^
 ||on.leagueapps.com^
@@ -27744,6 +27750,7 @@
 ||pinptg.milleni.com.tr^
 ||pint-dev-branch.airship.com^
 ||pionmj.companyshop24.de^
+||pi.pdfjs.express^
 ||pipe.aria.microsoft.com^
 ||pipe-collect.ebu.io^
 ||pipedream.wistia.com^
@@ -29184,6 +29191,7 @@
 ||research.gartner.com^
 ||research.insidesales.com^
 ||research.leads360.com^
+||researchlog.dbresearch.com^
 ||research.velocify.com^
 ||res.elle.fr^
 ||resetpassword.surepetcare.io^
@@ -29428,6 +29436,7 @@
 ||roas-service.store-services-prod.remarkable.com^
 ||robotflowermobile.com^
 ||robotgarages.com^
+||robotrefinery.com^
 ||robotsrefinery.com^
 ||rochelle.wantsext.me^
 ||rockagainst.com^
@@ -41632,6 +41641,7 @@
 ||trk.wallstreetandtech.com^
 ||trk.wardsauto.com^
 ||trk.wealthmanagement.com^
+||trkweb.clinch.co^
 ||trk.welchvacuum.com^
 ||trk.wellsfargocenterphilly.com^
 ||trk.williamspumps.com^

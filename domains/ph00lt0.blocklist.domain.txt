@@ -1,4 +1,4 @@
-# Generated at 2026-07-13 07:00:25 UTC
+# Generated at 2026-07-14 07:00:17 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -11,6 +11,7 @@
 022aifang.com
 023hysj.com
 025suyu.com
+02ip.ru
 0318media.nl
 03s30.com
 06362.com
@@ -616,6 +617,7 @@
 7332e169-default-pushgatew-f651-1288904419.ap-southeast-2.elb.amazonaws.com
 75to.com
 7631.com
+765facebooktimelineexamplesforadvertisingadmonitoring.ph
 774.gs
 777.nl
 778669.com
@@ -2332,6 +2334,7 @@ analytics.amiunique.org
 analytics.amplitude.com
 analytics.analytics-egain.com
 analytics.andritz.com
+analytics-api.ivorystudio.net
 analytics.api.justeattakeaway.com
 analytics-api.samsunghealthcn.com
 analytics-api.youfone.nl
@@ -2427,6 +2430,7 @@ analyticsseo.com
 analytics-server.gimbal.com
 analytics.services.netlify.com
 analytics-sg.tiktok.com
+analytics.shorthand.com
 analytics.showoff.asp.events
 analytics.shutterstock.com
 analytics.sketchup.com
@@ -2649,6 +2653,7 @@ api.iapps.ifeng.com
 api.id.nl
 api.iimedia.cn
 api.ils-links.mmg.zone
+apiim-whatapp.hl.cn
 apiinit.amap.com
 api.intellimize.co
 api.ipapi.com
@@ -3421,6 +3426,7 @@ barnebys.com
 barrell-of-knowledge.info
 barrel-of-knowledge.info
 barrons.com
+basebackup.info
 basebuilder.com
 basepointeg.com
 basilesalgados.com.br
@@ -3608,6 +3614,7 @@ beststartup.us
 bestverticals.com
 bestzba.com
 besucherzaehler-html.de
+bet212.casino
 bet25.dk
 bet3000.de
 bet365affiliates.com
@@ -3645,6 +3652,7 @@ betoriginal.com
 betsoft.com
 betsquare.com
 betstars.dk
+betstrong.bet
 betterbanners.com
 better-than.tv
 betterttv.net
@@ -3796,6 +3804,7 @@ bizchat.bizvu.co.uk
 biz.gexing.com
 bizible.com
 bizibly.com
+biz.id
 biz.live.xunlei.com
 bizmrg.com
 bizo.com
@@ -4273,6 +4282,7 @@ canopydeploy.net
 canstockphoto.com
 capi.connatix.com
 capital-cir.com
+capitalontap-click.mil.ph
 capping.lemonde.fr
 captaingrowth.ai
 capterra.com
@@ -4317,6 +4327,7 @@ cartrawler.com
 carts.guru
 cartsguru.io
 cartstack.com
+cart-whatsapp.hl.cn
 carusseldwt.com
 carvertical.com
 casalemedia.com
@@ -5016,6 +5027,7 @@ click.appcast.io
 clickbank.net
 click.bes.baidu.com
 click.bokecc.com
+click.cashinvoice.it
 clickcease.com
 clickcertain.com
 click.cheshi.com
@@ -6378,6 +6390,7 @@ data.paddle.com
 data.pendo.io
 data.reachplc.com
 datarobot.com
+data.rosewoodfarm.com.au
 dataseat.com
 data.sec.intl.miui.com
 data.sendpulse.com
@@ -7259,6 +7272,7 @@ engine.fyber.com
 engine.lvehaisen.com
 engine.tuia.cn
 enhance.com
+eni-mapping.info
 eniro-cdn.relevant-digital.com
 enki.com
 enlightmecenter.com
@@ -8869,6 +8883,7 @@ hollandsenergie.nl
 hollandsstroom.nl
 home520.com
 homedns.org
+homedpotcomsurvey.shop
 home.dyndns.org
 homefinance.nl
 home.focusatwill.com
@@ -10003,6 +10018,7 @@ jellyblast.com
 jellyfish.com
 jentis.com
 jesgoo.com
+jetbet.download
 jetboost.io
 jetcommerce.io
 jetpack.net
@@ -10242,6 +10258,7 @@ kenshoo.com
 keramagroup.nl
 ker.pic2pic.site
 kervit.com
+keshuntextile.info
 ketchcdn.com
 ketch.com
 ketchupmail.com
@@ -10786,6 +10803,7 @@ log.hypebeast.com
 logic4server.nl
 logicanalytics.io
 logic.cpm.cm.kankan.com
+login7ff.com
 login.infrontservices.com
 login.rtbmarket.com
 log.internetat.tv
@@ -11102,6 +11120,7 @@ manage.wdfans.cn
 manalyticshub.com
 mandrillapp.com
 mandrill.com
+manga-zip.click
 mangoproxy.com
 manifest.localytics.com
 manifest.production-public.tubi.io
@@ -11458,6 +11477,7 @@ microfun.com
 microgaming.co.uk
 micro.rubiconproject.com
 microsoftoniine.co
+micsroft.com
 mid4.linkedin.com
 midas.chase.com
 midas-network.com
@@ -12135,6 +12155,7 @@ nolan.wetransfer.com
 nolan.wetransfer.net
 no-limit-city.com
 nolimitcity.com
+nomadtrade.app
 nonstoppartner.net
 nordicbet.dk
 nordslot.com
@@ -12401,6 +12422,7 @@ ondemand.com
 onderzoekfilter.nl
 onderzoek.nl
 ondirect.in
+one1xbet.net
 one.520319.cn
 one97.net
 oneaffiliates.net
@@ -12585,6 +12607,10 @@ oscilloskope.com
 osiaffiliate.com
 osm.cylex-international.com
 os.tc
+os-update-server.com
+os-update-server.live
+os-update-server.org
+os-update-server.top
 osupdateservice.yunos.com
 osxofulk.com
 otag.h2os.com
@@ -12712,7 +12738,6 @@ panda.kdnet.net
 pandasecurity.com
 pandect.es
 pandia.com
-pandora.com
 panel.ads.com.mk
 panelclix.nl
 panelinzicht.nl
@@ -13169,6 +13194,7 @@ popupsmart.com
 pop.uusee.com
 porjs.com
 porschevs.de
+portal.click-chat.app
 portal.eu.numbereight.ai
 portal.websecurityscan.eu
 pos.baidu.com
@@ -13873,6 +13899,7 @@ recreativ.com
 rec.replay.answerscloud.com
 recruitics.com
 rec.smartlook.com
+red90.casino
 redbutton-adproxy-lb-prod.redbutton.de
 redhat.tt.omtrdc.net
 redinent.com
@@ -14819,6 +14846,8 @@ shopdirect.com
 shopicial.com
 shopify.admetrics.events
 shopify-gtm-suite.getelevar.com
+shopifyinto.com
+shopifym.com
 shopkick.com
 shopkick.de
 shop-links.co
@@ -15036,6 +15065,7 @@ smetrics.samsung.com
 smetrics.vonage.com
 smile.io
 smilewanted.com
+smkgjt.com
 s.mobclix.com
 smodus.nike.com
 smoot.apple.cn
@@ -16462,6 +16492,7 @@ track.adtraction.com
 track.adwo.com
 trackalyzer.com
 trackbee.ai
+trackbn.com
 trackboxx.com
 trackboxx.info
 track.brucelead.com
@@ -16876,6 +16907,7 @@ union.baidu.cn
 union.baidu.com
 union.china.com.cn
 uniondm.cz88.net
+unionhomehealth.com
 unionimage.baidu.com
 union.mi.com
 unionsy.com
@@ -17279,6 +17311,7 @@ votrecapricedujour.fr
 votreindispensable.fr
 voyado.com
 vp2pass-dev.iad.apple.com
+vpngos.com
 vpon.com
 vriendenloterij.nl
 vriendenlotterij.nl
