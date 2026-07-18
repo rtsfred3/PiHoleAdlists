@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-17 07:00:27 UTC
+! Generated at 2026-07-18 07:00:27 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -66,7 +66,6 @@
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
-||aax-ott-sdk.amazon-adsystem.amazon.com^
 ||aax-ott-sdk.amazon-adsystem.com^
 ||aax-us.amazon-adsystem.amazon.com^
 ||aax-us.amazon-adsystem.com^
@@ -1326,6 +1325,8 @@
 ||gui-server-us.allawnos.com^
 ||gy-ad-lgsmartad-com.aws-prd.net^
 ||gy.lgsmartad.com^
+||h1.msn.com^
+||h2.msn.com^
 ||h4g3z1-native.amazon.web.app^
 ||h4g3z1-native.apple.web.app^
 ||h4g3z1-native.huawei.web.app^
@@ -2257,6 +2258,7 @@
 ||opex-service-in.allawnos.com^
 ||opex-service-sg.allawnos.com^
 ||origin-sq-tungsten-ts.amazon-adsystem.com^
+||origin-sq-tungsten-ts-fe.amazon-adsystem.com^
 ||orsdls.di.runestone.samsung.com^
 ||orsfs.di.runestone.samsung.com^
 ||ort-stsdk.vivoglobal.com^
@@ -2321,12 +2323,8 @@
 ||pgteu5-excel-telemetry-vip.officeapps.live.com^
 ||pgteu5-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgteu5-word-telemetry-vip.officeapps.live.com^
-||pgtmx1-excel-telemetry-vip.officeapps.live.com^
 ||pgtmx1-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgtmx1-word-telemetry-vip.officeapps.live.com^
-||pgtsg1-excel-telemetry-vip.officeapps.live.com^
-||pgtsg1-powerpoint-telemetry-vip.officeapps.live.com^
-||pgtsg1-word-telemetry-vip.officeapps.live.com^
 ||pgtus1-excel-telemetry-vip.officeapps.live.com^
 ||pgtus1-powerpoint-telemetry-vip.officeapps.live.com^
 ||pgtus1-word-telemetry-vip.officeapps.live.com^
@@ -2479,6 +2477,7 @@
 ||rtc-logger-ie.tiktokv.eu^
 ||rtc-logger.tiktokv.com^
 ||rtc-logger.tiktokv.us^
+||rtc-logger-ttp2.tiktokv.us^
 ||rtc-logger-ttp2.us.tiktokv.com^
 ||rtc-logger.us.tiktokv.com^
 ||rtc-logger-va.tiktokv.com^

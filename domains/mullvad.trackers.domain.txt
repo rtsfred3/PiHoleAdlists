@@ -1,4 +1,4 @@
-# Generated at 2026-07-17 07:00:59 UTC
+# Generated at 2026-07-18 07:00:57 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -3943,7 +3943,6 @@ aax-gamma-us-east.axp.amazon-adsystem.com
 aax-ott.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.com
 aax-ott-c2s.amazon-adsystem.com
-aax-ott-sdk.amazon-adsystem.amazon.com
 aax-ott-sdk.amazon-adsystem.com
 aax-us.amazon-adsystem.amazon.com
 aax-us.amazon-adsystem.com
@@ -4794,6 +4793,7 @@ ads-tracking.collectiveaudience.co
 ads-trk.vidible.tv
 ads-ttp2.tiktokw.eu
 ads-ttp2.us.tiktok.com
+ads.tvp.pl
 ads-us-east-1.delivery.roku.com
 ads-us-east-2.delivery.roku.com
 ads.us.tiktok.com
@@ -10761,6 +10761,7 @@ culturedfeather.com
 culture.intermedes.com
 culture.pandasuite.io
 cumbersomecarpenter.com
+c.uniten.io
 cupid.ptqy.gitv.tv
 cups.republicoftea.com
 curated.fieldtest.cc
@@ -16447,6 +16448,8 @@ gzjroa.bradsdeals.com
 gzlxvg.papy.co.jp
 h00c.sfr.fr
 h031.familydollar.com
+h1.msn.com
+h2.msn.com
 h353.ncadvertiser.com
 h4g3z1-native.amazon.web.app
 h4g3z1-native.apple.web.app
@@ -19734,6 +19737,7 @@ lbs-samsung.swypeconnect.com
 lbv5.mperf.com
 lcdsyj.daily.co.jp
 lcefua.timberland.ru
+lc-event.pixiv.net
 lciapi.ninthdecimal.com
 l.civic.com
 l.claphere.com
@@ -27133,6 +27137,7 @@ orientedargument.com
 originblocks.com
 origin-smetrics.go365.com
 origin-sq-tungsten-ts.amazon-adsystem.com
+origin-sq-tungsten-ts-fe.amazon-adsystem.com
 origin-target.humana.com
 origin.www.images.2.forms.healthcare.philips.com
 orion.bendingspoons.com
@@ -27664,12 +27669,8 @@ pgteu4-word-telemetry-vip.officeapps.live.com
 pgteu5-excel-telemetry-vip.officeapps.live.com
 pgteu5-powerpoint-telemetry-vip.officeapps.live.com
 pgteu5-word-telemetry-vip.officeapps.live.com
-pgtmx1-excel-telemetry-vip.officeapps.live.com
 pgtmx1-powerpoint-telemetry-vip.officeapps.live.com
 pgtmx1-word-telemetry-vip.officeapps.live.com
-pgtsg1-excel-telemetry-vip.officeapps.live.com
-pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
-pgtsg1-word-telemetry-vip.officeapps.live.com
 pgtus1-excel-telemetry-vip.officeapps.live.com
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -29547,6 +29548,7 @@ rtc-logger-i18n.tiktokv.com
 rtc-logger-ie.tiktokv.eu
 rtc-logger.tiktokv.com
 rtc-logger.tiktokv.us
+rtc-logger-ttp2.tiktokv.us
 rtc-logger-ttp2.us.tiktokv.com
 rtc-logger.us.tiktokv.com
 rtc-logger-va.tiktokv.com
@@ -31840,6 +31842,7 @@ ski1.skiset.com
 skilledview.com
 skillfuldrop.com
 skillfullyfrugal.com
+skillpuppy.com
 skillshouse.actonservice.com
 skincheckwa-app.hotdoc.com.au
 skisofa.com
@@ -37848,6 +37851,7 @@ swa.millesima.it
 swa.monabanq.com
 swa.nexive.it
 swankysquare.com
+swanwebcreations.com
 swa.onlineverzendservice.be
 swa.personalcreations.com
 swa.postnl.nl
@@ -37907,6 +37911,7 @@ swirlstop.com
 swissinside.easyjet.com.edgekey.net.easyjet.com
 swmhdata.stuttgarter-nachrichten.de
 swmhdata.stuttgarter-zeitung.de
+swordblock.com
 swordgoose.com
 swqleb.adidas.ru
 swwcyk.ahaber.com.tr
@@ -38237,6 +38242,7 @@ targetemsecure.blob.core.windows.net
 target.eon.de
 target.ey.com
 target.farnell.com
+targetfax.com
 target.fiatusa.com
 target.firestonebpco.com
 target.fleetcardsusa.com
@@ -38917,6 +38923,7 @@ thejavalane.com
 t.hellowork.com
 themangotea.com
 theme.echovisuals.com
+themegoats.com
 themepicker.com
 thepixelpioneer.com
 thepowerstones.com
@@ -43420,6 +43427,8 @@ verizon-branch.locationlabs.com
 verseballs.com
 versuswall.com
 vertexcs.actonservice.com
+verybark.com
+verybouncy.com
 vetsource.actonservice.com
 ve.velocityclinical.com
 vewbab.entertainmentearth.com
@@ -43512,6 +43521,7 @@ view.fujitv.co.jp
 view.kirbybuildingsystems.com
 view.metlspan.com
 view.nucorbuildingsystems.com
+viewresource.com
 views.arabnews.com
 views.asurascans.com
 views.b1tv.ro
