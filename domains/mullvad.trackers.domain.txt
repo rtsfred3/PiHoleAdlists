@@ -1,4 +1,4 @@
-# Generated at 2026-07-20 07:01:02 UTC
+# Generated at 2026-07-21 07:01:07 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4553,6 +4553,7 @@ adevents.msn.com
 adex.kintetsu-re.co.jp
 adex.naruko333.jp
 adex.predear.com
+ad-format-sg.tiktokv.com
 adfox.yandex.ru
 ad.gogox.com
 ad-growth-in.heytapmobile.com
@@ -4744,6 +4745,7 @@ adsdkprod.azureedge.net
 adsdk.trafficmanager.net
 adsdk.vivo.com.cn
 adsdk.yandex.ru
+ads-dra.platform.hihonorcloud.com
 ads-drcn.platform.hihonorcloud.com
 ads-dre.platform.hihonorcloud.com
 ads-drru.cloud.huawei.ru
@@ -7878,6 +7880,7 @@ banstat.nadavi.net
 bapages.carte-gr.total.fr
 barbarousbase.com
 barbershirts.com
+barcodetool.com
 b.arenum.games
 barium.cheezdev.com
 barkfactor.com
@@ -8006,6 +8009,7 @@ beanworks.actonservice.com
 bears.daigostudio.com
 beat.yourtv.jp
 beaumont.actonservice.com
+beautifulrope.com
 bebpon.zetronix.com
 becanium.com
 bedsberry.com
@@ -11784,7 +11788,6 @@ ddmfrg.modivo.bg
 ddnahc.mesbagages.com
 dd.nytimes.com
 ddome-tag.blablacar.com
-dd.qwant.com
 ddqwdh.sofastyle.jp
 dd.seloger-bureaux-commerces.com
 dd.seloger.com
@@ -43427,7 +43430,6 @@ verizon-branch.locationlabs.com
 verseballs.com
 versuswall.com
 vertexcs.actonservice.com
-verybark.com
 verybouncy.com
 vetsource.actonservice.com
 ve.velocityclinical.com
