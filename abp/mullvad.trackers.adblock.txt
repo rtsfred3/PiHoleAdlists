@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-22 07:01:01 UTC
+! Generated at 2026-07-23 07:01:02 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -8016,6 +8016,7 @@
 ||becanium.com^
 ||bedsberry.com^
 ||beeline.beeline-tire.co.jp^
+||beelinecolor.com^
 ||beer2s.millerbrewing.com^
 ||bee.tc.easebar.com^
 ||beewhispering.com^
@@ -8027,6 +8028,7 @@
 ||beneficios.davivienda.hn^
 ||beneficios.davivienda.sv^
 ||benefits.aon.com^
+||benefitssense.com^
 ||benelux2.secureforms.mcafee.com^
 ||bentengine.com^
 ||bento.agoda.com^
@@ -8354,6 +8356,7 @@
 ||boundlessveil.com^
 ||boutique.ricoh.fr^
 ||bowl.actonservice.com^
+||boxandcover.com^
 ||box.bossdata.be^
 ||box.pandora.xiaomi.com^
 ||b.parade.com^
@@ -8971,6 +8974,7 @@
 ||caowuq.babyliss-romania.ro^
 ||capi.connatix.com^
 ||capitalopera.com^
+||caplights.com^
 ||capping.sirius.press^
 ||capplanllc.actonservice.com^
 ||capriciouscorn.com^
@@ -9541,6 +9545,7 @@
 ||clohzp.hifi.lu^
 ||cloisteredcurve.com^
 ||c.lolamarket.com^
+||clothsense.com^
 ||cloudchickens.com^
 ||cloudconf-app-ae.heytapmobile.com^
 ||cloudconf-app-af.heytapmobile.com^
@@ -10981,6 +10986,7 @@
 ||d1l6p2sc9645hc.cloudfront.net^
 ||d1m6l9dfulcyw7.cloudfront.net^
 ||d1n00d49gkbray.cloudfront.net^
+||d1qmrxg9gbf226.cloudfront.net^
 ||d1qnmu4nrib73p.cloudfront.net^
 ||d1r27qvpjiaqj3.cloudfront.net^
 ||d1r2sy6oc0ariq.cloudfront.net^
@@ -11004,9 +11010,11 @@
 ||d24cze5sab2jwg.cloudfront.net^
 ||d24luoisenoi7j.cloudfront.net^
 ||d24rtvkqjwgutp.cloudfront.net^
+||d27623md02evp.cloudfront.net^
 ||d276.ourmidland.com^
 ||d2cpw6kwpff7n5.cloudfront.net^
 ||d2ezz24t9nm0vu.cloudfront.net^
+||d2fw3s7rfepszt.cloudfront.net^
 ||d2gbtcuv3w9qyv.cloudfront.net^
 ||d2gt2ux04o03l1.cloudfront.net^
 ||d2i34c80a0ftze.cloudfront.net^
@@ -11036,6 +11044,7 @@
 ||d34ko97cxuv4p7.cloudfront.net^
 ||d34r8q7sht0t9k.cloudfront.net^
 ||d35u1vg1q28b3w.cloudfront.net^
+||d37l98t2r94go6.cloudfront.net^
 ||d39ion77s0ucuz.cloudfront.net^
 ||d39yds8oe4n4jq.cloudfront.net^
 ||d3banl4fzuxsjl.cloudfront.net^
@@ -12598,6 +12607,7 @@
 ||dragate-sg.dc.heytapmobi.com^
 ||dragate-sg.dc.oppomobile.com^
 ||dragonbats.com^
+||dragontamer.net^
 ||drainpaste.com^
 ||dramaticdirection.com^
 ||drau.viessmann.si^
@@ -12661,6 +12671,7 @@
 ||d.tv-asahi.co.jp^
 ||dt.xfyun.cn^
 ||dtxtngytz5im1.cloudfront.net^
+||dty0ycn35t4d2.cloudfront.net^
 ||dtzrrz.green-japan.com^
 ||du4rq1xqh3i1k.cloudfront.net^
 ||dual-s-ring.msedge.net^
@@ -12834,6 +12845,7 @@
 ||eat9.thebeat925.ca^
 ||eatablesquare.com^
 ||ea.telecommandeonline.com^
+||eatinglate.com^
 ||eatjav.ekosport.fr^
 ||eat.newtrina.com^
 ||eatonaero.advancedtech.com^
@@ -12967,6 +12979,7 @@
 ||e.channelexco.com^
 ||echoacloud.com^
 ||echoinghaven.com^
+||echoturkey.com^
 ||ec.lgsmartad.com^
 ||eclick.360doc.com^
 ||eclick.baidu.com^
@@ -13955,6 +13968,7 @@
 ||esri.nl.actonservice.com^
 ||es-sa.siemensplmevents.com^
 ||essaygiants.com^
+||essayplanet.com^
 ||essayspin.com^
 ||essential-apps-analytics.herokuapp.com^
 ||es.sharpmarketing.eu^
@@ -14661,6 +14675,7 @@
 ||fimyxg.bloomberght.com^
 ||fimyxg.haberturk.com^
 ||finalizeforce.com^
+||finaloptics.com^
 ||financefear.com^
 ||financialeducation-info.uchicago.edu^
 ||financialservices.nada.org^
@@ -16598,6 +16613,7 @@
 ||hej.henriksommerfeld.se^
 ||hekhnn.turnkeyvr.com^
 ||helens.actonservice.com^
+||helios.g2a.com^
 ||helix.bitformations.ca^
 ||hello.bpost2.be^
 ||hello.bpost.be^
@@ -27026,7 +27042,6 @@
 ||onlineshop.ricoh.no^
 ||onlineshop.ricoh.pl^
 ||online.siteboosters.de^
-||online.spsglobal.com^
 ||onlinestarten.net^
 ||onlinevacationcenter.actonservice.com^
 ||onlywoofs.com^
@@ -38037,6 +38052,7 @@
 ||t2.hulu.com^
 ||t2.market.xiaomi.com^
 ||t2.t2b.click^
+||t.2x.nz^
 ||t.360.audion.fm^
 ||t.360playvid.info^
 ||t3e.firstchoice.co.uk^
