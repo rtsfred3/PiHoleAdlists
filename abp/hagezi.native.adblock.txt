@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-24 07:00:24 UTC
+! Generated at 2026-07-25 07:00:28 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -112,7 +112,6 @@
 ||acr-in-prd.samsungcloud.tv^
 ||acr-kr-prd.samsungcloud.tv^
 ||acr-mx-prd.samsungcloud.tv^
-||acr-nz-prd.samsungcloud.tv^
 ||acr.roku.com^
 ||acr-us-prd.samsungcloud.tv^
 ||activity.browser.intl.miui.com^
@@ -1652,6 +1651,7 @@
 ||log19-normal.tiktokv.com^
 ||log19-normal-useast1a.tiktokv.com^
 ||log19-normal-useast2a.tiktokv.com^
+||log19-normal-useast8.tiktokv.us^
 ||log22-applog-useast1a.tiktokv.com^
 ||log22-applog-useast2a.tiktokv.com^
 ||log22-normal-alisg.tiktokv.com^
@@ -2260,7 +2260,7 @@
 ||opex-service-in.allawnos.com^
 ||opex-service-sg.allawnos.com^
 ||origin-sq-tungsten-ts.amazon-adsystem.com^
-||origin-sq-tungsten-ts-fe.amazon-adsystem.com^
+||origin-sq-tungsten-ts-eu.amazon-adsystem.com^
 ||orsdls.di.runestone.samsung.com^
 ||orsfs.di.runestone.samsung.com^
 ||ort-stsdk.vivoglobal.com^
@@ -2479,7 +2479,6 @@
 ||rtc-logger-ie.tiktokv.eu^
 ||rtc-logger.tiktokv.com^
 ||rtc-logger.tiktokv.us^
-||rtc-logger-ttp2.tiktokv.us^
 ||rtc-logger-ttp2.us.tiktokv.com^
 ||rtc-logger.us.tiktokv.com^
 ||rtc-logger-va.tiktokv.com^
@@ -2784,6 +2783,7 @@
 ||sponsored-ads.amazon.es^
 ||sponsored-ads.amazon.fr^
 ||sponsored-ads.amazon.in^
+||sponsored-ads.amazon.in.alphionsee.in^
 ||sponsored-ads.amazon.it^
 ||sponsored-ads-eu.amazon-adsystem.com^
 ||sponsored-ads-eu.amazon.ae^
@@ -2879,7 +2879,6 @@
 ||telemetry-lcp.trafficmanager.net^
 ||telemetry.microsoft.com^
 ||telemetry.microsoft.us^
-||telemetry.officeapps.live.com^
 ||telemetry.urs.microsoft.com^
 ||telemetry.visualstudio.microsoft.com^
 ||temai.snssdk.com^
@@ -3020,7 +3019,6 @@
 ||tr-vcode-or.vivoglobal.com^
 ||tr-weather.vivoglobal.com^
 ||t-s1-ring.msedge.net^
-||t-s2-ring.msedge.net^
 ||ts.amazon-adsystem.com^
 ||tsearch.snssdk.com^
 ||ts-gamma.amazon-adsystem.com^
@@ -3121,7 +3119,6 @@
 ||vfwm.amazon-adsystem.com^
 ||vfwm-eu.amazon-adsystem.com^
 ||vfwm-us.amazon-adsystem.com^
-||vfwm-us-west.amazon-adsystem.com^
 ||vfws.amazon-adsystem.com^
 ||vfw-us.amazon-adsystem.com^
 ||vfw-us-gamma.amazon-adsystem.com^
@@ -3180,6 +3177,7 @@
 ||ws-in.amazon-adsystem.com^
 ||ws-na.amazon-adsystem.com^
 ||wtradv.market.xiaomi.com^
+||wttwebsiteprodapi-liveevents.trafficmanager.net^
 ||wwwimg.roku.com^
 ||wwwimg.staging.roku.com^
 ||xadx.file.market.xiaomi.com^

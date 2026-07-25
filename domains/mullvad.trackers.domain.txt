@@ -1,4 +1,4 @@
-# Generated at 2026-07-24 07:00:51 UTC
+# Generated at 2026-07-25 07:00:56 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4266,7 +4266,6 @@ acridtwist.com
 acr-in-prd.samsungcloud.tv
 acr-kr-prd.samsungcloud.tv
 acr-mx-prd.samsungcloud.tv
-acr-nz-prd.samsungcloud.tv
 acro.egghead.link
 acr.roku.com
 acr-us-prd.samsungcloud.tv
@@ -15157,7 +15156,6 @@ funnelbox.actonservice.com
 funnelserv.systems
 funoverbored.com
 funoverflow.com
-funtoyplanet.com
 fuooms.aetrex.com
 furlhp.kango.mynavi.jp
 furnishings.bellacor.com
@@ -16701,6 +16699,7 @@ historytrade.com
 hi.streetworkoutlist.com
 hi.syllable.ai
 hitachi-hightech-as.actonservice.com
+hitboxdesigns.com
 hit.cnbce.com
 hit.interia.pl
 hitmse.altinbas.com
@@ -19650,6 +19649,7 @@ kz-vcode-od.vivoglobal.com
 kz-vcode-or.vivoglobal.com
 l2k30jsa.theochu.com
 l936.expressnews.com
+labelsensor.com
 laboredlocket.com
 lab.prodesp.sp.gov.br
 labs.verticurl.com
@@ -19696,6 +19696,7 @@ landkarts.com
 landlordspy.com
 landrykling.actonservice.com
 landstar.actonservice.com
+landsuites.com
 landuscooperative.actonservice.com
 landwestern.com
 lan.landing.ni.com
@@ -21003,6 +21004,7 @@ log19-normal-alisg.tiktokv.com
 log19-normal.tiktokv.com
 log19-normal-useast1a.tiktokv.com
 log19-normal-useast2a.tiktokv.com
+log19-normal-useast8.tiktokv.us
 log22-applog-useast1a.tiktokv.com
 log22-applog-useast2a.tiktokv.com
 log22-normal-alisg.tiktokv.com
@@ -21214,6 +21216,7 @@ longloops.com
 loobmf.hardloop.fr
 look-ahead.nurturemarketing.com
 loopcybersec.com
+looprecycled.com
 loosecase.com
 looseloaf.com
 l.ooyala.com
@@ -23728,6 +23731,7 @@ memorizematch.com
 memorizeneck.com
 m.enerpac.com
 mennoc.mezlan.com
+menteechain.com
 mentorsticks.com
 m.equinoxplus.com
 mercadeo.promerica.fi.cr
@@ -27008,6 +27012,7 @@ onelinksmartscript.appsflyer.com
 onelinksmartscript.appsflyersdk.com
 onelink.taptalk.io
 onem.marketing.onemarketinguxp.com
+onemorebump.com
 onenet.gakujutsu.com
 onesourcebackground.actonservice.com
 one-source.tax.thomsonreuters.com
@@ -27042,6 +27047,7 @@ onlineshop.ricoh.pl
 online.siteboosters.de
 onlinestarten.net
 onlinevacationcenter.actonservice.com
+onlystreets.com
 onlywoofs.com
 onmlkjiion.carte-gr.total.fr
 onoztg.ultimate-guitar.com
@@ -27155,7 +27161,7 @@ orientedargument.com
 originblocks.com
 origin-smetrics.go365.com
 origin-sq-tungsten-ts.amazon-adsystem.com
-origin-sq-tungsten-ts-fe.amazon-adsystem.com
+origin-sq-tungsten-ts-eu.amazon-adsystem.com
 origin-target.humana.com
 origin.www.images.2.forms.healthcare.philips.com
 orion.bendingspoons.com
@@ -29566,7 +29572,6 @@ rtc-logger-i18n.tiktokv.com
 rtc-logger-ie.tiktokv.eu
 rtc-logger.tiktokv.com
 rtc-logger.tiktokv.us
-rtc-logger-ttp2.tiktokv.us
 rtc-logger-ttp2.us.tiktokv.com
 rtc-logger.us.tiktokv.com
 rtc-logger-va.tiktokv.com
@@ -35084,6 +35089,7 @@ soccajoeys.actonservice.com
 socialflow.branch.rocks
 social.forddirectdealers.com
 social.insidelpl.com
+socialsend.net
 social.talenttitan.com
 social.tinyview.com
 sockpacks.com
@@ -35538,6 +35544,7 @@ sponsored-ads.amazon.co.uk
 sponsored-ads.amazon.es
 sponsored-ads.amazon.fr
 sponsored-ads.amazon.in
+sponsored-ads.amazon.in.alphionsee.in
 sponsored-ads.amazon.it
 sponsored-ads-eu.amazon-adsystem.com
 sponsored-ads-eu.amazon.ae
@@ -38667,7 +38674,6 @@ telemetry.microsoft.us
 telemetry.moveworks.com
 telemetry.navispherecarrier.com
 telemetry.nav.no
-telemetry.officeapps.live.com
 telemetry.owenscorning.com
 telemetry.phenixrts.com
 telemetry.portal.voltdeutschland.org
@@ -42306,7 +42312,6 @@ try.tableausoftware.com
 tryzens-analytics.com
 tr.zojh.espmp-aluk.net
 t-s1-ring.msedge.net
-t-s2-ring.msedge.net
 t-s.actemra.com
 t-s.activase.com
 tsa-f.webex.com
@@ -43472,7 +43477,6 @@ vfw-gamma.amazon-adsystem.com
 vfwm.amazon-adsystem.com
 vfwm-eu.amazon-adsystem.com
 vfwm-us.amazon-adsystem.com
-vfwm-us-west.amazon-adsystem.com
 vfws.amazon-adsystem.com
 vfw-us.amazon-adsystem.com
 vfw-us-gamma.amazon-adsystem.com
@@ -44457,6 +44461,7 @@ wttd.madeleine.fr
 wttd.madeleine.gr
 wttd.madeleine-mode.at
 wttd.madeleine-mode.ch
+wttwebsiteprodapi-liveevents.trafficmanager.net
 wt.vhb.de
 wt.viagogo.net
 wucvvh.surpricenow.com

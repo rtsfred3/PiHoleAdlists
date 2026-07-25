@@ -1,24 +1,24 @@
 [Adblock Plus]
-! Generated at 2026-07-24 07:00:14 UTC
+! Generated at 2026-07-25 07:00:19 UTC
 ! 
 ! Sources: https://urlhaus.abuse.ch/downloads/hostfile
 ! 
 ||0022a601.pphost.net^
 ||123.ywxww.net^
 ||1717.1000uc.com^
-||abdulahad.net^
 ||absshop-ping.xyz^
 ||acc.jiangsujiaxue.com^
 ||acms.saleseos.com^
 ||admin.byte.in.ua^
 ||admin.gestroom.it^
 ||adodebtsole.xyz^
-||afonja.nfy.fyi^
 ||aftelecom.com.br^
+||aidlifempowerment.com^
 ||airtickts.com^
 ||airyvineic.help^
 ||alarmline.com.br^
 ||alineeleuterio.com.br^
+||allendaltonproduction.com^
 ||allendostmen.com^
 ||alsofillsoar.xyz^
 ||alternativas.ru^
@@ -38,7 +38,6 @@
 ||audicontadores.com^
 ||awarenessexhibition.com^
 ||babyglee-all.xyz^
-||backupso.com^
 ||ballweldleer.xyz^
 ||bandrice-pity.xyz^
 ||bandsway-arch.xyz^
@@ -87,12 +86,11 @@
 ||chinaapper.com^
 ||chiptune.com^
 ||christophercheung.com^
-||chrome.browserapp.ru^
-||chrome-desktop.net^
 ||chrome-windows.ru^
 ||chuguadventures.co.tz^
 ||claylikepilot.xyz^
 ||cloud.pearlpeel.com^
+||cloudstorage-hub.com^
 ||cl.ssouy.com^
 ||clubdetiroelpicarcho.com^
 ||cn.unionlever.com^
@@ -152,7 +150,6 @@
 ||dowonline.ru^
 ||dramdare-shop.xyz^
 ||dreamapp.xyz^
-||dreamwatchevent.com^
 ||drug-arereef.xyz^
 ||duck-fondmoan.xyz^
 ||duel-gulp-luck.xyz^
@@ -163,11 +160,9 @@
 ||dynga.pl^
 ||earlnotgray.xyz^
 ||earltoll-snap.xyz^
-||easybrand.vn^
 ||electri.billregulator.com^
 ||elisans.novayonetim.com^
 ||embedone.com^
-||endpoint.project0.cc^
 ||ends-fork-ores.xyz^
 ||ends-pare-stow.xyz^
 ||en.taichuan.com^
@@ -205,6 +200,7 @@
 ||gain-daze-kept.xyz^
 ||galerisenimutiara.com^
 ||gangteem-beam.xyz^
+||gboutros.howto.rocks^
 ||genddos.st^
 ||gestionycobranzas.com^
 ||getrichcurl.xyz^
@@ -249,11 +245,11 @@
 ||iconropeknob.xyz^
 ||idea-nickdoor.xyz^
 ||igra123.com^
+||ijexgroup.com.br^
 ||infocrabcob.xyz^
 ||ircftp.net^
 ||isiore.com.co^
 ||itssprout.com^
-||jawaratekno.com^
 ||jenniferloeffler.com^
 ||jerkloss-flux.xyz^
 ||jessespridecharters.com^
@@ -269,8 +265,6 @@
 ||keptpilekeep.xyz^
 ||kgbhost.digital^
 ||khavar.com^
-||khoancatbetong89.vn^
-||kiabillc.online^
 ||kiltwent-our.xyz^
 ||kimyen.net^
 ||king-culmdown.xyz^
@@ -302,7 +296,6 @@
 ||luizmatoso.com.br^
 ||lull-islebrew.xyz^
 ||maidforyou1985.com^
-||mailsonbelle.com.br^
 ||male-martloss.xyz^
 ||manyhaste-seat.xyz^
 ||markherdbark.xyz^
@@ -316,6 +309,7 @@
 ||miriamgualda.com.br^
 ||mitreart.com^
 ||m.jkoa.co.kr^
+||m.meta-dm.com^
 ||moandownsave.xyz^
 ||moan-prod-did.xyz^
 ||mode-poll-grew.xyz^
@@ -348,7 +342,6 @@
 ||open-pact-fore.xyz^
 ||open-teem-test.xyz^
 ||ores-font-form.xyz^
-||orienttaxtile.com^
 ||oryx-foryell.xyz^
 ||out-duct-till.xyz^
 ||over-clapmolt.xyz^
@@ -390,7 +383,6 @@
 ||pvsa.gxfugy.cn^
 ||qiniuyunxz.yxflzs.com^
 ||qv.co.ke^
-||qvxzaetnb.vip^
 ||ramirex.ro^
 ||rank-idea-mass.xyz^
 ||rant-heel-perk.xyz^
@@ -458,13 +450,13 @@
 ||smug-lend-gray.xyz^
 ||soft.110route.com^
 ||softcatalog.ru^
+||softwarecdn.net^
 ||soilleafmain.xyz^
 ||solar-sanat.net^
 ||sole-cederole.xyz^
 ||songsunk-view.xyz^
 ||soonmuff-cob.xyz^
 ||spgint.com^
-||static.ilclock.com^
 ||static.topxgun.com^
 ||static.youdm.cn^
 ||stdown.dinju.com^
@@ -473,7 +465,6 @@
 ||stonecradle.com^
 ||stop-lathtrap.xyz^
 ||stopplay-rich.xyz^
-||streammobs.com^
 ||stubclue-hold.xyz^
 ||studiogioeli.it^
 ||such-sitejoke.xyz^
@@ -482,7 +473,6 @@
 ||support.clz.kr^
 ||surf-life-sank.xyz^
 ||sutterpoint.com^
-||svirtual.sanviatorperu.edu.pe^
 ||swaycladstop.xyz^
 ||swayoralnear.xyz^
 ||swiftfusion.tech^
@@ -525,20 +515,17 @@
 ||tuck-hoaxwade.xyz^
 ||tue-orange-01.cfd^
 ||turniron-mound.xyz^
-||twu-hwt.org^
 ||ugly-arcs-lyre.xyz^
 ||ugly-oursold.xyz^
 ||uglyshop-mare.xyz^
 ||un1rw11q4u.com^
 ||undetected-always.com^
-||universami.ge^
 ||upaicdn.xinmei365.com^
 ||upchemicals.co.in^
 ||update.cg100iii.com^
 ||vent-live-crab.xyz^
 ||verb-fowl-old.xyz^
 ||verbsireblew.xyz^
-||versaclean.com.br^
 ||veryboys.com^
 ||vgd.vg^
 ||videomeetgoogle.com^
@@ -559,7 +546,6 @@
 ||wisemateboth.xyz^
 ||wittenhorst.eu^
 ||wolfbill-rope.xyz^
-||woorimart.vip^
 ||word-notcolt.xyz^
 ||workmane-seem.xyz^
 ||www.ardguisser.com^
