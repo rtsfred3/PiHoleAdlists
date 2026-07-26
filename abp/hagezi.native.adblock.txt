@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-25 07:00:28 UTC
+! Generated at 2026-07-26 07:00:36 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -2468,6 +2468,7 @@
 ||rmads.msn.com^
 ||rnd-cbgpas01.huawei.com^
 ||ro-ad-lgsmartad-com.aws-prd.net^
+||roku.adsmeasurement.com^
 ||ro.lgsmartad.com^
 ||ro-up.vivoglobal.com^
 ||rs-ad-lgsmartad-com.aws-prd.net^

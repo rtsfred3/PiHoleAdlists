@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-25 07:00:56 UTC
+! Generated at 2026-07-26 07:01:04 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -29480,6 +29480,7 @@
 ||roibest-report-sdk.qiliangjia.com^
 ||roinjg.mkluzkoviny.cz^
 ||roiscs.actonservice.com^
+||roku.adsmeasurement.com^
 ||ro.lgsmartad.com^
 ||rollbar.actonservice.com^
 ||rollconnection.com^
