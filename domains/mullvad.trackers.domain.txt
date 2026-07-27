@@ -1,4 +1,4 @@
-# Generated at 2026-07-26 07:01:04 UTC
+# Generated at 2026-07-27 07:00:58 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -3943,6 +3943,7 @@ aax-gamma-us-east.axp.amazon-adsystem.com
 aax-ott.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.com
 aax-ott-c2s.amazon-adsystem.com
+aax-ott-sdk.amazon-adsystem.amazon.com
 aax-ott-sdk.amazon-adsystem.com
 aax-us.amazon-adsystem.amazon.com
 aax-us.amazon-adsystem.com
@@ -4266,6 +4267,7 @@ acridtwist.com
 acr-in-prd.samsungcloud.tv
 acr-kr-prd.samsungcloud.tv
 acr-mx-prd.samsungcloud.tv
+acr-nz-prd.samsungcloud.tv
 acro.egghead.link
 acr.roku.com
 acr-us-prd.samsungcloud.tv
@@ -19645,6 +19647,7 @@ kz-stsdk.vivoglobal.com
 kz-st-sl.vivoglobal.com
 kz-st-sysupgrade.vivoglobal.com
 kzutbh.takeappeal.com
+kz-vcode-api.vivoglobal.com
 kz-vcode-od.vivoglobal.com
 kz-vcode-or.vivoglobal.com
 l2k30jsa.theochu.com
@@ -21004,7 +21007,6 @@ log19-normal-alisg.tiktokv.com
 log19-normal.tiktokv.com
 log19-normal-useast1a.tiktokv.com
 log19-normal-useast2a.tiktokv.com
-log19-normal-useast8.tiktokv.us
 log22-applog-useast1a.tiktokv.com
 log22-applog-useast2a.tiktokv.com
 log22-normal-alisg.tiktokv.com
@@ -27161,7 +27163,6 @@ orientedargument.com
 originblocks.com
 origin-smetrics.go365.com
 origin-sq-tungsten-ts.amazon-adsystem.com
-origin-sq-tungsten-ts-eu.amazon-adsystem.com
 origin-target.humana.com
 origin.www.images.2.forms.healthcare.philips.com
 orion.bendingspoons.com
@@ -43478,6 +43479,7 @@ vfw-gamma.amazon-adsystem.com
 vfwm.amazon-adsystem.com
 vfwm-eu.amazon-adsystem.com
 vfwm-us.amazon-adsystem.com
+vfwm-us-west.amazon-adsystem.com
 vfws.amazon-adsystem.com
 vfw-us.amazon-adsystem.com
 vfw-us-gamma.amazon-adsystem.com
