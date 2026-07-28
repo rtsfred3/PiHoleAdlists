@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-27 07:00:58 UTC
+! Generated at 2026-07-28 07:01:01 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4358,6 +4358,7 @@
 ||acv.mc-nurse.net^
 ||acv.mc-pharma.net^
 ||acv.me-hikari.net^
+||acv.mira-dsp.com^
 ||acv.next-air-wifi.com^
 ||acv.next-internet.info^
 ||acv.nft-hikari.net^
@@ -5203,6 +5204,7 @@
 ||allinsurance.allinsure.ca^
 ||allnewhost.com^
 ||alloutdubstep.com^
+||alloy-rap.reclameaqui.com.br^
 ||alloytitans.com^
 ||alloy-web.zvuk.com^
 ||allreach.actonservice.com^
@@ -8043,6 +8045,7 @@
 ||be.slowmographer.co^
 ||bestboundary.com^
 ||bestbuy.actonservice.com^
+||bestclimbers.net^
 ||bestill.help.no^
 ||bestinfo.bluetrustloans.com^
 ||bestshoesboot.com^
@@ -14683,6 +14686,7 @@
 ||financialservices.teranet.ca^
 ||findapi.micloud.xiaomi.net^
 ||find.api.micloud.xiaomi.net.iberostar.com^
+||findcalculator.com^
 ||findthetruth.allergyai.com^
 ||findyourdelight.com^
 ||findyourinfluence.actonservice.com^
@@ -26618,6 +26622,7 @@
 ||observer.ip-label.net^
 ||obs.esnlocco.com^
 ||obseu.netgreencolumn.com^
+||obs.greencolumnblog.com^
 ||obsidiangems.com^
 ||obs.jollyoutdoorjogger.com^
 ||obs.system1onesource.com^
@@ -28050,6 +28055,7 @@
 ||play.colorplay.fun^
 ||playerhappy.com^
 ||player-metrics.instaread.co^
+||playerscache.com^
 ||player-telemetry.vimeo.com^
 ||play.fanslide.com^
 ||playfulriver.com^
@@ -28460,6 +28466,7 @@
 ||protosell.actonservice.com^
 ||protys.protys.fr^
 ||providentcrm.actonservice.com^
+||provingmagic.com^
 ||prowareness.actonservice.com^
 ||proxima.midjourney.com^
 ||proxy.dzeio.com^
@@ -28873,6 +28880,7 @@
 ||r.3hentai.net^
 ||r42tag.com^
 ||r4nds.absorba.com^
+||rabbitboots.com^
 ||rabbitbreath.com^
 ||rabbit.donald.cat^
 ||rabbitrifle.com^
@@ -31747,6 +31755,7 @@
 ||sihoqd.sheridan.com.au^
 ||silentcredit.com^
 ||silentjackal.com^
+||silentsingle.com^
 ||si.lgsmartad.com^
 ||siliconslow.com^
 ||sillyscrew.com^
@@ -34979,6 +34988,7 @@
 ||smoot-feedback.v.aaplimg.com^
 ||smqzbr.proozy.com^
 ||smrt.as^
+||smrtwheel.com^
 ||sms.3.se^
 ||sms-ads-in.heytapmobile.com^
 ||sms-ads-ru.heytapmobile.com^
@@ -37032,6 +37042,7 @@
 ||stats.ozwebsites.biz^
 ||stats.p42.ai^
 ||stats.pacificdentalservices.com^
+||stats.panet.com^
 ||stats.parqet.com^
 ||stats.parrot.dev^
 ||stats-partner.trafficmanager.net^
@@ -39890,6 +39901,7 @@
 ||tracking-api.bookzone.ro^
 ||tracking-api.hotmart.com^
 ||tracking-api.mangopulse.net^
+||tracking-api.razor.media^
 ||tracking.arabiancentres.com^
 ||tracking.arbor.edu^
 ||tracking.arcadis.com^
