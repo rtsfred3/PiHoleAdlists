@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-28 07:00:19 UTC
+! Generated at 2026-07-29 07:00:14 UTC
 ! 
 ! Sources: https://urlhaus.abuse.ch/downloads/hostfile
 ! 
@@ -13,7 +13,6 @@
 ||admin.gestroom.it^
 ||aethersyncmatrix5.lol^
 ||aftelecom.com.br^
-||airtickts.com^
 ||alarmline.com.br^
 ||alineeleuterio.com.br^
 ||allendaltonproduction.com^
@@ -59,9 +58,7 @@
 ||chinaapper.com^
 ||chiptune.com^
 ||christophercheung.com^
-||chrome-windows.ru^
 ||chuguadventures.co.tz^
-||cleenfoecleen22.com^
 ||cl.ssouy.com^
 ||clubdetiroelpicarcho.com^
 ||cn.unionlever.com^
@@ -107,6 +104,7 @@
 ||down.pcclear.com^
 ||down.qqfarmer.com.cn^
 ||dowonline.ru^
+||dreamapp.xyz^
 ||dreamwatchevent.com^
 ||dsgagfsahkfsahfjs.shop^
 ||dusttv.com^
@@ -119,6 +117,7 @@
 ||en.taichuan.com^
 ||epanpano.com^
 ||evangroup.ru^
+||excursiionline.ro^
 ||fairgroovetr.blog^
 ||fakers.co.jp^
 ||farschid.de^
@@ -128,7 +127,9 @@
 ||file.blackint3.com^
 ||filerit.com^
 ||file.uhsea.com^
+||fine-work-team.com^
 ||first-security-verden.de^
+||fluidfilm.bg^
 ||flyingmutts.com^
 ||fmrio.com^
 ||fukt.link^
@@ -136,7 +137,6 @@
 ||furystaff.tech^
 ||fz.tiansys.cn^
 ||gabyagozetim.com^
-||galerisenimutiara.com^
 ||gboutros.howto.rocks^
 ||genddos.st^
 ||gestionycobranzas.com^
@@ -147,10 +147,12 @@
 ||gutando.com^
 ||hasalltalent.com^
 ||heroestales.com^
+||hindustanagency.com^
 ||hitman-pro.ru^
 ||hitstation.nl^
 ||hobobot.net^
 ||hseda.com^
+||htdentshop.com^
 ||icoffeecloud.com^
 ||igra123.com^
 ||ijexgroup.com.br^
@@ -161,6 +163,7 @@
 ||jawaratekno.com^
 ||jenniferloeffler.com^
 ||jessespridecharters.com^
+||jlwz.cn^
 ||joyeriatauro.com^
 ||js.byxly.eu.cc^
 ||jyothishmathi.in^
@@ -172,7 +175,6 @@
 ||kokorostore.it^
 ||konsor.ru^
 ||landonirwin.com^
-||lapidorseposoalovbs2.com^
 ||lawfirm.paperbirdtech.com^
 ||lb.nigsv.com^
 ||libss.0x504.com^
@@ -181,20 +183,17 @@
 ||lomejordesalamanca.es^
 ||luizmatoso.com.br^
 ||maidforyou1985.com^
+||mail1.mycollege.com.my^
 ||mail.fairgroovetr.blog^
 ||mail.rarewingvm.blog^
-||mail.sandystudiogh.blog^
+||malaysianpastrybakery.org^
 ||mandarin.net.au^
 ||meetvideogoogle.com^
 ||metrics.gocloudmaps.com^
 ||miriamgualda.com.br^
 ||mitreart.com^
 ||m.jkoa.co.kr^
-||m.meta-dm.com^
 ||mogimall.com^
-||molemole.my.id^
-||mosselnet.co.za^
-||msfconfig.icu^
 ||muaklekcoop.com^
 ||mundocarnes.cl^
 ||mx9x.com^
@@ -204,7 +203,6 @@
 ||ny.lshdw.cc^
 ||o24o.ru^
 ||ojang.pe.kr^
-||okhan.net^
 ||oknoplastik.sk^
 ||onfiltre.com.tr^
 ||outpost.co.ke^
@@ -213,10 +211,10 @@
 ||pay.aqiu6.com^
 ||pcupd.com^
 ||peachcity.si^
-||planetariumobil.ro^
 ||plasteredplayn.com^
 ||postelnini.mk^
 ||preciosasjoyitas.com.mx^
+||pstbn.dev^
 ||public.demo.securecloudsandbox.com^
 ||purmed.ro^
 ||pvsa.gxfugy.cn^
@@ -228,10 +226,9 @@
 ||reauthenticator.com^
 ||records.dennisign.se^
 ||redlk.com^
-||refaccionesalma.com.mx^
 ||reifenquick.de^
+||reservphotoinstaynow.shop^
 ||reservphotoinstay.one^
-||reutilizemais.co.mz^
 ||rheddh.com^
 ||riderspin.com^
 ||robertrowe.com^
@@ -241,7 +238,6 @@
 ||s3o65awrf56.net^
 ||sablayan.seasonshotelmindoro.com^
 ||samiksha.com.sg^
-||sandystudiogh.blog^
 ||scainseto.com.br^
 ||scanbot.me^
 ||scoala1gherla.ro^
@@ -276,7 +272,6 @@
 ||swiftfusion.tech^
 ||sydneyaffordablecremations.com.au^
 ||talentrecruitments.com^
-||tampareroofing.com^
 ||tangentwaves.com^
 ||tanscarattorneys.co.tz^
 ||tapestryoftruth.com^
@@ -316,7 +311,6 @@
 ||vjy888.com^
 ||vrajras.com^
 ||website.mypetapp.co.za^
-||widexenmexico.com.mx^
 ||windomstatetheater.com^
 ||wittenhorst.eu^
 ||wqok85qtq.net^
@@ -347,7 +341,6 @@
 ||www.newkey.co.kr^
 ||www.notbak.com^
 ||www.ojang.pe.kr^
-||www.okhan.net^
 ||www.reifenquick.de^
 ||www.saf-oil.ru^
 ||www.salonmarketing.ca^
@@ -356,8 +349,8 @@
 ||www.springhillmontessori.com^
 ||www.ss-01.com^
 ||www.starcountry.net^
+||www.steamrub.com^
 ||www.support-data.com^
-||www.tdejb.com^
 ||www.tecunonline.com^
 ||www.test.peperoncinochepassione.it^
 ||www.vuelaviajero.com^
@@ -371,3 +364,4 @@
 ||youtransfer.net^
 ||zamilgroups.com^
 ||zhigao5191.com^
+||zycdjz.com^

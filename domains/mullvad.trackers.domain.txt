@@ -1,4 +1,4 @@
-# Generated at 2026-07-28 07:01:01 UTC
+# Generated at 2026-07-29 07:00:55 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -3943,9 +3943,7 @@ aax-gamma-us-east.axp.amazon-adsystem.com
 aax-ott.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.com
 aax-ott-c2s.amazon-adsystem.com
-aax-ott-sdk.amazon-adsystem.amazon.com
 aax-ott-sdk.amazon-adsystem.com
-aax-us.amazon-adsystem.amazon.com
 aax-us.amazon-adsystem.com
 aax-us-east-1-ott.amazon-adsystem.amazon.com
 aax-us-east.amazon-adsystem.com
@@ -4267,7 +4265,6 @@ acridtwist.com
 acr-in-prd.samsungcloud.tv
 acr-kr-prd.samsungcloud.tv
 acr-mx-prd.samsungcloud.tv
-acr-nz-prd.samsungcloud.tv
 acro.egghead.link
 acr.roku.com
 acr-us-prd.samsungcloud.tv
@@ -19651,7 +19648,6 @@ kz-stsdk.vivoglobal.com
 kz-st-sl.vivoglobal.com
 kz-st-sysupgrade.vivoglobal.com
 kzutbh.takeappeal.com
-kz-vcode-api.vivoglobal.com
 kz-vcode-od.vivoglobal.com
 kz-vcode-or.vivoglobal.com
 l2k30jsa.theochu.com
@@ -25822,6 +25818,7 @@ m.smartmatch.email
 m.sm.princess.com
 msr.p-antiaging.com
 mssdk16-normal.capcutapi.com
+mssdk16-normal-no1a.tiktokvapp.eu
 mssdk16-normal-sg.capcutapi.com
 mssdk16-normal.tiktokv.com
 mssdk16-normal-useastred.tiktokw.eu
@@ -43491,7 +43488,6 @@ vfw-gamma.amazon-adsystem.com
 vfwm.amazon-adsystem.com
 vfwm-eu.amazon-adsystem.com
 vfwm-us.amazon-adsystem.com
-vfwm-us-west.amazon-adsystem.com
 vfws.amazon-adsystem.com
 vfw-us.amazon-adsystem.com
 vfw-us-gamma.amazon-adsystem.com

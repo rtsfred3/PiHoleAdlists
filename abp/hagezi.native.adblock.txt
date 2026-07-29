@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-28 07:00:36 UTC
+! Generated at 2026-07-29 07:00:26 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -66,9 +66,7 @@
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
-||aax-ott-sdk.amazon-adsystem.amazon.com^
 ||aax-ott-sdk.amazon-adsystem.com^
-||aax-us.amazon-adsystem.amazon.com^
 ||aax-us.amazon-adsystem.com^
 ||aax-us-east-1-ott.amazon-adsystem.amazon.com^
 ||aax-us-east.amazon-adsystem.com^
@@ -113,7 +111,6 @@
 ||acr-in-prd.samsungcloud.tv^
 ||acr-kr-prd.samsungcloud.tv^
 ||acr-mx-prd.samsungcloud.tv^
-||acr-nz-prd.samsungcloud.tv^
 ||acr.roku.com^
 ||acr-us-prd.samsungcloud.tv^
 ||activity.browser.intl.miui.com^
@@ -1574,7 +1571,6 @@
 ||kz-stsdk.vivoglobal.com^
 ||kz-st-sl.vivoglobal.com^
 ||kz-st-sysupgrade.vivoglobal.com^
-||kz-vcode-api.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
 ||kz-vcode-or.vivoglobal.com^
 ||launch.apple.com^
@@ -2089,6 +2085,7 @@
 ||mshopbugsnag.irm.amazon.dev^
 ||ms.lgsmartad.com^
 ||mssdk16-normal.capcutapi.com^
+||mssdk16-normal-no1a.tiktokvapp.eu^
 ||mssdk16-normal-sg.capcutapi.com^
 ||mssdk16-normal.tiktokv.com^
 ||mssdk16-normal-useastred.tiktokw.eu^
@@ -3121,7 +3118,6 @@
 ||vfwm.amazon-adsystem.com^
 ||vfwm-eu.amazon-adsystem.com^
 ||vfwm-us.amazon-adsystem.com^
-||vfwm-us-west.amazon-adsystem.com^
 ||vfws.amazon-adsystem.com^
 ||vfw-us.amazon-adsystem.com^
 ||vfw-us-gamma.amazon-adsystem.com^
