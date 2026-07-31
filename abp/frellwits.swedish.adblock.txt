@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-29 07:00:15 UTC
+! Generated at 2026-07-31 07:00:14 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 ! 
@@ -329,6 +329,7 @@
 ||cdn.usefathom.com^
 ||cdn.userreport.com^
 ||cdn.viglink.com^
+||cdn.visitors.now^
 ||cdn.webpushr.com^
 ||cdn.wootric.com^
 ||cdn.yieldwrapper.com^

@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-29 07:00:55 UTC
+! Generated at 2026-07-31 07:00:53 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -5122,6 +5122,7 @@
 ||airefcoinc.actonservice.com^
 ||airplanecoffee.com^
 ||air-weigh.actonservice.com^
+||aisiteanalytics.com^
 ||ai.thermo.com^
 ||ai.thermofisher.com^
 ||a.itim.es^
@@ -5890,6 +5891,7 @@
 ||analytics.sixtmiddleeast.com^
 ||analytics.sixt.nl^
 ||analytics.skinit.com^
+||analytics.skroutz.gr^
 ||analytics.skyscanner.net^
 ||analytics.slashdotmedia.com^
 ||analytics.sleeknote.com^
@@ -5996,6 +5998,7 @@
 ||analytics.vendemore.com^
 ||analytics.verizon.com^
 ||analytics.verizonwireless.com^
+||analytics.veygo.co^
 ||analytics.vgtimes.com^
 ||analytics.villagehouse.jp^
 ||analytics.vinovo.si^
@@ -9016,6 +9019,7 @@
 ||carloforward.com^
 ||c.ar.msn.com^
 ||carolina.actonservice.com^
+||carpoolmatch.com^
 ||carpoolqueen.com^
 ||carreras.unisabana.edu.co^
 ||carsarace.com^
@@ -9843,7 +9847,6 @@
 ||collect.helsana-preprod.ch^
 ||collect.hollisterco.com^
 ||collect.igodigital.com^
-||collection.e-satisfaction.com^
 ||collection-location-livenet.trafficmanager.net^
 ||collection.mola.tv^
 ||collection.saga.co.uk^
@@ -14813,6 +14816,7 @@
 ||flushingbeast.com^
 ||flutteringfireman.com^
 ||fly.caljetelite.com^
+||flyflightstar.com^
 ||flystranger.com^
 ||flznib.weblio.jp^
 ||fma7.aegon.es^
@@ -14847,6 +14851,7 @@
 ||food.pentonmarketingsvcs.com^
 ||foodsouvlakibar.openapp.link^
 ||foomjy.teacollection.com^
+||footballmedal.com^
 ||forbes.realclearpolitics.com^
 ||forbidden.actonservice.com^
 ||forbin.actonservice.com^
@@ -15636,6 +15641,7 @@
 ||globallearningsystems.actonservice.com^
 ||globalmed.actonservice.com^
 ||global-mktg.transunion.com^
+||globalorders.net^
 ||global.raboag.com^
 ||globalsolutions.risk.lexisnexis.com^
 ||global.successfactors.com^
@@ -15709,6 +15715,7 @@
 ||go.app.sharekey.com^
 ||go.asian.mingle.com^
 ||go.askbee.my^
+||goatcounter.ssp.sh^
 ||goat.hepicgamerz.com^
 ||goat.nhimmeo.cf^
 ||goat.skeetstats.xyz^
@@ -16033,6 +16040,7 @@
 ||go.northsidemedia.com^
 ||go.norway.innovatedating.com^
 ||go.nvp.com^
+||goodfoodtours.com^
 ||google-analytics-cn.com^
 ||googleoptimize-cn.com^
 ||googleoptimize.com^
@@ -25545,6 +25553,7 @@
 ||mm.openapp.link^
 ||mm-sdk-analytics.api.cx.metamask.io^
 ||mmulsx.comet.it^
+||mm-uxrv.com^
 ||mmwlwm.autoscout24.pl^
 ||m.mylifetime.com^
 ||m.mywd.com^
@@ -26177,6 +26186,7 @@
 ||net.shop.com.mm^
 ||netstat.yunnan.cn^
 ||net.steiner-vision.de^
+||netsurfconsult.com^
 ||net.tradeers.de^
 ||net.voopter.com.br^
 ||network.cogentco.com^
@@ -26348,6 +26358,7 @@
 ||nl-nl.coloplastcare.com^
 ||nlp-japan.life-and-mind.com^
 ||nl.rcd.ptqy.gitv.tv^
+||nltcs.idfnet.net^
 ||nltihf.fashiondays.ro^
 ||nltzqx.autodoc.co.uk^
 ||nlvnht.miror.jp^
@@ -26705,6 +26716,7 @@
 ||offers.storagepipe.com^
 ||offgridcrops.com^
 ||office-events-data.trafficmanager.net^
+||officestylist.com^
 ||offshoreassets.com^
 ||offshorecyclone.com^
 ||offshoregeology.com^
@@ -27849,6 +27861,7 @@
 ||pixel.mtrcs.samba.tv^
 ||pixel.newscred.com^
 ||pixel.nine.com.au^
+||pixel.nudgify.com^
 ||pixel.patch.com^
 ||pixel.poptok.com^
 ||pixel.propublica.org^
@@ -28147,6 +28160,7 @@
 ||pnvnpy.scullyandscully.com^
 ||pny.net.penny.de^
 ||pocketfaucet.com^
+||pocustrack.com^
 ||poczta.carte-gr.total.fr^
 ||poczta.happ.social^
 ||podbooth.martela.com^
@@ -38686,6 +38700,7 @@
 ||telemetry.moveworks.com^
 ||telemetry.navispherecarrier.com^
 ||telemetry.nav.no^
+||telemetry.officeapps.live.com^
 ||telemetry.owenscorning.com^
 ||telemetry.phenixrts.com^
 ||telemetry.portal.voltdeutschland.org^

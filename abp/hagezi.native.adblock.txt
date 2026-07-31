@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-29 07:00:26 UTC
+! Generated at 2026-07-31 07:00:24 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -2878,6 +2878,7 @@
 ||telemetry-lcp.trafficmanager.net^
 ||telemetry.microsoft.com^
 ||telemetry.microsoft.us^
+||telemetry.officeapps.live.com^
 ||telemetry.urs.microsoft.com^
 ||telemetry.visualstudio.microsoft.com^
 ||temai.snssdk.com^
