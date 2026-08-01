@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-31 07:00:53 UTC
+! Generated at 2026-08-01 07:00:49 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4164,6 +4164,7 @@
 ||ab.oney.es^
 ||a.boredpanda.bio^
 ||abo.schibsted.no^
+||aboutcorgis.com^
 ||abovechat.com^
 ||ab.perfumesclub.com^
 ||abpwqf.lolaflora.com.mx^
@@ -4777,6 +4778,7 @@
 ||adspsp.com^
 ||ads.roku.com^
 ||ads-ru.tiktok.com^
+||ads-service.tiktok.com^
 ||ads-setu-proxy.amazon.com^
 ||ads-setu-proxy-eu.amazon.com^
 ||ads-setu-proxy-fe.amazon.com^
@@ -5214,6 +5216,7 @@
 ||alltypo.com^
 ||alluringbucket.com^
 ||allvideometrika.com^
+||allycoop.com^
 ||almalasers.actonservice.com^
 ||almondbuns.com^
 ||al.mtrx.dev^
@@ -5925,6 +5928,7 @@
 ||analytics.teamcovenant.com^
 ||analytics.techem.com^
 ||analytics.techem.de^
+||analytics.tempy.email^
 ||analytics.test.cheggnet.com^
 ||analytics-test.tiktok.com^
 ||analytics.thehartford.com^
@@ -10737,6 +10741,7 @@
 ||ct.pinterest.com^
 ||ctr-iwb.nmg.de^
 ||ctrkd.ilsole24ore.com^
+||c.trkn.it^
 ||c.tr.msn.com^
 ||ctr-opc.nmg.de^
 ||ctr.po-kaki-to.com^
@@ -13902,6 +13907,7 @@
 ||epicswimming.com^
 ||epimetheus.navigator.web.de^
 ||epixkf.dentrodahistoria.com.br^
+||ep.jamx.ai^
 ||epm.mailperformance.com^
 ||epnfoq.cyberpowersystem.co.uk^
 ||epoch-id.cdo.heytapmobi.com^
@@ -16834,6 +16840,7 @@
 ||home.usg.com^
 ||honestharbor.com^
 ||honeybulb.com^
+||honeybutterbliss.com^
 ||honorablehydrant.com^
 ||honorableland.com^
 ||honorsearch-dra.hiboard.hihonorcloud.com^
@@ -25829,7 +25836,6 @@
 ||m.sm.princess.com^
 ||msr.p-antiaging.com^
 ||mssdk16-normal.capcutapi.com^
-||mssdk16-normal-no1a.tiktokvapp.eu^
 ||mssdk16-normal-sg.capcutapi.com^
 ||mssdk16-normal.tiktokv.com^
 ||mssdk16-normal-useastred.tiktokw.eu^
@@ -26716,6 +26722,7 @@
 ||offers.storagepipe.com^
 ||offgridcrops.com^
 ||office-events-data.trafficmanager.net^
+||officehub.nel.measure.office.net.cardano.com^
 ||officestylist.com^
 ||offshoreassets.com^
 ||offshorecyclone.com^
@@ -26771,6 +26778,7 @@
 ||oksiqv.styletread.com.au^
 ||oktagv.immobilienscout24.at^
 ||okto1.spsglobal.com^
+||ol-collector.quillbot.com^
 ||oldfashionedoffer.com^
 ||old.globalservices.arrow.com^
 ||oldportcoffee.com^
@@ -28190,6 +28198,7 @@
 ||poolcushions.com^
 ||pool.onjoyri.de^
 ||pool.onjoyride.com^
+||poolprochem.com^
 ||pop3.carte-gr.total.fr^
 ||pop3.happ.social^
 ||pop.carte-gr.total.fr^
@@ -30574,6 +30583,7 @@
 ||sc.hm.com^
 ||scholarloop.com^
 ||sc.holtsmilitarybank.co.uk^
+||schoolpaws.com^
 ||schwacke.autovistagroup.com^
 ||schwaebischhall.efscle.com^
 ||sc.icarly.com^
@@ -31800,6 +31810,7 @@
 ||simpletopay.americanexpress.com^
 ||simpletopay.americanexpress.com.au^
 ||simpletopay.americanexpress.co.uk^
+||simplyradon.com^
 ||simscale.actonservice.com^
 ||simulateswing.com^
 ||sincerebuffalo.com^
@@ -35130,6 +35141,7 @@
 ||soilphotos.com^
 ||sokutei.car2828.jp^
 ||solarislabyrinth.com^
+||solarrecharge.net^
 ||solar.sharpmarketing.eu^
 ||solar.sunpower.com^
 ||solar.sunpowercorp.com^
@@ -35522,6 +35534,7 @@
 ||spea.eko.com^
 ||specialevent.informaengage.com^
 ||specialscissors.com^
+||specialtypin.com^
 ||sp.ecosia.org^
 ||spec-sensors.actonservice.com^
 ||spectacularstamp.com^
@@ -35529,6 +35542,7 @@
 ||speedtrap.shopdirect.com^
 ||speedyfox.io^
 ||speedyrhino.co^
+||speedysteaks.com^
 ||speee-ad.akamaized.net^
 ||spellingthoughts.com^
 ||spellknight.com^
@@ -43505,6 +43519,7 @@
 ||vfwm.amazon-adsystem.com^
 ||vfwm-eu.amazon-adsystem.com^
 ||vfwm-us.amazon-adsystem.com^
+||vfwm-us-west.amazon-adsystem.com^
 ||vfws.amazon-adsystem.com^
 ||vfw-us.amazon-adsystem.com^
 ||vfw-us-gamma.amazon-adsystem.com^

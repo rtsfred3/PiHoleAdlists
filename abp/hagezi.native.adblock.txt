@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-07-31 07:00:24 UTC
+! Generated at 2026-08-01 07:00:22 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -222,6 +222,7 @@
 ||ads.oppomobile.com^
 ||ads.roku.com^
 ||ads-ru.tiktok.com^
+||ads-service.tiktok.com^
 ||ads-setu-proxy.amazon.com^
 ||ads-setu-proxy-eu.amazon.com^
 ||ads-setu-proxy-fe.amazon.com^
@@ -2085,7 +2086,6 @@
 ||mshopbugsnag.irm.amazon.dev^
 ||ms.lgsmartad.com^
 ||mssdk16-normal.capcutapi.com^
-||mssdk16-normal-no1a.tiktokvapp.eu^
 ||mssdk16-normal-sg.capcutapi.com^
 ||mssdk16-normal.tiktokv.com^
 ||mssdk16-normal-useastred.tiktokw.eu^
@@ -2245,6 +2245,7 @@
 ||oca.microsoft.com^
 ||odin-signals.apple.com^
 ||office-events-data.trafficmanager.net^
+||officehub.nel.measure.office.net.cardano.com^
 ||om-ad-lgsmartad-com.aws-prd.net^
 ||omes-sec.heytapmobi.com^
 ||omes-sec.heytapmobile.com^
@@ -3119,6 +3120,7 @@
 ||vfwm.amazon-adsystem.com^
 ||vfwm-eu.amazon-adsystem.com^
 ||vfwm-us.amazon-adsystem.com^
+||vfwm-us-west.amazon-adsystem.com^
 ||vfws.amazon-adsystem.com^
 ||vfw-us.amazon-adsystem.com^
 ||vfw-us-gamma.amazon-adsystem.com^
