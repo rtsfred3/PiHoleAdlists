@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-01 07:00:22 UTC
+! Generated at 2026-08-02 07:00:25 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -139,6 +139,7 @@
 ||ad-eng.staging.rpay.int.roku.com^
 ||ad.eu.xiaomi.com^
 ||adevents.msn.com^
+||ad-format16-normal-useastred.tiktokv.eu^
 ||ad-format-sg.tiktokv.com^
 ||ad-growth-in.heytapmobile.com^
 ||ad-growth-ru.heytapmobile.com^
@@ -1141,6 +1142,7 @@
 ||event-tracking.samsung.com^
 ||ex-adreq-asia.vivoglobal.com^
 ||ex-adreq-in.vivoglobal.com^
+||excelonline.nel.measure.office.net.cardano.com^
 ||excel-telemetry.officeapps.live.com^
 ||excel-telemetry.wac.trafficmanager.net^
 ||exo.nel.measure.office.net.cardano.com^
@@ -3020,6 +3022,7 @@
 ||tr-vcode-or.vivoglobal.com^
 ||tr-weather.vivoglobal.com^
 ||t-s1-ring.msedge.net^
+||t-s2-ring.msedge.net^
 ||ts.amazon-adsystem.com^
 ||tsearch.snssdk.com^
 ||ts-gamma.amazon-adsystem.com^
@@ -3078,6 +3081,7 @@
 ||upu.samsungelectronics.com^
 ||ureca.samsungapps.com^
 ||ureca.samsungapps.com.ad.mexnet.de^
+||url4077.ads-service.tiktok.com^
 ||us-ad-lgsmartad-com.aws-prd.net^
 ||usc-onenote-telemetry.officeapps.live.com^
 ||usc-visio-telemetry.officeapps.live.com^

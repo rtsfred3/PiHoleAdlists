@@ -1,4 +1,4 @@
-# Generated at 2026-08-01 07:00:13 UTC
+# Generated at 2026-08-02 07:00:15 UTC
 # 
 # Sources: https://urlhaus.abuse.ch/downloads/hostfile
 # 
@@ -11,6 +11,7 @@ acms.saleseos.com
 admin.byte.in.ua
 admin.gestroom.it
 aftelecom.com.br
+aidlifempowerment.com
 airtickts.com
 alarmline.com.br
 alineeleuterio.com.br
@@ -34,8 +35,6 @@ blankeyeo.com
 blessdayservices.org
 blogs.sokun.jp
 bmdcompany.com
-bnet-api.playm8ru.win
-bnet.playm8ru.win
 bombayonline.in
 book.rollingvideogames.com
 bridgeroad.maverickpreviews.com
@@ -58,10 +57,10 @@ chrome-windows.ru
 chuguadventures.co.tz
 cloudimagehostingupdatesrealted.yzz.me
 cloud.pearlpeel.com
-cl.ssouy.com
 clubdetiroelpicarcho.com
 cn.unionlever.com
 co-emas.com
+compuserviceonline.com.br
 continentalgroup.net.in
 coralasargetia.ro
 corporacioncrf.com
@@ -70,7 +69,6 @@ cpofficial.com
 creativevoltage.com
 crimefreesoftware.com
 crystalpvp.ru
-cs.go.kg
 d.14yaa.com
 damiancollier.com
 data.yhydl.com
@@ -111,7 +109,6 @@ endpoint.project0.cc
 en.taichuan.com
 epanpano.com
 evangroup.ru
-explorer.vg
 fakers.co.jp
 farschid.de
 fd.v2downf.shop
@@ -120,10 +117,10 @@ file.blackint3.com
 filerit.com
 file.uhsea.com
 first-security-verden.de
-fluidfilm.bg
 flyingmutts.com
 fmrio.com
 fukt.link
+fullstacknir.com
 furystaff.tech
 fz.tiansys.cn
 gabyagozetim.com
@@ -154,14 +151,15 @@ igra123.com
 ijexgroup.com.br
 ikincielesyaciankara.com.tr
 ircftp.net
+isiore.com.co
 itssprout.com
+ixirgroup.com
 jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
 joyeriatauro.com
 js.byxly.eu.cc
-jyothishmathi.in
 kavacanada.ca
 kenwillzltd.com
 khavar.com
@@ -176,9 +174,7 @@ lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
 luizmatoso.com.br
-lumacrea.com
 maidforyou1985.com
-MAMABEARCOFFEE.COM
 mandarin.net.au
 meetvideogoogle.com
 metrics.gocloudmaps.com
@@ -186,6 +182,7 @@ miriamgualda.com.br
 mitreart.com
 m.jkoa.co.kr
 m.meta-dm.com
+mobilab.by
 mogimall.com
 muaklekcoop.com
 muledo.com
@@ -196,6 +193,7 @@ ncxps.com
 nf.boletos-notas.com
 nfe.boletos-notas.com
 noithaticon.vn
+nusatoyota.co.id
 n.vs108.com
 ny.lshdw.cc
 o24o.ru
@@ -210,6 +208,8 @@ pay.aqiu6.com
 pcupd.com
 pdf-bro.lat
 peachcity.si
+pfatrivandrum.org
+planetariumobil.ro
 postelnini.mk
 preciosasjoyitas.com.mx
 public.demo.securecloudsandbox.com
@@ -230,7 +230,6 @@ reutilizemais.co.mz
 rheddh.com
 riderspin.com
 robertrowe.com
-roblox-xeno.info
 royalindiancurryclub.com
 rxquickpay.com
 s3o65awrf56.net
@@ -256,6 +255,7 @@ smoking-hot.net
 soft.110route.com
 softcatalog.ru
 spgint.com
+static.ilclock.com
 static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
@@ -266,9 +266,9 @@ sunix-technology.com
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
-swiftfusion.tech
 sydneyaffordablecremations.com.au
 talentrecruitments.com
+tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
 tecunonline.com
@@ -293,7 +293,6 @@ un1rw11q4u.com
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
-uploadloop.com
 vcc-library.uk
 versaclean.com.br
 veryboys.com
@@ -305,6 +304,7 @@ vizyonuniversitesi.com.tr
 vizyonuniversitesi.web.tr
 v-k.com.ua
 vrajras.com
+wantsellonline.com
 website.mypetapp.co.za
 widexenmexico.com.mx
 windomstatetheater.com
@@ -334,7 +334,6 @@ www.konsor.ru
 www.medises.co.kr
 www.myvcart.com
 www.namuvpn.com
-www.nccommunication.be
 www.newkey.co.kr
 www.notbak.com
 www.ojang.pe.kr
@@ -346,6 +345,7 @@ www.silver-hubdachwohnwagen.de
 www.springhillmontessori.com
 www.ss-01.com
 www.starcountry.net
+www.steamrub.com
 www.support-data.com
 www.tdejb.com
 www.tecunonline.com

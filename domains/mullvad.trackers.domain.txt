@@ -1,4 +1,4 @@
-# Generated at 2026-08-01 07:00:49 UTC
+# Generated at 2026-08-02 07:00:58 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4553,6 +4553,7 @@ adevents.msn.com
 adex.kintetsu-re.co.jp
 adex.naruko333.jp
 adex.predear.com
+ad-format16-normal-useastred.tiktokv.eu
 ad-format-sg.tiktokv.com
 adfox.yandex.ru
 ad.gogox.com
@@ -14339,6 +14340,7 @@ ex-adreq-asia.vivoglobal.com
 ex-adreq-in.vivoglobal.com
 exampleshake.com
 exbujk.glamood.com
+excelonline.nel.measure.office.net.cardano.com
 excel-telemetry.officeapps.live.com
 excel-telemetry.wac.trafficmanager.net
 exchange.carte-gr.total.fr
@@ -42352,6 +42354,7 @@ try.tableausoftware.com
 tryzens-analytics.com
 tr.zojh.espmp-aluk.net
 t-s1-ring.msedge.net
+t-s2-ring.msedge.net
 t-s.actemra.com
 t-s.activase.com
 tsa-f.webex.com
@@ -42887,6 +42890,7 @@ url2987.affirm.com
 url3009.onbunches.com
 url3630.newsletter.experience-muse.com
 url3788.blazepizza.com
+url4077.ads-service.tiktok.com
 url4142.dev.att.llabs.io
 url4324.affirm.ca
 url4324.affirm.com
