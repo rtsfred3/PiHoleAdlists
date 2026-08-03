@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-02 07:00:58 UTC
+! Generated at 2026-08-03 07:00:57 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -3945,7 +3945,9 @@
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
+||aax-ott-sdk.amazon-adsystem.amazon.com^
 ||aax-ott-sdk.amazon-adsystem.com^
+||aax-us.amazon-adsystem.amazon.com^
 ||aax-us.amazon-adsystem.com^
 ||aax-us-east-1-ott.amazon-adsystem.amazon.com^
 ||aax-us-east.amazon-adsystem.com^
@@ -4268,6 +4270,7 @@
 ||acr-in-prd.samsungcloud.tv^
 ||acr-kr-prd.samsungcloud.tv^
 ||acr-mx-prd.samsungcloud.tv^
+||acr-nz-prd.samsungcloud.tv^
 ||acro.egghead.link^
 ||acr.roku.com^
 ||acr-us-prd.samsungcloud.tv^
@@ -8885,10 +8888,6 @@
 ||caknmq.rotita.com^
 ||c.albss.com^
 ||calculatingcircle.com^
-||calculator-api-fr.allawnos.com^
-||calculator-api-in.allawnos.com^
-||calculator-api-sg.allawnos.com^
-||calculator-api-us.allawnos.com^
 ||calculatorstatement.com^
 ||calgary-content.cresa.com^
 ||ca.lgsmartad.com^
@@ -19667,6 +19666,7 @@
 ||kz-st-sl.vivoglobal.com^
 ||kz-st-sysupgrade.vivoglobal.com^
 ||kzutbh.takeappeal.com^
+||kz-vcode-api.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
 ||kz-vcode-or.vivoglobal.com^
 ||l2k30jsa.theochu.com^
@@ -43843,7 +43843,6 @@
 ||wa.gymboree.com^
 ||waitingnumber.com^
 ||wallet.chain.com^
-||wallpaper-service-sg.allawnos.com^
 ||wa.localworld.co.uk^
 ||wal.wolfram.com^
 ||wamahe.wokularach.pl^

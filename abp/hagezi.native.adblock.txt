@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-02 07:00:25 UTC
+! Generated at 2026-08-03 07:00:30 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -66,7 +66,9 @@
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
+||aax-ott-sdk.amazon-adsystem.amazon.com^
 ||aax-ott-sdk.amazon-adsystem.com^
+||aax-us.amazon-adsystem.amazon.com^
 ||aax-us.amazon-adsystem.com^
 ||aax-us-east-1-ott.amazon-adsystem.amazon.com^
 ||aax-us-east.amazon-adsystem.com^
@@ -111,6 +113,7 @@
 ||acr-in-prd.samsungcloud.tv^
 ||acr-kr-prd.samsungcloud.tv^
 ||acr-mx-prd.samsungcloud.tv^
+||acr-nz-prd.samsungcloud.tv^
 ||acr.roku.com^
 ||acr-us-prd.samsungcloud.tv^
 ||activity.browser.intl.miui.com^
@@ -662,10 +665,6 @@
 ||ca-ad-lgsmartad-com.aws-prd.net^
 ||cache.datamart.windows.com^
 ||cac-visio-telemetry.officeapps.live.com^
-||calculator-api-fr.allawnos.com^
-||calculator-api-in.allawnos.com^
-||calculator-api-sg.allawnos.com^
-||calculator-api-us.allawnos.com^
 ||ca.lgsmartad.com^
 ||callback.xmpush.xiaomi.com^
 ||c.amazon-adsystem.com^
@@ -1574,6 +1573,7 @@
 ||kz-stsdk.vivoglobal.com^
 ||kz-st-sl.vivoglobal.com^
 ||kz-st-sysupgrade.vivoglobal.com^
+||kz-vcode-api.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
 ||kz-vcode-or.vivoglobal.com^
 ||launch.apple.com^
@@ -3156,7 +3156,6 @@
 ||vq-us-west-2.amazon-adsystem.com^
 ||vstelemetry.trafficmanager.net^
 ||vu-ad-lgsmartad-com.aws-prd.net^
-||wallpaper-service-sg.allawnos.com^
 ||wap.game.xiaomi.com^
 ||watson.live.com^
 ||watson.microsoft.com^

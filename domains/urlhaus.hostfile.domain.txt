@@ -1,4 +1,4 @@
-# Generated at 2026-08-02 07:00:15 UTC
+# Generated at 2026-08-03 07:00:18 UTC
 # 
 # Sources: https://urlhaus.abuse.ch/downloads/hostfile
 # 
@@ -42,7 +42,6 @@ brightworks.cz
 broadwalkindia.com
 bvaco.com
 cambodiatouristservice.com
-casinodas.com
 catbaparadisehotel.com.vn
 cat.dashabi.in
 cat.xiaojiji.nl
@@ -55,8 +54,9 @@ chinaapper.com
 chiptune.com
 chrome-windows.ru
 chuguadventures.co.tz
-cloudimagehostingupdatesrealted.yzz.me
+cim-kolea.com
 cloud.pearlpeel.com
+cl.ssouy.com
 clubdetiroelpicarcho.com
 cn.unionlever.com
 co-emas.com
@@ -64,11 +64,11 @@ compuserviceonline.com.br
 continentalgroup.net.in
 coralasargetia.ro
 corporacioncrf.com
-cosmeticapampa.com.ar
 cpofficial.com
 creativevoltage.com
 crimefreesoftware.com
 crystalpvp.ru
+cs.go.kg
 d.14yaa.com
 damiancollier.com
 data.yhydl.com
@@ -79,6 +79,7 @@ deliverymailreport.co.za
 delp-heizungsbau.de
 dexios.co.za
 dezcom.com
+directdownloadl.ink
 disk.accord1key.cn
 divvanews.com
 dl.1003b.56a.com
@@ -94,7 +95,6 @@ download.haozip.com
 download.kaobeitu.com
 download.pdf00.cn
 download.pdf00.com
-download.suxiazai.com
 down.pcclear.com
 down.qqfarmer.com.cn
 dowonline.ru
@@ -102,6 +102,7 @@ dreamwatchevent.com
 dusttv.com
 d.wanyouxi7.com
 dynga.pl
+eclipsebible.com
 electri.billregulator.com
 elisans.novayonetim.com
 embedone.com
@@ -115,6 +116,7 @@ fd.v2downf.shop
 fesold.com
 file.blackint3.com
 filerit.com
+file.tugou.com.co
 file.uhsea.com
 first-security-verden.de
 flyingmutts.com
@@ -128,7 +130,6 @@ galerisenimutiara.com
 gboutros.howto.rocks
 genddos.st
 gestionycobranzas.com
-gestroom.it
 globalbank.us
 googletagamnager.com
 grantexx.com
@@ -136,8 +137,6 @@ greenf.alexion.rs
 grupomcperu.com
 gutando.com
 hasalltalent.com
-heavyhorses.com
-hehe.dstat.tech
 heroestales.com
 hindustanagency.com
 hitman-pro.ru
@@ -150,6 +149,7 @@ ignetwork.us
 igra123.com
 ijexgroup.com.br
 ikincielesyaciankara.com.tr
+indusenterprises.co
 ircftp.net
 isiore.com.co
 itssprout.com
@@ -169,11 +169,13 @@ kokorostore.it
 konsor.ru
 landonirwin.com
 lawfirm.paperbirdtech.com
+letsgobok.com
 libss.0x504.com
 lindnerelektroanlagen.de
 local-update.com
 lomejordesalamanca.es
 luizmatoso.com.br
+lumacrea.com
 maidforyou1985.com
 mandarin.net.au
 meetvideogoogle.com
@@ -191,7 +193,6 @@ muriaspetin.es
 mx9x.com
 ncxps.com
 nf.boletos-notas.com
-nfe.boletos-notas.com
 noithaticon.vn
 nusatoyota.co.id
 n.vs108.com
@@ -206,7 +207,6 @@ palharesinformatica.com.br
 panel.b2brouter-secure.com
 pay.aqiu6.com
 pcupd.com
-pdf-bro.lat
 peachcity.si
 pfatrivandrum.org
 planetariumobil.ro
@@ -234,6 +234,7 @@ royalindiancurryclub.com
 rxquickpay.com
 s3o65awrf56.net
 sablayan.seasonshotelmindoro.com
+safeuploadz.com
 samiksha.com.sg
 scainseto.com.br
 scanbot.me
@@ -260,12 +261,12 @@ static.topxgun.com
 static.youdm.cn
 stdown.dinju.com
 stonecradle.com
-streammobs.com
 studiogioeli.it
 sunix-technology.com
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
+swiftfusion.tech
 sydneyaffordablecremations.com.au
 talentrecruitments.com
 tangentwaves.com
@@ -280,6 +281,7 @@ test.peperoncinochepassione.it
 theholidayroads.com
 themaintechnician.us
 thementordirectory.com
+thenewcoffeshop.com
 theoremaoliveoil.com
 thtp2.volamngayxua.net
 tiacreation.club
@@ -288,7 +290,7 @@ top8onlinegame.com
 transparenciacanaa.com.br
 trtmyanmar.com
 tuasesoriadigital.es
-twu-hwt.org
+twitch.tj
 un1rw11q4u.com
 upaicdn.xinmei365.com
 upchemicals.co.in
@@ -324,6 +326,7 @@ www.cutting-edge.in
 www.dra.com.ve
 www.drgenov.com
 www.first-security-verden.de
+www.gestroom.it
 www.hostingcloud.science
 www.hseda.com
 www.intelligradeeducation.vicentecisnerospub.com
@@ -334,9 +337,9 @@ www.konsor.ru
 www.medises.co.kr
 www.myvcart.com
 www.namuvpn.com
+www.nccommunication.be
 www.newkey.co.kr
 www.notbak.com
-www.ojang.pe.kr
 www.reifenquick.de
 www.saf-oil.ru
 www.salonmarketing.ca
