@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-03 07:00:57 UTC
+! Generated at 2026-08-04 07:00:54 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -6092,6 +6092,7 @@
 ||an.avast.ru^
 ||ancientact.com^
 ||an.constantcontact.com^
+||andfauna.net^
 ||andlache.com^
 ||android.txtsmarter.com^
 ||a.nelo.mx^
@@ -7899,6 +7900,7 @@
 ||barkfactor.com^
 ||barqueue.com^
 ||barracuda.carte-gr.total.fr^
+||barrelcider.com^
 ||baseboosters.com^
 ||basilfish.com^
 ||basketballbelieve.com^
@@ -8550,6 +8552,7 @@
 ||brcicar.eccocar.com^
 ||brc.languageclass.cc^
 ||brclickrent.eccocar.com^
+||br-cota.vivoglobal.com^
 ||brcrx.eccocar.com^
 ||brc-visio-telemetry.officeapps.live.com^
 ||brdriveonrental.eccocar.com^
@@ -11718,6 +11721,7 @@
 ||dc.di.runestone.samsung.com^
 ||dc.dqa.samsung.com^
 ||dc-dragate-cn.heytapmobi.com^
+||dc-dragate-sg.heytapmobile.com^
 ||dc.heytapmobile.com^
 ||dcinfos-cache.abtasty.com^
 ||dcintl.push.heytapmobi.com^
@@ -12309,6 +12313,7 @@
 ||directions.mdanderson.org^
 ||direfuldesk.com^
 ||disagreeabledrop.com^
+||discjockeys.net^
 ||discopond.com^
 ||discover.10play.com.au^
 ||discover2.secureforms.mcafee.com^
@@ -13131,6 +13136,7 @@
 ||e.gettyimages.in^
 ||e.gettyimages.nl^
 ||e.gettyimages.pt^
+||eggrecipe.com^
 ||eghrbf.immowelt.at^
 ||eg.lgsmartad.com^
 ||egoi.site^
@@ -14676,6 +14682,7 @@
 ||filament-stats.herokuapp.com^
 ||filbrandtco.actonservice.com^
 ||file.cdn.mvideo.xiaomi.com^
+||file-intl-push.heytapdl.com^
 ||filemobile.actonservice.com^
 ||files.info.posteitaliane.it^
 ||files.urlinsgroup.com^
@@ -17055,7 +17062,16 @@
 ||iconmediapixel.com^
 ||iconnode.com^
 ||icosa-service-eu.allawnos.com^
+||icosa-service-fr-01.allawnos.com^
+||icosa-service-fr-02.allawnos.com^
+||icosa-service-fr-03.allawnos.com^
+||icosa-service-in-01.allawnos.com^
+||icosa-service-in-02.allawnos.com^
+||icosa-service-in-03.allawnos.com^
 ||icosa-service-in.allawnos.com^
+||icosa-service-sg-01.allawnos.com^
+||icosa-service-sg-02.allawnos.com^
+||icosa-service-sg-03.allawnos.com^
 ||icosa-service-sg.allawnos.com^
 ||icosa-service-us.allawnos.com^
 ||icosa-sg.coloros.com^
@@ -25641,6 +25657,7 @@
 ||mon16-normal-no1a.tiktokv.eu.dvaitas.lt^
 ||mon16-normal-no1a.tiktokv.eu.numericable.fr^
 ||mon16-normal-sg.capcutapi.com^
+||mon16-normal-sg.capcutapi.com.edgesuite.net^
 ||mon16-normal.tiktokv.com^
 ||mon16-normal-useast1a.tiktokv.com^
 ||mon16-normal-useast5.tiktokv.us^
@@ -25648,7 +25665,10 @@
 ||mon16-normal-useast8.us.tiktokv.com^
 ||mon16-normal-useastred.tiktokv.eu^
 ||mon16-normal-useastred.tiktokv.eu.dvaitas.lt^
+||mon16-normal-us-ttp2.capcutapi.us^
+||mon16-normal-us-ttp2.capcutapi.us.edgesuite.net^
 ||mon16-normal-us-ttp.capcutapi.us^
+||mon16-normal-us-ttp.capcutapi.us.edgesuite.net^
 ||mon16-normal-zr-useast1a.tiktokv.com^
 ||mon16-platform-useast5.us.tiktokv.com^
 ||mon16-platform-ycru.tiktokv.com^
@@ -25674,10 +25694,13 @@
 ||mon.be.xiaomi.com^
 ||monbk.tiktokv.com^
 ||mon-boot.capcutapi.com^
+||mon-boot.capcutapi.com.edgesuite.net^
+||mon-boot.capcutapi.com.ttdns2.com^
 ||mon-boot.tiktokv.com^
 ||mon-boot.tiktokv.com.edgekey.net^
 ||mon.byteoversea.com^
 ||mon.capcutapi.us^
+||mon.capcutapi.us.edgesuite.net^
 ||mon-csj-maliva-ios.byteoversea.com^
 ||mon.domdog.io^
 ||money.clerkie.io^
@@ -25702,6 +25725,8 @@
 ||mon-phx.tiktokv.com^
 ||mon-ru.tiktokv.com^
 ||mon-sg.capcutapi.com^
+||mon-sg.capcutapi.com.edgesuite.net^
+||mon-sg.capcutapi.com.ttdns2.com^
 ||mon-sg.tiktokv.com^
 ||mon.snssdk.com^
 ||monster.branch.rocks^
@@ -25715,7 +25740,11 @@
 ||mon-useast2a.tiktokv.com^
 ||mon.us.tiktokv.com^
 ||mon-v2-boot.capcutapi.com^
+||mon-v2-boot.capcutapi.com.edgesuite.net^
+||mon-v2-boot.capcutapi.com.ttdns2.com^
 ||mon-va.byteoversea.com^
+||mon-va.capcutapi.com^
+||mon-va.capcutapi.com.ttdns2.com^
 ||mon-va.tiktokv.com^
 ||mon-va-useast2a.byteoversea.com^
 ||mon.zijieapi.com^
@@ -26644,7 +26673,11 @@
 ||obs.system1onesource.com^
 ||obtfhl.bellemaison.jp^
 ||obus-cn.dc.heytapmobi.com^
+||obus-conf-fr.heytapmobile.com^
 ||obus-config-cn.heytapmobi.com^
+||obus-conf-in.heytapmobile.com^
+||obus-conf-sg.heytapmobile.com^
+||obus-conf-us.heytapmobile.com^
 ||obus-dc10-cn.heytapmobi.com^
 ||obus-dc121100-sg.heytapmobile.com^
 ||obus-dc136101-cn.heytapmobi.com^
@@ -26669,6 +26702,7 @@
 ||obus-dc-us.heytapmobile.com^
 ||obus-dcyitai-cn.heytapmobi.com^
 ||obus-dcyitai-in.heytapmobi.com^
+||obus-dcyitai-sg.heytapmobile.com^
 ||obus-jssdk-cn.heytapmobi.com^
 ||obus-jssdk-fr.heytapmobile.com^
 ||obus-jssdk-in.heytapmobile.com^
@@ -27604,11 +27638,19 @@
 ||pciidk.shopee.vn^
 ||pciokm.glamuse.com^
 ||p.classroombookings.com^
+||pc-mon16-normal-us-ttp2.capcutapi.us^
 ||pc-mon16-normal-us-ttp.capcutapi.us^
+||pc-mon16-normal-us-ttp.capcutapi.us.edgesuite.net^
 ||pc-mon-boot.capcutapi.com^
+||pc-mon-boot.capcutapi.com.edgesuite.net^
+||pc-mon-boot.capcutapi.com.ttdns2.com^
 ||pc-mon-normal-sg.capcutapi.com^
+||pc-mon-normal-sg.capcutapi.com.edgesuite.net^
+||pc-mon-normal-sg.capcutapi.com.ttdns2.com^
 ||pc-mon.snssdk.com^
 ||pc-mon-v2-boot.capcutapi.com^
+||pc-mon-v2-boot.capcutapi.com.edgesuite.net^
+||pc-mon-v2-boot.capcutapi.com.ttdns2.com^
 ||pc-mon-va.byteoversea.com^
 ||pcm.symantec.com^
 ||pcnphysio-com.ca-eulerian.net^
@@ -30769,6 +30811,7 @@
 ||se-ad-lgsmartad-com.aws-prd.net^
 ||seahorseinfo.agilent.com^
 ||sealingdev.actonservice.com^
+||sea-log-rcv.vansound.com^
 ||sealtravels.com^
 ||seamarketny.actonservice.com^
 ||seamlesssalon.com^
@@ -43567,6 +43610,10 @@
 ||video-ads.a2z.com^
 ||video-ad-stats.googlesyndication.com^
 ||video-analytics-api.cloudinary.com^
+||video-api-fr.heytapmobile.com^
+||video-api-gl.heytapmobile.com^
+||video-api-in.heytapmobile.com^
+||video-api-ru.heytapmobile.com^
 ||video.bzfd.it^
 ||videoevents.outbrain.com^
 ||video.funnelbox.com^
