@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-04 07:00:23 UTC
+! Generated at 2026-08-05 07:00:27 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -66,9 +66,7 @@
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
-||aax-ott-sdk.amazon-adsystem.amazon.com^
 ||aax-ott-sdk.amazon-adsystem.com^
-||aax-us.amazon-adsystem.amazon.com^
 ||aax-us.amazon-adsystem.com^
 ||aax-us-east-1-ott.amazon-adsystem.amazon.com^
 ||aax-us-east.amazon-adsystem.com^
@@ -113,7 +111,6 @@
 ||acr-in-prd.samsungcloud.tv^
 ||acr-kr-prd.samsungcloud.tv^
 ||acr-mx-prd.samsungcloud.tv^
-||acr-nz-prd.samsungcloud.tv^
 ||acr.roku.com^
 ||acr-us-prd.samsungcloud.tv^
 ||activity.browser.intl.miui.com^
@@ -618,7 +615,6 @@
 ||box.pandora.xiaomi.com^
 ||bpu.samsungelectronics.com^
 ||br-ad-lgsmartad-com.aws-prd.net^
-||br-cota.vivoglobal.com^
 ||brc-visio-telemetry.officeapps.live.com^
 ||b-ring-fallback.msedge.net^
 ||b-ring.msedge.net^
@@ -1585,7 +1581,6 @@
 ||kz-stsdk.vivoglobal.com^
 ||kz-st-sl.vivoglobal.com^
 ||kz-st-sysupgrade.vivoglobal.com^
-||kz-vcode-api.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
 ||kz-vcode-or.vivoglobal.com^
 ||launch.apple.com^
@@ -2416,6 +2411,7 @@
 ||pr-ad-lgsmartad-com.aws-prd.net^
 ||prderrordumphsm.samsungcloudsolution.com^
 ||prderrordumpssm.samsungcloudsolution.net^
+||prd-qlik-telemetry.servicebus.windows.net^
 ||prd-usw2-requestattribution-iad.apple.com^
 ||predragate.dc.oppomobile.com^
 ||preload.xiaomi.com^

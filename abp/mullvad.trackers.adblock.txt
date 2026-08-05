@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-04 07:00:54 UTC
+! Generated at 2026-08-05 07:00:53 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -3945,9 +3945,7 @@
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
-||aax-ott-sdk.amazon-adsystem.amazon.com^
 ||aax-ott-sdk.amazon-adsystem.com^
-||aax-us.amazon-adsystem.amazon.com^
 ||aax-us.amazon-adsystem.com^
 ||aax-us-east-1-ott.amazon-adsystem.amazon.com^
 ||aax-us-east.amazon-adsystem.com^
@@ -4270,7 +4268,6 @@
 ||acr-in-prd.samsungcloud.tv^
 ||acr-kr-prd.samsungcloud.tv^
 ||acr-mx-prd.samsungcloud.tv^
-||acr-nz-prd.samsungcloud.tv^
 ||acro.egghead.link^
 ||acr.roku.com^
 ||acr-us-prd.samsungcloud.tv^
@@ -8552,7 +8549,6 @@
 ||brcicar.eccocar.com^
 ||brc.languageclass.cc^
 ||brclickrent.eccocar.com^
-||br-cota.vivoglobal.com^
 ||brcrx.eccocar.com^
 ||brc-visio-telemetry.officeapps.live.com^
 ||brdriveonrental.eccocar.com^
@@ -19682,7 +19678,6 @@
 ||kz-st-sl.vivoglobal.com^
 ||kz-st-sysupgrade.vivoglobal.com^
 ||kzutbh.takeappeal.com^
-||kz-vcode-api.vivoglobal.com^
 ||kz-vcode-od.vivoglobal.com^
 ||kz-vcode-or.vivoglobal.com^
 ||l2k30jsa.theochu.com^
@@ -28324,6 +28319,7 @@
 ||prd-collector-platform.ex.co^
 ||prderrordumphsm.samsungcloudsolution.com^
 ||prderrordumpssm.samsungcloudsolution.net^
+||prd-qlik-telemetry.servicebus.windows.net^
 ||prd-usw2-requestattribution-iad.apple.com^
 ||prealpha.go.levelbank.com^
 ||preciousplanes.com^
