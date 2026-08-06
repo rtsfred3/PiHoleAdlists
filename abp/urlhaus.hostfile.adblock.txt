@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-05 07:00:17 UTC
+! Generated at 2026-08-06 07:00:22 UTC
 ! 
 ! Sources: https://urlhaus.abuse.ch/downloads/hostfile
 ! 
@@ -9,6 +9,7 @@
 ||176.65.148.145.ptr.pfcloud.network^
 ||176.65.149.168.ptr.pfcloud.network^
 ||45.135.194.70.ptr.pfcloud.network^
+||abdulahad.net^
 ||acc.jiangsujiaxue.com^
 ||acms.saleseos.com^
 ||actualiza-red5g.app^
@@ -23,6 +24,9 @@
 ||allendaltonproduction.com^
 ||allendostmen.com^
 ||alternativas.ru^
+||amazom.my^
+||americanmanchester.org^
+||antleds.com^
 ||app.appzcvb.com^
 ||archivoscrosoft.com^
 ||areyouready.co.za^
@@ -47,8 +51,9 @@
 ||brightworks.cz^
 ||broadwalkindia.com^
 ||bvaco.com^
-||c2.strikec2.wtf^
 ||cambodiatouristservice.com^
+||canta-cn.com^
+||cashblaq.fit^
 ||catbaparadisehotel.com.vn^
 ||cat.dashabi.in^
 ||cat.xiaojiji.nl^
@@ -61,17 +66,22 @@
 ||chiptune.com^
 ||chrome-windows.ru^
 ||chuguadventures.co.tz^
+||cla.stingold.com^
 ||cloud.pearlpeel.com^
 ||cl.ssouy.com^
 ||clubdetiroelpicarcho.com^
 ||cn.unionlever.com^
 ||co-emas.com^
 ||compuserviceonline.com.br^
+||comumvidros.com.br^
 ||continentalgroup.net.in^
 ||coralasargetia.ro^
 ||corporacioncrf.com^
+||cpc188.day^
 ||cpofficial.com^
+||cqylt.net^
 ||creativevoltage.com^
+||crypter00.gt.tc^
 ||crypter.gt.tc^
 ||crystalpvp.ru^
 ||cs.go.kg^
@@ -87,16 +97,14 @@
 ||delp-heizungsbau.de^
 ||dexios.co.za^
 ||dezcom.com^
-||directdownloadl.ink^
 ||disk.accord1key.cn^
 ||divvanews.com^
 ||dl.1003b.56a.com^
 ||dl.dzqzd.com^
 ||dl.natgo.cn^
-||dn-pdflite.lat^
 ||doc.e-statements.app^
+||donal.gt.tc^
 ||donkeytourscroatia.com^
-||down.54nb.com^
 ||down.fwqlt.com^
 ||download.caihong.com^
 ||download.doumaibiji.cn^
@@ -105,6 +113,7 @@
 ||download.pdf00.cn^
 ||download.pdf00.com^
 ||download.suxiazai.com^
+||download.ubua.online^
 ||down.pcclear.com^
 ||down.qqfarmer.com.cn^
 ||dowonline.ru^
@@ -119,6 +128,7 @@
 ||endpoint.project0.cc^
 ||en.taichuan.com^
 ||enter-pverif-code.info^
+||epanpano.com^
 ||evangroup.ru^
 ||fakers.co.jp^
 ||farschid.de^
@@ -140,10 +150,12 @@
 ||gboutros.howto.rocks^
 ||genddos.st^
 ||gestionycobranzas.com^
+||gestroom.it^
 ||globalbank.us^
 ||googletagamnager.com^
 ||grantexx.com^
 ||greenf.alexion.rs^
+||grupohenry1.com^
 ||grupomcperu.com^
 ||gutando.com^
 ||hasalltalent.com^
@@ -154,11 +166,12 @@
 ||hjha.ao^
 ||hobobot.net^
 ||htdentshop.com^
+||hwykplqn.xyz^
 ||icoffeecloud.com^
 ||ignetwork.us^
 ||igra123.com^
-||ijexgroup.com.br^
 ||ikincielesyaciankara.com.tr^
+||indusenterprises.co^
 ||ircftp.net^
 ||isiore.com.co^
 ||itssprout.com^
@@ -167,24 +180,27 @@
 ||jessespridecharters.com^
 ||jlwz.cn^
 ||joyeriatauro.com^
-||kaiwyrey.eu.cc^
 ||kavacanada.ca^
 ||kenwillzltd.com^
 ||khavar.com^
-||kimyen.net^
 ||kits.frog.tw^
 ||kokorostore.it^
 ||konsor.ru^
 ||landonirwin.com^
 ||lawfirm.paperbirdtech.com^
+||lenotecadiarqua.it^
 ||libss.0x504.com^
 ||lindnerelektroanlagen.de^
+||linktrap.co^
+||lion44.net^
 ||local-update.com^
 ||lomejordesalamanca.es^
 ||lomiva.vu^
+||loosun.net^
 ||luizmatoso.com.br^
-||lumacrea.com^
 ||maidforyou1985.com^
+||mailify.cc^
+||mandarin.net.au^
 ||meetvideogoogle.com^
 ||metrics.gocloudmaps.com^
 ||miriamgualda.com.br^
@@ -192,9 +208,7 @@
 ||m.jkoa.co.kr^
 ||m.meta-dm.com^
 ||mogimall.com^
-||mt-link.hxnxajp.club^
-||mt-link.jiosjcjp.club^
-||mt-link.qdhuzf.cc^
+||mrsweaterltd.com^
 ||muaklekcoop.com^
 ||muledo.com^
 ||mundocarnes.cl^
@@ -205,7 +219,6 @@
 ||n.vs108.com^
 ||ny.lshdw.cc^
 ||o24o.ru^
-||oim.doganltd.com.tr^
 ||ojang.pe.kr^
 ||oknoplastik.sk^
 ||onfiltre.com.tr^
@@ -214,17 +227,18 @@
 ||palharesinformatica.com.br^
 ||panel.b2brouter-secure.com^
 ||pay.aqiu6.com^
-||pcupd.com^
+||paymentautomations.biz^
 ||pfatrivandrum.org^
 ||planetariumobil.ro^
+||pocopaco.co.za^
 ||postelnini.mk^
 ||preciosasjoyitas.com.mx^
 ||public.demo.securecloudsandbox.com^
 ||purmed.ro^
-||pvsa.gxfugy.cn^
 ||qiniuyunxz.yxflzs.com^
 ||qv.co.ke^
 ||ramirex.ro^
+||rcf.co.mz^
 ||rdm.91yunma.cn^
 ||reauthenticator.com^
 ||records.dennisign.se^
@@ -245,7 +259,6 @@
 ||savannahadventureslimited.com^
 ||scainseto.com.br^
 ||scanbot.me^
-||scoala1gherla.ro^
 ||sec.dashabi.in^
 ||sec.xiaojiji.nl^
 ||sec.xiaoshabi.nl^
@@ -261,9 +274,12 @@
 ||skript.club^
 ||smartermail.host^
 ||smoking-hot.net^
-||soap2dayfree.top^
+||sochibeer.ru^
+||soft.110route.com^
 ||softcatalog.ru^
+||solar-sanat.net^
 ||spgint.com^
+||static.ilclock.com^
 ||static.topxgun.com^
 ||static.youdm.cn^
 ||stdown.dinju.com^
@@ -273,6 +289,7 @@
 ||support.clz.kr^
 ||sutterpoint.com^
 ||svirtual.sanviatorperu.edu.pe^
+||swiftfusion.tech^
 ||sydneyaffordablecremations.com.au^
 ||talentrecruitments.com^
 ||tangentwaves.com^
@@ -296,7 +313,6 @@
 ||trtmyanmar.com^
 ||tuasesoriadigital.es^
 ||twu-hwt.org^
-||un1rw11q4u.com^
 ||universami.ge^
 ||upaicdn.xinmei365.com^
 ||upchemicals.co.in^
@@ -317,6 +333,7 @@
 ||widexenmexico.com.mx^
 ||windomstatetheater.com^
 ||wittenhorst.eu^
+||wp.ameyiando.com^
 ||www.ardguisser.com^
 ||www.astenterprises.com.pk^
 ||www.automobile-bk.de^
@@ -331,9 +348,8 @@
 ||www.dra.com.ve^
 ||www.drgenov.com^
 ||www.first-security-verden.de^
-||www.gestroom.it^
 ||www.hostingcloud.science^
-||www.hseda.com^
+||www.hqsblog.com^
 ||www.intelligradeeducation.vicentecisnerospub.com^
 ||www.jozefinskiatelje.si^
 ||www.kenwillzltd.com^
@@ -346,6 +362,7 @@
 ||www.newkey.co.kr^
 ||www.notbak.com^
 ||www.ojang.pe.kr^
+||www.propertiesofcayman.com^
 ||www.reifenquick.de^
 ||www.saf-oil.ru^
 ||www.salonmarketing.ca^

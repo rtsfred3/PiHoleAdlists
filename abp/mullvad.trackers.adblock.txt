@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-05 07:00:53 UTC
+! Generated at 2026-08-06 07:01:01 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -5704,6 +5704,7 @@
 ||analytics.massivwerthaus.at^
 ||analytics.matchbin.com^
 ||analytics.maxroll.gg^
+||analytics.maxx53.com^
 ||analytics.mc500.info^
 ||analytics.media-proweb.de^
 ||analytics.meituan.net^
@@ -13394,6 +13395,7 @@
 ||elq.xperthr.nl^
 ||elr.sfr.fr^
 ||els298548211.medtronic.com^
+||el.siglo.mx^
 ||eltlio.boribori.co.kr^
 ||elusivebreeze.com^
 ||elusivecascade.com^
@@ -13836,6 +13838,7 @@
 ||engage.jlclive.com^
 ||engage.krm22.com^
 ||engage.marketone.com^
+||engagement.coremedia.cloud^
 ||engagement.feedly.com^
 ||engagemetrics.cisco.com^
 ||engage.mhainc.com^
@@ -14236,6 +14239,7 @@
 ||eventsink.api.redbee.live^
 ||events.interface.com^
 ||events.jotform.com^
+||events.julephosting.de^
 ||events.kangan.edu.au^
 ||events.limango.com^
 ||events-logs.doctolib.com^
@@ -14529,6 +14533,7 @@
 ||fancydune.com^
 ||fangfeeling.com^
 ||fan.info.heat.com^
+||fanless.net^
 ||faokwl.sklepogrodniczy.pl^
 ||faqtjp.redley.com.br^
 ||farahatco.actonservice.com^
@@ -15018,7 +15023,6 @@
 ||fptls3.com^
 ||fptls4.com^
 ||fptls.com^
-||fpt.microsoft.com^
 ||fp-upload.dun.163.com^
 ||fpvrgm.blackforestdecor.com^
 ||fpxewa.ilmeteo.it^
@@ -17111,6 +17115,7 @@
 ||idqwqm.kkday.com^
 ||idrivelogistics.actonservice.com^
 ||ids.actonservice.com^
+||idsmodules.com^
 ||idstatus.sky.com^
 ||id-third-appstore.vivoglobal.com^
 ||iduk.barcodesgroup.com^
@@ -23830,6 +23835,7 @@
 ||metric.emerils.com^
 ||metric.fatcatalog.com^
 ||metric.foodbusinessnews.net^
+||metricfresh.com^
 ||metric.fxdd.com^
 ||metric.genesis.es^
 ||metric.golfnow.com^
@@ -27541,6 +27547,7 @@
 ||pa.opqr.co^
 ||papamug.com^
 ||papemz.rcwilley.com^
+||pa.pinpoll.com^
 ||papi.stylar.ai^
 ||pappagallu.onefootball.com^
 ||paqqlk.motatos.de^
@@ -27582,6 +27589,7 @@
 ||partnersuccessmetrics.cisco.com^
 ||partnerwith.us.streetbond.com^
 ||partplanes.com^
+||partycharge.com^
 ||passivepolo.com^
 ||passwordbyte.com^
 ||pa-stats.encore.dev^
@@ -35147,6 +35155,7 @@
 ||snowflake.qq.com^
 ||snowman.odencat.com^
 ||snowmentor.com^
+||snowpeaksoftware.com^
 ||snowplowjs.darwin.cx^
 ||snprxx.wwfmarket.com^
 ||snptrk.com^
@@ -35192,6 +35201,7 @@
 ||solidsub.com^
 ||solmax.actonservice.com^
 ||solosduetstrios.com^
+||solsticeblack.com^
 ||solucionesreales.americanexpress.es^
 ||solution.agc-chemicals.com^
 ||solution.resonac.com^
@@ -35513,6 +35523,7 @@
 ||s-onetag.com^
 ||soneticscorp.actonservice.com^
 ||songsterritory.com^
+||sonicsessions.net^
 ||so.opentable.com^
 ||so.opentable.co.uk^
 ||soothingglade.com^
@@ -36802,6 +36813,7 @@
 ||stats.executebig.org^
 ||stats.exploratv.ca^
 ||stats.extendedstayamerica.com^
+||stats.externulls.com^
 ||stats.extramilefloorcare.com^
 ||stats.eyehelp.co^
 ||stats.fabiofranchino.com^
@@ -38349,7 +38361,6 @@
 ||target.eon.de^
 ||target.ey.com^
 ||target.farnell.com^
-||targetfax.com^
 ||target.fiatusa.com^
 ||target.firestonebpco.com^
 ||target.fleetcardsusa.com^
