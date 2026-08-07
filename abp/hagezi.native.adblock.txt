@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-06 07:00:32 UTC
+! Generated at 2026-08-07 07:00:22 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -1776,7 +1776,6 @@
 ||maws-aax-eu-rtb-adx.amazon-adsystem.com^
 ||maws-aax-eu-rtb.amazon-adsystem.com^
 ||maws-aax-fe.amazon-adsystem.com^
-||maws-aax-fe-sin.amazon-adsystem.com^
 ||maws-aax-us-east.amazon-adsystem.com^
 ||maws-aax-us-east-rtb-adx.amazon-adsystem.com^
 ||maws-aax-us-east-rtb.amazon-adsystem.com^
@@ -2411,7 +2410,6 @@
 ||pr-ad-lgsmartad-com.aws-prd.net^
 ||prderrordumphsm.samsungcloudsolution.com^
 ||prderrordumpssm.samsungcloudsolution.net^
-||prd-qlik-telemetry.servicebus.windows.net^
 ||prd-usw2-requestattribution-iad.apple.com^
 ||predragate.dc.oppomobile.com^
 ||preload.xiaomi.com^
@@ -2810,6 +2808,7 @@
 ||sn.lgsmartad.com^
 ||sonar.prime-video.amazon.dev^
 ||spo.nel.measure.office.net.cardano.com^
+||sponsored-ads.amazon.ae^
 ||sponsored-ads.amazon.ca^
 ||sponsored-ads.amazon.co.jp^
 ||sponsored-ads.amazon.com^
@@ -2817,6 +2816,7 @@
 ||sponsored-ads.amazon.com.br^
 ||sponsored-ads.amazon.com.mx^
 ||sponsored-ads.amazon.co.uk^
+||sponsored-ads.amazon.eg^
 ||sponsored-ads.amazon.es^
 ||sponsored-ads.amazon.fr^
 ||sponsored-ads.amazon.in^

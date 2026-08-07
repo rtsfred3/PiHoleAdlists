@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-06 07:01:01 UTC
+! Generated at 2026-08-07 07:00:51 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -23291,7 +23291,6 @@
 ||maws-aax-eu-rtb-adx.amazon-adsystem.com^
 ||maws-aax-eu-rtb.amazon-adsystem.com^
 ||maws-aax-fe.amazon-adsystem.com^
-||maws-aax-fe-sin.amazon-adsystem.com^
 ||maws-aax-us-east.amazon-adsystem.com^
 ||maws-aax-us-east-rtb-adx.amazon-adsystem.com^
 ||maws-aax-us-east-rtb.amazon-adsystem.com^
@@ -28327,7 +28326,6 @@
 ||prd-collector-platform.ex.co^
 ||prderrordumphsm.samsungcloudsolution.com^
 ||prderrordumpssm.samsungcloudsolution.net^
-||prd-qlik-telemetry.servicebus.windows.net^
 ||prd-usw2-requestattribution-iad.apple.com^
 ||prealpha.go.levelbank.com^
 ||preciousplanes.com^
@@ -35625,6 +35623,7 @@
 ||spmyma.moscowfresh.ru^
 ||sp.naver.com^
 ||spo.nel.measure.office.net.cardano.com^
+||sponsored-ads.amazon.ae^
 ||sponsored-ads.amazon.ca^
 ||sponsored-ads.amazon.co.jp^
 ||sponsored-ads.amazon.com^
@@ -35632,6 +35631,7 @@
 ||sponsored-ads.amazon.com.br^
 ||sponsored-ads.amazon.com.mx^
 ||sponsored-ads.amazon.co.uk^
+||sponsored-ads.amazon.eg^
 ||sponsored-ads.amazon.es^
 ||sponsored-ads.amazon.fr^
 ||sponsored-ads.amazon.in^
