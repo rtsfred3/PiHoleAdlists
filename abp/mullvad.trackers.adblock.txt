@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-11 07:00:34 UTC
+! Generated at 2026-08-12 07:00:43 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4569,6 +4569,7 @@
 ||adscore.com^
 ||ads.dandelionchocolate.jp^
 ||adsdk.yandex.ru^
+||*.adservice.google.com^
 ||adservice.google.com^
 ||ad.shinjuku-mens-chuoh.com^
 ||adsmeasurement.com^
@@ -5267,6 +5268,7 @@
 ||analytics.glance.inmobi.com^
 ||analytics.global.sky.com^
 ||analytics.gokwik.co^
+||*.analytics.google.com^
 ||analytics.google.com^
 ||analytics.gooogol.com^
 ||analytics.greenmountain.com^
@@ -6373,6 +6375,7 @@
 ||app.menupromo.inlinefx.com^
 ||app.merchant.bankofamerica.com^
 ||app.messages.sonicwall.com^
+||*.appmetrica.yandex.ru^
 ||appmetrica.yandex.ru^
 ||app.mgoblue.com^
 ||app.miamihurricanes.com^
@@ -8033,6 +8036,7 @@
 ||browser.covatic.io^
 ||browserguides.net^
 ||browser.pipe.aria.microsoft.com^
+||*.browser.sentry-cdn.com^
 ||browser.sentry-cdn.com^
 ||browser-updater.yandex.net^
 ||brpayless.eccocar.com^
@@ -14818,6 +14822,9 @@
 ||go.nvp.com^
 ||goodfoodtours.com^
 ||google-analytics-cn.com^
+||*.google-analytics.com^
+||*.googleanalytics.com^
+||google-analytics.com^
 ||googleanalytics.com^
 ||googleoptimize-cn.com^
 ||googleoptimize.com^
@@ -28855,6 +28862,7 @@
 ||servicing.unitedautocredit.net^
 ||serv.letudiant.fr^
 ||se-se.siemensplmevents.com^
+||*.sessions.bugsnag.com^
 ||sessions.bugsnag.com^
 ||sessions.embeddables.com^
 ||session.timecommerce.net^
