@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-12 07:00:19 UTC
+! Generated at 2026-08-13 07:00:18 UTC
 ! 
 ! Sources: https://urlhaus.abuse.ch/downloads/hostfile
 ! 
@@ -7,6 +7,7 @@
 ||123.ywxww.net^
 ||1717.1000uc.com^
 ||2goelectricity.co.za^
+||2.indexsinas.me^
 ||abdulahad.net^
 ||acc.jiangsujiaxue.com^
 ||acms.saleseos.com^
@@ -23,6 +24,7 @@
 ||alphalkenya.com^
 ||alternativas.ru^
 ||americanmanchester.org^
+||antleds.com^
 ||api.mineblack.lol^
 ||app.appzcvb.com^
 ||archivoscrosoft.com^
@@ -33,7 +35,6 @@
 ||awarenessexhibition.com^
 ||backupso.com^
 ||bapak178.org^
-||beak.in^
 ||beoauto.alexion.rs^
 ||bito.com.pk^
 ||blankeyeo.com^
@@ -93,7 +94,6 @@
 ||donkeytourscroatia.com^
 ||down.54nb.com^
 ||down.fwqlt.com^
-||download.caihong.com^
 ||download.doumaibiji.cn^
 ||download.haozip.com^
 ||download.kaobeitu.com^
@@ -105,7 +105,6 @@
 ||down.qqfarmer.com.cn^
 ||dreamwatchevent.com^
 ||duct-master.com^
-||durakutihs.com^
 ||dusttv.com^
 ||d.wanyouxi7.com^
 ||dynga.pl^
@@ -113,7 +112,9 @@
 ||elisans.novayonetim.com^
 ||embedone.com^
 ||endpoint.project0.cc^
+||en.taichuan.com^
 ||epanpano.com^
+||essizs.com^
 ||fakers.co.jp^
 ||farschid.de^
 ||fd.v2downf.shop^
@@ -121,6 +122,7 @@
 ||filerit.com^
 ||file.uhsea.com^
 ||first-security-verden.de^
+||flooriscoveringworld.com^
 ||flyingmutts.com^
 ||fmrio.com^
 ||fukt.link^
@@ -131,26 +133,21 @@
 ||galerisenimutiara.com^
 ||genddos.st^
 ||gestionycobranzas.com^
-||gestroom.it^
 ||globalbank.us^
 ||golvteametvarberg.se^
 ||grantexx.com^
 ||greenf.alexion.rs^
-||grupohenry1.com^
 ||grupomcperu.com^
 ||gutando.com^
 ||hasalltalent.com^
-||heroestales.com^
 ||hitman-pro.ru^
 ||hitstation.nl^
 ||hobobot.net^
 ||hseda.com^
-||htdentshop.com^
 ||icoffeecloud.com^
 ||ignetwork.us^
 ||igra123.com^
 ||ikincielesyaciankara.com.tr^
-||iloveboats.st^
 ||indusenterprises.co^
 ||ircftp.net^
 ||isiore.com.co^
@@ -159,7 +156,6 @@
 ||jawaratekno.com^
 ||jenniferloeffler.com^
 ||jessespridecharters.com^
-||jlwz.cn^
 ||joker.aec944b68370194a50.link^
 ||joyeriatauro.com^
 ||kavacanada.ca^
@@ -174,8 +170,9 @@
 ||local-update.com^
 ||lomejordesalamanca.es^
 ||luizmatoso.com.br^
+||lumacrea.com^
 ||maidforyou1985.com^
-||mail.quietsurfwi.help^
+||mandarin.net.au^
 ||metrics.gocloudmaps.com^
 ||miriamgualda.com.br^
 ||mitreart.com^
@@ -208,11 +205,9 @@
 ||planetariumobil.ro^
 ||postelnini.mk^
 ||preciosasjoyitas.com.mx^
-||privrawmirai.privnetwork.tech^
 ||public.demo.securecloudsandbox.com^
 ||purmed.ro^
 ||pvsa.gxfugy.cn^
-||quietsurfwi.help^
 ||qv.co.ke^
 ||ramirex.ro^
 ||rcf.co.mz^
@@ -272,14 +267,12 @@
 ||svirtual.sanviatorperu.edu.pe^
 ||swiftfusion.tech^
 ||sydneyaffordablecremations.com.au^
-||sysupdate.online^
 ||talentrecruitments.com^
 ||tangentwaves.com^
 ||tanscarattorneys.co.tz^
 ||tapestryoftruth.com^
 ||tecunonline.com^
 ||tehnomag.rs^
-||tengfeidn.cn^
 ||tenis-team-km.com^
 ||test.peperoncinochepassione.it^
 ||theholidayroads.com^
@@ -291,7 +284,8 @@
 ||toolshare.com.tr^
 ||top8onlinegame.com^
 ||transparenciacanaa.com.br^
-||trtmyanmar.com^
+||triflackcom.com^
+||trueinggrik.com^
 ||tuasesoriadigital.es^
 ||twu-hwt.org^
 ||upaicdn.xinmei365.com^
@@ -309,7 +303,6 @@
 ||vizyonuniversitesi.web.tr^
 ||voltagec2.tech^
 ||vrajras.com^
-||waf.proxytunnel.co^
 ||website.mypetapp.co.za^
 ||widexenmexico.com.mx^
 ||windomstatetheater.com^
@@ -323,6 +316,7 @@
 ||www.benshamcentre.co.uk^
 ||www.blackhattoolz.com^
 ||www.bratusferramentas.grupomoltz.com.br^
+||www.chenwangqiao.com^
 ||www-connect-secure-wellcfargo.sekolahkejarpaket.com^
 ||www.controliumbt.com^
 ||www.crazywickedaddiction.com^
@@ -353,7 +347,6 @@
 ||www.sgeseducation.com^
 ||www.silver-hubdachwohnwagen.de^
 ||www.springhillmontessori.com^
-||www.ss-01.com^
 ||www.starcountry.net^
 ||www.support-data.com^
 ||www.tdejb.com^

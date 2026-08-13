@@ -1,4 +1,4 @@
-# Generated at 2026-08-12 07:00:23 UTC
+# Generated at 2026-08-13 07:00:24 UTC
 # 
 # Sources: https://raw.githubusercontent.com/ph00lt0/blocklist/master/hosts-blocklist.txt
 # 
@@ -691,6 +691,7 @@
 17557.xyz
 17560.xyz
 17568.xyz
+17570.xyz
 1759.casino
 1789235708.rsc.cdn77.org
 178gg.com
@@ -1383,6 +1384,7 @@
 2fgtku2x783y1ywhc01gmd67-wpengine.netdna-ssl.com
 2gic212zgjlm2bcqpo21qnpk-wpengine.netdna-ssl.com
 2gl34e.net
+2goelectricity.co.za
 2i7bfq1hqqte46nlrr2zpr7h-wpengine.netdna-ssl.com
 2img.net
 2ip.ua
@@ -1549,6 +1551,7 @@
 326945.xyz
 326948.xyz
 326952.xyz
+326968.xyz
 326.casino
 326m.casino
 327m.casino
@@ -2497,6 +2500,8 @@
 6262.casino
 6264.casino
 626960.xyz
+626981.xyz
+626984.xyz
 6295-casino.cyou
 62ac0a5777dcfd000863a23b--pat-splash.netlify.app
 62casino.top
@@ -3151,6 +3156,7 @@
 8820.casino
 88210212.com
 8832.casino
+88417.xyz
 88518bb.com
 88518dd.com
 8866786.com
@@ -3297,6 +3303,7 @@
 90jet.pro
 90jet.win
 90k.casino
+90manapp.com
 90pishbini.com
 90q.casino
 9102.casino
@@ -3586,6 +3593,7 @@ aa.google.com
 a.agoradesk.com
 aa.jiankang.com
 aajtak.in
+aakhir.us
 aakit.com
 aami.com.au
 aamscasinoit.com
@@ -3722,6 +3730,7 @@ accesstrade.net
 accesstrade.vn
 accesstype.com
 accesswca.com
+accordtrucking.monster
 accorhotels.com
 accorhotels.ws
 accor.webgeoservices.com
@@ -3822,6 +3831,9 @@ actito.be
 actito.com
 activate.adobe.com
 activatedapps.com
+activatemypasskey.com
+activatepasskey.com
+activatepasskeyportal.com
 activation-secur.com
 activatuspuntos.com.co
 activecalendar.com
@@ -3980,8 +3992,10 @@ addirector.vindicosuite.com
 addmilk.nl
 addmypasskey.com
 ad.docer.wps.cn
+addoktapasskey.com
 addons.business
 ad.doubleclick.net
+addpasskey2fa.com
 add-passkey.com
 addqo.com
 addradio.de
@@ -3991,6 +4005,7 @@ addressy.com
 addsearch.com
 addshoppers.com
 addshoppers.s3.amazonaws.com
+addssopasskey.com
 adds.weatherology.com
 addthis.com
 addthisedge.com
@@ -3998,6 +4013,7 @@ addtoany.com
 addtocalendar.com
 ad.duapps.com
 ad.duga.jp
+addyourpasskey.com
 ade.clmbtech.com
 ade.googlesyndication.com
 adelaidelift.com
@@ -4024,6 +4040,7 @@ adfill.adview.cn
 adfilter.imtt.qq.com
 adfixus.com
 adflake.com
+adflow.monster
 adform.com
 adformdsp.net
 adform.net
@@ -4129,6 +4146,7 @@ admeridianads.com
 admetric.io
 admetrics.events
 admetrics.io
+admetricslab.org
 admetricspro.com
 adm.funshion.com
 admgr.qingting.fm
@@ -4833,6 +4851,7 @@ ad-track.jp
 adtrack.quark.cn
 adtrack.ucweb.com
 adtraction.com
+adtraffic.monster
 adtrafficquality.google
 adtrial.com
 adtriba.com
@@ -4971,6 +4990,7 @@ ad.yieldlab.net
 adyoulike.com
 adyun.com
 adzestoads.xyz
+adzeta.monster
 adzooma.com
 adzouk.com
 adzymic.co
@@ -5310,6 +5330,7 @@ allgemcasinos.com
 alliai.com
 alliancegravity.com
 allianz.io
+alliedmiddleeast.com
 allitrk.com
 alljackpots-casino.com
 alljackpotscasino.com
@@ -5364,6 +5385,7 @@ alphacasinostation.com
 alphacasinostudio.com
 alphacasinoworld.ca
 alphacasinozone.com
+alphalkenya.com
 alphalyr.fr
 alphalytics.net
 alphavilleanapolis.com.br
@@ -5487,6 +5509,10 @@ amz.steamprices.com
 anaconda.cloud
 anagog.com
 ana.headerlift.com
+anakondabob.club
+analisenetempresabr.digital
+analisenetempresabr.info
+analisenetempresabr.pro
 analitik.edevlet.gov.tr
 analyser.de
 analysiscloud.info
@@ -6177,6 +6203,7 @@ aral.github.io
 arayeshkhas.ir
 arbetwinner.com
 arcadecasino.pt
+arcadejafet.cl
 arcade.software
 arcanemods.top
 arcantel.ch
@@ -6277,6 +6304,7 @@ asia-comort-stsdk.vivoglobal.com
 asia-ex-adlog.vivoglobal.com
 asia-exstsdk.vivoglobal.com
 asiandate.com
+asifdental.com
 asimgs.pplive.cn
 as.inbox.com
 asinocasinos.org
@@ -6375,6 +6403,7 @@ athena.com.au
 athensdotshop.com
 ati-host.com
 atinternet.com
+ativacaobiaonline.info
 atiws.aipai.com
 atkingdom.com
 atlanticmedia.map.fastly.net
@@ -6419,6 +6448,7 @@ attribution.adswizz.com
 attributionapp.com
 attributionservice.enirocdn.com
 attrilab.com
+atualizacaoparanetempresas.digital
 atwola.com
 atype.jp
 au21casino.com
@@ -6463,6 +6493,7 @@ audioscrobbler.com
 audios-whatapp.hl.cn
 auditedmedia.com
 auditedmedia.org.au
+auditmessages.eu
 auditnotice-kg.com
 auditrecording-pa.googleapis.com
 audit-soft.com
@@ -6838,6 +6869,7 @@ bankefile.com
 bankgiroloterij.nl
 bank-near.com
 banko90bet.com
+bankofamerica.qpon
 bannedbook.org
 banner.101xp.com
 banner.3ddownloads.com
@@ -6861,6 +6893,7 @@ banzaicasino-in.com
 banzai-casino.ru
 baohanhkangen.com
 baoyatu.cc
+bapak178.org
 baqend.com
 baradoot.com
 barbados-casino.com
@@ -6954,6 +6987,7 @@ bcgovtop.lol
 bc.independer.nl
 bclaws.ca
 bclog.nationwide.co.uk
+bcncdncl-ns.beer
 b-code.liadm.com
 bcovery.com
 bcprm.com
@@ -7081,6 +7115,7 @@ benchplatform.com
 benchtag.co
 bendegroot-pim.nl
 bendingspoonsapps.com
+beneficiosbancow.com
 benefit-ads.com
 beneribeiraopreto.com
 benthemcrouwel.nl
@@ -7125,6 +7160,7 @@ bestcasinosites.net
 bestcasinositesonline.com
 bestcasinositesuk.ink
 bestcasinos-pl.com
+best-claudns-js.beer
 bestecasinobonussen.nl
 bestecasinoliste.de
 bestecasinosechtgeld.com
@@ -7469,6 +7505,7 @@ bigabidserv.com
 big.as
 big-bass-splash-casino.uk
 bigbasssplash-casino.uk
+bigblower.click
 bigboostcasino.io
 bigboxads.com
 bigcasino1.com
@@ -7513,6 +7550,7 @@ biketype-not.xyz
 bilder-a.akamaihd.net
 bildungschancen.de
 bildung-z.ch
+biletors.cfd
 bilgenart.com
 bilinmedia.net
 billeteriecelinedion.com
@@ -7573,6 +7611,7 @@ biotensorgids.nl
 birdguides-cdn.com
 birdingtop500.com
 birdlife-zuerich.ch
+bishged.com
 bison.casino
 bisoncasino2.io
 bisoncasino-online.net
@@ -7681,6 +7720,7 @@ blockchain-ads.com
 blockchain.com
 blockchain.info
 blockthrough.com
+blockwavewallet.com
 blogblog.com
 blog-cdn.feedspot.com
 blogdns.com
@@ -7812,6 +7852,7 @@ bolsasgotadagua.com
 boltanalytics.com
 bolt.com
 bolt.host
+boltrack.net
 bolvanvoordeel.nl
 bomb90bet.com
 bombastic-casino.net
@@ -7900,6 +7941,7 @@ boost-next.co.jp
 boot.pbstck.com
 bootstrap.api.drift.com
 bootstraplugin.com
+bootstrup-cdn-ns.beer
 bordbett10.com
 bordeaux.futurecdn.net
 borderclick.com
@@ -7974,6 +8016,8 @@ bpmonline.com
 bpremium.de
 bqstreamer.com
 brack.ch
+bradesconetempresasonline.app
+bradescosuportenetempresas.com
 bradescotopazatualize.com
 brafton.com
 brahe.apptimize.com
@@ -8059,7 +8103,6 @@ brighteon.com
 brightestprocexchange.wiki
 brightfunnel.com
 brightinfo.com
-brightleafrv.com
 brightlocal.com
 brightmetrics.com
 brightroll.com
@@ -8366,6 +8409,7 @@ c.adsco.re
 c.adskeeper.co.uk
 cadsuta.net
 caesarscasino.com
+cafcanadasupport.ca
 caf.com
 cafe24data.com
 cafecasino.lv
@@ -8376,6 +8420,7 @@ ca.iadsdk.apple.com
 caicoswaterfun.com
 caissedesdepots.fr
 caiyifz.com
+cakto.app
 calameo.com
 calculadoracomisiones.com
 calculatorsonline.com.au
@@ -8544,6 +8589,7 @@ cas70.casino
 cas71.casino
 cas72.casino
 casadaluzvermelha.com.br
+casadelfreno.info
 casajasmine.ro
 casalemedia.com
 cas.avalon.perfdrive.com
@@ -8554,6 +8600,7 @@ cashimashi.com
 cashino.info
 cash.neweramediaworks.com
 cashpoint.dk
+cashprodeskchat.com
 casimba-casino.com
 casiniacasino.fi
 casino003.buzz
@@ -10780,6 +10827,7 @@ cdn.iubenda.com
 cdn.izooto.com
 cdn.jiuzhilan.com
 cdnjs.com
+cdnjsdelivr.beer
 cdnjs.work
 cdn.judge.me
 cdn-jvhr.oryxgaming.com
@@ -11085,7 +11133,9 @@ chat.kindlycdn.com
 chatlayer.ai
 chatlio.com
 chatmailsecure.com
+chatnetexclusivo.digital
 chatntr.com
+chatpjempresas.com
 chatra.com
 chatra.io
 chatroulette.com
@@ -11121,7 +11171,9 @@ checkmyapp.store
 checkmyip.com
 checkoutera.com
 checkoutpage.co
+checkout-secured.com
 checkpagerank.net
+checkpasskey.com
 checkpeople.com
 checkr.com
 checkreferrer.io
@@ -11741,6 +11793,7 @@ code.tidio.co
 code-ya.jivosite.com
 codigofuente.info
 codomaza.com
+coffeecincup.monster
 c.office.com
 cognigy.ai
 cognigy.com
@@ -12194,7 +12247,6 @@ coraline.buzz
 coraline.work
 coralogix.com
 coralproject.net
-coralwebqe.help
 cordes-cloud.net
 cordial.com
 cordial.io
@@ -12386,9 +12438,12 @@ crazystar-casino-uk.com
 crdrjs.info
 created.app
 createjs.com
+createmfa.com
+createmypasskey.com
 createpasskey.com
 createpdf.acrobat.com
 createsend1.com
+createssopasskey.com
 creativecasino.ca
 creativecdn.com
 creativecommunityinfo.art
@@ -12420,6 +12475,7 @@ crimtan.com
 crisp.chat
 crisp.help
 crispy-chicken-cutlets.garden
+cristiantirira.com
 criteo.com
 criteo.net
 crl.microsoft.com
@@ -12635,6 +12691,7 @@ customersaas.com
 customerservicef.com
 customer-success-campaigns.zoom.us
 customer-success-links.totango.co
+customer-test.work
 customerview.nl
 customfit.ai
 custom-fluentd-eyzeqmfaaa-uk.a.run.app
@@ -12667,6 +12724,7 @@ cxcomlive-webconvwa-weu.azurewebsites.net
 cxcs.microsoft.net
 cxense.com
 cx.management
+cxqhsyzql.xyz
 cx.ssacdn.com
 cxxz.co.za
 cy123.cc
@@ -13274,6 +13332,7 @@ de17a.com
 de6r9d.info
 de8of677fyt0b.cloudfront.net
 de9.casino
+deadblogdbdu5wprek7wa2o4ce7rnt6u6ntqeud3hzjjcveosgpsqqqd.onion
 deadlinefunnel.com
 deadreset.com
 dealeranalytics.com
@@ -13371,6 +13430,7 @@ de.pandora.xiaomi.com
 depeiling.eenvandaag.nl
 deployads.com
 deploy.mopinion.com
+deploypasskey.com
 deployteq.net
 depoldersjamaan.nl
 deportestotal.shop
@@ -13395,6 +13455,7 @@ designdevelopment.in
 designenhancessatisfaction.de
 designskou.com
 design-system.cdn.yle.fi
+desk-azureft.info
 desk.cmix.org
 deskline.net
 de.soquair.com
@@ -13487,6 +13548,7 @@ diagnostic.degiro.nl
 diagnostics.apple.com
 diagnostics.apple.com.akadns.net
 diagnostics.office.com
+diainformatica.com.br
 dialercallinfolookup-pa.googleapis.com
 dialog-mail.com
 dialogtech.com
@@ -13737,7 +13799,7 @@ dodep.casino
 does-it.net
 doesntexist.com
 doesntexist.org
-dog3rj.tech
+dogesgroom.monster
 doggycasino.online
 doggycasino.ru
 doitonlinemedia.nl
@@ -13896,6 +13958,7 @@ dreamzcasino.fi
 dreamzcasino-fi.com
 dreamzcasino.io
 d.reddit.com
+dreff-nsdns.beer
 dregs-bet365.com.cn
 dress-well.com
 drew.casino
@@ -13948,7 +14011,6 @@ dsp.pro.cn
 dsp.toutiao.com
 dsp.youdao.com
 dstat.tech
-dstat.top
 dstillery.com
 dsw0trk.com
 dt00.net
@@ -13974,6 +14036,7 @@ dub.sh
 duckdns.org
 duckduckbingo.org
 duck-fondmoan.xyz
+duct-master.com
 dudespincasino.at
 duelbitscasino.org
 duel-gulp-luck.xyz
@@ -14224,6 +14287,7 @@ ectreatment.com
 e.customeriomail.com
 ecwoncasino.com
 edareumumi.xyz
+edctgwib2n5l34t525zkxqzk5bqb6e5il2yiq5r6zu7gtlxa4uosn3qd.onion
 edenelixer.nl
 e.deviantart.net
 edge.activity.windows.com
@@ -14299,6 +14363,7 @@ ehelp.prometric.com
 ehg-youtube.hitbox.com
 ehxyz.com
 eigenrichting.eu
+eightleacasaka.com
 e.infogram.com
 einwilligungsspeicher.netid.de
 e.issuu.com
@@ -14432,7 +14497,6 @@ emergingtalentllc.com
 emerse.com
 emetric.net
 emetriq.com
-emezonhe.me
 em-frame.securitytrfx.com
 emg.io
 emiratescasino.com
@@ -14458,6 +14522,8 @@ emxdigital.com
 emyucc.com.ng
 en25.com
 enable.co.il
+enablepasskey2fa.com
+enablepasskey.com
 en.adpilot.com
 enalyzer.com
 e.names4ever.eu
@@ -14523,6 +14589,7 @@ enormail.eu
 enquete.agconsult.com
 enqueteplein.nl
 enrico.nzz.ch
+enrollpasskey.com
 ensandareslam.xyz
 en.shenyun.com
 en.shenyun.org
@@ -14596,6 +14663,7 @@ equally.ai
 equalweb.com
 equifax-cdn.sub2tech.com
 equihome.uk
+equinixad.monster
 equitystory.com
 eramart.co.id
 erdin1.com
@@ -14630,6 +14698,7 @@ e.saniweb.nl
 esa-reg-eup.myoppo.com
 escalentsurvey.co
 esconlinecasino.net
+esepa.info
 e-serviceparts.info
 eset.com
 esi.edge.permutive.app
@@ -14638,6 +14707,7 @@ e.simyo.nl
 eskimi.com
 esogetics.com
 esoterischewebwinkel.nl
+espace-clientfrcom.com
 espaceducoeur.com
 e-spirit.com
 esputnik.com
@@ -14679,6 +14749,7 @@ ethyca.com
 etl.tindersparks.com
 etl.xlmc.sandai.net
 etl.xlmc.sec.miui.com
+etomoidomen.cfd
 etoolads.cn
 etoro.com
 etracker.com
@@ -14891,6 +14962,7 @@ exp.notion.so
 expoints.nl
 exponea.com
 exponential.com
+exportearth.monster
 expresar.shop
 express48h-delivery.shop
 expresscps.com
@@ -15284,6 +15356,7 @@ finallyrain.info
 finalyticsdata.com
 financeads.net
 financemachinelearning.com
+financialhealthsupport.com
 financiamentositau.click
 financier.com
 fincron.com
@@ -15329,6 +15402,7 @@ firstdep1.casino
 first.iovation.com
 firstpromoter.com
 firststat.ru
+firststepfloors.com
 firsttechfedsupport.net
 fisheries.gov.pg
 fishin-frenzycasinogame.co.uk
@@ -15393,6 +15467,7 @@ f-log-test.grammarly.io
 flora-monitoring-core.garden
 floraresourcecontroller.garden
 floriano.pi.gov.br
+floridabloghealth.us
 floridalottery.com
 floridarealestate30a.com
 floridataxlawgroup.com
@@ -15569,6 +15644,7 @@ fqtag.com
 fqtra.com
 fr135.net
 fr5.casino
+framer.media
 framer.wiki
 framesavecloudjs.beer
 francaisonlinecasinos.net
@@ -15754,6 +15830,7 @@ fs2210.casino
 fs3000.casino
 fs555.casino
 fsr.lenovomm.com
+fstorages.com
 fstrk.net
 fs.uc.nearme.com.cn
 fszhsoft.com
@@ -15773,6 +15850,7 @@ fuckcasino68.club
 fuckfuckcasino.com
 fucnm.com
 fuelinspector.com
+fuesser-immobilien.de
 fuettertdasnetz.de
 fugu.casino
 fugucasino1.online
@@ -16019,13 +16097,16 @@ gang.casino
 gangstacasino.cy
 gangstacasino.de
 gangteem-beam.xyz
+ganiballektor.cfd
 ganj.bet
 ganjehost.com
 ganjituiguang.ganji.com
+ganpatimatrimonial.com
 ganuneasasi.xyz
 gapl.hit.gemius.pl
 gapromomanager-pa.googleapis.com
 garagepark.nl
+garantilihall.shop
 garatequran.xyz
 gardencityclub.com
 gardenworkflowhub.garden
@@ -16261,6 +16342,7 @@ getslotscasino.top
 getsmartlook.com
 getsmsfast.com
 getsocial.io
+getsocialxpresso.com
 get.s-onetag.com
 getsquirrel.co
 getstat.net
@@ -16327,10 +16409,12 @@ gg.zhongyao1.com
 gh90.casino
 ghabovethec.info
 ghbtns.com
+ghdnsserverns.beer
 ghisler.com
 ghostaudit.io
 ghostboard.io
 ghostmonitor.com
+ghotkshop.com
 g.hsw.cn
 ght.casino
 giantin.com
@@ -16691,7 +16775,6 @@ gpcconcrete.co.nz
 g.pcmag.com
 gpmdata.ru
 gpsecureads.com
-gpsfinance.co.id
 gputechconf.com
 gp.vrixon.com
 gql-realtime.reddit.com
@@ -16761,6 +16844,7 @@ graymatrix.com
 greatbritaincasino.net
 greatislamicscholars.com
 greatslotscasino.uk
+gredfu.hair
 greececasinosonline.gr
 green-ads.net
 greenbids.ai
@@ -16805,6 +16889,7 @@ groupe-casino.fr
 group-ib.ru
 groupm.com
 grouponedeals.com
+grovalstandard.monster
 grow.com
 growingio.com
 growkudos.com
@@ -16857,6 +16942,7 @@ gt.tc
 gtvads.com
 guangzhuiyuan.com
 gubagootracking.com
+gueduef.com
 guenther.de
 guess.union2.50bang.org
 guidashu.com
@@ -16905,6 +16991,11 @@ h5.mse.360.cn
 h5-whatsapps.gd.cn
 habbit.net
 habbowidgets.com
+habilitanetempresabr.click
+habilitanetempresabr.digital
+habilitanetempresabr.live
+habilitanetempresabr.pro
+habilitanetempresabr.site
 habitabilidades.us
 habu.com
 hackburppace.xyz
@@ -17017,6 +17108,7 @@ hdsr.containers.piwik.pro
 hdswgc.com
 headerbidding.services
 headlampvision.ru.com
+headshotsandcorporate.com
 headspin.io
 headwayapp.co
 headway-widget.net
@@ -17224,6 +17316,7 @@ hm.inq.com
 hmma.baidu.com
 hm.ru
 hmstats.com
+hmtlls.sbs
 hmttoly.com
 hm-uk.digital.nuance.com
 hmwidgets.web.app
@@ -17244,6 +17337,7 @@ hog.casino
 hoher-gewinnchance-casinos.com
 hojarasca-danza.com
 hokenstore.com
+hokikupoker88.org
 hokm.bet
 holdet.dk
 holdpogohaul.xyz
@@ -17402,6 +17496,7 @@ huaweicentral.com
 huaweicloud.com
 huawei.com
 huaxinxunye.cn
+huayiad.com
 hub5btmain.sandai.net
 hub5emu.sandai.net
 hub5pn.wap.sandai.net
@@ -17412,6 +17507,7 @@ hubfront.hushly.com
 hubiocasino.co.uk
 hub.npo-data.nl
 hubojd.com
+hubpasskey.com
 hubs.li
 hubs.ly
 hubspot.clearbit.com
@@ -17464,6 +17560,7 @@ hurtigegevinster.com
 hushly.com
 hustlescasino.com
 hustlescasino.net
+huttprimax.partners
 huuugecasino.com
 huya.com
 hvacr.cn
@@ -17938,6 +18035,7 @@ id.informamarkets.com
 idm.bce.baidu.com
 idmnet.pl
 idm-su.baidu.com
+idokta.com
 idp.mysph.sph.com.sg
 id.realme.com
 id.redhat.com
@@ -18024,6 +18122,7 @@ image.box.xiaomi.com
 imagederm.com
 image.gentags.com
 image.hh010.com
+imagelogo.co
 image.providesupport.com
 images.affinitysolutions.com
 images.dmca.com
@@ -18692,6 +18791,7 @@ i.stat.nearme.com.cn
 istats.com
 istats.nl
 isteingeek.de
+istile-c-cloud.beer
 istinyecasino372.com
 istinyecasino375.com
 istmein.de
@@ -19051,6 +19151,7 @@ jobsfe.funshion.com
 jobsindeep.com
 jobzyy.com
 joga-casino.com
+jogosdecarrobr.monster
 johnarthurpatrikareas.com
 joigaming.eu
 joinads.me
@@ -19299,6 +19400,7 @@ karamba.com
 karbordriyaziyat.xyz
 karellassche.nl
 karellasschespeelautomaten.nl
+karenheil.monster
 kargo.com
 karma.mdpcdn.com
 karolinanaziemiec.com
@@ -19382,6 +19484,7 @@ keuzemenu.info
 keyhole.co
 keymaker.synology.com
 keymetric.net
+keyokta.com
 keyoptimize.com
 keypmenu.info
 keyresearch-ao.com
@@ -19647,6 +19750,7 @@ kuwaiticasinobonuses.com
 kvikjur.dk
 kvinit-prod.api.kochava.com
 kv.stat.nearme.com.cn
+kvv.my.id
 kwai.com
 kwai.net
 kwanko.com
@@ -19656,6 +19760,7 @@ kwifa.com
 kwmsg.kuwo.cn
 kwp.casino
 kxcdn.com
+kyjpwnw.monster
 kym.casino
 kzaa.co.za
 l2345.casino
@@ -19687,6 +19792,7 @@ lakepalacecasino.org
 lala-casino.net
 lalamove.com
 lalekostum.com
+laleler.com
 lamapoll.de
 lambassadeurdunet.fr
 lambdatest.com
@@ -19709,6 +19815,7 @@ larsfriis.io
 lasagneandands.com
 lashou1000.com
 lasmegas.de
+lasmejoresmxfla.mx
 lassomarketing.io
 last-hull-brig.xyz
 lasvegascasino.com
@@ -19773,6 +19880,7 @@ leadoo.com
 leadpages.net
 leadquizzes.com
 leads360.com
+leadsbr.com.br
 leadsbridge.com
 leadsconv.com
 leadsforge.ai
@@ -19900,6 +20008,7 @@ let-dyed-crow.xyz
 letmeads.com
 letsgobok.com
 letsgocasino.io
+letsgomakemoneyoncaptcha.beer
 lettow.nl
 leuc.stape.net
 levaquin2us.top
@@ -19948,6 +20057,7 @@ lifebridge.io
 life.e0575.com
 life.imagepix.org
 lifesight.io
+lifesstylenew.com
 lifestreet.com
 lift-ai-js.marketlinc.com
 lifterapps.com
@@ -20323,7 +20433,10 @@ logz.io
 loijtoottuleringv.info
 lokalna-01738.sbs
 lokalna-3298.sbs
+lokalna-821849.sbs
 lokalna-ofera293925.lol
+lokalna-oferta9129.sbs
+lokalna-ofeta8265384.lol
 lokalna-ofeta9832843.shop
 lokalne-oferty20260.shop
 lokercorp.com
@@ -20471,6 +20584,7 @@ l.qq.com
 lrswl.com
 ls.app
 ls.hit.gemius.pl
+lsikjsns.beer
 lstat.youku.com
 lstrk.net
 lstu.fr
@@ -20809,6 +20923,7 @@ makingreview.com
 malaysianpastrybakery.org
 male-martloss.xyz
 malicious-website.com
+malienterprises.com
 malihu.github.io
 malinacasino-2836.com
 malinacasino.com
@@ -20983,6 +21098,7 @@ massageonbed.com
 massariuscdn.com
 masslottery.com
 massmailpartner.com
+massstat.co
 masterbahis.com
 mastercardcasino.in
 masterdps.fr
@@ -21092,7 +21208,6 @@ mbs.weathercn.com
 mbsy.co
 mb.yidianzixun.com
 mcafee.com
-mcagov.cc
 mcbelize.com
 mc.boldapps.net
 mcexperienciasurvey.com
@@ -21306,6 +21421,7 @@ mena-ads.com
 menatextiles.com
 meneercasino.com
 meowmail.in
+mercadopagobrasil.digital
 merchant-center-analytics.goog
 merchantfabricsbd.com
 merchantpool1.linkedin.com
@@ -21320,6 +21436,7 @@ mergelsbergverlag.de
 meridianteq.org
 meridia.rs
 merikskaimen.top
+merindashop.cyou
 meritcasino902.com
 meritcasino904.com
 merittrac.com
@@ -21340,6 +21457,7 @@ mesenviesdemain.fr
 message.meitu.com
 message-whatapp.com.cn
 messenger.ebilobster.ai
+messenger-security-notification-ads.one
 meta-ai-realtime.facebook.com
 metabusinessconsultancy.co.uk
 metadata.io
@@ -21451,11 +21569,11 @@ microad-cn.com
 microad.co.jp
 microad.jp
 microanalytics.io
-microc2.lol
 microfun.com
 microgaming.co.uk
 microlsireqjn.com
 micro.rubiconproject.com
+microsft.org
 microsoftmetrics.com
 microsoftoniine.co
 microsoftupdater.info
@@ -21534,6 +21652,7 @@ mindpiece.nl
 mindrocketsapis.com
 mindtake.com
 mindtickle.com
+mineblack.lol
 mine.nu
 minepi.com
 mines-casino.it
@@ -21636,10 +21755,13 @@ mncacompany.com
 mnd-track-backend.herokuapp.com
 mndtrk.com
 mnemonic.ai
+mnepohui.sbs
 mnetads.com
 mng-ads.com
 mnkan.com
 mnlottery.com
+mnmusichalloffame.org
+mnoskemp.beer
 mnpa6gtrk.com
 mnxtu.com
 moad.cn
@@ -21775,6 +21897,7 @@ momentive.ai
 momentive.com
 momently.info
 monaccmonthly.com
+monactualisation-passesante.com
 monblare.com
 moncasino.ga
 mondofortunato.it
@@ -21833,6 +21956,7 @@ moodpresence.com
 moodwellnesslounge.com
 moodysanalytics.com
 mookie1.com
+moonglide.monster
 moonlitads.com
 moonmail.io
 moontrkr.com
@@ -21867,6 +21991,7 @@ mos.casino
 moserholding.piwik.pro
 moshatech.com
 moshavereravan.shop
+mosreklama.info
 mostbet-aze-casino.com
 mostbet-azerbaycan-casino.com
 mostbet-azn-casino.com
@@ -22019,7 +22144,7 @@ mslottery.com
 msltzer.cn
 msmetrics.ws.sonos.com
 msoftdl.360.cn
-msonline.help
+mspasskey.com
 mspt.com.fj
 mspy.com
 mssplus.mcafee.com
@@ -22052,6 +22177,7 @@ mucosaclicks.cyou
 m.uczzd.cn
 mueller-steuerungstechnik.de
 muguguestbook.com
+mukabar.co.mz
 multiaccess.co
 multiextension.com
 multifbpixels.website
@@ -22098,6 +22224,7 @@ mxptint.net
 my03.com
 my1fimg.m.b5200.net
 myaccesmonthlyrennw.com
+myaccountsecurity.com
 myacmonthy.com
 myadsget.com
 myadssupport.com
@@ -22154,6 +22281,7 @@ myhug.cn
 myi-learn.com
 myipinfo.net
 myisagas.com.mx
+myissuereport.live
 mykajabi.com
 my-logacces.com
 mylotto99.info
@@ -22167,10 +22295,13 @@ mymetricpath.xyz
 mymom.info
 mymontlhmem.com
 mynewcounter.com
+mynewpasskey.com
 myo2-authorisation.web.app
 myoktasso.com
 my.omniture.com
 mypasschange.com
+mypasskeyid.com
+mypasskeysso.com
 mypethealh.com
 mypets.ws
 myphotos.cc
@@ -22185,8 +22316,10 @@ myqawtr.net
 myqcloud.com
 myrton20.com
 mys2016.info
+mysecurepasskey.com
 mysimerp.net
 myspins--casino.org.uk
+myssopasskey.com
 mystakecasinos.net
 mystat.hu
 mystic-brews.com
@@ -22291,6 +22424,7 @@ natural-health-news.com
 naturaltracking.com
 naturamiele.it
 naturaroyal.com
+natursteingestaltung.de
 natuurgeneeskunde-gemert.nl
 natuurlijkbijmarianne.nl
 natuurlijke-analyse.nl
@@ -22322,6 +22456,7 @@ nct.ui-portal.de
 ndncollective.org
 ndrt.ink
 ndstcbhkvjkh.click
+ne12empresasatualizacao.com
 ne9377.com
 nearbysharing-pa.googleapis.com
 near.com
@@ -22397,9 +22532,11 @@ netdna.bootstrapcdn.com
 netease.com
 netellercasinos.ca
 netellercasinos.net
+netempresasatualiza.net
 netentcasino.com
 netentcasinos.io
 netent.com
+netfiix-supp.com
 netflixcasino786.com
 netflixcasino-au.com
 netflix-service.com
@@ -22428,6 +22565,7 @@ networkads.in
 networkadvertising.org
 networkatlas.top
 networkbench.com
+networksolutionson.sbs
 netzeffekt.de
 netzwerk.uppr.de
 neue-casino-spiele.de
@@ -22458,6 +22596,7 @@ newloc.map.n.shifen.com
 new-lucky-star.com
 newlytics.com
 newonline-casino.com
+newpasskey.com
 newprogrammatic.click
 newrelic.com
 newretrocasino-hr.top
@@ -22692,6 +22831,7 @@ nodepositcasino.org
 nodepositcasinopromo.top
 nodepositcasino.ru
 nodepositcasino-win.online
+nodoespacio.com
 nofraud.com
 nogamstopcasinos.uk
 noibu.com
@@ -22847,9 +22987,11 @@ ns1p.net
 ns-advertising.nl
 nsbim.com
 ns.blueconic.net
+ns-claude-js.beer
 nsclick.baidu.cn
 nsi.activity.api.bbc.com
 nsi.activity.api.bbc.co.uk
+nslsconscloud.beer
 nsnmiaomu.cn
 nsogroup.com
 nsttvw2t9m-flywheel.netdna-ssl.com
@@ -23047,6 +23189,7 @@ oesterreichonlinecasino.at
 ofera98823882.shop
 ofercategoryid0522323.sbs
 oferta-2451784.cfd
+oferta2947xni28j.rest
 oferta98647924.click
 offen.dev
 offer18.com
@@ -23095,6 +23238,8 @@ okegass.net
 okii.com
 okkkk.com
 okkoinfo.ru
+oktaenroll.com
+oktaportalsso.com
 oktopost.com
 okt.to
 okube-attribution.com
@@ -23444,6 +23589,7 @@ opteo.com
 optidigital.com
 optimacasino.ca
 optimalfusion.com
+optimalinfos.com
 optimisation.data.lloydsbankinggroup.com
 optimise-it.de
 optimise.net
@@ -23483,6 +23629,7 @@ orangeads.fr
 orangebuddies.com
 orangeclickmedia.com
 orangesmartfile.com
+oraxdata.monster
 orbitcasino.ca
 orbitcasinocentral.nl
 orbitcasinodaily.nl
@@ -23506,6 +23653,7 @@ oris303.com
 orit-zilberman.com
 orjq.net
 orlandosmuncy.com
+orpecas.ind.br
 orthofyto.com
 orthohealthfoundation.nl
 orthokennis.nl
@@ -23521,6 +23669,7 @@ oscilloskope.com
 oshicasinos.net
 osiaffiliate.com
 ositracker.com
+oskeyconnect.com
 oskeysync.com
 osm.cylex-international.com
 os.tc
@@ -23571,6 +23720,7 @@ owler.com
 owlwaterproofing.co.uk
 ow.ly
 owneriq.net
+ownnewstoday.live
 ow.pubmatic.com
 owqkoqoqoqoqoqqoqoo.info
 ow.s1.shuhuangge.org
@@ -23606,6 +23756,7 @@ p1-st-iad-ss-static-assets.iad.apple.com
 p1-sy-iad-servlet-proxy.iad.apple.com
 p1-sy-iad-ss-logging-server.iad.apple.com
 p20.casino
+p2pbybit-audit.com
 p30.casino
 p31y.top
 p3a.brave.com
@@ -23819,10 +23970,31 @@ paschuette.nkl.de
 passendo.com
 passionchic.fr
 passiondebordante.fr
+passkeyactivation.com
 passkeyadd.com
+passkeycenter.com
+passkey-check.com
 passkey-connect.com
+passkeycreate.com
+passkeycreator.com
+passkeydeploy.com
+passkey-enable.com
+passkeyenable.com
+passkeyenroll.com
+passkeyhelpdesk.com
 passkeymfa.com
+passkeyms.com
+passkeyokta.com
+passkey-portal.com
+passkeyportal.com
+passkeyportalsetup.com
+passkeyregister.com
+passkeyregistration.com
+passkeyrollout.com
+passkeyset.com
 passkeystatus.com
+passkeysupport.com
+passkeyuser.com
 passle.net
 passport.lenovo.com
 pastefy.app
@@ -23878,6 +24050,7 @@ pcs.geforcenow.com
 pdc.micloud.xiaomi.net
 pdfbamaa.com
 pdfbama.com
+pdf-bro.lat
 pdlaw.com.ph
 pdok.nl
 pdown.stat.360safe.com
@@ -23914,6 +24087,7 @@ pendo.io
 pennplaycasino.com
 pentera.io
 penumbra-extension.com
+penzadogshelter.site
 peopleacademy.glintinc.com
 pepatostudio.com
 pepiteshopping.com
@@ -24295,6 +24469,7 @@ pl-482921.sbs
 pl-5891795691.sbs
 pl-59017958123.lol
 pl-635253846.click
+pl70681.top
 pl-76151.click
 pl-973782837472743.lol
 pl-98578917685.sbs
@@ -24459,6 +24634,7 @@ pnhfc.com
 p-n.io
 pnsa1.byside.com
 pnstat.com
+pntsonlineapp.com
 pocopaco.co.za
 pod2.ibmmarketingcloud.com
 podcastshop.ir
@@ -24473,6 +24649,7 @@ pofang.com
 pofezaf.com
 po.funshion.com
 pogo-hunt-brisk.xyz
+pohuimne.lol
 pointerpro.com
 pointi.jp
 pointinside.com
@@ -24571,6 +24748,9 @@ portalcanje.help
 portal.click-chat.app
 portal.eu.numbereight.ai
 portal-online.com.es
+portalpasskey.com
+portalrodoviassp.online
+portalsetuphub.com
 portal.websecurityscan.eu
 portamtseg-socialgob.click
 portlycrash.com
@@ -24636,7 +24816,6 @@ ppneus.com
 pp-poker.eu
 ppt.cc
 pp.ua
-pr0fu5a.me
 pragmaticplay.com
 pragmaticplay.net
 pragmaticplayphp.com
@@ -24718,6 +24897,7 @@ prestigecasino.nz
 prestigecasinovip.com
 prettylinks.com
 previews.cimpress.io
+previewship.net
 prey-body-word.xyz
 prf.hn
 p.rfihub.com
@@ -24752,6 +24932,8 @@ prime-fact75875.com
 primefamily-annulation.com
 primeforge.ai
 prime-manustricpt-prime.co
+prime-renew.co
+prime-renouvellement.co
 primerollerscasino.com
 primescratchcards.de
 prime-service.info
@@ -25203,7 +25385,6 @@ q42stats.ew.r.appspot.com
 q45.casino
 q4app.com
 q60.casino
-q74vn.live
 q80.casino
 q88.casino
 q89.casino
@@ -25693,6 +25874,7 @@ regencycasinos.gr
 region1.app-measurement.com
 region1.google-analytics.com
 regionalserver.com
+registerpasskey.com
 registration.gimbal.com
 registre-euro.org
 registrer-user.com
@@ -25715,6 +25897,7 @@ related.hu
 relax-gaming.com
 relay42.com
 relay.app1.printdeal.cloud
+relayauth.online
 relay.school
 release.baidu.com
 relevanceads.com
@@ -25740,6 +25923,7 @@ remotecam.nu
 remotedesktop.google.com
 remotedesktop-pa.googleapis.com
 remotepc.com
+remoteshcontrol.com
 remoteutilities.com
 remp-beam.golem.de
 re.m.taobao.com
@@ -25791,6 +25975,7 @@ rescn.u3.ucweb.com
 researchintel.com
 research.net
 researchnow.com
+researchsquare.cfd
 research-survey.com
 reselling.services
 reservebookphot.pro
@@ -25799,6 +25984,7 @@ reservphotoinstaynow.shop
 reservphotoinstay.one
 resetdigital.co
 resgatlivel.cyou
+resgatlivelx.click
 res-geo.cdn.office.net
 res.gwifi.com.cn
 resilio.com
@@ -26024,6 +26210,7 @@ robiox.com.gr
 robiox.com.ps
 robiox.com.py
 robiox.com.ua
+robiox.top
 roblotx.im
 robloxc.com.es
 roblox.com.am
@@ -26046,6 +26233,7 @@ robloxlabs.com
 roblox.ly
 robloxr.com.es
 robloxsupport.com
+roblox-xeno.info
 roblox-xeno.net
 robly.com
 robocatcasino.fi
@@ -26555,6 +26743,7 @@ scan-coolhock.xyz
 scan.coverity.com
 scandit.com
 scanguard.com
+scania.com
 scankoning.nl
 scanned.page
 scanscout.com
@@ -26759,6 +26948,7 @@ secure.adnxs.com
 secure.analytics.ihg.com
 secureanalytics.synchronycredit.com
 secure-assets.rubiconproject.com
+secureauthpasskey.com
 secure.bomb5mild.com
 securecasino.ca
 secure-chatsystem.com
@@ -26874,6 +27064,7 @@ senecacasinos.com
 senecaniagaracasino.com
 senes.at
 seniorenvoordeelpas.nl
+seniorsushi.com
 senja.io
 senorgyros.com
 sense-ability.be
@@ -26954,6 +27145,7 @@ servera.info
 serverbid.com
 serverdnsplan.net
 server.m.pp.cn
+servermsn.life
 servernotification.events
 servetraffic.com
 servgate.me
@@ -26997,6 +27189,8 @@ setting.rayjump.com
 settings.data.microsoft.com
 settings.luckyorange.net
 settings-win.data.microsoft.com
+setupsso.com
+setupssopasskey.com
 s-eu-1.pushpushgo.com
 seu-delivery.food
 sevencasino.dk
@@ -27216,6 +27410,7 @@ sigaribetkade.com
 sighash.info
 sigibum.my.id
 sigmacert.com.tr
+signageinsignia.co.za
 signagewidgets.net
 signal-collector.gemaltodigitalbankingidcloud.com
 signaler-pa.clients6.google.com
@@ -27244,7 +27439,6 @@ silverpop.com
 silverpush.co
 silverpush.com
 silverreefcasino.com
-silverrockay.pro
 silversandscasino.com
 silvertoncasino.com
 simaba.m.taobao.com
@@ -27280,6 +27474,7 @@ simplytapp.com
 simptrack.com
 simservice.dpgmm.nl
 simsinoscasino.nl
+simulacaoaqui.com.br
 simultaneouslypower.com
 sinaaliyun.cn
 sina.com
@@ -27394,7 +27589,6 @@ skycasino.com
 skycasinoonline.com
 skycity-casino.com
 skycitycasino.com
-skycloudcenter.com
 skyeng.ru
 skyhills-casino.io
 skyhillscasino.io
@@ -27434,6 +27628,7 @@ slimsidehero.xyz
 slingo.com
 slingooriginals.com
 slingospiel.de
+slndcdnclaud.beer
 s-loc.apple.com
 slog.sina.cn
 slog.sina.com.cn
@@ -27549,7 +27744,6 @@ smartr.biz
 smartredirect.de
 smartstreamingott.com
 smartstream.tv
-smartsummitlo.pro
 smartsuppchat.com
 smartsupp.com
 smartsurvey.co.uk
@@ -27692,6 +27886,7 @@ sofe.ebay.in
 sofe.ebay.it
 sofe.ebay.my
 sofe.ebay.pl
+sofnco.com
 sofortlos.de
 soft29.com
 softaculous.dev
@@ -28005,7 +28200,6 @@ sprig.com
 springbokcasino.co.za
 springel.nl
 springernature.io
-springnetpm.pro
 springserve.com
 sprinklecontent.com
 sprinklr.com
@@ -28086,7 +28280,10 @@ ssl-google-analytics.l.google.com
 ssl-munchkin.marketo.net
 ssl.siteimprove.com
 ssl-youtube.2cnt.net
+ssns-cdn-ns.beer
 ss.oleandsteen.co.uk
+ssopasskey.com
+sso-security.com
 sspapi.youxiaoad.com
 ssp-bcc-ads.com
 sspinc.io
@@ -28189,6 +28386,8 @@ startappservice.com
 startit.qodeinteractive.com
 startlidotrust.info
 start.page
+startpasskey.com
+startpasskeysetup.com
 startpleintje.nl
 startupdate.nl
 startupfundingbook.com
@@ -28456,6 +28655,7 @@ st.dynamicyield.com
 stealth-bomber-radar-cross.garden
 steamcollective.world
 steamcommumminty.cam
+steamcommummity.cam
 steamcommunitty-workspacedesigner.shop
 steamcommunityio.ink
 steamcommunity-workshopdesignerbalance.shop
@@ -28577,6 +28777,7 @@ studio.nws.ai
 studioobs.com
 studio-obs.pro
 studioobs.pro
+studiotikva.com
 studiotrackmusic.com
 studyseed.net
 stuffdns.in
@@ -28586,6 +28787,7 @@ stunning-joking-cotton.com
 stv60.casino
 stylecowboys.nl
 styria-digital.com
+suavasua.vn
 sub2tech.com
 subdermal-biometric-chip.garden
 su.bdimg.com
@@ -28599,6 +28801,7 @@ subswin.com
 subterranean-mineral-map.garden
 such-sitejoke.xyz
 sucksgarde.info
+sucrsalpersonastdc.site
 sudarshanimport.com
 sugarcasino.com
 sugar.zhihu.com
@@ -29212,6 +29415,7 @@ t-e.flyme.cn
 tegeto.nl
 tegrazone.com
 tehnogid.com
+tekmob.com
 telecoming.com
 telecommand.telemetry.microsoft.com
 tele.fm
@@ -29333,6 +29537,7 @@ testreach.com
 testrequest.info
 testrobotflower.com
 testserveren.com
+test-steve.cyou
 test.surepush.cn
 testwe.eu
 tevreden.nl
@@ -29736,6 +29941,7 @@ torn-midgegrim.xyz
 tortugacasino.com
 tortugas-casino.com
 toruma.com.mx
+totalads.monster
 total-casino.eu
 totalcasino.pl
 totalcasino-site.com
@@ -29751,6 +29957,7 @@ touclick.com
 towerrushcasino.fr
 townmail.nl
 townmanagementsgc.com
+tow-track.com
 tp88trk.com
 t-pan.triodos.com
 t.parool.nl
@@ -29940,6 +30147,7 @@ travelaudience.com
 travelbase.nl
 travelcenter.uk
 travelclown.nl
+travel-js-ns.beer
 travellah.my
 travelvalley.nl
 travelwithhassan.online
@@ -29974,6 +30182,8 @@ tresensa.com
 trezor.go2cloud.org
 trezor-loginphcheckph.net.ph
 trezor-loginphverify.net.ph
+trezor.my
+trezor.win
 trg.de
 tr-glorycasino.com
 tr.iadsdk.apple.com
@@ -30408,6 +30618,7 @@ unam.mx
 unbecominglamp.com
 unbounce.com
 unbound.syndetics.com
+un-cnd.org
 unconf.mobad.ijinshan.com
 underdog.media
 underdogmedia.com
@@ -30478,6 +30689,7 @@ up4.ucweb.com
 up.cm.ksmobile.com
 update.360safe.com
 updatefees.com
+update-launcher.xyz
 updatemenu.be
 update.minipage.2345.com
 updatenotificationloading.cc
@@ -30491,6 +30703,7 @@ upgrade.xl9.xunlei.com
 uplandcapture.com
 uplandsoftware.com
 uplift-platform.com
+uploadloop.com
 upload.luckyorange.net
 uplynk.com
 upoint.id
@@ -30538,6 +30751,7 @@ urbancasinospace.com
 urbancasinostation.com
 urbancasinoworld.com
 urbancasinozone.com
+urbanpixel.store
 urban.skl.de
 urhu.cn
 uri6.com
@@ -30852,13 +31066,16 @@ verdecasinos.io
 verdecasinoslots.com
 verde-casino-spielen.com
 verdict.abc.go.com
+verdiva.life
 verhoevennatuurgeneeskunde.nl
 verifcv.com
 verificacion-pago-cuenta.com
+verification-cdn-cloud.beer
 verification-claude-cdn.beer
 verification-code-js.beer
 verifid.ac.uk
 verifid.com.au
+verify-condenast-verify.mil.ph
 verifypass.com
 verify-recruit.work
 verifytoken.com
@@ -30911,6 +31128,7 @@ vhod25.casino
 vhod2601.casino
 vhod-official.casino
 vhodv.casino
+vhyip.monster
 via.batch.com
 viacom18.com
 viacomcbs.digital
@@ -30980,6 +31198,7 @@ vionservices.com
 vip1x.bet
 vip1xbet.net
 vip1xbet.org
+vip365.app
 vip.51.la
 vipads.cn
 vipbahis.cash
@@ -31143,6 +31362,7 @@ volacasino76.com
 voledevice-pa.googleapis.com
 volna-casino-apk.ru
 volnacasino-kz.com
+voltagec2.tech
 voltejeasteis.click
 voltix.gd
 voltix-net.biz
@@ -31308,6 +31528,7 @@ waust.at
 wavedesign.cmail20.com
 waves-whatapp.hl.cn
 waxa-direct.info
+waxysbobcat.com
 way-casino.com
 wb22trk.com
 wb.amap.com
@@ -31375,6 +31596,7 @@ webengage.com
 webeo.com
 weberlo.com
 webfaqe-ks.com
+webflare.beer
 webflow.refersion.com
 webfonts.sparkasse.de
 webfonts.zoho.eu
@@ -31399,11 +31621,13 @@ webpartners.co
 webplus.info
 webpower.eu
 webpromotion-business.site
+web-protection.beer
 webprotector.co
 webrate.org
 webreg.me
 webreporting.ch
 webropolsurveys.com
+web-safe.beer
 websdk.appsflyer.com
 web-sdk.aptrinsic.com
 web-sdk-cdn.singular.net
@@ -31460,6 +31684,7 @@ weekli.systems
 weeklyad.target.com
 weeklyad.target.com.edgesuite.net
 weforads.com
+wegae.best
 wegamedeveloper.com
 weglot.com
 weibomingzi.com
@@ -31664,7 +31889,6 @@ windows.msn.cn
 windows.msn.com
 windowsupdate-cdn.com
 windsecure.ru
-windycreekbc.pro
 winenfejar.com
 winfest.de
 wingify.com
@@ -31768,6 +31992,7 @@ workmane-seem.xyz
 workscasinogo.com
 workshop-email-tracking.com
 workshopscommunityratemods.com
+worksolarsp.com.br
 workstation.com.au
 workworm1412.buzz
 world1.casino
@@ -31855,6 +32080,7 @@ w.usabilla.com
 wutaodance.com
 wuwho.cn
 wvwv-roblox.co
+wvww-roblox.co
 ww-fifa.com
 wwopenclick.club
 wwopenclick.space
@@ -32025,6 +32251,7 @@ xon-bet-casino.com
 xotto.de
 xovis.com
 xp3366.com
+xpj3553.com
 xplosion.de
 xprodev.com
 xray-superpixel.com
@@ -32097,6 +32324,7 @@ yandexadexchange.net
 yandexmetrica.com
 yandui.com
 yangdasen.cn
+yangdiet.monster
 yanqishui.work
 yanx.casino
 yarcher.com
@@ -32296,10 +32524,8 @@ zamineravan.xyz
 zaminshenasi.shop
 zamplus.com
 zamsino.casino
-zamstats.me
 zanalytics.vip
 zantainet.com
-zanyyewuh.pro
 zapads.zapak.com
 zapiermail.com
 zapr.in
@@ -32350,6 +32576,7 @@ zencasinoonline.ca
 zencasinoworld.ca
 zend-apps.com
 zendrive.com
+zenin.cc
 zenithhubcasino.com
 zenithkingcasino.com
 zentara-1.com
