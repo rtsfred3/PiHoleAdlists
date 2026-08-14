@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-13 07:00:18 UTC
+! Generated at 2026-08-14 07:00:26 UTC
 ! 
 ! Sources: https://urlhaus.abuse.ch/downloads/hostfile
 ! 
@@ -7,13 +7,12 @@
 ||123.ywxww.net^
 ||1717.1000uc.com^
 ||2goelectricity.co.za^
-||2.indexsinas.me^
 ||abdulahad.net^
 ||acc.jiangsujiaxue.com^
 ||acms.saleseos.com^
-||admetricslab.org^
 ||admin.byte.in.ua^
 ||admin.gestroom.it^
+||aeplled.cfd^
 ||aftelecom.com.br^
 ||aidlifempowerment.com^
 ||airtickts.com^
@@ -21,11 +20,7 @@
 ||alineeleuterio.com.br^
 ||allendaltonproduction.com^
 ||allendostmen.com^
-||alphalkenya.com^
 ||alternativas.ru^
-||americanmanchester.org^
-||antleds.com^
-||api.mineblack.lol^
 ||app.appzcvb.com^
 ||archivoscrosoft.com^
 ||areyouready.co.za^
@@ -34,7 +29,7 @@
 ||audicontadores.com^
 ||awarenessexhibition.com^
 ||backupso.com^
-||bapak178.org^
+||beak.in^
 ||beoauto.alexion.rs^
 ||bito.com.pk^
 ||blankeyeo.com^
@@ -45,6 +40,7 @@
 ||bnet.playm8ru.win^
 ||bombayonline.in^
 ||book.rollingvideogames.com^
+||botnet.botnet.xd.67.flightleaks.xyz^
 ||bridgeroad.maverickpreviews.com^
 ||brightworks.cz^
 ||bvaco.com^
@@ -63,7 +59,6 @@
 ||chrome-windows.ru^
 ||chuguadventures.co.tz^
 ||cloud.pearlpeel.com^
-||cl.ssouy.com^
 ||clubdetiroelpicarcho.com^
 ||cn.unionlever.com^
 ||co-emas.com^
@@ -77,6 +72,7 @@
 ||cs.go.kg^
 ||d.14yaa.com^
 ||damiancollier.com^
+||dasberlinerhotel.com^
 ||data.yhydl.com^
 ||dcrun.co.uk^
 ||dcwblida.dz^
@@ -94,6 +90,7 @@
 ||donkeytourscroatia.com^
 ||down.54nb.com^
 ||down.fwqlt.com^
+||download.caihong.com^
 ||download.doumaibiji.cn^
 ||download.haozip.com^
 ||download.kaobeitu.com^
@@ -103,7 +100,6 @@
 ||download.tfyxzai.com^
 ||down.pcclear.com^
 ||down.qqfarmer.com.cn^
-||dreamwatchevent.com^
 ||duct-master.com^
 ||dusttv.com^
 ||d.wanyouxi7.com^
@@ -115,6 +111,7 @@
 ||en.taichuan.com^
 ||epanpano.com^
 ||essizs.com^
+||ezpz.link^
 ||fakers.co.jp^
 ||farschid.de^
 ||fd.v2downf.shop^
@@ -125,6 +122,7 @@
 ||flooriscoveringworld.com^
 ||flyingmutts.com^
 ||fmrio.com^
+||frtkvnpa.xyz^
 ||fukt.link^
 ||fullstacknir.com^
 ||furystaff.tech^
@@ -133,6 +131,8 @@
 ||galerisenimutiara.com^
 ||genddos.st^
 ||gestionycobranzas.com^
+||gestroom.it^
+||glbeletronica.com.br^
 ||globalbank.us^
 ||golvteametvarberg.se^
 ||grantexx.com^
@@ -144,6 +144,7 @@
 ||hitstation.nl^
 ||hobobot.net^
 ||hseda.com^
+||htdentshop.com^
 ||icoffeecloud.com^
 ||ignetwork.us^
 ||igra123.com^
@@ -152,10 +153,10 @@
 ||ircftp.net^
 ||isiore.com.co^
 ||itssprout.com^
-||ixirgroup.com^
 ||jawaratekno.com^
 ||jenniferloeffler.com^
 ||jessespridecharters.com^
+||jlwz.cn^
 ||joker.aec944b68370194a50.link^
 ||joyeriatauro.com^
 ||kavacanada.ca^
@@ -167,25 +168,31 @@
 ||konsor.ru^
 ||landonirwin.com^
 ||lawfirm.paperbirdtech.com^
+||lindnerelektroanlagen.de^
 ||local-update.com^
 ||lomejordesalamanca.es^
 ||luizmatoso.com.br^
 ||lumacrea.com^
+||luxcar-24.com^
 ||maidforyou1985.com^
-||mandarin.net.au^
+||malaysianpastrybakery.org^
+||mbcasesores.com^
+||medicosantiagomarrero.com^
 ||metrics.gocloudmaps.com^
+||midle-eastcompany.com^
 ||miriamgualda.com.br^
 ||mitreart.com^
 ||m.jkoa.co.kr^
 ||m.meta-dm.com^
+||mnurlogistics.az^
 ||mogimall.com^
 ||muaklekcoop.com^
-||mukabar.co.mz^
 ||muledo.com^
 ||mundocarnes.cl^
+||munihuacho.gob.pe^
 ||mx9x.com^
-||myissuereport.live^
 ||ncxps.com^
+||nodemetrics3379.com^
 ||noithaticon.vn^
 ||nusatoyota.co.id^
 ||n.vs108.com^
@@ -193,11 +200,8 @@
 ||ojang.pe.kr^
 ||oknoplastik.sk^
 ||onfiltre.com.tr^
-||orienttaxtile.com^
 ||outpost.co.ke^
-||ownnewstoday.live^
 ||p3.zbjimg.com^
-||palharesinformatica.com.br^
 ||parquelosencinos.cl^
 ||pay.aqiu6.com^
 ||pcupd.com^
@@ -208,6 +212,7 @@
 ||public.demo.securecloudsandbox.com^
 ||purmed.ro^
 ||pvsa.gxfugy.cn^
+||qiniuyunxz.yxflzs.com^
 ||qv.co.ke^
 ||ramirex.ro^
 ||rcf.co.mz^
@@ -229,19 +234,19 @@
 ||safeuploadz.com^
 ||sales.ifree.page^
 ||samiksha.com.sg^
+||sarafinance.in^
 ||scainseto.com.br^
 ||scanbot.me^
 ||scoala1gherla.ro^
 ||scrroeder.com^
+||seasquadshipping.com^
 ||sec.dashabi.in^
 ||sec.xiaojiji.nl^
 ||sec.xiaoshabi.nl^
 ||seismophonic.com^
 ||semencepourlavie.org^
-||seniorsushi.com^
 ||separadordecc.com^
 ||seputartuban.com^
-||server.servermsn.life^
 ||sg123.net^
 ||shipminttracking.net^
 ||shqdown.ggzuhao.com^
@@ -249,6 +254,7 @@
 ||signageinsignia.co.za^
 ||sk-comtel.com^
 ||smartermail.host^
+||smmnet.store^
 ||sochibeer.ru^
 ||soft.110route.com^
 ||solar-sanat.net^
@@ -257,9 +263,9 @@
 ||static.topxgun.com^
 ||static.youdm.cn^
 ||stdown.dinju.com^
+||stratagemzw.com^
 ||streammobs.com^
 ||studiogioeli.it^
-||suavasua.vn^
 ||sumiko.vu^
 ||sunix-technology.com^
 ||support.clz.kr^
@@ -271,8 +277,11 @@
 ||tangentwaves.com^
 ||tanscarattorneys.co.tz^
 ||tapestryoftruth.com^
+||tarkioweb.com^
 ||tecunonline.com^
 ||tehnomag.rs^
+||ten.devurek.xyz^
+||tengfeidn.cn^
 ||tenis-team-km.com^
 ||test.peperoncinochepassione.it^
 ||theholidayroads.com^
@@ -283,17 +292,17 @@
 ||tiacreation.club^
 ||toolshare.com.tr^
 ||top8onlinegame.com^
+||totalfitting.com.au^
 ||transparenciacanaa.com.br^
 ||triflackcom.com^
 ||trueinggrik.com^
-||tuasesoriadigital.es^
 ||twu-hwt.org^
+||u87yy3f87b23f8293bfg83bgu94.bombamodzik.xyz^
 ||upaicdn.xinmei365.com^
 ||upchemicals.co.in^
 ||update.cg100iii.com^
 ||us.wind0ws.net^
 ||vcc-library.uk^
-||verdiva.life^
 ||versaclean.com.br^
 ||veryboys.com^
 ||vgd.vg^
@@ -301,13 +310,12 @@
 ||visam.info^
 ||vizyonuniversitesi.com.tr^
 ||vizyonuniversitesi.web.tr^
-||voltagec2.tech^
 ||vrajras.com^
+||waf.proxytunnel.co^
 ||website.mypetapp.co.za^
 ||widexenmexico.com.mx^
 ||windomstatetheater.com^
 ||wittenhorst.eu^
-||wp.ameyiando.com^
 ||wqok85qtq.net^
 ||www.ardguisser.com^
 ||www.astenterprises.com.pk^
@@ -324,11 +332,8 @@
 ||www.dra.com.ve^
 ||www.drgenov.com^
 ||www.first-security-verden.de^
-||www.gestroom.it^
 ||www.hostingcloud.science^
 ||www.hqsblog.com^
-||www.hseda.com^
-||www.huttprimax.partners^
 ||www.intelligradeeducation.vicentecisnerospub.com^
 ||www.jozefinskiatelje.si^
 ||www.kenwillzltd.com^
@@ -347,7 +352,9 @@
 ||www.sgeseducation.com^
 ||www.silver-hubdachwohnwagen.de^
 ||www.springhillmontessori.com^
+||www.ss-01.com^
 ||www.starcountry.net^
+||www.stratagemzw.com^
 ||www.support-data.com^
 ||www.tdejb.com^
 ||www.tecunonline.com^
@@ -356,7 +363,6 @@
 ||www.website.mypetapp.co.za^
 ||www.xn--on3b15m2lco2u.com^
 ||www.zamilgroups.com^
-||www.zhikey.com^
 ||xenon.studio^
 ||xn--yh4bx88a.com^
 ||xshop.com.tr^
