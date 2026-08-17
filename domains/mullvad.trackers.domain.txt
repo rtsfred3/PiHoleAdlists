@@ -1,4 +1,4 @@
-# Generated at 2026-08-14 07:01:16 UTC
+# Generated at 2026-08-17 07:00:48 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -10796,7 +10796,6 @@ cups.republicoftea.com
 curated.fieldtest.cc
 curatedtea.com
 curbminers.com
-curbneon.com
 cure.trueface.org
 curiouschalk.com
 curious.cognyte.com
@@ -18663,6 +18662,7 @@ info.zuidema.nl
 ingest.appcenter.ms
 ingest.coincodex.com
 ingesteer.services-prod.nsvcs.net
+ingest.in.signoz.cloud
 ingest.make.rvapps.io
 ingest.make.rvohealth.com
 in-go.experian.com
@@ -21102,7 +21102,6 @@ log58-normal-ycru.tiktokv.com
 log77-normal-c-alisg.tiktokv.com
 log77-normal-c-useast1a.tiktokv.com
 log9-normal-c-useast1a.tiktokv.com
-log-abroad.avlyun.sec.miui.com
 log.adplex.co.kr
 log-ads.r7.com
 log.aimtell.com
@@ -21126,10 +21125,16 @@ log.cookieyes.com
 log.cpex.cz
 log.dance
 log.dpa.com
+log-dr16-normal-no1a.tiktokv.eu
+log-dr16-normal-useast1a.tiktokv.com
+log-dr16-normal-useast5.tiktokv.us
+log-dr16-normal-useast8.tiktokv.us
+log-dr16-normal-useastred.tiktokv.eu
 log-dra.platform.hihonorcloud.com
 log-drcn.platform.hihonorcloud.com
 log-dre.platform.hihonorcloud.com
 log-drru.platform.hihonorcloud.com
+log-dr.tiktokv.com
 log.dzen.ru
 log-eap.coloros.com
 log-eap-in.coloros.com
@@ -26656,7 +26661,6 @@ o1ych4jb.com
 o2de.mno.link
 o2.ikontwerpflyers.nl
 o2o.api.xiaomi.com
-o365diagtelemetry.trafficmanager.net
 o398.trumbulltimes.com
 o3gxzoewxl1x.cp.zomro.com
 o68c.sfr.fr
@@ -28911,6 +28915,7 @@ quicklyedit.com
 quick.openapp.link
 quickpcfixer.click
 quicksandear.com
+quicktattoo.com
 quicktrick.net
 quidel.actonservice.com
 quietknowledge.com
@@ -29761,6 +29766,8 @@ rt.whitebridge.ai
 rtxlni.doclasse.com
 rtxpx-a.akamaihd.net
 ru-ad-lgsmartad-com.aws-prd.net
+ru-album-api.vivoglobal.com
+ru-analyzer-appstore.vivoglobal.com
 ru-api.xmpush.global.xiaomi.com
 ruc-ngfts.lge.com
 ru-commonitor-stsdk.vivoglobal.com
@@ -35663,6 +35670,7 @@ sponsored-ads.amazon.com
 sponsored-ads.amazon.com.au
 sponsored-ads.amazon.com.br
 sponsored-ads.amazon.com.mx
+sponsored-ads.amazon.com.tr
 sponsored-ads.amazon.co.uk
 sponsored-ads.amazon.eg
 sponsored-ads.amazon.es
@@ -42620,6 +42628,7 @@ tw-go.experian.com
 t.whartoncenter.com
 twistairclub.net.anwalt.de
 twistloss.com
+twisty.net
 t.wiz.meilleurtaux.com
 twiz.wizaly.co.uk
 twiz.wizaly.fr
@@ -43557,6 +43566,7 @@ vd-test.net.anwalt.de
 vdvdjf.remotepc.com
 vdzrjr.kenminkyosai.or.jp
 ve-ad-lgsmartad-com.aws-prd.net
+vectorshirt.com
 vedznh.cumhuriyet.com.tr
 ve.lgsmartad.com
 velocitypartners.actonservice.com
@@ -43698,6 +43708,7 @@ views.wioks.com
 vikingclan.kano.link
 vilenexus.com
 vi.lgsmartad.com
+violetdemise.com
 vip.agentteam.com.au
 vip-api.xmpush.global.xiaomi.com
 vip-api.xmpush.xiaomi.com
@@ -43788,6 +43799,7 @@ voiply.actonservice.com
 vois.vodafone.com
 volatileprofit.com
 volatilevessel.com
+volumesystem.com
 vonazon.actonservice.com
 v.oney.es
 vonvdn.garden.ne.jp
@@ -43929,6 +43941,7 @@ wa.childrensplace.com
 wa.dailymail.co.uk
 wa.devolksbank.nl
 wa.epson.com
+wafflemakers.net
 wafoub.graindemalice.fr
 wa.gifts.com
 wa.gmx.ch
@@ -44214,6 +44227,7 @@ web.novuna.co.uk
 web.novunapersonalfinance.co.uk
 web.online.monnalisa.com
 web.orionpharma.com
+webpagekit.com
 web-perf.booking.com
 webpixel.smartmeapp.com
 webpushstat.api.engagelab.cc
@@ -44357,7 +44371,9 @@ weoccn.bonito.pl
 wepany.tripbeat.com
 wernerelectric.actonservice.com
 wesbgz.travel.co.jp
+westeurope-5.in.applicationinsights.azure.com.fiege.de
 westevents.presidio.com
+westsideglobe.com
 weus2watcab01.blob.core.windows.net
 weus2watcab02.blob.core.windows.net
 wevbgr.vidaxl.it

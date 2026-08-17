@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-14 07:00:36 UTC
+! Generated at 2026-08-17 07:00:20 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -1694,16 +1694,21 @@
 ||log77-normal-c-alisg.tiktokv.com^
 ||log77-normal-c-useast1a.tiktokv.com^
 ||log9-normal-c-useast1a.tiktokv.com^
-||log-abroad.avlyun.sec.miui.com^
 ||logbak.hicloud.com^
 ||logbk.tiktokv.com^
 ||log-boot.capcutapi.com^
 ||log-boot.tiktokv.com^
 ||log.byteoversea.com^
+||log-dr16-normal-no1a.tiktokv.eu^
+||log-dr16-normal-useast1a.tiktokv.com^
+||log-dr16-normal-useast5.tiktokv.us^
+||log-dr16-normal-useast8.tiktokv.us^
+||log-dr16-normal-useastred.tiktokv.eu^
 ||log-dra.platform.hihonorcloud.com^
 ||log-drcn.platform.hihonorcloud.com^
 ||log-dre.platform.hihonorcloud.com^
 ||log-drru.platform.hihonorcloud.com^
+||log-dr.tiktokv.com^
 ||log-eap.coloros.com^
 ||log-eap-in.coloros.com^
 ||log-eap-sg.coloros.com^
@@ -2231,7 +2236,6 @@
 ||nz-ad-lgsmartad-com.aws-prd.net^
 ||nz.lgsmartad.com^
 ||o2o.api.xiaomi.com^
-||o365diagtelemetry.trafficmanager.net^
 ||obus-cn.dc.heytapmobi.com^
 ||obus-conf-fr.heytapmobile.com^
 ||obus-config-cn.heytapmobi.com^
@@ -2575,6 +2579,8 @@
 ||rtlog-va-useast2a.tiktokv.com^
 ||rtmpott.pandora.xiaomi.com^
 ||ru-ad-lgsmartad-com.aws-prd.net^
+||ru-album-api.vivoglobal.com^
+||ru-analyzer-appstore.vivoglobal.com^
 ||ru-api.xmpush.global.xiaomi.com^
 ||ruc-ngfts.lge.com^
 ||ru-commonitor-stsdk.vivoglobal.com^
@@ -2815,6 +2821,7 @@
 ||sponsored-ads.amazon.com.au^
 ||sponsored-ads.amazon.com.br^
 ||sponsored-ads.amazon.com.mx^
+||sponsored-ads.amazon.com.tr^
 ||sponsored-ads.amazon.co.uk^
 ||sponsored-ads.amazon.eg^
 ||sponsored-ads.amazon.es^
@@ -3203,6 +3210,7 @@
 ||weather-analytics-events.apple.com^
 ||weather-analytics-events.news.apple-dns.net^
 ||web-mon-useast2a.byteoversea.com^
+||westeurope-5.in.applicationinsights.azure.com.fiege.de^
 ||weus2watcab01.blob.core.windows.net^
 ||weus2watcab02.blob.core.windows.net^
 ||win10-trt.msedge.net^
