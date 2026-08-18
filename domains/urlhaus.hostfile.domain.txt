@@ -1,4 +1,4 @@
-# Generated at 2026-08-17 07:00:12 UTC
+# Generated at 2026-08-18 07:00:13 UTC
 # 
 # Sources: https://urlhaus.abuse.ch/downloads/hostfile
 # 
@@ -16,8 +16,10 @@ alarmline.com.br
 alineeleuterio.com.br
 allendaltonproduction.com
 allendostmen.com
+altamoorgoods.com
 alternativas.ru
 app.appzcvb.com
+app.faster-cdn-hk.click
 areyouready.co.za
 atasapka.com.tr
 atom.freehosting.dev
@@ -36,6 +38,7 @@ bnet.playm8ru.win
 book.rollingvideogames.com
 bridgeroad.maverickpreviews.com
 brightworks.cz
+bserail.com
 bvaco.com
 cambodiatouristservice.com
 catbaparadisehotel.com.vn
@@ -58,6 +61,7 @@ cn.unionlever.com
 co-emas.com
 compuserviceonline.com.br
 continentalgroup.net.in
+coralasargetia.ro
 corporacioncrf.com
 cpc188.day
 cpofficial.com
@@ -77,6 +81,7 @@ disk.accord1key.cn
 divvanews.com
 dl.1003b.56a.com
 dl.dzqzd.com
+dl.faster-cdn-hk.click
 dl.natgo.cn
 doc.e-statements.app
 donkeytourscroatia.com
@@ -117,7 +122,8 @@ furystaff.tech
 fz.tiansys.cn
 gabyagozetim.com
 galerisenimutiara.com
-gestroom.it
+game.dualuoilocphu.com
+genddos.st
 globalbank.us
 grapemundo.com
 greenf.alexion.rs
@@ -132,13 +138,12 @@ htdentshop.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
+ijbfi.pk
 ikincielesyaciankara.com.tr
-indusenterprises.co
 ircftp.net
 isiore.com.co
 itssprout.com
 ixirgroup.com
-jawaratekno.com
 jenniferloeffler.com
 jessespridecharters.com
 jlwz.cn
@@ -147,7 +152,6 @@ kavacanada.ca
 kenwillzltd.com
 khavar.com
 kimyen.net
-kis.marketing
 kits.frog.tw
 kokorostore.it
 konsor.ru
@@ -162,7 +166,6 @@ lumacrea.com
 luxcar-24.com
 maidforyou1985.com
 mandarin.net.au
-mbcasesores.com
 metrics.gocloudmaps.com
 miriamgualda.com.br
 mitreart.com
@@ -192,9 +195,8 @@ pfatrivandrum.org
 planetariumobil.ro
 postelnini.mk
 preciosasjoyitas.com.mx
-prtsscr.com
 public.demo.securecloudsandbox.com
-purmed.ro
+purbalinggamandiri.com
 pvsa.gxfugy.cn
 qv.co.ke
 ramirex.ro
@@ -209,6 +211,7 @@ reservphotoinstaynow.shop
 reservphotoinstay.one
 reutilizemais.co.mz
 revengegrompegroups.pl
+rheddh.com
 riderspin.com
 robertrowe.com
 royalindiancurryclub.com
@@ -228,22 +231,24 @@ semencepourlavie.org
 separadordecc.com
 seputartuban.com
 sg123.net
+share.dovgertz.com
 shipminttracking.net
 shqdown.ggzuhao.com
 siaasesoria.com.mx
 signageinsignia.co.za
 sk-comtel.com
 smartermail.host
+smsechodata.cc
 sochibeer.ru
 soft.110route.com
 solar-sanat.net
-somautomotivorj.com.br
 spgint.com
 static.ilclock.com
 static.topxgun.com
 static.youdm.cn
+stdown.dinju.com
+streammobs.com
 studiogioeli.it
-sunix-technology.com
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
@@ -254,7 +259,6 @@ tangentwaves.com
 tanscarattorneys.co.tz
 tapestryoftruth.com
 tarkioweb.com
-tecunonline.com
 tehnomag.rs
 tengfeidn.cn
 tenis-team-km.com
@@ -266,9 +270,10 @@ theoremaoliveoil.com
 thtp2.volamngayxua.net
 thu-iphone-07.cfd
 tiacreation.club
+timelevel12.com
 toolshare.com.tr
 top8onlinegame.com
-totalfitting.com.au
+tpp.om-stock.com
 transparenciacanaa.com.br
 trtmyanmar.com
 twu-hwt.org
@@ -305,6 +310,7 @@ www.crazywickedaddiction.com
 www.cutting-edge.in
 www.drgenov.com
 www.first-security-verden.de
+www.gestroom.it
 www.hostingcloud.science
 www.hqsblog.com
 www.hseda.com
@@ -314,8 +320,8 @@ www.kenwillzltd.com
 www.khavar.com
 www.knockknock.top
 www.konsor.ru
-www.krypton-client.net
 www.medises.co.kr
+www.mixierealty.com
 www.myvcart.com
 www.namuvpn.com
 www.nccommunication.be
