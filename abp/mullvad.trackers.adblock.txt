@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-21 07:00:54 UTC
+! Generated at 2026-08-22 07:00:56 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4250,6 +4250,7 @@
 ||acidpigs.com^
 ||a.cineflix.st^
 ||aciysf.destockage-fitness.com^
+||acjs.aliyun.com^
 ||ac.livelty.com^
 ||aclordi.actonservice.com^
 ||acollector.wb.ru^
@@ -4981,6 +4982,7 @@
 ||afdbwq.blivakker.no^
 ||af.eficads.com^
 ||afep.pivn.shop^
+||afeteforfood.com^
 ||affa8.hikkoshi-master.com^
 ||affectionknit.com^
 ||afficv.lettuce.co.jp^
@@ -5703,6 +5705,7 @@
 ||analytics.makro.pt^
 ||analytics.mambaui.com^
 ||analytics.martinandosa.com^
+||analytics.maskyoo.net^
 ||analytics.massivwerthaus.at^
 ||analytics.matchbin.com^
 ||analytics.maxroll.gg^
@@ -7900,6 +7903,7 @@
 ||banks.adpinfo.com^
 ||bank.svb.com^
 ||banner.appsflyersdk.com^
+||bannerave.com^
 ||banstat.nadavi.net^
 ||bapages.carte-gr.total.fr^
 ||barbarousbase.com^
@@ -8029,6 +8033,7 @@
 ||beam.telex.hu^
 ||beamvolcano.com^
 ||beancontrol.com^
+||beandelight.com^
 ||beanworks.actonservice.com^
 ||bears.daigostudio.com^
 ||beat.yourtv.jp^
@@ -8780,6 +8785,7 @@
 ||bup.bankofamerica.com^
 ||burgersalt.com^
 ||burnbubble.com^
+||burningclock.com^
 ||burnswhite.actonservice.com^
 ||businessaffiliate.americanexpress.com^
 ||business-api.tiktok.com^
@@ -9026,6 +9032,7 @@
 ||cardinalretirement.actonservice.com^
 ||cardmethod.com^
 ||card.pingpro.com^
+||cardproducer.com^
 ||careerconnect.epoise.com^
 ||careers.coniferhealth.com^
 ||care.excellence.kaweahhealth.org^
@@ -17028,6 +17035,7 @@
 ||httr.redskins.com^
 ||hu-ad-lgsmartad-com.aws-prd.net^
 ||huaxiang.eastmoney.com^
+||hubcapcafe.net^
 ||hubert.branch.rocks^
 ||hub.firestonecompleteautocare.com^
 ||hub.hubfinancial.com^
@@ -18733,6 +18741,7 @@
 ||ingest.in.signoz.cloud^
 ||ingest.make.rvapps.io^
 ||ingest.make.rvohealth.com^
+||ingest.promptwatch.com^
 ||in-go.experian.com^
 ||ingredients.firmenich.com^
 ||ingress.linktr.ee^
@@ -19589,6 +19598,7 @@
 ||k.hofmann.es^
 ||kic-ngfts.lge.com^
 ||kic-ngfts.lge.com.edgekey.net^
+||kic-qt2-ngfts.lge.com^
 ||kiddbs.baby-calendar.jp^
 ||kidpowers.com^
 ||kidrobotgames.com^
@@ -19943,6 +19953,7 @@
 ||leafpilot.com^
 ||leak.welnes.online^
 ||leaplunchroom.com^
+||leapquick.com^
 ||learn.aiu.edu.au^
 ||learn.altsourcesoftware.com^
 ||learn.amllp.com^
@@ -21365,6 +21376,7 @@
 ||lordofthesuperfrogs.com^
 ||lorenzourban.com^
 ||losslace.com^
+||lostwaxlab.com^
 ||lotte.myomee.com^
 ||loudlunch.com^
 ||loveeveryday.brighterkind.com^
@@ -26595,6 +26607,7 @@
 ||nova-healthcare.actonservice.com^
 ||novarecoverycenter.actonservice.com^
 ||novaseekers.com^
+||novazen.net^
 ||novedades.telecomfibercorp.com.ar^
 ||nowaymail.com^
 ||now.catersource.com^
@@ -27217,6 +27230,7 @@
 ||online.hsrexpo.com^
 ||onlineis.actonservice.com^
 ||online.jtiadvance.co.uk^
+||onlinemediahelper.com^
 ||online-mt-com-455208869.p06.elqsandbox.com^
 ||online.rwdls.com^
 ||online.rwdstco.com^
@@ -27933,6 +27947,7 @@
 ||phonetrack.hukumkaikka.in^
 ||photography.hursey.com^
 ||photohints.com^
+||photosubscribe.com^
 ||phpmyadmin.toolmonger.net.jumia.co.tz^
 ||phpstat.cntcm.com.cn^
 ||phsmobile.actonservice.com^
@@ -28355,6 +28370,7 @@
 ||pointdigestion.com^
 ||pointlesspocket.com^
 ||pointlessprofit.com^
+||pointsshare.com^
 ||poisedfuel.com^
 ||poisedpig.com^
 ||poisonoussnakes.com^
@@ -29088,6 +29104,7 @@
 ||radar.imgsmail.ru^
 ||radarsubmissions.apple.com^
 ||radarsubmissions.apple.com.akadns.net^
+||radar.wizzo.media^
 ||radexports.com^
 ||radiantcanopy.com^
 ||radiateprose.com^
@@ -29114,7 +29131,6 @@
 ||rambunctiousflock.com^
 ||rampjs-cdn.system1.com^
 ||ramp.purch.com^
-||randisphotos.com^
 ||randstad.epoise.com^
 ||randstadtest.epoise.com^
 ||rangecake.com^

@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-21 07:00:26 UTC
+! Generated at 2026-08-22 07:00:29 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -1557,6 +1557,7 @@
 ||kh-ad-lgsmartad-com.aws-prd.net^
 ||kic-ngfts.lge.com^
 ||kic-ngfts.lge.com.edgekey.net^
+||kic-qt2-ngfts.lge.com^
 ||kn.lgsmartad.com^
 ||kpu.samsungelectronics.com^
 ||kr-ad-lgsmartad-com.aws-prd.net^
