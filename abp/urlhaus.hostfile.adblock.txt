@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-23 07:00:15 UTC
+! Generated at 2026-08-24 07:00:20 UTC
 ! 
 ! Sources: https://urlhaus.abuse.ch/downloads/hostfile
 ! 
@@ -7,6 +7,7 @@
 ||123.ywxww.net^
 ||1717.1000uc.com^
 ||1h.vuregyy1.ru^
+||abdulahad.net^
 ||acc.jiangsujiaxue.com^
 ||acms.saleseos.com^
 ||admin.byte.in.ua^
@@ -26,6 +27,7 @@
 ||awarenessexhibition.com^
 ||backupso.com^
 ||balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^
+||bblissmassage.com^
 ||beak.in^
 ||bito.com.pk^
 ||blankeyeo.com^
@@ -62,7 +64,6 @@
 ||cn.unionlever.com^
 ||coconutoficial.com.br^
 ||co-emas.com^
-||colibrik.com^
 ||compuserviceonline.com.br^
 ||continentalgroup.net.in^
 ||coralasargetia.ro^
@@ -83,7 +84,6 @@
 ||dezcom.com^
 ||disk.accord1key.cn^
 ||divvanews.com^
-||dl.1003b.56a.com^
 ||dl.dzqzd.com^
 ||dl.natgo.cn^
 ||doc.e-statements.app^
@@ -118,13 +118,10 @@
 ||fd.v2downf.shop^
 ||file.blackint3.com^
 ||filerit.com^
-||file.uhsea.com^
 ||first-security-verden.de^
 ||flicargo.com^
-||flooriscoveringworld.com^
 ||flyingmutts.com^
 ||fmrio.com^
-||forsalenear.me^
 ||fukt.link^
 ||fullstacknir.com^
 ||funneldiy.com^
@@ -133,7 +130,6 @@
 ||gabyagozetim.com^
 ||gaiadeqi.com^
 ||galerisenimutiara.com^
-||genddos.st^
 ||gestroom.it^
 ||globalbank.us^
 ||grantexx.com^
@@ -142,12 +138,12 @@
 ||hasalltalent.com^
 ||hitman-pro.ru^
 ||hitstation.nl^
-||hobobot.net^
 ||hseda.com^
 ||htdentshop.com^
 ||icoffeecloud.com^
 ||ignetwork.us^
 ||igra123.com^
+||ikincielesyaciankara.com.tr^
 ||indusenterprises.co^
 ||ircftp.net^
 ||isiore.com.co^
@@ -166,7 +162,6 @@
 ||kokorostore.it^
 ||konsor.ru^
 ||kramersmarionnettes.com^
-||krem.mesoptik.com^
 ||landonirwin.com^
 ||lawfirm.paperbirdtech.com^
 ||lindnerelektroanlagen.de^
@@ -177,6 +172,7 @@
 ||lumacrea.com^
 ||luxcar-24.com^
 ||maidforyou1985.com^
+||metrics.gocloudmaps.com^
 ||miriamgualda.com.br^
 ||mitreart.com^
 ||m.jkoa.co.kr^
@@ -185,7 +181,6 @@
 ||mnurlogistics.az^
 ||mogimall.com^
 ||mon-blanc-03.cfd^
-||mon-blanc-04.cfd^
 ||muaklekcoop.com^
 ||muledo.com^
 ||mundocarnes.cl^
@@ -194,12 +189,12 @@
 ||mysura.it^
 ||ncxps.com^
 ||noithaticon.vn^
+||nusatoyota.co.id^
 ||n.vs108.com^
 ||ny.lshdw.cc^
 ||ojang.pe.kr^
 ||oknoplastik.sk^
 ||onfiltre.com.tr^
-||onlypackaging.grupoinde.com^
 ||outpost.co.ke^
 ||p3.zbjimg.com^
 ||palharesinformatica.com.br^
@@ -213,7 +208,6 @@
 ||preciosasjoyitas.com.mx^
 ||profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^
 ||public.demo.securecloudsandbox.com^
-||pulgarinrealtor.com^
 ||pvsa.gxfugy.cn^
 ||qiniuyunxz.yxflzs.com^
 ||qv.co.ke^
@@ -276,6 +270,7 @@
 ||tapestryoftruth.com^
 ||tarkioweb.com^
 ||tattinamecheap.com^
+||tecunonline.com^
 ||tehnomag.rs^
 ||tengfeidn.cn^
 ||tenis-team-km.com^
@@ -293,12 +288,13 @@
 ||transparenciacanaa.com.br^
 ||trtmyanmar.com^
 ||twitch.tj^
-||universami.ge^
+||twu-hwt.org^
 ||upaicdn.xinmei365.com^
 ||upchemicals.co.in^
 ||update.cg100iii.com^
 ||us.wind0ws.net^
 ||vcc-library.uk^
+||verification-process.com^
 ||versaclean.com.br^
 ||veryboys.com^
 ||vgd.vg^
@@ -306,7 +302,6 @@
 ||visam.info^
 ||vizyonuniversitesi.com.tr^
 ||vizyonuniversitesi.web.tr^
-||v-k.com.ua^
 ||vrajras.com^
 ||website.mypetapp.co.za^
 ||widexenmexico.com.mx^
@@ -328,6 +323,7 @@
 ||www.cutting-edge.in^
 ||www.drgenov.com^
 ||www.first-security-verden.de^
+||www.gestroom.it^
 ||www.hostingcloud.science^
 ||www.hqsblog.com^
 ||www.hseda.com^
