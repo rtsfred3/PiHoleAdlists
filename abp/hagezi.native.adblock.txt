@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-24 07:00:32 UTC
+! Generated at 2026-08-25 07:00:34 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -111,6 +111,7 @@
 ||acr-in-prd.samsungcloud.tv^
 ||acr-kr-prd.samsungcloud.tv^
 ||acr-mx-prd.samsungcloud.tv^
+||acr-nz-prd.samsungcloud.tv^
 ||acr.roku.com^
 ||acr-us-prd.samsungcloud.tv^
 ||activity.browser.intl.miui.com^
@@ -2456,7 +2457,6 @@
 ||puma-api.ptqy.gitv.tv^
 ||push-dc-us.heytapmobile.com^
 ||push.heytapmobile.com^
-||push.samsungosp.com.cn^
 ||p.www.xiaomi.com^
 ||py-ad-lgsmartad-com.aws-prd.net^
 ||py.lgsmartad.com^
