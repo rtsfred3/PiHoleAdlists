@@ -1,4 +1,4 @@
-# Generated at 2026-08-25 07:00:27 UTC
+# Generated at 2026-08-26 07:00:27 UTC
 # 
 # Sources: https://urlhaus.abuse.ch/downloads/hostfile
 # 
@@ -6,6 +6,8 @@
 123.ywxww.net
 1717.1000uc.com
 1h.vuregyy1.ru
+1h.xeteloi4.ru
+540239621396215402.raymelo.vu
 abdulahad.net
 acc.jiangsujiaxue.com
 acms.saleseos.com
@@ -18,9 +20,11 @@ alineeleuterio.com.br
 allendostmen.com
 alternativas.ru
 app.appzcvb.com
+architekten-schreiner.de
 areyouready.co.za
 atasapka.com.tr
 atom.freehosting.dev
+attention-check.online
 audicontadores.com
 awarenessexhibition.com
 backupso.com
@@ -44,7 +48,9 @@ catbaparadisehotel.com.vn
 cat.dashabi.in
 cat.xiaojiji.nl
 cat.xiaoshabi.nl
+ccoffice.site
 cdaonline.com.ar
+cdn.file6.goodid.com
 celebratingseniors.net
 chat-server.maverickpreviews.com
 cheatclients.com
@@ -64,6 +70,7 @@ coralasargetia.ro
 corporacioncrf.com
 cpc188.day
 cpofficial.com
+crazy2cdn.com
 crystalpvp.ru
 cs.go.kg
 d.14yaa.com
@@ -81,6 +88,7 @@ divvanews.com
 dl.1003b.56a.com
 dl.dzqzd.com
 dl.natgo.cn
+dl.unicron-dl.click
 doc.e-statements.app
 donkeytourscroatia.com
 down.54nb.com
@@ -111,6 +119,7 @@ fd.v2downf.shop
 file.blackint3.com
 filerit.com
 file.uhsea.com
+final-aura.top
 first-security-verden.de
 flicargo.com
 flyingmutts.com
@@ -118,12 +127,12 @@ fmrio.com
 fukt.link
 fullstacknir.com
 funneldiy.com
+furystaff.tech
 fz.tiansys.cn
 gabyagozetim.com
 gaiadeqi.com
 galerisenimutiara.com
 globalbank.us
-gobiotechpestcontrol.com
 grantexx.com
 grupomcperu.com
 gutando.com
@@ -132,12 +141,12 @@ hitman-pro.ru
 hitstation.nl
 hobobot.net
 hseda.com
-htdentshop.com
 icoffeecloud.com
 ignetwork.us
 igra123.com
 ikincielesyaciankara.com.tr
 imagehopeag.com
+indusenterprises.co
 ircftp.net
 isiore.com.co
 itssprout.com
@@ -152,6 +161,7 @@ kenwillzltd.com
 kimyen.net
 kits.frog.tw
 kokorostore.it
+kolpa.lol
 konsor.ru
 kramersmarionnettes.com
 landonirwin.com
@@ -181,8 +191,8 @@ ncxps.com
 noithaticon.vn
 nusatoyota.co.id
 n.vs108.com
+nw.almfwb.com
 ny.lshdw.cc
-oim.doganltd.com.tr
 ojang.pe.kr
 oknoplastik.sk
 onfiltre.com.tr
@@ -192,8 +202,8 @@ palharesinformatica.com.br
 pay.aqiu6.com
 pcupd.com
 pic.li
-pixelnoased.com
 planetariumobil.ro
+plutotvshow.biz
 postelnini.mk
 practisingcertificateprotection.com
 preciosasjoyitas.com.mx
@@ -203,7 +213,6 @@ pvsa.gxfugy.cn
 qiniuyunxz.yxflzs.com
 qv.co.ke
 ramirex.ro
-rcf.co.mz
 rdm.91yunma.cn
 reauthenticator.com
 records.dennisign.se
@@ -218,6 +227,7 @@ riderspin.com
 robertrowe.com
 royalindiancurryclub.com
 rxquickpay.com
+safe-pdf-viewer.lat
 safeuploadz.com
 sales.ifree.page
 samiksha.com.sg
@@ -231,18 +241,19 @@ sec.xiaoshabi.nl
 seismophonic.com
 semencepourlavie.org
 separadordecc.com
-seputartuban.com
 sg123.net
 shqdown.ggzuhao.com
 siaasesoria.com.mx
 signageinsignia.co.za
 sk-comtel.com
 smartermail.host
+smileshiplogistics.com
 smsechodata.cc
 sochibeer.ru
 soft.110route.com
 solar-sanat.net
 somostask.co
+spgint.com
 static.ilclock.com
 static.topxgun.com
 static.youdm.cn
@@ -252,6 +263,7 @@ studiogioeli.it
 support.clz.kr
 sutterpoint.com
 svirtual.sanviatorperu.edu.pe
+swiftfusion.tech
 sxetnavelelaio.com
 talentrecruitments.com
 tangentwaves.com
@@ -275,15 +287,12 @@ top8onlinegame.com
 tpp.om-stock.com
 transparenciacanaa.com.br
 triapfog.com
-trtmyanmar.com
-twitch.tj
 twu-hwt.org
 upaicdn.xinmei365.com
 upchemicals.co.in
 update.cg100iii.com
 us.wind0ws.net
 vcc-library.uk
-verification-process.com
 versaclean.com.br
 veryboys.com
 vgd.vg
@@ -296,6 +305,7 @@ website.mypetapp.co.za
 widexenmexico.com.mx
 windomstatetheater.com
 wittenhorst.eu
+wordtax.ink
 www.ardguisser.com
 www.astenterprises.com.pk
 www.automobile-bk.de
