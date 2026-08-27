@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-26 07:00:27 UTC
+! Generated at 2026-08-27 07:00:18 UTC
 ! 
 ! Sources: https://urlhaus.abuse.ch/downloads/hostfile
 ! 
@@ -19,10 +19,14 @@
 ||alarmline.com.br^
 ||alineeleuterio.com.br^
 ||allendostmen.com^
+||alphapicaficagency.com^
 ||alternativas.ru^
+||andrewtreks.com^
 ||app.appzcvb.com^
+||app.static-file.lol^
 ||architekten-schreiner.de^
 ||areyouready.co.za^
+||asdsocial.pt^
 ||atasapka.com.tr^
 ||atom.freehosting.dev^
 ||attention-check.online^
@@ -30,12 +34,10 @@
 ||awarenessexhibition.com^
 ||backupso.com^
 ||balanced-red-emhnkdfj-dp7g2kvqxx8n.edgeone.dev^
-||beak.in^
 ||bito.com.pk^
 ||blankeyeo.com^
 ||blessdayservices.org^
 ||blogs.sokun.jp^
-||bm2contabilidade.com.br^
 ||bmdcompany.com^
 ||bnet-api.playm8ru.win^
 ||bnet.playm8ru.win^
@@ -51,7 +53,6 @@
 ||cat.xiaoshabi.nl^
 ||ccoffice.site^
 ||cdaonline.com.ar^
-||cdn.file6.goodid.com^
 ||celebratingseniors.net^
 ||chat-server.maverickpreviews.com^
 ||cheatclients.com^
@@ -59,7 +60,6 @@
 ||chiptune.com^
 ||chuguadventures.co.tz^
 ||cloud.pearlpeel.com^
-||cloudsenterprise26.com^
 ||cl.ssouy.com^
 ||clubdetiroelpicarcho.com^
 ||cn.unionlever.com^
@@ -74,6 +74,7 @@
 ||crazy2cdn.com^
 ||crystalpvp.ru^
 ||cs.go.kg^
+||cta.edu.pe^
 ||d.14yaa.com^
 ||damiancollier.com^
 ||data.yhydl.com^
@@ -114,6 +115,7 @@
 ||endpoint.project0.cc^
 ||en.taichuan.com^
 ||epanpano.com^
+||eventourarte.cl^
 ||fakers.co.jp^
 ||farschid.de^
 ||fd.v2downf.shop^
@@ -122,9 +124,11 @@
 ||file.uhsea.com^
 ||final-aura.top^
 ||first-security-verden.de^
+||fiscalizarais.xyz^
 ||flicargo.com^
 ||flyingmutts.com^
 ||fmrio.com^
+||fujiarte.com^
 ||fukt.link^
 ||fullstacknir.com^
 ||funneldiy.com^
@@ -133,6 +137,7 @@
 ||gabyagozetim.com^
 ||gaiadeqi.com^
 ||galerisenimutiara.com^
+||ghanioilandgas.com^
 ||globalbank.us^
 ||grantexx.com^
 ||grupomcperu.com^
@@ -142,17 +147,20 @@
 ||hitstation.nl^
 ||hobobot.net^
 ||hseda.com^
+||htdentshop.com^
 ||icoffeecloud.com^
+||idylliccreations.net^
 ||ignetwork.us^
 ||igra123.com^
 ||ikincielesyaciankara.com.tr^
-||imagehopeag.com^
+||impectorinternational.com^
 ||indusenterprises.co^
+||inventorychanger.com^
+||iploglab.store^
 ||ircftp.net^
 ||isiore.com.co^
 ||itssprout.com^
 ||ixirgroup.com^
-||jawaratekno.com^
 ||jenniferloeffler.com^
 ||jessespridecharters.com^
 ||jlwz.cn^
@@ -166,8 +174,10 @@
 ||konsor.ru^
 ||kramersmarionnettes.com^
 ||landonirwin.com^
+||lavos.life^
 ||lawfirm.paperbirdtech.com^
 ||lindnerelektroanlagen.de^
+||linen-harbor.com^
 ||local-update.com^
 ||lomejordesalamanca.es^
 ||lomeqpe.com^
@@ -175,6 +185,9 @@
 ||lumacrea.com^
 ||luxcar-24.com^
 ||maidforyou1985.com^
+||manita.lol^
+||medicosantiagomarrero.com^
+||meissner.ae^
 ||miriamgualda.com.br^
 ||mitreart.com^
 ||m.jkoa.co.kr^
@@ -190,7 +203,6 @@
 ||mysura.it^
 ||ncxps.com^
 ||noithaticon.vn^
-||nusatoyota.co.id^
 ||n.vs108.com^
 ||nw.almfwb.com^
 ||ny.lshdw.cc^
@@ -200,12 +212,15 @@
 ||outpost.co.ke^
 ||p3.zbjimg.com^
 ||palharesinformatica.com.br^
+||pancar.lol^
+||paste.mangsud.org^
 ||pay.aqiu6.com^
 ||pcupd.com^
 ||pic.li^
 ||planetariumobil.ro^
 ||plutotvshow.biz^
 ||postelnini.mk^
+||powershell-storage.vg^
 ||practisingcertificateprotection.com^
 ||preciosasjoyitas.com.mx^
 ||profitable-pink-0y9btnew-dpk6vqe6eheo.edgeone.dev^
@@ -214,6 +229,7 @@
 ||qiniuyunxz.yxflzs.com^
 ||qv.co.ke^
 ||ramirex.ro^
+||rcf.co.mz^
 ||rdm.91yunma.cn^
 ||reauthenticator.com^
 ||records.dennisign.se^
@@ -228,6 +244,7 @@
 ||robertrowe.com^
 ||royalindiancurryclub.com^
 ||rxquickpay.com^
+||ryanborn.net^
 ||safe-pdf-viewer.lat^
 ||safeuploadz.com^
 ||sales.ifree.page^
@@ -249,7 +266,6 @@
 ||sk-comtel.com^
 ||smartermail.host^
 ||smileshiplogistics.com^
-||smsechodata.cc^
 ||sochibeer.ru^
 ||soft.110route.com^
 ||solar-sanat.net^
@@ -259,7 +275,6 @@
 ||static.topxgun.com^
 ||static.youdm.cn^
 ||stdown.dinju.com^
-||streammobs.com^
 ||studiogioeli.it^
 ||support.clz.kr^
 ||sutterpoint.com^
@@ -283,17 +298,19 @@
 ||theoremaoliveoil.com^
 ||thtp2.volamngayxua.net^
 ||tiacreation.club^
+||tmcksa.com^
 ||toolshare.com.tr^
 ||top8onlinegame.com^
 ||tpp.om-stock.com^
 ||transparenciacanaa.com.br^
-||triapfog.com^
+||trtmyanmar.com^
 ||twu-hwt.org^
 ||upaicdn.xinmei365.com^
 ||upchemicals.co.in^
 ||update.cg100iii.com^
 ||us.wind0ws.net^
 ||vcc-library.uk^
+||vc.tnygbw.com^
 ||versaclean.com.br^
 ||veryboys.com^
 ||vgd.vg^
@@ -302,6 +319,7 @@
 ||vizyonuniversitesi.com.tr^
 ||vizyonuniversitesi.web.tr^
 ||vrajras.com^
+||wappingerbicornshaps.com^
 ||website.mypetapp.co.za^
 ||widexenmexico.com.mx^
 ||windomstatetheater.com^
@@ -321,7 +339,7 @@
 ||www.cutting-edge.in^
 ||www.drgenov.com^
 ||www.first-security-verden.de^
-||www.hostingcloud.science^
+||www.gestroom.it^
 ||www.hqsblog.com^
 ||www.hseda.com^
 ||www.intelligradeeducation.vicentecisnerospub.com^
@@ -334,6 +352,7 @@
 ||www.namuvpn.com^
 ||www.nccommunication.be^
 ||www.newkey.co.kr^
+||www.nishiwaki.ne.jp^
 ||www.notbak.com^
 ||www.ojang.pe.kr^
 ||www.reifenquick.de^
@@ -364,4 +383,5 @@
 ||zcalton.com^
 ||zenglobalenerji.com^
 ||zhigao5191.com^
+||zhimaly.com^
 ||zycdjz.com^
