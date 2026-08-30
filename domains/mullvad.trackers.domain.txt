@@ -1,4 +1,4 @@
-# Generated at 2026-08-29 07:01:00 UTC
+# Generated at 2026-08-30 07:00:51 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4558,6 +4558,7 @@ adex.naruko333.jp
 adex.predear.com
 ad-format16-normal-useastred.tiktokv.eu
 ad-format-sg.tiktokv.com
+ad-format-ttp2.tiktokv.eu
 adfox.yandex.ru
 ad.gogox.com
 ad-growth-in.heytapmobile.com
@@ -35850,6 +35851,7 @@ sponsored-ads.amazon.fr
 sponsored-ads.amazon.in
 sponsored-ads.amazon.in.alphionsee.in
 sponsored-ads.amazon.it
+sponsored-ads.amazon.sa
 sponsored-ads-eu.amazon-adsystem.com
 sponsored-ads-eu.amazon.ae
 sponsored-ads-eu.amazon.com.be
