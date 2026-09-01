@@ -1,4 +1,4 @@
-# Generated at 2026-08-31 07:00:49 UTC
+# Generated at 2026-09-01 07:00:54 UTC
 # 
 # Sources:
 # https://v.firebog.net/hosts/Easyprivacy.txt
@@ -3942,6 +3942,7 @@ aax-gamma-us-east.axp.amazon-adsystem.com
 aax-ott.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.com
 aax-ott-c2s.amazon-adsystem.com
+aax-ott-sdk.amazon-adsystem.amazon.com
 aax-ott-sdk.amazon-adsystem.com
 aax-us.amazon-adsystem.com
 aax-us-east-1-ott.amazon-adsystem.amazon.com
@@ -5399,6 +5400,7 @@ analytics.adliners.de
 analytics.adobe.io
 analytics.adobe.ly
 analytics.adultswim.co.uk
+analytics.afirstsoft.cn
 analytics.agenedia.com
 analytics.agoda.com
 analytics.ahrefs.dev
@@ -6257,6 +6259,8 @@ a.pikabu.ru
 api.launcher.intl.miui.com
 apilog-web.acfun.cn
 api-metric.gosweb.gosuslugi.ru
+api.metrics.eu-central-1.iris.apx.amazon.dev
+api.metrics.us-west-2.iris.apx.amazon.dev
 api.micloud.xiaomi.net
 api.mintbrs.intl.miui.com
 api.miui.security.xiaomi.com
@@ -8079,6 +8083,7 @@ be.slowmographer.co
 bestboundary.com
 bestbuy.actonservice.com
 bestclimbers.net
+bestcoffeemachine.net
 bestill.help.no
 bestinfo.bluetrustloans.com
 bestshoesboot.com
@@ -12707,6 +12712,7 @@ drumfills.com
 druzja.canmart.co.kr
 drvive.lamoda.ru
 drydrum.com
+dryerwasher.com
 dryvit.actonservice.com
 ds-aksb-a.akamaihd.net
 d.santemagazine.fr
@@ -14765,6 +14771,7 @@ filbrandtco.actonservice.com
 file.cdn.mvideo.xiaomi.com
 file-intl-push.heytapdl.com
 filemobile.actonservice.com
+fileshareengine.com
 files.info.posteitaliane.it
 files.urlinsgroup.com
 fi.lgsmartad.com
@@ -14796,6 +14803,7 @@ fipsta.ravensberger-matratzen.de
 fipsta.urbanara.at
 fipsta.urbanara.co.uk
 fipsta.worldfitness.de
+fireanalytics.firestream.to
 firebaselogging.googleapis.com
 firebaselogging-pa.googleapis.com
 firecatfilms.com
@@ -19498,6 +19506,7 @@ jupiter.intl.sys.miui.com
 jupiter.rus.sys.miui.com
 jupiter.sys.miui.com
 justconfig.com
+justfordocs.com
 justicejudo.com
 justlagoon.com
 justpickaname.com
@@ -24494,6 +24503,8 @@ metrics.etihadengineering.com
 metrics.etihadguest.com
 metrics.eu.playstation.com
 metrics.eurobet.it
+metrics.eu-south-2.iris.apx.amazon.dev
+metrics.eu-west-1.iris.apx.amazon.dev
 metrics.eversource.com
 metrics.evine.com
 metrics.evite.com
@@ -25334,6 +25345,7 @@ metrics.united-internet.de
 metrics.uol.com.br
 metrics.ups.com
 metrics.usbank.com
+metrics.us-east-1.iris.apx.amazon.dev
 metrics.userguiding.com
 metrics.usfoods.com
 metrics.usmint.gov
@@ -26834,6 +26846,7 @@ obseu.netgreencolumn.com
 obs.greencolumnblog.com
 obsidiangems.com
 obs.jollyoutdoorjogger.com
+obs.sd4823.spglobal.com
 obs.system1onesource.com
 obtfhl.bellemaison.jp
 obus-cn.dc.heytapmobi.com
@@ -27882,6 +27895,7 @@ performance-partners.apple.com
 performanceplay.co.kr
 performantcorp.actonservice.com
 pergeroni.openapp.link
+permagroove.com
 permission.au.actonservice.com
 permutive.app
 perr.h-cdn.com
@@ -28110,6 +28124,7 @@ pixels.zalify.com
 pixel-tracker.com
 pixeltrouble.com
 pixel.tuko.co.ke
+pixel.uppromote.com
 pixelvariety.com
 pixel.veritone-ce.com
 pixel.videohub.tv
@@ -28168,6 +28183,7 @@ planebasin.com
 plans.ceteraretirement.com
 plans.fundtherebuild.com
 plantcourse.com
+plantscafe.net
 pla.pearlinsurance.com
 plas.imfeld.dev
 pl.astro-akatemia.fi

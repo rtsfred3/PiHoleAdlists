@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-08-31 07:00:24 UTC
+! Generated at 2026-09-01 07:00:27 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -66,6 +66,7 @@
 ||aax-ott.amazon-adsystem.amazon.com^
 ||aax-ott.amazon-adsystem.com^
 ||aax-ott-c2s.amazon-adsystem.com^
+||aax-ott-sdk.amazon-adsystem.amazon.com^
 ||aax-ott-sdk.amazon-adsystem.com^
 ||aax-us.amazon-adsystem.com^
 ||aax-us-east-1-ott.amazon-adsystem.amazon.com^
@@ -449,6 +450,8 @@
 ||api.installer.xiaomi.com^
 ||api.jr.mi.com^
 ||api.launcher.intl.miui.com^
+||api.metrics.eu-central-1.iris.apx.amazon.dev^
+||api.metrics.us-west-2.iris.apx.amazon.dev^
 ||api.micloud.xiaomi.net^
 ||api.mintbrs.intl.miui.com^
 ||api.miui.security.xiaomi.com^
@@ -1966,9 +1969,12 @@
 ||metrics-dre.data.dbankcloud.cn^
 ||metrics-dre.dt.dbankcloud.cn^
 ||metrics.dt.dbankcloud.cn^
+||metrics.eu-south-2.iris.apx.amazon.dev^
+||metrics.eu-west-1.iris.apx.amazon.dev^
 ||metrics.icloud.com^
 ||metrics.media-amazon.com^
 ||metrics.mzstatic.com^
+||metrics.us-east-1.iris.apx.amazon.dev^
 ||mf.lgsmartad.com^
 ||mg-ad-lgsmartad-com.aws-prd.net^
 ||mi4crawler.pandora.xiaomi.com^
