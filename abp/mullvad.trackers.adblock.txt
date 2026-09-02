@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-09-01 07:00:54 UTC
+! Generated at 2026-09-02 07:00:49 UTC
 ! 
 ! Sources:
 ! https://v.firebog.net/hosts/Easyprivacy.txt
@@ -4732,6 +4732,7 @@
 ||ads.amazon.com^
 ||ads-api.tiktok.com^
 ||ads-api.vivo.com^
+||ads.apple.com^
 ||ads-bdapi-my.heytapmobile.com^
 ||ads-bdapi-ph.heytapmobile.com^
 ||ads-bdapi-th.heytapmobile.com^
@@ -28521,6 +28522,7 @@
 ||prd-collector-platform.ex.co^
 ||prderrordumphsm.samsungcloudsolution.com^
 ||prderrordumpssm.samsungcloudsolution.net^
+||prd-qlik-telemetry.servicebus.windows.net^
 ||prd-usw2-requestattribution-iad.apple.com^
 ||prealpha.go.levelbank.com^
 ||prebid.loopmertb.com^
@@ -38794,7 +38796,6 @@
 ||target.zinia.com^
 ||t.arizonawildcats.com^
 ||t.arkansasrazorbacks.com^
-||tar.microsoft.com^
 ||t.arts.uci.edu^
 ||ta.sanook.com^
 ||taskdelight.com^

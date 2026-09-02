@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-09-01 07:00:27 UTC
+! Generated at 2026-09-02 07:00:25 UTC
 ! 
 ! Sources:
 ! https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/native.amazon.txt
@@ -183,6 +183,7 @@
 ||ads.amazon.com^
 ||ads-api.tiktok.com^
 ||ads-api.vivo.com^
+||ads.apple.com^
 ||ads-bdapi-my.heytapmobile.com^
 ||ads-bdapi-ph.heytapmobile.com^
 ||ads-bdapi-th.heytapmobile.com^
@@ -2423,6 +2424,7 @@
 ||pr-ad-lgsmartad-com.aws-prd.net^
 ||prderrordumphsm.samsungcloudsolution.com^
 ||prderrordumpssm.samsungcloudsolution.net^
+||prd-qlik-telemetry.servicebus.windows.net^
 ||prd-usw2-requestattribution-iad.apple.com^
 ||predragate.dc.oppomobile.com^
 ||preload.xiaomi.com^
@@ -2920,7 +2922,6 @@
 ||t5.market.xiaomi.com^
 ||t7.market.xiaomi.com^
 ||target-us.samsung.com^
-||tar.microsoft.com^
 ||tbm.snssdk.com^
 ||tc.lgsmartad.com^
 ||teams-events-data.trafficmanager.net^
