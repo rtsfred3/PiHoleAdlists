@@ -1,5 +1,5 @@
 [Adblock Plus]
-! Generated at 2026-09-03 07:00:21 UTC
+! Generated at 2026-09-04 07:00:17 UTC
 ! 
 ! Sources: https://raw.githubusercontent.com/lassekongo83/Frellwits-filter-lists/master/Frellwits-Swedish-Hosts-File.txt
 ! 
@@ -476,7 +476,6 @@
 ||fms.360yield.com^
 ||fp.mediaintelliview.com^
 ||fpnpmcdn.net^
-||fraagesport.com^
 ||franecki.net^
 ||freegeoip.app^
 ||freespee.com^
@@ -885,7 +884,6 @@
 ||strossle.com^
 ||survey.interquest.com^
 ||svanalytics.containers.piwik.pro^
-||s.vi-serve.com^
 ||svt.d3.sc.omtrdc.net^
 ||sync.3fmediagroup.com^
 ||sync.go.sonobi.com^
